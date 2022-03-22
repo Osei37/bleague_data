@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8097,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": "[SUN]",
+        "setsu": "第2節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "937人"
+    },
+    "referee": {
+        "first": "石田 祐二",
+        "second": "一色 渉",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "84",
+        "away": "55"
+    }
+}

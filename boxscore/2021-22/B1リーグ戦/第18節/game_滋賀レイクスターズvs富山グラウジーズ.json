@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7758,
+    "date": {
+        "season": "2021-22",
+        "month": "3.02",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "556人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "名越 龍男",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "108"
+    }
+}

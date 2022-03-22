@@ -1,0 +1,27 @@
+{
+    "schedule_key": 778,
+    "date": {
+        "season": "2016-17",
+        "month": "12.31",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1382人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "中田英教",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "69",
+        "away": "76"
+    }
+}

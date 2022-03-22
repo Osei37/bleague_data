@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4923,
+    "date": {
+        "season": "2019-20",
+        "month": "12.14",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予市民体育館",
+        "attendance": "520人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "渡邉浩二",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "88"
+    }
+}

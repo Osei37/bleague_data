@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6100,
+    "date": {
+        "season": "2020-21",
+        "month": "12.26",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "安来市民体育館",
+        "attendance": "629人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "宇田津 浩史",
+        "crew": "甲斐 清"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "72"
+    }
+}

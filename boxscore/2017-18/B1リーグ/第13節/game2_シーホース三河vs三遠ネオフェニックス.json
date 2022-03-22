@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1785,
+    "date": {
+        "season": "2017-18",
+        "month": "12.20",
+        "week": "[Wed]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2601人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "宇田津浩史",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "72"
+    }
+}

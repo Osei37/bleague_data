@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3899,
+    "date": {
+        "season": "2018-19",
+        "month": "2.22",
+        "week": "[FRI]",
+        "setsu": "第23節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1251人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "山内正隆",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "64"
+    }
+}

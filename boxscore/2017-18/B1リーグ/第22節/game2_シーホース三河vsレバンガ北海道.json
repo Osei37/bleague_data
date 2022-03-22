@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1944,
+    "date": {
+        "season": "2017-18",
+        "month": "3.12",
+        "week": "[MON]",
+        "setsu": "第22節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2553人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "石田祐二",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "95",
+        "away": "80"
+    }
+}

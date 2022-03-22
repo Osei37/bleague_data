@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1029,
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": "[Sun]",
+        "setsu": "第27節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "752人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "早崎康祐",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "75"
+    }
+}

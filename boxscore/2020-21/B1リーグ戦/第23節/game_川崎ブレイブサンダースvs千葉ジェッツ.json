@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6227,
+    "date": {
+        "season": "2020-21",
+        "month": "2.03",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2219人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "東 祐二",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "67",
+        "away": "77"
+    }
+}

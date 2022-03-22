@@ -1,0 +1,27 @@
+{
+    "schedule_key": 915,
+    "date": {
+        "season": "2016-17",
+        "month": "3.05",
+        "week": "[Sun]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "2194人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "三好啓太",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "68"
+    }
+}

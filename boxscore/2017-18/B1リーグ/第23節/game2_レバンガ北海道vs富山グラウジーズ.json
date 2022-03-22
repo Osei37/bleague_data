@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1952,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4355人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "守谷圭介",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "76"
+    }
+}

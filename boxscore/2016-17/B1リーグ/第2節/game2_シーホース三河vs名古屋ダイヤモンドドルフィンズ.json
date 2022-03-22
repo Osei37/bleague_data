@@ -1,0 +1,27 @@
+{
+    "schedule_key": 34,
+    "date": {
+        "season": "2016-17",
+        "month": "10.02",
+        "week": "[Sun]",
+        "setsu": "第2節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2438人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "堀内純",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

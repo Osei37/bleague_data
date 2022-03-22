@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2512,
+    "date": {
+        "season": "2017-18",
+        "month": "3.25",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1795人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "菊地真吾",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "55",
+        "away": "72"
+    }
+}

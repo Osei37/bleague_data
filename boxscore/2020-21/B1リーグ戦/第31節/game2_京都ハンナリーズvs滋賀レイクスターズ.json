@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6359,
+    "date": {
+        "season": "2020-21",
+        "month": "4.04",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "1431人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "大河原 則人",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "57"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3267,
+    "date": {
+        "season": "2018-19",
+        "month": "1.16",
+        "week": "[WED]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "1824人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "谷古宇孝",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "85",
+        "away": "80"
+    }
+}

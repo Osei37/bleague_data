@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3044,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1985人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "橋本恵一",
+        "crew": "岩井遙河"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "60",
+        "away": "91"
+    }
+}

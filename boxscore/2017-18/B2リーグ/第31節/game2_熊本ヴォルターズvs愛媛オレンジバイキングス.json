@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2634,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3235人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "伊藤彰二",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "94",
+        "away": "84"
+    }
+}

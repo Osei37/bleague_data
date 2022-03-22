@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2578,
+    "date": {
+        "season": "2017-18",
+        "month": "4.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1059人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "丸山大",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "76"
+    }
+}

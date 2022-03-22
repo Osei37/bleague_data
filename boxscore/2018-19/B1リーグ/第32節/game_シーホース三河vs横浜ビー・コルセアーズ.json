@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3459,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2221人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "青木俊博",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "92"
+    }
+}

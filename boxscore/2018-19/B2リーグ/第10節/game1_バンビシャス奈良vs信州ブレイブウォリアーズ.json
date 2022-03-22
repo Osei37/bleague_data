@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3693,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1036人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "黒岡和哲",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "72"
+    }
+}

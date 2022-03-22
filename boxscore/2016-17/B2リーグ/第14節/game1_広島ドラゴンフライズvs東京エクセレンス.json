@@ -1,0 +1,27 @@
+{
+    "schedule_key": 776,
+    "date": {
+        "season": "2016-17",
+        "month": "12.30",
+        "week": "[Fri]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2018人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "那須弘幸",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "77",
+        "away": "62"
+    }
+}

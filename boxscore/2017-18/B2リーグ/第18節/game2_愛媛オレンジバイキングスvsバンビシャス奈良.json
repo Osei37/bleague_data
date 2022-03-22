@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2416,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予三島運動公園体育館",
+        "attendance": "478人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "前花直哉",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "94",
+        "away": "88"
+    }
+}

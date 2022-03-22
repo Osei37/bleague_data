@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4219,
+    "date": {
+        "season": "2019-20",
+        "month": "10.23",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2221人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "宇田津浩史",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "66"
+    }
+}

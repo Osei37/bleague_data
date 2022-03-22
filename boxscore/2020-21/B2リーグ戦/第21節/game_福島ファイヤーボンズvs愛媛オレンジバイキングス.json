@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6754,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島トヨタクラウンアリーナ",
+        "attendance": "504人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "高城 邦弘",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "109",
+        "away": "95"
+    }
+}

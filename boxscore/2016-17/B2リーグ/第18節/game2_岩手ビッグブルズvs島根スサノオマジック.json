@@ -1,0 +1,27 @@
+{
+    "schedule_key": 855,
+    "date": {
+        "season": "2016-17",
+        "month": "2.12",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "1113人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "加川真",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "38",
+        "away": "63"
+    }
+}

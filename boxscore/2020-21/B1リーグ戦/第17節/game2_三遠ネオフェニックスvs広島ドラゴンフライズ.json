@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6135,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "955人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "高野 晃平",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "83"
+    }
+}

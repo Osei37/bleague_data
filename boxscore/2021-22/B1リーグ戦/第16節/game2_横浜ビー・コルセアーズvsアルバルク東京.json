@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7715,
+    "date": {
+        "season": "2021-22",
+        "month": "2.14",
+        "week": "[MON]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "650人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "小澤 勤",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "61",
+        "away": "90"
+    }
+}

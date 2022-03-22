@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3175,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2405人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "谷地温",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "93",
+        "away": "73"
+    }
+}

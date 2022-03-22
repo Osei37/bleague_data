@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6846,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "本山製作所青葉アリーナ(青葉体育館)",
+        "attendance": "735人"
+    },
+    "referee": {
+        "first": "佐藤 誠",
+        "second": "鈴木 悟",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "88"
+    }
+}

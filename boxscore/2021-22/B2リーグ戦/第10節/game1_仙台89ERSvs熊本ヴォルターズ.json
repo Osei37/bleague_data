@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8201,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1203人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "吉田 剛",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "73"
+    }
+}

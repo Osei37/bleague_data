@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6856,
+    "date": {
+        "season": "2020-21",
+        "month": "5.03",
+        "week": "[MON]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1089人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "中道 凌平",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "86"
+    }
+}

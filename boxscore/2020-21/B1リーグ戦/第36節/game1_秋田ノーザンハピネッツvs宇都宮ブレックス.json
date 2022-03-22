@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6436,
+    "date": {
+        "season": "2020-21",
+        "month": "5.01",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1709人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "上田 信彦",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "86"
+    }
+}

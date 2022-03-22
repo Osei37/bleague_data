@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6007,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "751人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "谷古宇 孝",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "72"
+    }
+}

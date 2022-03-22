@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5950,
+    "date": {
+        "season": "2020-21",
+        "month": "10.28",
+        "week": "[WED]",
+        "setsu": "第6節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1757人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "加藤 昌樹",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "61"
+    }
+}

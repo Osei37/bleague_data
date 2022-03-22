@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2269,
+    "date": {
+        "season": "2017-18",
+        "month": "12.03",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2915人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "北島寛臣",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "68"
+    }
+}

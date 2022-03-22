@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3517,
+    "date": {
+        "season": "2018-19",
+        "month": "4.21",
+        "week": "[SUN]",
+        "setsu": "第36節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "5382人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "増渕泰久",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "91",
+        "away": "79"
+    }
+}

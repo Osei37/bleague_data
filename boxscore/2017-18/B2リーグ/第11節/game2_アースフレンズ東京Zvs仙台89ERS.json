@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2293,
+    "date": {
+        "season": "2017-18",
+        "month": "12.09",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1069人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "菊地真吾",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "88",
+        "away": "82"
+    }
+}

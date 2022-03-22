@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6271,
+    "date": {
+        "season": "2020-21",
+        "month": "3.07",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2441人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "佐藤 誠",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "112",
+        "away": "75"
+    }
+}

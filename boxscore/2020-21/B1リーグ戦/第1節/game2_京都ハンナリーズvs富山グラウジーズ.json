@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5871,
+    "date": {
+        "season": "2020-21",
+        "month": "10.04",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1000人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "塩谷 禎",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "97"
+    }
+}

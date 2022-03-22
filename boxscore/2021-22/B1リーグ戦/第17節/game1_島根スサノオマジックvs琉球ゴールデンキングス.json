@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7748,
+    "date": {
+        "season": "2021-22",
+        "month": "3.11",
+        "week": "[FRI]",
+        "setsu": "第17節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1662人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "細田 知宏",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "87",
+        "away": "76"
+    }
+}

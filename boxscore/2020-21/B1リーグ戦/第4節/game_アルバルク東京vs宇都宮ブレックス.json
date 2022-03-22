@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5915,
+    "date": {
+        "season": "2020-21",
+        "month": "10.21",
+        "week": "[WED]",
+        "setsu": "第4節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1286人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "眞榮喜 工",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "75",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4399,
+    "date": {
+        "season": "2019-20",
+        "month": "1.04",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2700人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "小澤勤",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "68",
+        "away": "57"
+    }
+}

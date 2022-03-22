@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3972,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1410人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "久米克弥",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "98"
+    }
+}

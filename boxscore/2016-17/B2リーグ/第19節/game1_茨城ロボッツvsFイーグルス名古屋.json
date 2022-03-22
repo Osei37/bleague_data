@@ -1,0 +1,27 @@
+{
+    "schedule_key": 870,
+    "date": {
+        "season": "2016-17",
+        "month": "2.18",
+        "week": "[Sat]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオ　サイバーダインアリーナ",
+        "attendance": "732人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "加納 康平",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "93",
+        "away": "95"
+    }
+}

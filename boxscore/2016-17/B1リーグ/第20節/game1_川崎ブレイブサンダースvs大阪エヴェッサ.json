@@ -1,0 +1,27 @@
+{
+    "schedule_key": 326,
+    "date": {
+        "season": "2016-17",
+        "month": "2.18",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "1014人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "増渕泰久",
+        "crew": "加藤誉樹"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "81",
+        "away": "84"
+    }
+}

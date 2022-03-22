@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6872,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1033人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "加川 真",
+        "crew": "梶 崇司"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "55"
+    }
+}

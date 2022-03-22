@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1938,
+    "date": {
+        "season": "2017-18",
+        "month": "3.10",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3469人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "前田喜庸",
+        "crew": "安西郷史"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "99",
+        "away": "75"
+    }
+}

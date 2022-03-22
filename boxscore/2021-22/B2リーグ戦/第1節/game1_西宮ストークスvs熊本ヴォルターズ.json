@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8086,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "901人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "砂川 卓嗣",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "70"
+    }
+}

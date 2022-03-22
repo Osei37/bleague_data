@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4764,
+    "date": {
+        "season": "2019-20",
+        "month": "10.16",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2586人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "梶崇司",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "71"
+    }
+}

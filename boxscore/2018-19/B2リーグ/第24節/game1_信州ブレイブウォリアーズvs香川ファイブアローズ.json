@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3919,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "2401人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "管祐介",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "82"
+    }
+}

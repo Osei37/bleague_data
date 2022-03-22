@@ -1,0 +1,27 @@
+{
+    "schedule_key": 920,
+    "date": {
+        "season": "2016-17",
+        "month": "3.03",
+        "week": "[Fri]",
+        "setsu": "第21節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "602人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "前花直哉",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "71"
+    }
+}

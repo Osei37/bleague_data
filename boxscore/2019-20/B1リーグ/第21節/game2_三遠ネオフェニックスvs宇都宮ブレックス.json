@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4459,
+    "date": {
+        "season": "2019-20",
+        "month": "2.02",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "4722人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "橋本恵一",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "50",
+        "away": "87"
+    }
+}

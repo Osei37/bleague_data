@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6318,
+    "date": {
+        "season": "2020-21",
+        "month": "3.28",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1232人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "谷古宇 孝",
+        "crew": "清水 幹治"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "89",
+        "away": "88"
+    }
+}

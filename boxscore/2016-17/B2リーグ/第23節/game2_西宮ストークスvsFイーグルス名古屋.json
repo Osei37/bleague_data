@@ -1,0 +1,27 @@
+{
+    "schedule_key": 954,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第23節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加古川市立総合体育館",
+        "attendance": "2300人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "坂井元直",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "88",
+        "away": "67"
+    }
+}

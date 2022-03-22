@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7650,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1775人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "早崎 康祐",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "67"
+    }
+}

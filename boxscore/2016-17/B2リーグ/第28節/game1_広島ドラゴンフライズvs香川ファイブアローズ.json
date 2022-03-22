@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1038,
+    "date": {
+        "season": "2016-17",
+        "month": "4.22",
+        "week": "[Sat]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "3070人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "伊藤彰二",
+        "crew": "白川 直弘"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "81"
+    }
+}

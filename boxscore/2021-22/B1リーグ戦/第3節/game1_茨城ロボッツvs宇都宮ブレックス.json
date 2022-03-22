@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7466,
+    "date": {
+        "season": "2021-22",
+        "month": "10.16",
+        "week": "[SAT]",
+        "setsu": "第3節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "2205人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "宇田津 浩史",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "66",
+        "away": "88"
+    }
+}

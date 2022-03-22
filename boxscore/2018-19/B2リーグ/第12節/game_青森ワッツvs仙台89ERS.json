@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3715,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カクヒログループスタジアム",
+        "attendance": "1067人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "熊谷久美子",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "75",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3146,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3463人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "安西郷史",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "58",
+        "away": "75"
+    }
+}

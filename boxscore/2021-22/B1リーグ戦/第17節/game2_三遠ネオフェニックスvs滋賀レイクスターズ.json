@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7741,
+    "date": {
+        "season": "2021-22",
+        "month": "2.27",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "1004人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "大野 太裕",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "80"
+    }
+}

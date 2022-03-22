@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6208,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2241人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "佐藤 誠",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "64"
+    }
+}

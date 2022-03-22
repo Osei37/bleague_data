@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2523,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1610人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "眞榮喜工",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "66"
+    }
+}

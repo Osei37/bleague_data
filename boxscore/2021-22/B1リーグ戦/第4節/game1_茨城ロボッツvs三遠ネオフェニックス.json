@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7488,
+    "date": {
+        "season": "2021-22",
+        "month": "10.23",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "かみす防災アリーナ",
+        "attendance": "915人"
+    },
+    "referee": {
+        "first": "東條 輝正",
+        "second": "谷古宇 孝",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "95",
+        "away": "79"
+    }
+}

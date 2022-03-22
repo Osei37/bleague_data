@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2452,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1704人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "薦田侑二郎",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "81"
+    }
+}

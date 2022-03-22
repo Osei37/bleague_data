@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1934,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4144人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "高城邦弘",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "66"
+    }
+}

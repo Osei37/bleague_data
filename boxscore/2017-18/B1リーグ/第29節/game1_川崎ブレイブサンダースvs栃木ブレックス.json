@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2056,
+    "date": {
+        "season": "2017-18",
+        "month": "4.20",
+        "week": "[FRI]",
+        "setsu": "第29節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4497人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "緒方崇",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "89",
+        "away": "61"
+    }
+}

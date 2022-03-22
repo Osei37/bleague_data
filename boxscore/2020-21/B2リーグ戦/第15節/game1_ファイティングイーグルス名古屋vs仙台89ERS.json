@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6668,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "502人"
+    },
+    "referee": {
+        "first": "守谷 圭介",
+        "second": "名越 龍男",
+        "crew": "渡邉 浩二"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "76",
+        "away": "70"
+    }
+}

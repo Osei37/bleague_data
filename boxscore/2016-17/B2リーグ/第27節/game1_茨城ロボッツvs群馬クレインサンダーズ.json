@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1025,
+    "date": {
+        "season": "2016-17",
+        "month": "4.15",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1117人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "東考生",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "86"
+    }
+}

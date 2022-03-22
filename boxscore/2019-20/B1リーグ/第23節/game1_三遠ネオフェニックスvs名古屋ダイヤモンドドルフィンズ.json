@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4498,
+    "date": {
+        "season": "2019-20",
+        "month": "2.15",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "3458人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "加納康平",
+        "crew": "黒岡和哲"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "79"
+    }
+}

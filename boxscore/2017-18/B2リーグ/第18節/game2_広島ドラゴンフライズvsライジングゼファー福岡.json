@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2414,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "呉市総合体育館（オークアリーナ）",
+        "attendance": "1931人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "茅野修司",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "67",
+        "away": "71"
+    }
+}

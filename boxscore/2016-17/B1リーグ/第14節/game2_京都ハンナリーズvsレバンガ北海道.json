@@ -1,0 +1,27 @@
+{
+    "schedule_key": 240,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "田辺中央体育館",
+        "attendance": "1284人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "甲斐清",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "75",
+        "away": "66"
+    }
+}

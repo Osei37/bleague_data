@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4345,
+    "date": {
+        "season": "2019-20",
+        "month": "12.22",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3429人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "加納康平",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "78",
+        "away": "57"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1884,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3833人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "上田信彦",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "80",
+        "away": "68"
+    }
+}

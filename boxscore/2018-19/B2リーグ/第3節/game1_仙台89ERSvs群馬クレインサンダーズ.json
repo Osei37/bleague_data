@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3562,
+    "date": {
+        "season": "2018-19",
+        "month": "10.13",
+        "week": "[SAT]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1956人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "吉田剛",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "80"
+    }
+}

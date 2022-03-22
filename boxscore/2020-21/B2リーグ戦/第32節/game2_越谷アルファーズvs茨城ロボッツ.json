@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6925,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウイング・ハット春日部",
+        "attendance": "868人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "丸山 大",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "105",
+        "away": "103"
+    }
+}

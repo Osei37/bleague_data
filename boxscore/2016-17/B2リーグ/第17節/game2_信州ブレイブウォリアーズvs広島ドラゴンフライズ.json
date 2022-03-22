@@ -1,0 +1,27 @@
+{
+    "schedule_key": 841,
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "3934人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "田島寛治",
+        "crew": "白川 直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "81"
+    }
+}

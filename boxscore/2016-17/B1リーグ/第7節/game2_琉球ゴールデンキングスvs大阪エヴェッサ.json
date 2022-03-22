@@ -1,0 +1,27 @@
+{
+    "schedule_key": 125,
+    "date": {
+        "season": "2016-17",
+        "month": "11.06",
+        "week": "[Sun]",
+        "setsu": "第7節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宜野湾市立体育館",
+        "attendance": "2960人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "加藤昌樹",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "85",
+        "away": "86"
+    }
+}

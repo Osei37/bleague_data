@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6147,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2284人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "岩井 遥河",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "86",
+        "away": "73"
+    }
+}

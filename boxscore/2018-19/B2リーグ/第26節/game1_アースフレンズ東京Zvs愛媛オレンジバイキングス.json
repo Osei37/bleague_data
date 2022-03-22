@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3957,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1432人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "冨士将史",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "86",
+        "away": "77"
+    }
+}

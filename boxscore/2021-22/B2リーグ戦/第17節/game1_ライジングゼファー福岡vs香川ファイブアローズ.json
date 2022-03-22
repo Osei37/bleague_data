@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8302,
+    "date": {
+        "season": "2021-22",
+        "month": "1.21",
+        "week": "[FRI]",
+        "setsu": "第17節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "413人"
+    },
+    "referee": {
+        "first": "和嶋 陽一",
+        "second": "松本 究",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "91"
+    }
+}

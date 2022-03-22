@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2592,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "タクミアリーナ",
+        "attendance": "2107人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "熊谷久美子",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "92",
+        "away": "82"
+    }
+}

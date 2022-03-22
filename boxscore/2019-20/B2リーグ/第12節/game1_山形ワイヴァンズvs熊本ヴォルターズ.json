@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4882,
+    "date": {
+        "season": "2019-20",
+        "month": "12.07",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1416人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "梶崇司",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "89"
+    }
+}

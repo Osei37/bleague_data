@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3220,
+    "date": {
+        "season": "2018-19",
+        "month": "12.27",
+        "week": "[THU]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3508人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "阿部聖",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "83"
+    }
+}

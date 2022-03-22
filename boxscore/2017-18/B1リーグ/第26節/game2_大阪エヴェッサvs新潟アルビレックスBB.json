@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2011,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "3318人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "東祐二",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "107",
+        "away": "85"
+    }
+}

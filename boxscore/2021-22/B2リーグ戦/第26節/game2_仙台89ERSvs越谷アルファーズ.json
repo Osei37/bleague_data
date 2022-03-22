@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8410,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1617人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "香野 学",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "53"
+    }
+}

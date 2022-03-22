@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3113,
+    "date": {
+        "season": "2018-19",
+        "month": "11.10",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2469人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "橋本恵一",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "63",
+        "away": "79"
+    }
+}

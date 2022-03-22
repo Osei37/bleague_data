@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3064,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": "[SAT]",
+        "setsu": "第6節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県総合体育センター",
+        "attendance": "1829人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "東祐二",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "90",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3178,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2019人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "谷古宇孝",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6683,
+    "date": {
+        "season": "2020-21",
+        "month": "1.10",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "桐生市民体育館",
+        "attendance": "952人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "眞榮喜 工",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "81"
+    }
+}

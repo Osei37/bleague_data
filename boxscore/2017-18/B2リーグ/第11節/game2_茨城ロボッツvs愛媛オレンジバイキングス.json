@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2289,
+    "date": {
+        "season": "2017-18",
+        "month": "12.10",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "池の川さくらアリーナ（日立市）",
+        "attendance": "1439人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "石田祐二",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "66",
+        "away": "80"
+    }
+}

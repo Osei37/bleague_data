@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5080,
+    "date": {
+        "season": "2019-20",
+        "month": "2.21",
+        "week": "[FRI]",
+        "setsu": "第24節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1711人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "前花直哉",
+        "crew": "渡邉浩二"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "68",
+        "away": "71"
+    }
+}

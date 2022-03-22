@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8361,
+    "date": {
+        "season": "2021-22",
+        "month": "2.19",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヴィクトリーナ・ウインク体育館",
+        "attendance": "550人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "秋山 厚志",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "79",
+        "away": "64"
+    }
+}

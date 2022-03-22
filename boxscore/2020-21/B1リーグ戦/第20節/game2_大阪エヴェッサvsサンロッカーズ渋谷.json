@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6189,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "2273人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "市川 雄介",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "73",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4927,
+    "date": {
+        "season": "2019-20",
+        "month": "12.21",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "2612人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "大谷英紀",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "72",
+        "away": "65"
+    }
+}

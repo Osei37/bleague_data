@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3557,
+    "date": {
+        "season": "2018-19",
+        "month": "10.07",
+        "week": "[SUN]",
+        "setsu": "第2節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "3062人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "白川一樹",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "86",
+        "away": "59"
+    }
+}

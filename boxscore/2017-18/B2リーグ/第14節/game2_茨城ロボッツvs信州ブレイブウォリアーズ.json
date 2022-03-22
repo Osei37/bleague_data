@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2336,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオアリーナ（つくば市）",
+        "attendance": "1525人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "小田中涼子",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "66"
+    }
+}

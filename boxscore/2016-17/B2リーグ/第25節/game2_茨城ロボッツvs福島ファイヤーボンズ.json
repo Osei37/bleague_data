@@ -1,0 +1,27 @@
+{
+    "schedule_key": 987,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1046人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "田島寛治",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "73"
+    }
+}

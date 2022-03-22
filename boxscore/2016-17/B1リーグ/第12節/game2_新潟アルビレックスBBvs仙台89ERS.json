@@ -1,0 +1,27 @@
+{
+    "schedule_key": 202,
+    "date": {
+        "season": "2016-17",
+        "month": "12.11",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "3325人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "玉木彰治",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "77",
+        "away": "76"
+    }
+}

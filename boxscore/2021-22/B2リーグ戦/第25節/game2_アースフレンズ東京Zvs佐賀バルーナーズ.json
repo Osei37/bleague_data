@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8404,
+    "date": {
+        "season": "2021-22",
+        "month": "3.11",
+        "week": "[FRI]",
+        "setsu": "第25節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "大森スポーツセンター",
+        "attendance": "246人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "松岡 隆博",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "80"
+    }
+}

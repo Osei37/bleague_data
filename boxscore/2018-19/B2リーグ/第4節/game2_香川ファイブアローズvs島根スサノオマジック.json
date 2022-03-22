@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3595,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "観音寺市立総合体育館",
+        "attendance": "638人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "岩木太郎",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "51",
+        "away": "90"
+    }
+}

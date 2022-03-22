@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3762,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1615人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "丸山大",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "48"
+    }
+}

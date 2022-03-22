@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3292,
+    "date": {
+        "season": "2018-19",
+        "month": "1.28",
+        "week": "[MON]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1889人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "宇田津浩史",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "57"
+    }
+}

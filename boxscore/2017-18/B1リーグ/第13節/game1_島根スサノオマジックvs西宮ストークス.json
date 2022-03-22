@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1787,
+    "date": {
+        "season": "2017-18",
+        "month": "12.20",
+        "week": "[Wed]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1625人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "那須弘幸",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "107",
+        "away": "84"
+    }
+}

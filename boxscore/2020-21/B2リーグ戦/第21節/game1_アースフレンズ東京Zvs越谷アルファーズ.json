@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6756,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "659人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "遠藤 大輔",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "83"
+    }
+}

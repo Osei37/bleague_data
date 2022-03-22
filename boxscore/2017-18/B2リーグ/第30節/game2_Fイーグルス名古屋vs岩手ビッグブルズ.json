@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2619,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1277人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "熊谷久美子",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "69"
+    }
+}

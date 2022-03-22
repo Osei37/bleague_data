@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7856,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "2708人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "岩木 太郎",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "92"
+    }
+}

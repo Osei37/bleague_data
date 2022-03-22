@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4041,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "DIADORAアリーナ",
+        "attendance": "2117人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "鈴木悟",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "72"
+    }
+}

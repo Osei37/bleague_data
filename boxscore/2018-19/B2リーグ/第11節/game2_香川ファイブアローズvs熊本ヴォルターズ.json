@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3712,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1624人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "高野 晃平",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "95"
+    }
+}

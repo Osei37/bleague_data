@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4410,
+    "date": {
+        "season": "2019-20",
+        "month": "1.15",
+        "week": "[WED]",
+        "setsu": "第17節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1568人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "橋本恵一",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "79"
+    }
+}

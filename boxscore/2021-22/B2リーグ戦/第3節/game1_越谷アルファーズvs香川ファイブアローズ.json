@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8112,
+    "date": {
+        "season": "2021-22",
+        "month": "10.15",
+        "week": "[FRI]",
+        "setsu": "第3節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "816人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "冨士 将史",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 372,
+    "date": {
+        "season": "2016-17",
+        "month": "3.11",
+        "week": "[Sat]",
+        "setsu": "第23節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2875人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "清水幹治",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "48",
+        "away": "63"
+    }
+}

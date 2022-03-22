@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3755,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1289人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "白川一樹",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "99"
+    }
+}

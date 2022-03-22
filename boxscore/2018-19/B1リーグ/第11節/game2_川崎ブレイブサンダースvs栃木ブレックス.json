@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3144,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4567人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "有澤重行",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "75",
+        "away": "79"
+    }
+}

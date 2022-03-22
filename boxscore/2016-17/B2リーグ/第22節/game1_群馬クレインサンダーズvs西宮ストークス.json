@@ -1,0 +1,27 @@
+{
+    "schedule_key": 921,
+    "date": {
+        "season": "2016-17",
+        "month": "3.11",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1251人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "LAW DAVID",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "71",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6092,
+    "date": {
+        "season": "2020-21",
+        "month": "12.26",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1375人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "名越 龍男",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "82",
+        "away": "88"
+    }
+}

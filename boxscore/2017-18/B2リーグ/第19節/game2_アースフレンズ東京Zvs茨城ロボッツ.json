@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2428,
+    "date": {
+        "season": "2017-18",
+        "month": "2.10",
+        "week": "[Sat]",
+        "setsu": "第19節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "743人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "田中充",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "63",
+        "away": "73"
+    }
+}

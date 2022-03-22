@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6748,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "1044人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "御手洗 亮",
+        "crew": "山口 勝真"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "92",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1815,
+    "date": {
+        "season": "2017-18",
+        "month": "12.30",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "3697人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "増渕泰久",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "93",
+        "away": "79"
+    }
+}

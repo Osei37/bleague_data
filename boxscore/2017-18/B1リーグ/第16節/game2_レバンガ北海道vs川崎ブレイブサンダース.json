@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1826,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "5479人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "加藤昌樹",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "82",
+        "away": "89"
+    }
+}

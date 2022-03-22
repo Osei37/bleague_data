@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6885,
+    "date": {
+        "season": "2020-21",
+        "month": "4.04",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "857人"
+    },
+    "referee": {
+        "first": "東條 輝正",
+        "second": "砂川 卓嗣",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "75",
+        "away": "89"
+    }
+}

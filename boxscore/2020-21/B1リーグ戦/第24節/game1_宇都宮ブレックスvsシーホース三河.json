@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6236,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1974人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "細田 知宏",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "67",
+        "away": "85"
+    }
+}

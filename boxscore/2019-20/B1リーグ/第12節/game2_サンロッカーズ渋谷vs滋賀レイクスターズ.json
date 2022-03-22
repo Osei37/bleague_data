@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4327,
+    "date": {
+        "season": "2019-20",
+        "month": "12.15",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2664人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "北沢岳夫",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "92"
+    }
+}

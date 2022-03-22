@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6170,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "918人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "大野 哲広",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "79",
+        "away": "62"
+    }
+}

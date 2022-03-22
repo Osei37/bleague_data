@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3962,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金魚スクエア（大和郡山市総合公園）",
+        "attendance": "1212人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "白川一樹",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "115"
+    }
+}

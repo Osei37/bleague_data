@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6704,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "田川市総合体育館",
+        "attendance": "217人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "秋山 厚志",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "99"
+    }
+}

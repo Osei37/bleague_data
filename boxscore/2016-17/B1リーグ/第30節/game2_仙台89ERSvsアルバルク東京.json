@@ -1,0 +1,27 @@
+{
+    "schedule_key": 505,
+    "date": {
+        "season": "2016-17",
+        "month": "4.30",
+        "week": "[Sun]",
+        "setsu": "第30節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3117人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "久米克弥",
+        "crew": "上田 信彦"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "57",
+        "away": "68"
+    }
+}

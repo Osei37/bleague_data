@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2551,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "観音寺市立総合体育館",
+        "attendance": "897人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "大谷英紀",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "94"
+    }
+}

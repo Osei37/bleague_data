@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4050,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1726人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "上田信彦",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "85"
+    }
+}

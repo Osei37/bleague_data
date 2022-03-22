@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3177,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "6172人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "久保裕紀",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "98",
+        "away": "60"
+    }
+}

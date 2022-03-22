@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5032,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1560人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "加川真",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "76"
+    }
+}

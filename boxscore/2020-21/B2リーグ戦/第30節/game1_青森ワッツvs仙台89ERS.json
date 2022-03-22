@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6886,
+    "date": {
+        "season": "2020-21",
+        "month": "4.10",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "むつマエダアリーナ",
+        "attendance": "610人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "冨士 将史",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "58",
+        "away": "61"
+    }
+}

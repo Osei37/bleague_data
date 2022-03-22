@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8287,
+    "date": {
+        "season": "2021-22",
+        "month": "1.08",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "447人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "橋本 恵一",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "80",
+        "away": "98"
+    }
+}

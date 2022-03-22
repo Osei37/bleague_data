@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6675,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "651人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "原田 拓朗",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "70",
+        "away": "54"
+    }
+}

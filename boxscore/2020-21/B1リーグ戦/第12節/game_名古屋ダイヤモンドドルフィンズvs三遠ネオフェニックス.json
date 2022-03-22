@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6040,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1707人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "早崎 康祐",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "91",
+        "away": "77"
+    }
+}

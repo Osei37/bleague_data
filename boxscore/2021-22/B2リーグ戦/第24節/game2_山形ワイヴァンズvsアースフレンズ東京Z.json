@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8382,
+    "date": {
+        "season": "2021-22",
+        "month": "3.06",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "747人"
+    },
+    "referee": {
+        "first": "加川 真",
+        "second": "吉田 剛",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "70",
+        "away": "74"
+    }
+}

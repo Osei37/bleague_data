@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6015,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "能代市総合体育館",
+        "attendance": "1134人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "上田 信彦",
+        "crew": "高城 邦弘"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1054,
+    "date": {
+        "season": "2016-17",
+        "month": "4.30",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "二戸市総合スポーツセンター",
+        "attendance": "971人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "中田英教",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "79"
+    }
+}

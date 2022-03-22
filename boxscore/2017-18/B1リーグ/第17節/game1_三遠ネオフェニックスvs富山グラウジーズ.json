@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1853,
+    "date": {
+        "season": "2017-18",
+        "month": "1.27",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1508人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "平出剛",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "74"
+    }
+}

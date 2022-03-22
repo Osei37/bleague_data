@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3304,
+    "date": {
+        "season": "2018-19",
+        "month": "1.30",
+        "week": "[WED]",
+        "setsu": "第22節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3217人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "安西郷史",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "71",
+        "away": "66"
+    }
+}

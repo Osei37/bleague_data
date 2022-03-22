@@ -1,0 +1,27 @@
+{
+    "schedule_key": 970,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "608人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "冨島健司",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "82",
+        "away": "77"
+    }
+}

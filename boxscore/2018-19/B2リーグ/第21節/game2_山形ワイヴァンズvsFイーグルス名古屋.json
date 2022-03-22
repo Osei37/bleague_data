@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3862,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "2222人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "伊藤亮介",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "67",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7739,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "715人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "佐藤 誠",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "89"
+    }
+}

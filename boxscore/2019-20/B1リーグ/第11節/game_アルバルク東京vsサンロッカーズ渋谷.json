@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4315,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2534人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "清水幹治",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "74",
+        "away": "72"
+    }
+}

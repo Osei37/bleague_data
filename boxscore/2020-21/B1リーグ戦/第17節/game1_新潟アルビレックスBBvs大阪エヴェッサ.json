@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6130,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1351人"
+    },
+    "referee": {
+        "first": "佐藤 誠",
+        "second": "細田 知宏",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "81",
+        "away": "91"
+    }
+}

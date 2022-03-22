@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6262,
+    "date": {
+        "season": "2020-21",
+        "month": "3.03",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "1002人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "岩木 太郎",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "79"
+    }
+}

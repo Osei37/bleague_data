@@ -1,0 +1,27 @@
+{
+    "schedule_key": 892,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1677人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "小川 隆三",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "64",
+        "away": "84"
+    }
+}

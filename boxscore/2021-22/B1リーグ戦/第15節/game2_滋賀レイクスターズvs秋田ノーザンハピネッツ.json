@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7697,
+    "date": {
+        "season": "2021-22",
+        "month": "1.03",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "14:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1614人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "眞榮喜 工",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "67",
+        "away": "92"
+    }
+}

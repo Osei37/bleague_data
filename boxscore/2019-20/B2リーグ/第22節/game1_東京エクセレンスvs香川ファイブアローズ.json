@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5048,
+    "date": {
+        "season": "2019-20",
+        "month": "2.07",
+        "week": "[FRI]",
+        "setsu": "第22節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "522人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "茅野修司",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "86"
+    }
+}

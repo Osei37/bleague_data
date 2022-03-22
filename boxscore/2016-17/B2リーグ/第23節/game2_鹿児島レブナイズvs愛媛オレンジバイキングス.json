@@ -1,0 +1,27 @@
+{
+    "schedule_key": 949,
+    "date": {
+        "season": "2016-17",
+        "month": "3.18",
+        "week": "[Sat]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "出水市総合体育館",
+        "attendance": "580人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "LAW DAVID",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "67",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3121,
+    "date": {
+        "season": "2018-19",
+        "month": "11.17",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "帯広市総合体育館",
+        "attendance": "2084人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "上田信彦",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "69",
+        "away": "85"
+    }
+}

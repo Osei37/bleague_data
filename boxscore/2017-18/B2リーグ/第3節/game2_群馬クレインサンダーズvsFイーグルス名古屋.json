@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2158,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1155人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "山本邦博",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "73",
+        "away": "61"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1730,
+    "date": {
+        "season": "2017-18",
+        "month": "12.02",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3857人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "上田信彦",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "52",
+        "away": "90"
+    }
+}

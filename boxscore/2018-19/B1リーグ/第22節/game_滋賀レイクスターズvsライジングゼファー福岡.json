@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3307,
+    "date": {
+        "season": "2018-19",
+        "month": "1.30",
+        "week": "[WED]",
+        "setsu": "第22節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2004人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "守谷圭介",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "83",
+        "away": "72"
+    }
+}

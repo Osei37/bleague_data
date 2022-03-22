@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8391,
+    "date": {
+        "season": "2021-22",
+        "month": "3.05",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "今治市営中央体育館",
+        "attendance": "210人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "前花 直哉",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1670,
+    "date": {
+        "season": "2017-18",
+        "month": "10.27",
+        "week": "[Fri]",
+        "setsu": "第6節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3476人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "平出剛",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "61",
+        "away": "72"
+    }
+}

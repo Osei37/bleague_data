@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1910,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2759人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "加藤誉樹",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "70"
+    }
+}

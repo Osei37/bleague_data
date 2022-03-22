@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2597,
+    "date": {
+        "season": "2017-18",
+        "month": "4.22",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島市国体記念体育館",
+        "attendance": "1091人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "井出 啓太",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "90",
+        "away": "77"
+    }
+}

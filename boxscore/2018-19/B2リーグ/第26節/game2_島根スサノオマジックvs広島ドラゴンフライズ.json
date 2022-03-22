@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3964,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "米子産業体育館",
+        "attendance": "2035人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "前花直哉",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "66"
+    }
+}

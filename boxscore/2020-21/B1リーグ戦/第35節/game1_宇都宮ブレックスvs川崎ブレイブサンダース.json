@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6414,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2110人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "佐藤 誠",
+        "crew": "芳賀 聡"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "57",
+        "away": "58"
+    }
+}

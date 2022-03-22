@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7867,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4240人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "石田 祐二",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "74"
+    }
+}

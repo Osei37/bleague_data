@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2409,
+    "date": {
+        "season": "2017-18",
+        "month": "2.03",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "917人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "平澤明男",
+        "crew": "東考生"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "69",
+        "away": "54"
+    }
+}

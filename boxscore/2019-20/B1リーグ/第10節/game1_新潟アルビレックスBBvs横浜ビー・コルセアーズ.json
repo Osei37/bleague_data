@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4303,
+    "date": {
+        "season": "2019-20",
+        "month": "12.07",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": "2782人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "久保裕紀",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "71"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1008,
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[Sat]",
+        "setsu": "第26節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "760人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "東考生",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "67",
+        "away": "80"
+    }
+}

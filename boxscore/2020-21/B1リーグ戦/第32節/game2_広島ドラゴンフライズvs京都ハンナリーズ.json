@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6381,
+    "date": {
+        "season": "2020-21",
+        "month": "4.11",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1441人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "甲斐 清",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3275,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3504人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "安西郷史",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "81",
+        "away": "62"
+    }
+}

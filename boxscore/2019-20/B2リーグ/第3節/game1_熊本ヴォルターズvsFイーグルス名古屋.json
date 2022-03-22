@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4743,
+    "date": {
+        "season": "2019-20",
+        "month": "10.04",
+        "week": "[FRI]",
+        "setsu": "第3節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1433人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "茅野修司",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "88",
+        "away": "85"
+    }
+}

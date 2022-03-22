@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5020,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "855人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "坂井元直",
+        "crew": "小島慶子"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "71",
+        "away": "73"
+    }
+}

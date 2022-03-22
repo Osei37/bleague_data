@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4250,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": "[SUN]",
+        "setsu": "第7節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "リージョンプラザ上越",
+        "attendance": "1897人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "松岡隆博",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "60"
+    }
+}

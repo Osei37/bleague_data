@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2385,
+    "date": {
+        "season": "2017-18",
+        "month": "1.27",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "953人"
+    },
+    "referee": {
+        "first": "佐藤匠",
+        "second": "蒲健一",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "83"
+    }
+}

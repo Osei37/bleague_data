@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4340,
+    "date": {
+        "season": "2019-20",
+        "month": "12.21",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4502人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "久米克弥",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "89",
+        "away": "79"
+    }
+}

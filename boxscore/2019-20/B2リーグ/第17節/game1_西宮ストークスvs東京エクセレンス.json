@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4971,
+    "date": {
+        "season": "2019-20",
+        "month": "1.04",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1406人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "薦田侑二郎",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "104",
+        "away": "94"
+    }
+}

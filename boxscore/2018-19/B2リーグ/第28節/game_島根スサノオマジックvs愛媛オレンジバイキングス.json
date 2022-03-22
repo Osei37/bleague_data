@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3992,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2550人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "前花直哉",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "97",
+        "away": "74"
+    }
+}

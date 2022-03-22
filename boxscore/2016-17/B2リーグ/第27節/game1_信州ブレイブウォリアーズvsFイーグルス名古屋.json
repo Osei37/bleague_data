@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1016,
+    "date": {
+        "season": "2016-17",
+        "month": "4.15",
+        "week": "[Sat]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "821人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "久保知仁",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "82",
+        "away": "78"
+    }
+}

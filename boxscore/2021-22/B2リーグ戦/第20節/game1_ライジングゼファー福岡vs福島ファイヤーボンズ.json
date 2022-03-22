@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8335,
+    "date": {
+        "season": "2021-22",
+        "month": "2.04",
+        "week": "[FRI]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "298人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "内田 祥平",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "98"
+    }
+}

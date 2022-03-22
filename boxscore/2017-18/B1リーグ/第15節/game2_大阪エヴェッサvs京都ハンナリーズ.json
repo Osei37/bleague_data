@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1820,
+    "date": {
+        "season": "2017-18",
+        "month": "12.30",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": "3423人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "松本究",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "81"
+    }
+}

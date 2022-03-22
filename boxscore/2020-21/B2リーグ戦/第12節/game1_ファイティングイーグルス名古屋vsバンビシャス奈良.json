@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6624,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "456人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "高野 晃平",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "75",
+        "away": "72"
+    }
+}

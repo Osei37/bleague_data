@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3873,
+    "date": {
+        "season": "2018-19",
+        "month": "2.08",
+        "week": "[FRI]",
+        "setsu": "第21節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1868人"
+    },
+    "referee": {
+        "first": "鈴木悟",
+        "second": "御手洗亮",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "91",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4563,
+    "date": {
+        "season": "2019-20",
+        "month": "3.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "久保知仁",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "69",
+        "away": "83"
+    }
+}

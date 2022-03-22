@@ -1,0 +1,27 @@
+{
+    "schedule_key": 602,
+    "date": {
+        "season": "2016-17",
+        "month": "10.15",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "キリンビバレッジ周南総合スポーツセンター",
+        "attendance": "864人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "宇田津浩史",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "85",
+        "away": "87"
+    }
+}

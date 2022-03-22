@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5981,
+    "date": {
+        "season": "2020-21",
+        "month": "11.11",
+        "week": "[WED]",
+        "setsu": "第8節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1794人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "名越 龍男",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "76",
+        "away": "80"
+    }
+}

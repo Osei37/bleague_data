@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4244,
+    "date": {
+        "season": "2019-20",
+        "month": "11.02",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4715人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "阿部聖",
+        "crew": "谷地温"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "79",
+        "away": "71"
+    }
+}

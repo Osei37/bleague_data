@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4028,
+    "date": {
+        "season": "2018-19",
+        "month": "4.06",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "785人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "守谷圭介",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "89"
+    }
+}

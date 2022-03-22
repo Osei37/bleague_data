@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3741,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福山ローズアリーナ",
+        "attendance": "2080人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "田中豊弘",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "80",
+        "away": "89"
+    }
+}

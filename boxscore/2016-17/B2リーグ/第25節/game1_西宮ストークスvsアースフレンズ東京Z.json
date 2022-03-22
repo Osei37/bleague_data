@@ -1,0 +1,27 @@
+{
+    "schedule_key": 981,
+    "date": {
+        "season": "2016-17",
+        "month": "4.01",
+        "week": "[Sat]",
+        "setsu": "第25節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1120人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "田中豊弘",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "69",
+        "away": "70"
+    }
+}

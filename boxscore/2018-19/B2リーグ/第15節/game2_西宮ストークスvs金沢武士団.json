@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3769,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1496人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "田中豊弘",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "90",
+        "away": "91"
+    }
+}

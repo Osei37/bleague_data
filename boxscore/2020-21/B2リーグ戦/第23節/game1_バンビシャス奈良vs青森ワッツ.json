@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6792,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "609人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "加藤 昌樹",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "77"
+    }
+}

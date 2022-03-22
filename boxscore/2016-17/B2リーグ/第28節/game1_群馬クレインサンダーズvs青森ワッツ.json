@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1033,
+    "date": {
+        "season": "2016-17",
+        "month": "4.22",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1198人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "鈴木悟",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "92",
+        "away": "82"
+    }
+}

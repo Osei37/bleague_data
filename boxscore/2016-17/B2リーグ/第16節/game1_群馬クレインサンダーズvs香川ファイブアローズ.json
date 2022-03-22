@@ -1,0 +1,27 @@
+{
+    "schedule_key": 814,
+    "date": {
+        "season": "2016-17",
+        "month": "1.28",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1503人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "山内正隆",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "60"
+    }
+}

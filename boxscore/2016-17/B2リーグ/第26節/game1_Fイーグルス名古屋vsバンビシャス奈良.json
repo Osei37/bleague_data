@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1000,
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[Sat]",
+        "setsu": "第26節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "719人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "那須弘幸",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "96",
+        "away": "86"
+    }
+}

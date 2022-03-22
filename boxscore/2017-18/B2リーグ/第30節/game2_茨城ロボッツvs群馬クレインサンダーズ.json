@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2615,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "2303人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "吉田剛",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "63"
+    }
+}

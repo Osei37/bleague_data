@@ -1,0 +1,27 @@
+{
+    "schedule_key": 33,
+    "date": {
+        "season": "2016-17",
+        "month": "10.02",
+        "week": "[Sun]",
+        "setsu": "第2節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1497人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "大倉守正",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "64",
+        "away": "70"
+    }
+}

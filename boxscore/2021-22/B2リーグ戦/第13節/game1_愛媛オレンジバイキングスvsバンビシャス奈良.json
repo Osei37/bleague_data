@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8251,
+    "date": {
+        "season": "2021-22",
+        "month": "12.24",
+        "week": "[FRI]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県武道館",
+        "attendance": "452人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "那須 弘幸",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "90",
+        "away": "84"
+    }
+}

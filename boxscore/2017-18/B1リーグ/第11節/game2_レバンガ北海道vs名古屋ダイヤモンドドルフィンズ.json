@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1745,
+    "date": {
+        "season": "2017-18",
+        "month": "12.09",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4035人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "安西郷史",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "69"
+    }
+}

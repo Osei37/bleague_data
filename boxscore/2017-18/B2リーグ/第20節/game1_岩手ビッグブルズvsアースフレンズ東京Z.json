@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2437,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "二戸市総合スポーツセンター",
+        "attendance": "896人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "長谷川裕",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "76",
+        "away": "79"
+    }
+}

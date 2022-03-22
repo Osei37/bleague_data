@@ -1,0 +1,27 @@
+{
+    "schedule_key": 367,
+    "date": {
+        "season": "2016-17",
+        "month": "3.05",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "3236人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "久保裕紀",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "66",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4906,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "合志市総合体育館",
+        "attendance": "1461人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "茅野修司",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "103"
+    }
+}

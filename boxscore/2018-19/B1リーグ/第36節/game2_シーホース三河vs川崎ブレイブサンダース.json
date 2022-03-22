@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3519,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "スカイホール豊田",
+        "attendance": "4602人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "平出剛",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "66",
+        "away": "83"
+    }
+}

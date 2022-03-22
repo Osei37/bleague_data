@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6711,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "433人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "北沢 あや子",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "69",
+        "away": "61"
+    }
+}

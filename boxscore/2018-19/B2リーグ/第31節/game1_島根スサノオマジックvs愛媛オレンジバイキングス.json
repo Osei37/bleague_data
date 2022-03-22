@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4044,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2836人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "和嶋陽一",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "88",
+        "away": "75"
+    }
+}

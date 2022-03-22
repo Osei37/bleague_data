@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6221,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "YMITアリーナ",
+        "attendance": "1411人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "黒岡 和哲",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "68",
+        "away": "83"
+    }
+}

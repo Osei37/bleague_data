@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8340,
+    "date": {
+        "season": "2021-22",
+        "month": "2.13",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "204人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "長谷川 裕",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "62",
+        "away": "78"
+    }
+}

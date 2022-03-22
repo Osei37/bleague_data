@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6727,
+    "date": {
+        "season": "2020-21",
+        "month": "1.31",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "501人"
+    },
+    "referee": {
+        "first": "早崎 康祐",
+        "second": "浅野 祐樹",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "82"
+    }
+}

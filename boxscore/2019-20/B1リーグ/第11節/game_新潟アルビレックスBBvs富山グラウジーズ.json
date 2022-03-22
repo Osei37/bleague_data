@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4317,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": "1648人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "谷古宇孝",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "82"
+    }
+}

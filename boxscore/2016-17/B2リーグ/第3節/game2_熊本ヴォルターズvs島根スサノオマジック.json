@@ -1,0 +1,27 @@
+{
+    "schedule_key": 594,
+    "date": {
+        "season": "2016-17",
+        "month": "10.09",
+        "week": "[Sun]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2133人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "東考生",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "64",
+        "away": "56"
+    }
+}

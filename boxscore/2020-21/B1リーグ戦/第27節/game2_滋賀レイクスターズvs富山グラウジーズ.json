@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6297,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1433人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "伊藤 亮介",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "90"
+    }
+}

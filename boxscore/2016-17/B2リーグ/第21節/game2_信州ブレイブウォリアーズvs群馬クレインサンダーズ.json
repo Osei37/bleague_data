@@ -1,0 +1,27 @@
+{
+    "schedule_key": 918,
+    "date": {
+        "season": "2016-17",
+        "month": "3.05",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "1544人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "大野太裕",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "74"
+    }
+}

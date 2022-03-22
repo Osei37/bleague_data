@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4272,
+    "date": {
+        "season": "2019-20",
+        "month": "11.10",
+        "week": "[SUN]",
+        "setsu": "第8節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1774人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "大河原則人",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "58",
+        "away": "98"
+    }
+}

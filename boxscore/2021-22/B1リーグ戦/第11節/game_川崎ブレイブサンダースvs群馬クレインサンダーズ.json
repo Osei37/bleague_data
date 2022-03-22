@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7622,
+    "date": {
+        "season": "2021-22",
+        "month": "12.15",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2221人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "高城 邦弘",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "63"
+    }
+}

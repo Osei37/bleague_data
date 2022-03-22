@@ -1,0 +1,27 @@
+{
+    "schedule_key": 796,
+    "date": {
+        "season": "2016-17",
+        "month": "1.21",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "1182人"
+    },
+    "referee": {
+        "first": "関口 久視",
+        "second": "LAW DAVID",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "66",
+        "away": "78"
+    }
+}

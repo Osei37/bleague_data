@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1610,
+    "date": {
+        "season": "2017-18",
+        "month": "10.16",
+        "week": "[Mon]",
+        "setsu": "第3節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3225人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久保裕紀",
+        "crew": "加藤昌樹"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "77",
+        "away": "80"
+    }
+}

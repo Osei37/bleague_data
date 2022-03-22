@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3174,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "福知山・三段池公園　総合体育館",
+        "attendance": "1101人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "久保知仁",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "79",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2498,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "2521人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "東考生",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "98",
+        "away": "75"
+    }
+}

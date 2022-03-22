@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8390,
+    "date": {
+        "season": "2021-22",
+        "month": "3.06",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "540人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "大谷 英紀",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "94"
+    }
+}

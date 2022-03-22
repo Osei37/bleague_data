@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6810,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "283人"
+    },
+    "referee": {
+        "first": "橋本 恵一",
+        "second": "田中 豊弘",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "93",
+        "away": "73"
+    }
+}

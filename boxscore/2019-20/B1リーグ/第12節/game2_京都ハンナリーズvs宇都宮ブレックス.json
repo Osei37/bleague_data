@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4335,
+    "date": {
+        "season": "2019-20",
+        "month": "12.15",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "島津アリーナ",
+        "attendance": "3010人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "佐藤誠",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "58",
+        "away": "78"
+    }
+}

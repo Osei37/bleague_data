@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3976,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "DIADORAアリーナ",
+        "attendance": "1616人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "大野太裕",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "91",
+        "away": "82"
+    }
+}

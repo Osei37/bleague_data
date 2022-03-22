@@ -1,0 +1,27 @@
+{
+    "schedule_key": 934,
+    "date": {
+        "season": "2016-17",
+        "month": "3.12",
+        "week": "[Sun]",
+        "setsu": "第22節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1711人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "田島寛治",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "58"
+    }
+}

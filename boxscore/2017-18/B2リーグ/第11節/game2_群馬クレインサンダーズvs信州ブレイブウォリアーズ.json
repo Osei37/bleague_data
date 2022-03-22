@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2291,
+    "date": {
+        "season": "2017-18",
+        "month": "12.10",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1116人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "東條輝正",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "74"
+    }
+}

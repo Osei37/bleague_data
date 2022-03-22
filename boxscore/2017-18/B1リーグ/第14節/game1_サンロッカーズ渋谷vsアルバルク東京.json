@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1793,
+    "date": {
+        "season": "2017-18",
+        "month": "12.23",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2783人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "久米克弥",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "62",
+        "away": "91"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7659,
+    "date": {
+        "season": "2021-22",
+        "month": "12.24",
+        "week": "[FRI]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2024人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "久米 克弥",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "90",
+        "away": "81"
+    }
+}

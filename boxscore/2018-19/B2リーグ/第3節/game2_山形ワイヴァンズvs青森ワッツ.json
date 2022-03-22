@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3565,
+    "date": {
+        "season": "2018-19",
+        "month": "10.14",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1581人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "稲葉威",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "95",
+        "away": "93"
+    }
+}

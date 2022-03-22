@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6226,
+    "date": {
+        "season": "2020-21",
+        "month": "3.17",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1100人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "大野 太裕",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "81"
+    }
+}

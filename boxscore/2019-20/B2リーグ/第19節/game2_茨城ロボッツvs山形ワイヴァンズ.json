@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5000,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1486人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "岩木太郎",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "81"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 692,
+    "date": {
+        "season": "2016-17",
+        "month": "11.26",
+        "week": "[Sat]",
+        "setsu": "第9節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "1258人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "那須弘幸",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "82",
+        "away": "99"
+    }
+}

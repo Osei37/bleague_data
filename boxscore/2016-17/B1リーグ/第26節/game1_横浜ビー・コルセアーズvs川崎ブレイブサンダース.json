@@ -1,0 +1,27 @@
+{
+    "schedule_key": 428,
+    "date": {
+        "season": "2016-17",
+        "month": "4.01",
+        "week": "[Sat]",
+        "setsu": "第26節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3733人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "大倉守正",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "68",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4920,
+    "date": {
+        "season": "2019-20",
+        "month": "12.15",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1629人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "松岡隆博",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "44"
+    }
+}

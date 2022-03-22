@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7638,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "リージョンプラザ上越",
+        "attendance": "1137人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "佐藤 誠",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "82"
+    }
+}

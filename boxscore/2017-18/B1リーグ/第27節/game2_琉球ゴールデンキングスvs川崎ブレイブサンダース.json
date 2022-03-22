@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2031,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3501人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "佐藤誠",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "79",
+        "away": "77"
+    }
+}

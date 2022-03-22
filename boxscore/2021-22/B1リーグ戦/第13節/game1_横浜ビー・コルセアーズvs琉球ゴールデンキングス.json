@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7661,
+    "date": {
+        "season": "2021-22",
+        "month": "12.25",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2361人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "眞榮喜 工",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "79",
+        "away": "81"
+    }
+}

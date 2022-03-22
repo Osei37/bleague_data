@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7880,
+    "date": {
+        "season": "2021-22",
+        "month": "3.19",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "5602人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "松本 究",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "86",
+        "away": "65"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6039,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1215人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "黒岡 和哲",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "64"
+    }
+}

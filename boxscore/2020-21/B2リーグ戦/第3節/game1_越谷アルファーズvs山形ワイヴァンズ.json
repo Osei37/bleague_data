@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6492,
+    "date": {
+        "season": "2020-21",
+        "month": "10.16",
+        "week": "[FRI]",
+        "setsu": "第3節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "695人"
+    },
+    "referee": {
+        "first": "清水 幹治",
+        "second": "一色 渉",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "67"
+    }
+}

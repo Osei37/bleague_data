@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1856,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "向日市民体育館",
+        "attendance": "1245人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "堀内純",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "81",
+        "away": "71"
+    }
+}

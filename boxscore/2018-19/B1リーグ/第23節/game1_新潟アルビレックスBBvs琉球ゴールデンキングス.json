@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3316,
+    "date": {
+        "season": "2018-19",
+        "month": "2.02",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "3219人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "佐藤誠",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "79",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2303,
+    "date": {
+        "season": "2017-18",
+        "month": "12.17",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1752人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "長谷川裕",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "102"
+    }
+}

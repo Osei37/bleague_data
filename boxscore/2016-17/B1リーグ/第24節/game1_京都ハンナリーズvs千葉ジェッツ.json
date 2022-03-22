@@ -1,0 +1,27 @@
+{
+    "schedule_key": 395,
+    "date": {
+        "season": "2016-17",
+        "month": "3.18",
+        "week": "[Sat]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三重県営サンアリーナ",
+        "attendance": "1907人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "鬼頭 英伸",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "89"
+    }
+}

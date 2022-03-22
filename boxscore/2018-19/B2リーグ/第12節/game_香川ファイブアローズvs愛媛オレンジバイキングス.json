@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3722,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "789人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "田中豊弘",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "77",
+        "away": "78"
+    }
+}

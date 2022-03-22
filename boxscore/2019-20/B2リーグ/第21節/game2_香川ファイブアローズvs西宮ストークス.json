@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5039,
+    "date": {
+        "season": "2019-20",
+        "month": "2.02",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "土庄町総合会館（フレトピアホール）",
+        "attendance": "771人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "大谷英紀",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "75",
+        "away": "76"
+    }
+}

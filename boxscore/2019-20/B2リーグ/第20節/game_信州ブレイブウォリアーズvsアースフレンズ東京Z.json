@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5019,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1151人"
+    },
+    "referee": {
+        "first": "鈴木悟",
+        "second": "山内正隆",
+        "crew": "尾形美樹"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "92",
+        "away": "72"
+    }
+}

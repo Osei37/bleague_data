@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5078,
+    "date": {
+        "season": "2019-20",
+        "month": "2.22",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1354人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "安西郷史",
+        "crew": "内野翔太"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

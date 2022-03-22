@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3124,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "能代市総合体育館",
+        "attendance": "2330人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "阿部聖",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "75",
+        "away": "67"
+    }
+}

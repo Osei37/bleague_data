@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7732,
+    "date": {
+        "season": "2021-22",
+        "month": "3.13",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "TKCいちごアリーナ（鹿沼総合体育館）",
+        "attendance": "1175人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "久米 克弥",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "81",
+        "away": "56"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3434,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "2109人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "清水幹治",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "73"
+    }
+}

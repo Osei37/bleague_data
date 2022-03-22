@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3994,
+    "date": {
+        "season": "2018-19",
+        "month": "3.30",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2802人"
+    },
+    "referee": {
+        "first": "鈴木悟",
+        "second": "谷地温",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "66"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6676,
+    "date": {
+        "season": "2020-21",
+        "month": "1.02",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "753人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "前花 直哉",
+        "crew": "大谷 英紀"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "94"
+    }
+}

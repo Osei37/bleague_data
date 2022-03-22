@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2006,
+    "date": {
+        "season": "2017-18",
+        "month": "3.31",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1981人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "堀内純",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "82"
+    }
+}

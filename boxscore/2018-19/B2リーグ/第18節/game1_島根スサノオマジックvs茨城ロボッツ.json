@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3819,
+    "date": {
+        "season": "2018-19",
+        "month": "1.18",
+        "week": "[FRI]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿島総合体育館",
+        "attendance": "968人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "岩木太郎",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "78"
+    }
+}

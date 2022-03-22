@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6905,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1224人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "北島 寛臣",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "104",
+        "away": "86"
+    }
+}

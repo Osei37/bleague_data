@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2174,
+    "date": {
+        "season": "2017-18",
+        "month": "10.22",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島市国体記念体育館",
+        "attendance": "805人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "嶋崎貴",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "83",
+        "away": "70"
+    }
+}

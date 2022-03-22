@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4342,
+    "date": {
+        "season": "2019-20",
+        "month": "12.21",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5064人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "松本究",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "94"
+    }
+}

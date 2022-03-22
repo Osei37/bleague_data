@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1672,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4097人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "関口久視",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "76"
+    }
+}

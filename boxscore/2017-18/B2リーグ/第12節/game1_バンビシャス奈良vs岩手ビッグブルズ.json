@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2312,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "903人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "東考生",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "65"
+    }
+}

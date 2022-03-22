@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7735,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2302人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "大野 太裕",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "99",
+        "away": "71"
+    }
+}

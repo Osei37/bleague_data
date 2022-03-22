@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6255,
+    "date": {
+        "season": "2020-21",
+        "month": "3.03",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "17:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "861人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "東條 輝正",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "114",
+        "away": "87"
+    }
+}

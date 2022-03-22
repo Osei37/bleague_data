@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4212,
+    "date": {
+        "season": "2019-20",
+        "month": "10.19",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3265人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "松本究",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "87"
+    }
+}

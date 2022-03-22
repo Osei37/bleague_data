@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4330,
+    "date": {
+        "season": "2019-20",
+        "month": "12.15",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "3013人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "中川行臣",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "65",
+        "away": "83"
+    }
+}

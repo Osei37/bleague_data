@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3203,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "4630人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "高城邦弘",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "65",
+        "away": "85"
+    }
+}

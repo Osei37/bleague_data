@@ -1,0 +1,27 @@
+{
+    "schedule_key": 912,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": "[Sat]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1169人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "那須弘幸",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "65",
+        "away": "55"
+    }
+}

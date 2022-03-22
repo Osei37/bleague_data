@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3171,
+    "date": {
+        "season": "2018-19",
+        "month": "12.08",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1918人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "谷古宇孝",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "60",
+        "away": "69"
+    }
+}

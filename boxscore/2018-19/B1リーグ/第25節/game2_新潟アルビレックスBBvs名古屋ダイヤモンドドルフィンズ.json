@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3355,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4168人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "上田信彦",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "100"
+    }
+}

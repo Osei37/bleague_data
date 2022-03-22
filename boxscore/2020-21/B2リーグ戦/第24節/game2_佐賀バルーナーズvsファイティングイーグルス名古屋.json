@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6813,
+    "date": {
+        "season": "2020-21",
+        "month": "3.07",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "918人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "松本 究",
+        "crew": "山口 勝真"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "62",
+        "away": "91"
+    }
+}

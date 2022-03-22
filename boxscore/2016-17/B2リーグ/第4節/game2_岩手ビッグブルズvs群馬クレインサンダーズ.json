@@ -1,0 +1,27 @@
+{
+    "schedule_key": 606,
+    "date": {
+        "season": "2016-17",
+        "month": "10.16",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "奥州市総合体育館（Zアリーナ）",
+        "attendance": "774人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "鈴木悟",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "76"
+    }
+}

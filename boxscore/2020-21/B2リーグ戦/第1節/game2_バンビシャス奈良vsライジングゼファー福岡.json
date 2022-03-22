@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6465,
+    "date": {
+        "season": "2020-21",
+        "month": "10.04",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "762人"
+    },
+    "referee": {
+        "first": "茅野 修司",
+        "second": "那須 弘幸",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "92",
+        "away": "103"
+    }
+}

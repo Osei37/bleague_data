@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8173,
+    "date": {
+        "season": "2021-22",
+        "month": "11.20",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "922人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "熊谷 久美子",
+        "crew": "田中 充"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "78"
+    }
+}

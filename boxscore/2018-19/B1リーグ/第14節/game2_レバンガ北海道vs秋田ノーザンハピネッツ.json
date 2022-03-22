@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3185,
+    "date": {
+        "season": "2018-19",
+        "month": "12.15",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "5664人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "蒲健一",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "79"
+    }
+}

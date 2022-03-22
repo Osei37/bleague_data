@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6845,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "観音寺市立総合体育館",
+        "attendance": "602人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "甲斐 清",
+        "crew": "白川 一樹"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "91",
+        "away": "78"
+    }
+}

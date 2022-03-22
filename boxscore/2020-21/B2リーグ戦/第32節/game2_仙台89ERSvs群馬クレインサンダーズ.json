@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6921,
+    "date": {
+        "season": "2020-21",
+        "month": "4.25",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1562人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "梶 崇司",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "80"
+    }
+}

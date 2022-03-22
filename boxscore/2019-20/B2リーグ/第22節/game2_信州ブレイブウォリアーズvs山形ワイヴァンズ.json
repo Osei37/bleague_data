@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5051,
+    "date": {
+        "season": "2019-20",
+        "month": "2.09",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2186人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "加藤昌樹",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "52"
+    }
+}

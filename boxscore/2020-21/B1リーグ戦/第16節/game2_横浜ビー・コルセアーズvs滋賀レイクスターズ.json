@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6113,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2013人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "細田 知宏",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "71"
+    }
+}

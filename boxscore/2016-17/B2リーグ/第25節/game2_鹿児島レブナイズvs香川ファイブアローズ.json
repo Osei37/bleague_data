@@ -1,0 +1,27 @@
+{
+    "schedule_key": 993,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "721人"
+    },
+    "referee": {
+        "first": "鬼頭 英伸",
+        "second": "那須弘幸",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "84"
+    }
+}

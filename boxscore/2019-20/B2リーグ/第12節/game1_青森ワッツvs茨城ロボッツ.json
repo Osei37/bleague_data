@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4880,
+    "date": {
+        "season": "2019-20",
+        "month": "12.05",
+        "week": "[THU]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "スポカルイン黒石",
+        "attendance": "912人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "遠藤大輔",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "60",
+        "away": "89"
+    }
+}

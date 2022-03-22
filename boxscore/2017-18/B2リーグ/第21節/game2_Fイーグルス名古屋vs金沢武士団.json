@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2466,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1760人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "白川一樹",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "86",
+        "away": "80"
+    }
+}

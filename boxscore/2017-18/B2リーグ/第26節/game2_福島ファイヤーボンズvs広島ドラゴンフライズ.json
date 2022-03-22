@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2543,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "2563人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "長谷川裕",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "84"
+    }
+}

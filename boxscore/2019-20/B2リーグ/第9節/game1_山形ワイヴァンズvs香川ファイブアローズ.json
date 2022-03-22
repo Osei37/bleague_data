@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4828,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1534人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "松岡隆博",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "95"
+    }
+}

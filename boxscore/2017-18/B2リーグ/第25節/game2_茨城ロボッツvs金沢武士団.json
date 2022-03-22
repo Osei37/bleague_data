@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2530,
+    "date": {
+        "season": "2017-18",
+        "month": "3.28",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1773人"
+    },
+    "referee": {
+        "first": "田中充",
+        "second": "太田匡俊",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "74",
+        "away": "66"
+    }
+}

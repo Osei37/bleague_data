@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4572,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "加納康平",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "105",
+        "away": "87"
+    }
+}

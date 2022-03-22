@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3604,
+    "date": {
+        "season": "2018-19",
+        "month": "10.24",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿島総合体育館",
+        "attendance": "1059人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "秋山厚志",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "83",
+        "away": "73"
+    }
+}

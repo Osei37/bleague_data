@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8272,
+    "date": {
+        "season": "2021-22",
+        "month": "1.01",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊方スポーツセンター",
+        "attendance": "184人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "伊藤 彰二",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3601,
+    "date": {
+        "season": "2018-19",
+        "month": "10.24",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1345人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "冨士将史",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "84",
+        "away": "78"
+    }
+}

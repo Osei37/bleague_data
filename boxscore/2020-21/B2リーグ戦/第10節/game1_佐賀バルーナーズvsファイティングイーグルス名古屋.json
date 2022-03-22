@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6602,
+    "date": {
+        "season": "2020-21",
+        "month": "12.05",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館ハートフル",
+        "attendance": "274人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "前花 直哉",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "63",
+        "away": "81"
+    }
+}

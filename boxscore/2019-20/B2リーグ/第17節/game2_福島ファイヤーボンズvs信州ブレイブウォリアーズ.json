@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4964,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1079人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "北沢あや子",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "64"
+    }
+}

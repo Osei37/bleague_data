@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3696,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1777人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "大谷英紀",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "88",
+        "away": "65"
+    }
+}

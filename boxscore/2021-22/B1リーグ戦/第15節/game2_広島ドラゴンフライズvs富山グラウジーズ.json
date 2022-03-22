@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7703,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エフピコアリーナふくやま",
+        "attendance": "1830人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "小澤 勤",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1733,
+    "date": {
+        "season": "2017-18",
+        "month": "12.03",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "5002人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "前田喜庸",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "90"
+    }
+}

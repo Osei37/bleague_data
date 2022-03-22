@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3542,
+    "date": {
+        "season": "2018-19",
+        "month": "9.29",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3280人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "御手洗亮",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "84",
+        "away": "78"
+    }
+}

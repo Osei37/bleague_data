@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4773,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "五所川原市民体育館",
+        "attendance": "1410人"
+    },
+    "referee": {
+        "first": "東條輝正",
+        "second": "北沢あや子",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7657,
+    "date": {
+        "season": "2021-22",
+        "month": "12.25",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2242人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "大野 太裕",
+        "crew": "加藤 暁生"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "50",
+        "away": "86"
+    }
+}

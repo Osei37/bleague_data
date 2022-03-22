@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2388,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1985人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "松岡隆博",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "58",
+        "away": "76"
+    }
+}

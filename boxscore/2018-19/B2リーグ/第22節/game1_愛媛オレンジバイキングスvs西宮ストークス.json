@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3891,
+    "date": {
+        "season": "2018-19",
+        "month": "2.16",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "903人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "前花直哉",
+        "crew": "白川一樹"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "93",
+        "away": "88"
+    }
+}

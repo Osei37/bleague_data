@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8388,
+    "date": {
+        "season": "2021-22",
+        "month": "3.06",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "522人"
+    },
+    "referee": {
+        "first": "一色 渉",
+        "second": "内田 祥平",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "48",
+        "away": "73"
+    }
+}

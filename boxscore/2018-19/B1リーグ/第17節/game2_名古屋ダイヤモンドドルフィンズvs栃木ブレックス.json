@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3242,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "3818人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "久米克弥",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "85",
+        "away": "89"
+    }
+}

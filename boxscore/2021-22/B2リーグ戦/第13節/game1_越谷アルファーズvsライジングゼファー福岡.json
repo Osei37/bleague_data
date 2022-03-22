@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8245,
+    "date": {
+        "season": "2021-22",
+        "month": "12.25",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "1181人"
+    },
+    "referee": {
+        "first": "加川 真",
+        "second": "石田 祐二",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "75",
+        "away": "92"
+    }
+}

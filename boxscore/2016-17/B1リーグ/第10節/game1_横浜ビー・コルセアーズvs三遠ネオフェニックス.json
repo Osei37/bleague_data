@@ -1,0 +1,27 @@
+{
+    "schedule_key": 156,
+    "date": {
+        "season": "2016-17",
+        "month": "11.26",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2153人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "久米克弥",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "80",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4296,
+    "date": {
+        "season": "2019-20",
+        "month": "12.08",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北ガスアリーナ札幌46",
+        "attendance": "2126人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "高城邦弘",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "78",
+        "away": "55"
+    }
+}

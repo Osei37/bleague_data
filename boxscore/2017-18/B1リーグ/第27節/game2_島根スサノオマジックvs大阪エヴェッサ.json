@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2029,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2856人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "石田祐二",
+        "crew": "岩井遙河"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "55",
+        "away": "62"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3038,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "3074人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "伊藤亮介",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "66",
+        "away": "46"
+    }
+}

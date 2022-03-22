@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6051,
+    "date": {
+        "season": "2020-21",
+        "month": "12.13",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1512人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "久保 知仁",
+        "crew": "佐藤 誠"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "64"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6909,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "603人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "鈴木 悟",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "99",
+        "away": "75"
+    }
+}

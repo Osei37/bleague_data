@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3930,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本市総合体育館",
+        "attendance": "2683人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "高野 晃平",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2988,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3873人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "久保知仁",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "67",
+        "away": "84"
+    }
+}

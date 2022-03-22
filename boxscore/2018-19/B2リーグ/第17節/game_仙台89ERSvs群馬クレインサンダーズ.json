@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3797,
+    "date": {
+        "season": "2018-19",
+        "month": "1.15",
+        "week": "[TUE]",
+        "setsu": "第17節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3117人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "冨士 将史",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "83"
+    }
+}

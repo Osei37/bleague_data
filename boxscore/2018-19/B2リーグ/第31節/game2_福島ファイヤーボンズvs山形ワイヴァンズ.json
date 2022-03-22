@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4033,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "2402人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "中田英教",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "104",
+        "away": "77"
+    }
+}

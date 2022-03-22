@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6347,
+    "date": {
+        "season": "2020-21",
+        "month": "4.04",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "日環アリーナ栃木メインアリーナ",
+        "attendance": "2502人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "久保 知仁",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "61"
+    }
+}

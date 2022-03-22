@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1969,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "栃木県立県北体育館",
+        "attendance": "2826人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "東祐二",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "82",
+        "away": "77"
+    }
+}

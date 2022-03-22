@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3773,
+    "date": {
+        "season": "2018-19",
+        "month": "12.31",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2496人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "白川一樹",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "82"
+    }
+}

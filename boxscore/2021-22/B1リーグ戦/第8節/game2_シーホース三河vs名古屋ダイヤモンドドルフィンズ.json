@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7565,
+    "date": {
+        "season": "2021-22",
+        "month": "11.14",
+        "week": "[SUN]",
+        "setsu": "第8節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1563人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "平出 剛",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "101"
+    }
+}

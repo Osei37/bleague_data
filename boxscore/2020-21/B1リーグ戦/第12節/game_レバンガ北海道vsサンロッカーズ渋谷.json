@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6034,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1354人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "鈴木 悟",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "71",
+        "away": "77"
+    }
+}

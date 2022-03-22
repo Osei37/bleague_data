@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3167,
+    "date": {
+        "season": "2018-19",
+        "month": "12.07",
+        "week": "[FRI]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1820人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "阿部聖",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "99",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2470,
+    "date": {
+        "season": "2017-18",
+        "month": "3.03",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1896人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "大野太裕",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "87"
+    }
+}

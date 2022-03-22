@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2577,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオアリーナ（つくば市）",
+        "attendance": "1604人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "熊谷久美子",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "106",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6760,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "821人"
+    },
+    "referee": {
+        "first": "大野 哲広",
+        "second": "市川 雄介",
+        "crew": "那須 弘幸"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "69",
+        "away": "79"
+    }
+}

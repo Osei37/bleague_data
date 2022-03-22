@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6740,
+    "date": {
+        "season": "2020-21",
+        "month": "2.06",
+        "week": "[SAT]",
+        "setsu": "第20節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "388人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "梶 崇司",
+        "crew": "富樫 彰子"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "94"
+    }
+}

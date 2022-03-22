@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2553,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": "1612人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "早崎康祐",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "71"
+    }
+}

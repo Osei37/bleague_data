@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6751,
+    "date": {
+        "season": "2020-21",
+        "month": "4.14",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "718人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "加川 真",
+        "crew": "田中 充"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "70"
+    }
+}

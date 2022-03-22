@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3777,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "4545人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "大谷英紀",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "93",
+        "away": "76"
+    }
+}

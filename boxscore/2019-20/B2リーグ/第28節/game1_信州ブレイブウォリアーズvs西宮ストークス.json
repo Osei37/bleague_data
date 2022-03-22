@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5151,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "北沢あや子",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "81",
+        "away": "63"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2160,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "741人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "豊田 康平",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "68",
+        "away": "82"
+    }
+}

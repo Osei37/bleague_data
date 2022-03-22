@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2283,
+    "date": {
+        "season": "2017-18",
+        "month": "12.03",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2724人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "早崎康祐",
+        "crew": "小川隆三"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "66",
+        "away": "76"
+    }
+}

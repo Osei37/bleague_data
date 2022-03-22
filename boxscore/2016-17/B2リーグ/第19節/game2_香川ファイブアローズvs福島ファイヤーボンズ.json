@@ -1,0 +1,27 @@
+{
+    "schedule_key": 884,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "667人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "茅野修司",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "83"
+    }
+}

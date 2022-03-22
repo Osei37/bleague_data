@@ -1,0 +1,27 @@
+{
+    "schedule_key": 98,
+    "date": {
+        "season": "2016-17",
+        "month": "10.29",
+        "week": "[Sat]",
+        "setsu": "第6節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "1761人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "宇地原尚彦",
+        "crew": "御手洗亮"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "59"
+    }
+}

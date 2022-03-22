@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8255,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2017人"
+    },
+    "referee": {
+        "first": "長谷川 裕",
+        "second": "大山 賢史",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "75"
+    }
+}

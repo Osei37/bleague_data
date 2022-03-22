@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5989,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "998人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "大河原 則人",
+        "crew": "小田中 涼子"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "54",
+        "away": "78"
+    }
+}

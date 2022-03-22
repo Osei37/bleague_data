@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7563,
+    "date": {
+        "season": "2021-22",
+        "month": "11.14",
+        "week": "[SUN]",
+        "setsu": "第8節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1893人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "青木 俊博",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7643,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1972人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "高城 邦弘",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "85"
+    }
+}

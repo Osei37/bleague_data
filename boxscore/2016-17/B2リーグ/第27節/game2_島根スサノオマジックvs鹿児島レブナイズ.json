@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1024,
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": "[Sun]",
+        "setsu": "第27節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿島総合体育館",
+        "attendance": "835人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "鬼頭 英伸",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "72"
+    }
+}

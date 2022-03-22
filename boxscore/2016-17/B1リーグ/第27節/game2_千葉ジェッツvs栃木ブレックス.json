@@ -1,0 +1,27 @@
+{
+    "schedule_key": 449,
+    "date": {
+        "season": "2016-17",
+        "month": "4.09",
+        "week": "[Sun]",
+        "setsu": "第27節",
+        "time": "15:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5378人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "宇地原尚彦",
+        "crew": "久保裕紀"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "64",
+        "away": "72"
+    }
+}

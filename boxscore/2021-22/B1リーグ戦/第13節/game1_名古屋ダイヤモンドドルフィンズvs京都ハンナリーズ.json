@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7669,
+    "date": {
+        "season": "2021-22",
+        "month": "12.25",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1666人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "小畑 治",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "53"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1840,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2347人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "甲斐清",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "77",
+        "away": "86"
+    }
+}

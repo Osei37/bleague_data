@@ -1,0 +1,27 @@
+{
+    "schedule_key": 84,
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": "[Sun]",
+        "setsu": "第5節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4035人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "安西郷史",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "80",
+        "away": "84"
+    }
+}

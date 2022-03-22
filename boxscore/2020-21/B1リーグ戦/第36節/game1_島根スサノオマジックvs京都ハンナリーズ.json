@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6452,
+    "date": {
+        "season": "2020-21",
+        "month": "5.01",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1549人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "眞榮喜 工",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2318,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1176人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "田中豊弘",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "84",
+        "away": "83"
+    }
+}

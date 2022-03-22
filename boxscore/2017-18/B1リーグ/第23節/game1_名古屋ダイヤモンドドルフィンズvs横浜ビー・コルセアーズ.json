@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1961,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "2480人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "久保知仁",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "62"
+    }
+}

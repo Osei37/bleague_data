@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3470,
+    "date": {
+        "season": "2018-19",
+        "month": "4.06",
+        "week": "[SAT]",
+        "setsu": "第33節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4510人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "小澤勤",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "88"
+    }
+}

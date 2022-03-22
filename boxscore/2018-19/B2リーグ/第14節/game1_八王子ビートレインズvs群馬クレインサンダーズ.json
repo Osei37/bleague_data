@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3748,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鐘山総合スポーツセンター",
+        "attendance": "419人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "竹田 雄介",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "80"
+    }
+}

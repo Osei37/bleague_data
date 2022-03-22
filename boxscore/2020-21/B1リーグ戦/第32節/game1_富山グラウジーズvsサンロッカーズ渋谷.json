@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6372,
+    "date": {
+        "season": "2020-21",
+        "month": "4.10",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2321人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "小澤 勤",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "78",
+        "away": "79"
+    }
+}

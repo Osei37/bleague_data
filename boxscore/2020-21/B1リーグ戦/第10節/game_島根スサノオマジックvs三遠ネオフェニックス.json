@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6012,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "986人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "橋本 恵一",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "77",
+        "away": "75"
+    }
+}

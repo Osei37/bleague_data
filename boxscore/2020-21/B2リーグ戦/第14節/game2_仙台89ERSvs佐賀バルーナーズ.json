@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6647,
+    "date": {
+        "season": "2020-21",
+        "month": "12.27",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "登米市登米総合体育館(とよま蔵ジアム)",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "芳賀 聡",
+        "crew": "山田 俊"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "81"
+    }
+}

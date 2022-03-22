@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2581,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "いしかわ総合スポーツセンター",
+        "attendance": "1871人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "茅野修司",
+        "crew": "東考生"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "83",
+        "away": "93"
+    }
+}

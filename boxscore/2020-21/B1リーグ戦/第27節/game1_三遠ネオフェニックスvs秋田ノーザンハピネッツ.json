@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6292,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1554人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "佐藤 誠",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "88"
+    }
+}

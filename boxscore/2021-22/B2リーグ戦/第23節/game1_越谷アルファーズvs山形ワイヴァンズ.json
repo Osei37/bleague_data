@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8369,
+    "date": {
+        "season": "2021-22",
+        "month": "2.26",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "623人"
+    },
+    "referee": {
+        "first": "東條 輝正",
+        "second": "一色 渉",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "90"
+    }
+}

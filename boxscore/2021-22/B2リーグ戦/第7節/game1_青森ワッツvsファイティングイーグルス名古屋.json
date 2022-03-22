@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8157,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "733人"
+    },
+    "referee": {
+        "first": "中田 英教",
+        "second": "嶋崎 貴",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "64",
+        "away": "101"
+    }
+}

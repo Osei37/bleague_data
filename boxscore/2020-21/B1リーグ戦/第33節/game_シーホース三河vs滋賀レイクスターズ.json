@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6390,
+    "date": {
+        "season": "2020-21",
+        "month": "4.14",
+        "week": "[WED]",
+        "setsu": "第33節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1103人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "黒岡 和哲",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "88"
+    }
+}

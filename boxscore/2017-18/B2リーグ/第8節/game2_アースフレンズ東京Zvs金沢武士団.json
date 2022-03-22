@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2237,
+    "date": {
+        "season": "2017-18",
+        "month": "11.12",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1023人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "鈴木悟",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "95",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1842,
+    "date": {
+        "season": "2017-18",
+        "month": "1.20",
+        "week": "[Sat]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "3354人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "橋本恵一",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "69",
+        "away": "81"
+    }
+}

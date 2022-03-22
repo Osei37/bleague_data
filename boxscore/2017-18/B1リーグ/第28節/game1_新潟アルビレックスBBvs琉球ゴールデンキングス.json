@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2040,
+    "date": {
+        "season": "2017-18",
+        "month": "4.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2716人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "安西郷史",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "88",
+        "away": "84"
+    }
+}

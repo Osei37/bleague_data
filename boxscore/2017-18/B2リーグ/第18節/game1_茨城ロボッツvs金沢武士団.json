@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2405,
+    "date": {
+        "season": "2017-18",
+        "month": "2.02",
+        "week": "[Fri]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオアリーナ（つくば市）",
+        "attendance": "1140人"
+    },
+    "referee": {
+        "first": "須黒祥子",
+        "second": "那須弘幸",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "76",
+        "away": "81"
+    }
+}

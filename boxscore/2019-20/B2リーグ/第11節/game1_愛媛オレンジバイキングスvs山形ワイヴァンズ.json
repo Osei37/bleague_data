@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4878,
+    "date": {
+        "season": "2019-20",
+        "month": "11.22",
+        "week": "[FRI]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1400人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "針生淳男",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "71"
+    }
+}

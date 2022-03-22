@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3641,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1502人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "大山直輝",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "88",
+        "away": "85"
+    }
+}

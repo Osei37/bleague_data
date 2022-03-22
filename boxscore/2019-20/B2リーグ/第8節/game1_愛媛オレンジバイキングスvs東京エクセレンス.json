@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4824,
+    "date": {
+        "season": "2019-20",
+        "month": "11.02",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "725人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "幡丸 登志久",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "82",
+        "away": "68"
+    }
+}

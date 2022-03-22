@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8128,
+    "date": {
+        "season": "2021-22",
+        "month": "10.23",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "509人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "大野 哲広",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "81"
+    }
+}

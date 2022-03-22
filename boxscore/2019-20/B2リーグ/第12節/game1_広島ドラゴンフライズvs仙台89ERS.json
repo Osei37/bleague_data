@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4892,
+    "date": {
+        "season": "2019-20",
+        "month": "12.07",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福山ローズアリーナ",
+        "attendance": "1568人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "渡邉浩二",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "79",
+        "away": "65"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2081,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "5138人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "東祐二",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "61"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6447,
+    "date": {
+        "season": "2020-21",
+        "month": "5.02",
+        "week": "[SUN]",
+        "setsu": "第36節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1389人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "松本 究",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "80",
+        "away": "75"
+    }
+}

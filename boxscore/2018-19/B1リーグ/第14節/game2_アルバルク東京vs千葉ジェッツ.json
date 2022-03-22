@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3187,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "駒沢オリンピック公園総合運動場体育館",
+        "attendance": "3541人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "平出剛",
+        "crew": "宇地原尚彦"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "76"
+    }
+}

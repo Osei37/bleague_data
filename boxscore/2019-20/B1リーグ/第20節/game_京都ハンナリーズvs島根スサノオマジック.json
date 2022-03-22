@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4446,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1336人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "伊藤亮介",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "95",
+        "away": "88"
+    }
+}

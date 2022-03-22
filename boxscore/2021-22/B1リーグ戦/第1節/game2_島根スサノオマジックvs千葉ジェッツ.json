@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7437,
+    "date": {
+        "season": "2021-22",
+        "month": "10.03",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1756人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "蒲 健一",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "74",
+        "away": "81"
+    }
+}

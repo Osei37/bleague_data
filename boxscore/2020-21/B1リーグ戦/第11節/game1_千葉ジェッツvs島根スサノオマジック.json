@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6016,
+    "date": {
+        "season": "2020-21",
+        "month": "12.05",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2027人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "久保 知仁",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "92",
+        "away": "83"
+    }
+}

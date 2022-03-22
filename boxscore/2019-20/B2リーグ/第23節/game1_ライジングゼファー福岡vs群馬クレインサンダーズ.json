@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5074,
+    "date": {
+        "season": "2019-20",
+        "month": "2.14",
+        "week": "[FRI]",
+        "setsu": "第23節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "647人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "豊田 康平",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "80"
+    }
+}

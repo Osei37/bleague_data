@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8207,
+    "date": {
+        "season": "2021-22",
+        "month": "12.03",
+        "week": "[FRI]",
+        "setsu": "第10節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "763人"
+    },
+    "referee": {
+        "first": "大野 哲広",
+        "second": "田中 豊弘",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "101"
+    }
+}

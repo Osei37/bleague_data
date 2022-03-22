@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7691,
+    "date": {
+        "season": "2021-22",
+        "month": "1.03",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4711人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "佐藤 誠",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "78",
+        "away": "68"
+    }
+}

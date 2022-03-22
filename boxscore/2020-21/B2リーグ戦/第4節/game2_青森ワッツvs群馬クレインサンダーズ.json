@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6503,
+    "date": {
+        "season": "2020-21",
+        "month": "10.25",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "802人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "北沢 あや子",
+        "crew": "伊藤 睦哲"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "111"
+    }
+}

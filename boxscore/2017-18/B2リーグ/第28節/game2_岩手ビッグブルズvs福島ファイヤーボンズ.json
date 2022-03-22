@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2573,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "778人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "佐藤匠",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "86"
+    }
+}

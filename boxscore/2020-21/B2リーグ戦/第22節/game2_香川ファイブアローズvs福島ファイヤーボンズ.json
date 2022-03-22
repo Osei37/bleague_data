@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6777,
+    "date": {
+        "season": "2020-21",
+        "month": "2.21",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "560人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "前花 直哉",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "60"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3423,
+    "date": {
+        "season": "2018-19",
+        "month": "3.23",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "3835人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "甲斐清",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "68",
+        "away": "80"
+    }
+}

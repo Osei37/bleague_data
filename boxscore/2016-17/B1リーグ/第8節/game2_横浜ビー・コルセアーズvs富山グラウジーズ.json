@@ -1,0 +1,27 @@
+{
+    "schedule_key": 141,
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2506人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "伊藤亮介",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "73"
+    }
+}

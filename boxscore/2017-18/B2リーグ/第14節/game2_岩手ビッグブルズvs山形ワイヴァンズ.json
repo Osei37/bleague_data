@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2330,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "1268人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "岩城和利",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "53",
+        "away": "81"
+    }
+}

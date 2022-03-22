@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7621,
+    "date": {
+        "season": "2021-22",
+        "month": "12.15",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1638人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "緒方 崇",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "82",
+        "away": "58"
+    }
+}

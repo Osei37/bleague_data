@@ -1,0 +1,27 @@
+{
+    "schedule_key": 394,
+    "date": {
+        "season": "2016-17",
+        "month": "3.18",
+        "week": "[Sat]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "3678人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "冨島健司",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "57",
+        "away": "103"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5055,
+    "date": {
+        "season": "2019-20",
+        "month": "2.09",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝塚市立スポーツセンター",
+        "attendance": "1409人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "石田祐二",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "102",
+        "away": "93"
+    }
+}

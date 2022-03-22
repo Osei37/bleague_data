@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6442,
+    "date": {
+        "season": "2020-21",
+        "month": "4.30",
+        "week": "[FRI]",
+        "setsu": "第36節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜武道館",
+        "attendance": "1182人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "伊藤 亮介",
+        "crew": "黒岡 和哲"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "87",
+        "away": "85"
+    }
+}

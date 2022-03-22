@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2053,
+    "date": {
+        "season": "2017-18",
+        "month": "4.22",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2806人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "加納康平",
+        "crew": "谷地温"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "77",
+        "away": "67"
+    }
+}

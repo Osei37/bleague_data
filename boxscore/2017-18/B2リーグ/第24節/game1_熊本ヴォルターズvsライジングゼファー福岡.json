@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2525,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3113人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "黒岡和哲",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "96",
+        "away": "89"
+    }
+}

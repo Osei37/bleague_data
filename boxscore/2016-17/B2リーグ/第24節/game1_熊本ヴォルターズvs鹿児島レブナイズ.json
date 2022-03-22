@@ -1,0 +1,27 @@
+{
+    "schedule_key": 965,
+    "date": {
+        "season": "2016-17",
+        "month": "3.24",
+        "week": "[Fri]",
+        "setsu": "第24節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "水俣市立総合体育館",
+        "attendance": "1134人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "伊藤彰二",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "67"
+    }
+}

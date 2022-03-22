@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3946,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2130人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "小畑治",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "86",
+        "away": "96"
+    }
+}

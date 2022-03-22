@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3388,
+    "date": {
+        "season": "2018-19",
+        "month": "3.13",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1504人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "宇田津浩史",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "84"
+    }
+}

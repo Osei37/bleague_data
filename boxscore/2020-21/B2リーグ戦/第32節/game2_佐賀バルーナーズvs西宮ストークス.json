@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6931,
+    "date": {
+        "season": "2020-21",
+        "month": "4.25",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "840人"
+    },
+    "referee": {
+        "first": "橋本 恵一",
+        "second": "前花 直哉",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "106",
+        "away": "111"
+    }
+}

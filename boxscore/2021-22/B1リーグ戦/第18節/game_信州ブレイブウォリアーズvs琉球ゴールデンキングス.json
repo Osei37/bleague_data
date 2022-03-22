@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7756,
+    "date": {
+        "season": "2021-22",
+        "month": "1.26",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1105人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "塩谷 禎",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "85",
+        "away": "86"
+    }
+}

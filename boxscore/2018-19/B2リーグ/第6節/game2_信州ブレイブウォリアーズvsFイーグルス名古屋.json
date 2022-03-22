@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3616,
+    "date": {
+        "season": "2018-19",
+        "month": "10.28",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1013人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "吉田剛",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "75",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6906,
+    "date": {
+        "season": "2020-21",
+        "month": "4.17",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1565人"
+    },
+    "referee": {
+        "first": "増渕 泰久",
+        "second": "石田 祐二",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "69"
+    }
+}

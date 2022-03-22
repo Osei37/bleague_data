@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5017,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1034人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "吉田剛",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "91"
+    }
+}

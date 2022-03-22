@@ -1,0 +1,27 @@
+{
+    "schedule_key": 936,
+    "date": {
+        "season": "2016-17",
+        "month": "3.12",
+        "week": "[Sun]",
+        "setsu": "第22節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1556人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "鬼頭 英伸",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "76",
+        "away": "114"
+    }
+}

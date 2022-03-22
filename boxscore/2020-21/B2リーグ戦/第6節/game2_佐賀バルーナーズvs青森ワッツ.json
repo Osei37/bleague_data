@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6541,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "唐津市文化体育館",
+        "attendance": "486人"
+    },
+    "referee": {
+        "first": "秋山 厚志",
+        "second": "伊藤 彰二",
+        "crew": "山口 勝真"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "66"
+    }
+}

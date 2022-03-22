@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4325,
+    "date": {
+        "season": "2019-20",
+        "month": "12.15",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "4639人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "高城邦弘",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "58"
+    }
+}

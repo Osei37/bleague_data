@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4944,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "スポカルイン黒石",
+        "attendance": "1566人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "北沢あや子",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "78",
+        "away": "82"
+    }
+}

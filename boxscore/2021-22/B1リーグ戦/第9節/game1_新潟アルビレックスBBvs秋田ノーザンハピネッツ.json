@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7582,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1542人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "宇田津 浩史",
+        "crew": "松岡 隆博"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "62",
+        "away": "79"
+    }
+}

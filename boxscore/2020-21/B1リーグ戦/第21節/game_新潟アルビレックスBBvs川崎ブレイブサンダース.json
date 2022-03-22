@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6198,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1697人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "宇田津 浩史",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "74",
+        "away": "80"
+    }
+}

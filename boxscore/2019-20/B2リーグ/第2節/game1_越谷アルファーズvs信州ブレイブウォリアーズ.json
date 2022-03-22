@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4715,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "1526人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "秋山厚志",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "54",
+        "away": "74"
+    }
+}

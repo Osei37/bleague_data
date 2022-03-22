@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1001,
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[Sat]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1309人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "太田 匡俊",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "112",
+        "away": "81"
+    }
+}

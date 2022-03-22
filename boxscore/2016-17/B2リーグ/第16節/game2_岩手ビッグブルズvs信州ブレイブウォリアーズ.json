@@ -1,0 +1,27 @@
+{
+    "schedule_key": 821,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "1625人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "佐藤匠",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "54"
+    }
+}

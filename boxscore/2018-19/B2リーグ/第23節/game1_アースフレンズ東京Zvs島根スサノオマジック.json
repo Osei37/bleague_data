@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3901,
+    "date": {
+        "season": "2018-19",
+        "month": "2.21",
+        "week": "[THU]",
+        "setsu": "第23節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大森スポーツセンター",
+        "attendance": "643人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "岩木太郎",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "70",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3761,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "2002人"
+    },
+    "referee": {
+        "first": "管祐介",
+        "second": "小田中涼子",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "82",
+        "away": "67"
+    }
+}

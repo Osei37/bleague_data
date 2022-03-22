@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6916,
+    "date": {
+        "season": "2020-21",
+        "month": "4.16",
+        "week": "[FRI]",
+        "setsu": "第31節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "166人"
+    },
+    "referee": {
+        "first": "黒岡 和哲",
+        "second": "豊田 康平",
+        "crew": "田中 豊弘"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "73",
+        "away": "96"
+    }
+}

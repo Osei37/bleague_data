@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4568,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "YMITアリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "東祐二",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "65",
+        "away": "82"
+    }
+}

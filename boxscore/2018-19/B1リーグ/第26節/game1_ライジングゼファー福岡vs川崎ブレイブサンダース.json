@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3378,
+    "date": {
+        "season": "2018-19",
+        "month": "3.09",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "2516人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "飯尾勝紀",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "105",
+        "away": "108"
+    }
+}

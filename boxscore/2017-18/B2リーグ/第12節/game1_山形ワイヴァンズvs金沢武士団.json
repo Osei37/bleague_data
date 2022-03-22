@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2308,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1261人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "芳賀聡",
+        "crew": "山本邦博"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "83",
+        "away": "69"
+    }
+}

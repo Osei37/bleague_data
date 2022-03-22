@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3027,
+    "date": {
+        "season": "2018-19",
+        "month": "10.17",
+        "week": "[WED]",
+        "setsu": "第3節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2957人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "蒲健一",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "61",
+        "away": "48"
+    }
+}

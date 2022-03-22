@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3420,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "3631人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "青木俊博",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

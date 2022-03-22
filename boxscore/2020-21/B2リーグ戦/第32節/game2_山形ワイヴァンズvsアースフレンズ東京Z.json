@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6923,
+    "date": {
+        "season": "2020-21",
+        "month": "4.25",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "733人"
+    },
+    "referee": {
+        "first": "黒岡 和哲",
+        "second": "石田 祐二",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "83",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8183,
+    "date": {
+        "season": "2021-22",
+        "month": "11.20",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館ハートフル",
+        "attendance": "272人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "小田中 涼子",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "55"
+    }
+}

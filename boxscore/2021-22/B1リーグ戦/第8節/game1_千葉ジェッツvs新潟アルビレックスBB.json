@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7556,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2254人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "早崎 康祐",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "88",
+        "away": "62"
+    }
+}

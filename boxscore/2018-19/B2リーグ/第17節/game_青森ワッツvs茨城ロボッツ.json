@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3796,
+    "date": {
+        "season": "2018-19",
+        "month": "1.14",
+        "week": "[MON]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カクヒログループスタジアム",
+        "attendance": "1411人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "鈴木悟",
+        "crew": "小田中涼子"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "63",
+        "away": "93"
+    }
+}

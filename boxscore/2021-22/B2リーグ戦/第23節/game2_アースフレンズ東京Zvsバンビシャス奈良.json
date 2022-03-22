@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8372,
+    "date": {
+        "season": "2021-22",
+        "month": "2.26",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1048人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "遠藤 大輔",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "70",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6618,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "14:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "725人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "北沢 あや子",
+        "crew": "香野 学"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "83"
+    }
+}

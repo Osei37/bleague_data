@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4742,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1505人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "御手洗亮",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

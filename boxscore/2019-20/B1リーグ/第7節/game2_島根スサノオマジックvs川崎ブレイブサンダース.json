@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4258,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": "[SUN]",
+        "setsu": "第7節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "3147人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "冨島健司",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "53",
+        "away": "87"
+    }
+}

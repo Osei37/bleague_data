@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6263,
+    "date": {
+        "season": "2020-21",
+        "month": "3.03",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1460人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "宇田津 浩史",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "85",
+        "away": "75"
+    }
+}

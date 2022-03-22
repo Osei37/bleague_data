@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1796,
+    "date": {
+        "season": "2017-18",
+        "month": "12.23",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2910人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "東祐二",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "79",
+        "away": "71"
+    }
+}

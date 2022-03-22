@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6589,
+    "date": {
+        "season": "2020-21",
+        "month": "1.17",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊方スポーツセンター",
+        "attendance": "138人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "市川 雄介",
+        "crew": "前花 直哉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "96"
+    }
+}

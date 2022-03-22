@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4154,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "3759人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "芳賀聡",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "70",
+        "away": "77"
+    }
+}

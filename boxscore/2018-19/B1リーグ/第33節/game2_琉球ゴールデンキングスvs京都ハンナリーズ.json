@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3480,
+    "date": {
+        "season": "2018-19",
+        "month": "4.07",
+        "week": "[SUN]",
+        "setsu": "第33節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3296人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "久米克弥",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "52"
+    }
+}

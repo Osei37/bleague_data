@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3060,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": "[SAT]",
+        "setsu": "第6節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2253人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "加藤昌樹",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "84"
+    }
+}

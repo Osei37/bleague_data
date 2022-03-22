@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3128,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1956人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "宇地原尚彦",
+        "crew": "有澤重行"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "78"
+    }
+}

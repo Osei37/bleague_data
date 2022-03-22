@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4991,
+    "date": {
+        "season": "2019-20",
+        "month": "1.18",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "769人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "高野 晃平",
+        "crew": "内野翔太"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "59"
+    }
+}

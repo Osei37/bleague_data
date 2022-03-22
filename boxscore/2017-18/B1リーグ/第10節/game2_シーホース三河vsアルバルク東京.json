@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1737,
+    "date": {
+        "season": "2017-18",
+        "month": "12.03",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "3039人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "伊藤亮介",
+        "crew": "有澤重行"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "77",
+        "away": "69"
+    }
+}

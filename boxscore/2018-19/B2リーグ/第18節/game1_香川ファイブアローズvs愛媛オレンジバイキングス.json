@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3821,
+    "date": {
+        "season": "2018-19",
+        "month": "1.18",
+        "week": "[FRI]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "345人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "伊藤亮介",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "75",
+        "away": "102"
+    }
+}

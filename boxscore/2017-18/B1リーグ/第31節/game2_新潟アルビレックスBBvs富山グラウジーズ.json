@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2089,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "2580人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "平出剛",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "89"
+    }
+}

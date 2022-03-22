@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2463,
+    "date": {
+        "season": "2017-18",
+        "month": "3.03",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "1028人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "北島寛臣",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "56"
+    }
+}

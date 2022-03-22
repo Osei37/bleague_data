@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1761,
+    "date": {
+        "season": "2017-18",
+        "month": "12.10",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "三田市駒ヶ谷運動公園体育館",
+        "attendance": "1196人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "増渕泰久",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "100",
+        "away": "85"
+    }
+}

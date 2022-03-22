@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8288,
+    "date": {
+        "season": "2021-22",
+        "month": "1.08",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "808人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "前花 直哉",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "106",
+        "away": "67"
+    }
+}

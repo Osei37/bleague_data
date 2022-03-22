@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6815,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1754人"
+    },
+    "referee": {
+        "first": "久保 知仁",
+        "second": "鈴木 悟",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "87",
+        "away": "74"
+    }
+}

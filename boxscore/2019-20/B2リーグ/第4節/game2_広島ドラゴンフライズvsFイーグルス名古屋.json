@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4756,
+    "date": {
+        "season": "2019-20",
+        "month": "10.13",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東広島運動公園体育館",
+        "attendance": "1673人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "岩木太郎",
+        "crew": "白川一樹"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "69",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4423,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4253人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "北沢岳夫",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "69",
+        "away": "72"
+    }
+}

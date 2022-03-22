@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5062,
+    "date": {
+        "season": "2019-20",
+        "month": "2.15",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "2012人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "秋山厚志",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "87",
+        "away": "84"
+    }
+}

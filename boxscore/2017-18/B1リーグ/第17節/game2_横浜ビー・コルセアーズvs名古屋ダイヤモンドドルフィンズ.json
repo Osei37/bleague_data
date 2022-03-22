@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1850,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "4104人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "小澤勤",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "78"
+    }
+}

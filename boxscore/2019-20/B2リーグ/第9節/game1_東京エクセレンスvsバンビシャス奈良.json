@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4836,
+    "date": {
+        "season": "2019-20",
+        "month": "11.11",
+        "week": "[MON]",
+        "setsu": "第9節",
+        "time": "19:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "804人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "加藤暁生",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "93",
+        "away": "85"
+    }
+}

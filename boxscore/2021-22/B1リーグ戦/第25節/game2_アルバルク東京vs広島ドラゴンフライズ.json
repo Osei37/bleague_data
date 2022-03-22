@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7869,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2328人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "高城 邦弘",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "66"
+    }
+}

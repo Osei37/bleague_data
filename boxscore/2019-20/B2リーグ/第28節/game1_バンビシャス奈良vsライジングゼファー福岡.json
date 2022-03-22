@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5153,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "田中豊弘",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "89"
+    }
+}

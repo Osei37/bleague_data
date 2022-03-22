@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6284,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2051人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "松岡 隆博",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "66"
+    }
+}

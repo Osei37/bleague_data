@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8296,
+    "date": {
+        "season": "2021-22",
+        "month": "1.22",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "424人"
+    },
+    "referee": {
+        "first": "石田 祐二",
+        "second": "浅野 祐樹",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "95",
+        "away": "69"
+    }
+}

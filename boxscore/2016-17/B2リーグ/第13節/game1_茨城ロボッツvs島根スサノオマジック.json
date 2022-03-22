@@ -1,0 +1,27 @@
+{
+    "schedule_key": 757,
+    "date": {
+        "season": "2016-17",
+        "month": "12.23",
+        "week": "[Fri]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1012人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "谷地温",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "65",
+        "away": "79"
+    }
+}

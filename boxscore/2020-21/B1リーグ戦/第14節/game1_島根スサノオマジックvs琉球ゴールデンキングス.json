@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6082,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "鳥取県民体育館",
+        "attendance": "1271人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "和嶋 陽一",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "67",
+        "away": "92"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 238,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2400人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "伊藤亮介",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "85",
+        "away": "102"
+    }
+}

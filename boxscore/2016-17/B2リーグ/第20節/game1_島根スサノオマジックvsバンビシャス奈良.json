@@ -1,0 +1,27 @@
+{
+    "schedule_key": 891,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1587人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "茅野修司",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "82",
+        "away": "75"
+    }
+}

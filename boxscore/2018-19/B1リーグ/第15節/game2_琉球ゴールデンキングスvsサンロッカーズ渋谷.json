@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3219,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "12:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3381人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "清水幹治",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "71",
+        "away": "59"
+    }
+}

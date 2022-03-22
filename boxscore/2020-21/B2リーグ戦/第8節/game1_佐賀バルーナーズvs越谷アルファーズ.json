@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6572,
+    "date": {
+        "season": "2020-21",
+        "month": "11.21",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館ハートフル",
+        "attendance": "340人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "原田 拓朗",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "79"
+    }
+}

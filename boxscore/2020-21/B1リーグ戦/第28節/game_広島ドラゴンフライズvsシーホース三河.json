@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6313,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1210人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "松本 究",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "91",
+        "away": "89"
+    }
+}

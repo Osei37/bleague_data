@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5157,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "観音寺市立総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "御手洗亮",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "77",
+        "away": "98"
+    }
+}

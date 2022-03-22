@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6010,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1367人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "中川 行臣",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "86",
+        "away": "82"
+    }
+}

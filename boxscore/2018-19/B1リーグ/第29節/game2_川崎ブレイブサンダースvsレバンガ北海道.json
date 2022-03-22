@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3414,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4075人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "芳賀聡",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "92",
+        "away": "77"
+    }
+}

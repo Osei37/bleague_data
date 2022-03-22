@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3429,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "2996人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "谷古宇孝",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "87"
+    }
+}

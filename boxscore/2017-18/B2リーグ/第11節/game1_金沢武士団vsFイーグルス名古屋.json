@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2294,
+    "date": {
+        "season": "2017-18",
+        "month": "12.09",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾総合市民体育館",
+        "attendance": "673人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "平澤明男",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "76",
+        "away": "84"
+    }
+}

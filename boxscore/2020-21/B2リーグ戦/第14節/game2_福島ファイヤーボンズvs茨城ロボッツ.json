@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6651,
+    "date": {
+        "season": "2020-21",
+        "month": "12.27",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1105人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "熊谷 久美子",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "68",
+        "away": "81"
+    }
+}

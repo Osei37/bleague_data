@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3723,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3085人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "伊藤彰二",
+        "crew": "御手洗亮"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1051,
+    "date": {
+        "season": "2016-17",
+        "month": "4.29",
+        "week": "[Sat]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "1897人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "三好啓太",
+        "crew": "白川 直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "83",
+        "away": "74"
+    }
+}

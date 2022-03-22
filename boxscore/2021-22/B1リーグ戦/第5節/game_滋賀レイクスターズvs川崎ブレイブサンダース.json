@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7516,
+    "date": {
+        "season": "2021-22",
+        "month": "10.27",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1691人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "冨島 健司",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "74",
+        "away": "91"
+    }
+}

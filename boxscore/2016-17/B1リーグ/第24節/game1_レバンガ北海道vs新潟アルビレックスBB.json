@@ -1,0 +1,27 @@
+{
+    "schedule_key": 389,
+    "date": {
+        "season": "2016-17",
+        "month": "3.18",
+        "week": "[Sat]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "旭川市総合体育館",
+        "attendance": "1684人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "玉木彰治",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "84",
+        "away": "96"
+    }
+}

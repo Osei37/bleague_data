@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2112,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "12:55 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "3035人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "北沢岳夫",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "77"
+    }
+}

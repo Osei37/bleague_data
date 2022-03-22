@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3205,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3828人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "谷地温",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "101",
+        "away": "91"
+    }
+}

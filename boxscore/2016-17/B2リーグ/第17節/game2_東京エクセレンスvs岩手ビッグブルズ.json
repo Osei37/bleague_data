@@ -1,0 +1,27 @@
+{
+    "schedule_key": 840,
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "805人"
+    },
+    "referee": {
+        "first": "関口 久視",
+        "second": "LAW DAVID",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "66"
+    }
+}

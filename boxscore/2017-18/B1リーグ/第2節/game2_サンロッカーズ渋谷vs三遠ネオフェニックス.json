@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1598,
+    "date": {
+        "season": "2017-18",
+        "month": "10.08",
+        "week": "[Sun]",
+        "setsu": "第2節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2253人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "関口久視",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "54",
+        "away": "64"
+    }
+}

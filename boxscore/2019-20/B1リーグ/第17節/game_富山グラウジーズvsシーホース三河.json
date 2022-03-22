@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4407,
+    "date": {
+        "season": "2019-20",
+        "month": "1.15",
+        "week": "[WED]",
+        "setsu": "第17節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2012人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "玉木彰治",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "76",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4556,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "久米克弥",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "80",
+        "away": "88"
+    }
+}

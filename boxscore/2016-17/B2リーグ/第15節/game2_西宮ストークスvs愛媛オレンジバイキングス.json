@@ -1,0 +1,27 @@
+{
+    "schedule_key": 800,
+    "date": {
+        "season": "2016-17",
+        "month": "1.21",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "739人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "白川 直弘",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "77",
+        "away": "74"
+    }
+}

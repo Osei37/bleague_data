@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8364,
+    "date": {
+        "season": "2021-22",
+        "month": "2.19",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県武道館",
+        "attendance": "687人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "田中 豊弘",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "97",
+        "away": "61"
+    }
+}

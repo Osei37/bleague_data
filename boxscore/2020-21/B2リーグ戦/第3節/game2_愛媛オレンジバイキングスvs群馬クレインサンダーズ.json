@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6499,
+    "date": {
+        "season": "2020-21",
+        "month": "10.17",
+        "week": "[SAT]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "305人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "田中 豊弘",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 783,
+    "date": {
+        "season": "2016-17",
+        "month": "1.02",
+        "week": "[Mon]",
+        "setsu": "第14節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "兵庫県立総合体育館",
+        "attendance": "924人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "宇地原尚彦",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "84"
+    }
+}

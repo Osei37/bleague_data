@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3845,
+    "date": {
+        "season": "2018-19",
+        "month": "2.02",
+        "week": "[SAT]",
+        "setsu": "第20節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1635人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "北島寛臣",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "78"
+    }
+}

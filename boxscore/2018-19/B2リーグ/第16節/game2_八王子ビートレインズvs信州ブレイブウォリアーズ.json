@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3787,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "1360人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "大野太裕",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "77"
+    }
+}

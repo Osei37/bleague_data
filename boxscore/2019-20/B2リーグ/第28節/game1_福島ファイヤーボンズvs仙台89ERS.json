@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5145,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "飯尾勝紀",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "69",
+        "away": "75"
+    }
+}

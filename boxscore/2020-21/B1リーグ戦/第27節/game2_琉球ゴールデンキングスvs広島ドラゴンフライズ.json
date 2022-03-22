@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6303,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1447人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "東 祐二",
+        "crew": "松本 究"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "71"
+    }
+}

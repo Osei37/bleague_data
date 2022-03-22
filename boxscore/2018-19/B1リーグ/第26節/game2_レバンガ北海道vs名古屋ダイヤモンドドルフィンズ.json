@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3365,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3860人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "針生淳男",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "84"
+    }
+}

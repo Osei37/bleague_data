@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3440,
+    "date": {
+        "season": "2018-19",
+        "month": "3.30",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2833人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "加藤昌樹",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "69"
+    }
+}

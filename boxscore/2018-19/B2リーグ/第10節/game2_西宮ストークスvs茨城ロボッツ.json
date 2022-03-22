@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3692,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1113人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "田中豊弘",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "97"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3753,
+    "date": {
+        "season": "2018-19",
+        "month": "12.24",
+        "week": "[MON]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1211人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "小田中涼子",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "66",
+        "away": "61"
+    }
+}

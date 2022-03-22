@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6311,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "916人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "橋本 恵一",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "75",
+        "away": "90"
+    }
+}

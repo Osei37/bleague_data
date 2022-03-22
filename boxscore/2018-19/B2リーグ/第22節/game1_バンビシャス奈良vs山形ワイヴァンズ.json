@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3885,
+    "date": {
+        "season": "2018-19",
+        "month": "2.16",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1349人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "岩井 遥河",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "65"
+    }
+}

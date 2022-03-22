@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6685,
+    "date": {
+        "season": "2020-21",
+        "month": "5.02",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "蒲 健一",
+        "second": "梶 崇司",
+        "crew": "富樫 彰子"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "91",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 973,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1128人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "鬼頭 英伸",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "78",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1764,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "3004人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "片寄達",
+        "crew": "宇地原尚彦"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "86",
+        "away": "69"
+    }
+}

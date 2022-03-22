@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5095,
+    "date": {
+        "season": "2019-20",
+        "month": "2.23",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1301人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "眞榮喜工",
+        "crew": "岩木太郎"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "86",
+        "away": "78"
+    }
+}

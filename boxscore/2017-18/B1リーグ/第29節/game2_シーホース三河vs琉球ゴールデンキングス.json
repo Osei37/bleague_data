@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2059,
+    "date": {
+        "season": "2017-18",
+        "month": "4.22",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "岡崎中央総合公園総合体育館",
+        "attendance": "3669人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久保知仁",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "69",
+        "away": "54"
+    }
+}

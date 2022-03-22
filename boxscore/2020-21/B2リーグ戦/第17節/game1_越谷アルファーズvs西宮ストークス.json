@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6700,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "638人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "嶋崎 貴",
+        "crew": "富樫 彰子"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "98",
+        "away": "89"
+    }
+}

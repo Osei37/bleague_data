@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7816,
+    "date": {
+        "season": "2021-22",
+        "month": "3.05",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "能代市総合体育館",
+        "attendance": "934人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "高城 邦弘",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "92",
+        "away": "76"
+    }
+}

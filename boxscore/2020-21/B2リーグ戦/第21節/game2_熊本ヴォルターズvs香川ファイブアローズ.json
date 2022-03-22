@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6765,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "633人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "御手洗 亮",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "98"
+    }
+}

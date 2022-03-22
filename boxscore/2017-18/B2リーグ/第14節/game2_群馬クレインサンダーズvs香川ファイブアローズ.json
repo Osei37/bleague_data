@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2338,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊勢崎市民体育館",
+        "attendance": "1276人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "中川行臣",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "66"
+    }
+}

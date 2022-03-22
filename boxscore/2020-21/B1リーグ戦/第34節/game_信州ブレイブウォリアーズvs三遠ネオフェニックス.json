@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6404,
+    "date": {
+        "season": "2020-21",
+        "month": "5.05",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1436人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "加川 真",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "80",
+        "away": "75"
+    }
+}

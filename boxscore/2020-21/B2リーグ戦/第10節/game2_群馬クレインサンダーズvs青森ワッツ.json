@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6593,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "693人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "梶 崇司",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "118",
+        "away": "81"
+    }
+}

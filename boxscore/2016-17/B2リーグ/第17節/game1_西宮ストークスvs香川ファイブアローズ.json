@@ -1,0 +1,27 @@
+{
+    "schedule_key": 834,
+    "date": {
+        "season": "2016-17",
+        "month": "2.04",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1030人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "青木俊博",
+        "crew": "鬼頭 英伸"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "68"
+    }
+}

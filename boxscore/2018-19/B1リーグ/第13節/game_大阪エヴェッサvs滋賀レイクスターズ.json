@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3181,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "池田市五月山体育館",
+        "attendance": "3044人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "伊藤亮介",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "58"
+    }
+}

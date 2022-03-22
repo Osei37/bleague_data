@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2099,
+    "date": {
+        "season": "2017-18",
+        "month": "5.05",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2760人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "久保知仁",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "71"
+    }
+}

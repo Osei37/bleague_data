@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6880,
+    "date": {
+        "season": "2020-21",
+        "month": "4.29",
+        "week": "[THU]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北九州市立総合体育館",
+        "attendance": "422人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "白川 一樹",
+        "crew": "前花 直哉"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "76"
+    }
+}

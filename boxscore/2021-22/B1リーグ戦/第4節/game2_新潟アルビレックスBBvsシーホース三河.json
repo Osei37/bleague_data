@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7499,
+    "date": {
+        "season": "2021-22",
+        "month": "10.23",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "1294人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "伊藤 亮介",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "75",
+        "away": "77"
+    }
+}

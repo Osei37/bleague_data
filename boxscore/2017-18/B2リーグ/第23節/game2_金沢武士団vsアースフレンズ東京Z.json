@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2500,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加賀市スポーツセンター",
+        "attendance": "586人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "黒岡和哲",
+        "crew": "菊地真吾"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "74",
+        "away": "54"
+    }
+}

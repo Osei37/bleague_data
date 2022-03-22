@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4372,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5226人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "北島寛臣",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "91",
+        "away": "66"
+    }
+}

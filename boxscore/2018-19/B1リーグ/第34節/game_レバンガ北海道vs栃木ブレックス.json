@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3481,
+    "date": {
+        "season": "2018-19",
+        "month": "4.10",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4349人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "谷地温",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "83",
+        "away": "95"
+    }
+}

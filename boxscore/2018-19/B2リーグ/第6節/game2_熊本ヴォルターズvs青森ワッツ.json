@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3624,
+    "date": {
+        "season": "2018-19",
+        "month": "10.28",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "合志ヴィーブル",
+        "attendance": "1829人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "大谷英紀",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "98"
+    }
+}

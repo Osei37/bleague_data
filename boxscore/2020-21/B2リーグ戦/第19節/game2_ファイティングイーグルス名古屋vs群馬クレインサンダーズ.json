@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6725,
+    "date": {
+        "season": "2020-21",
+        "month": "1.31",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "452人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "中川 行臣",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1954,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5428人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "北沢岳夫",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "85",
+        "away": "66"
+    }
+}

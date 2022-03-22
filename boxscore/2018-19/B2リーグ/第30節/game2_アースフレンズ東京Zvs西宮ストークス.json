@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4019,
+    "date": {
+        "season": "2018-19",
+        "month": "4.07",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1626人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "加藤暁生",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "85",
+        "away": "93"
+    }
+}

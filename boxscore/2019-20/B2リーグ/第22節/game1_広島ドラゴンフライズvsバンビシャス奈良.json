@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5056,
+    "date": {
+        "season": "2019-20",
+        "month": "2.08",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1900人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "平澤明男",
+        "crew": "山口尭彰"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "108",
+        "away": "99"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4406,
+    "date": {
+        "season": "2019-20",
+        "month": "1.15",
+        "week": "[WED]",
+        "setsu": "第17節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": "2060人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "谷地温",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "64"
+    }
+}

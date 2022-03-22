@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2556,
+    "date": {
+        "season": "2017-18",
+        "month": "4.07",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1534人"
+    },
+    "referee": {
+        "first": "中田英教",
+        "second": "嶋崎貴",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "79"
+    }
+}

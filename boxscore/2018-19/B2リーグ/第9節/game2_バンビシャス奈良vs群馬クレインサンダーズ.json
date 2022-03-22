@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3672,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1234人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "那須弘幸",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "86"
+    }
+}

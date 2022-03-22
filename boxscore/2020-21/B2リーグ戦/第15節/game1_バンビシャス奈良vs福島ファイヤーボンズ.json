@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6670,
+    "date": {
+        "season": "2020-21",
+        "month": "1.02",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "612人"
+    },
+    "referee": {
+        "first": "岩木 太郎",
+        "second": "那須 弘幸",
+        "crew": "小島 慶子"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "67"
+    }
+}

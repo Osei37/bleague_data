@@ -1,0 +1,27 @@
+{
+    "schedule_key": 401,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "2576人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "伊藤亮介",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "96",
+        "away": "99"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4321,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3288人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "加藤昌樹",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "60"
+    }
+}

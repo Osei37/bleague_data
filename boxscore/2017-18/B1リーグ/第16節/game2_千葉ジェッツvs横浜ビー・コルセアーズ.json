@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1830,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "5779人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "阿部聖",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "114",
+        "away": "78"
+    }
+}

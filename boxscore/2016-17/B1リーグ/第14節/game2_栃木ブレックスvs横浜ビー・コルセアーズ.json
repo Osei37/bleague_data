@@ -1,0 +1,27 @@
+{
+    "schedule_key": 237,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3704人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "高城邦弘",
+        "crew": "上田 信彦"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "69"
+    }
+}

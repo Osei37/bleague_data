@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5005,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1464人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "高城邦弘",
+        "crew": "富樫彰子"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "64",
+        "away": "69"
+    }
+}

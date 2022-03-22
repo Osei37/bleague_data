@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6626,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊方スポーツセンター",
+        "attendance": "184人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "白川 一樹",
+        "crew": "田中 豊弘"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "78",
+        "away": "85"
+    }
+}

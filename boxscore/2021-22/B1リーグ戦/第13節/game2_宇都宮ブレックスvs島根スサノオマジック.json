@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7656,
+    "date": {
+        "season": "2021-22",
+        "month": "12.26",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "日環アリーナ栃木メインアリーナ",
+        "attendance": "3505人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "細田 知宏",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "70",
+        "away": "95"
+    }
+}

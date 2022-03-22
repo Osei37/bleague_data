@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3410,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5388人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "堀内純",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "101",
+        "away": "68"
+    }
+}

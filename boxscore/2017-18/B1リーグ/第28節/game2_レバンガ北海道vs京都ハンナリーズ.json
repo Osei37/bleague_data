@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2033,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3810人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "倉口勉",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "73"
+    }
+}

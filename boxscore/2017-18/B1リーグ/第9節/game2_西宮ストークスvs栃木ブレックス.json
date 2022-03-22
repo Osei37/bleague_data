@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1723,
+    "date": {
+        "season": "2017-18",
+        "month": "11.19",
+        "week": "[Sun]",
+        "setsu": "第9節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "2830人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "堀内純",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "60",
+        "away": "63"
+    }
+}

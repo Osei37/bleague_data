@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5946,
+    "date": {
+        "season": "2020-21",
+        "month": "10.28",
+        "week": "[WED]",
+        "setsu": "第6節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "900人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "蒲 健一",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "89",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4464,
+    "date": {
+        "season": "2019-20",
+        "month": "1.31",
+        "week": "[FRI]",
+        "setsu": "第21節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "3305人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "甲斐清",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "79",
+        "away": "90"
+    }
+}

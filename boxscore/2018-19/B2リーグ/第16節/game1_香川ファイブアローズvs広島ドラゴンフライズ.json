@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3794,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "883人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "那須弘幸",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3418,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "3638人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "大河原則人",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "80",
+        "away": "66"
+    }
+}

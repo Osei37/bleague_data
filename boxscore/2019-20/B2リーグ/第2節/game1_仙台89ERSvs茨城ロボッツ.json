@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4711,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3104人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "山内正隆",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "80",
+        "away": "65"
+    }
+}

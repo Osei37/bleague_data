@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2345,
+    "date": {
+        "season": "2017-18",
+        "month": "12.22",
+        "week": "[Fri]",
+        "setsu": "第14節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "1412人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "岩木太郎",
+        "crew": "小川隆三"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "96",
+        "away": "90"
+    }
+}

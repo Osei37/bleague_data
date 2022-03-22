@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6266,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1864人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "中道 凌平",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "76"
+    }
+}

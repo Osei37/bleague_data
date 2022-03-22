@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5041,
+    "date": {
+        "season": "2019-20",
+        "month": "2.02",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊方スポーツセンター",
+        "attendance": "533人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "白川一樹",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "90",
+        "away": "87"
+    }
+}

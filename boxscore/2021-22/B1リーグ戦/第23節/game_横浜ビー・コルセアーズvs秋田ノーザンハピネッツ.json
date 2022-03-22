@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7843,
+    "date": {
+        "season": "2021-22",
+        "month": "3.09",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "811人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "蒲 健一",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "55",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 439,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第26節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3150人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "松本隆志",
+        "crew": "有澤重行"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "69"
+    }
+}

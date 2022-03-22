@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6702,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "374人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "名越 龍男",
+        "crew": "高野 杏実"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "93",
+        "away": "76"
+    }
+}

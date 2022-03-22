@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6394,
+    "date": {
+        "season": "2020-21",
+        "month": "4.17",
+        "week": "[SAT]",
+        "setsu": "第34節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "よつ葉アリーナ十勝",
+        "attendance": "1363人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "佐藤 誠",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "69",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6210,
+    "date": {
+        "season": "2020-21",
+        "month": "2.12",
+        "week": "[FRI]",
+        "setsu": "第22節",
+        "time": "17:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "827人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "緒方 崇",
+        "crew": "加藤 暁生"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "64",
+        "away": "74"
+    }
+}

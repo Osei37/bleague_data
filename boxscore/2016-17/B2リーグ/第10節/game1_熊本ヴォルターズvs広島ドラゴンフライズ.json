@@ -1,0 +1,27 @@
+{
+    "schedule_key": 711,
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2196人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "伊藤彰二",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "57",
+        "away": "78"
+    }
+}

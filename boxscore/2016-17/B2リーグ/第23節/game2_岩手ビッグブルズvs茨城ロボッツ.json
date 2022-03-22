@@ -1,0 +1,27 @@
+{
+    "schedule_key": 950,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "1518人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "佐藤匠",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "55",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1577,
+    "date": {
+        "season": "2017-18",
+        "month": "9.29",
+        "week": "[Fri]",
+        "setsu": "第1節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜文化体育館",
+        "attendance": "2863人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "谷地温",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "56",
+        "away": "73"
+    }
+}

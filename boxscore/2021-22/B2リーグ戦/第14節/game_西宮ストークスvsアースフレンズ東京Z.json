@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8258,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1017人"
+    },
+    "referee": {
+        "first": "坂井 元直",
+        "second": "小畑 治",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "85",
+        "away": "69"
+    }
+}

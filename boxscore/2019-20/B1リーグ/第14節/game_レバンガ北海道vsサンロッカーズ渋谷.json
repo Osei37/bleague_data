@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4358,
+    "date": {
+        "season": "2019-20",
+        "month": "12.25",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3124人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "鈴木悟",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "104",
+        "away": "103"
+    }
+}

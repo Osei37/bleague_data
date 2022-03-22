@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7626,
+    "date": {
+        "season": "2021-22",
+        "month": "12.15",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1825人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "甲斐 清",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "90",
+        "away": "59"
+    }
+}

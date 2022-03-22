@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4475,
+    "date": {
+        "season": "2019-20",
+        "month": "2.09",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "13:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "守山市民体育館",
+        "attendance": "2449人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久保知仁",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "83",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7543,
+    "date": {
+        "season": "2021-22",
+        "month": "11.10",
+        "week": "[WED]",
+        "setsu": "第7節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2119人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "細田 知宏",
+        "crew": "松岡 隆博"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "92",
+        "away": "72"
+    }
+}

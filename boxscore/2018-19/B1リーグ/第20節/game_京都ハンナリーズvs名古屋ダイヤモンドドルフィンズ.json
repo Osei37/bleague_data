@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3280,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1013人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "宇田津浩史",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "89"
+    }
+}

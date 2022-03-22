@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2077,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4335人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "久保知仁",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "84",
+        "away": "81"
+    }
+}

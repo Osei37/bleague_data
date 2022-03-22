@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6108,
+    "date": {
+        "season": "2020-21",
+        "month": "1.02",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1242人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "平原 勇次",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "83",
+        "away": "79"
+    }
+}

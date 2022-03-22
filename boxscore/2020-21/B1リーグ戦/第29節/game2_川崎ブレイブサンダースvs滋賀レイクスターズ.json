@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6321,
+    "date": {
+        "season": "2020-21",
+        "month": "3.28",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2439人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "細田 知宏",
+        "crew": "蒲 健一"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "71"
+    }
+}

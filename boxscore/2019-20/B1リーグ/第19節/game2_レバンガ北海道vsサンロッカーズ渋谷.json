@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4422,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "5791人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "東祐二",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "70",
+        "away": "107"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2304,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1632人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "蒲健一",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "67"
+    }
+}

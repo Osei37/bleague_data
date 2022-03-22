@@ -1,0 +1,27 @@
+{
+    "schedule_key": 172,
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2418人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "谷古宇孝",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "67",
+        "away": "73"
+    }
+}

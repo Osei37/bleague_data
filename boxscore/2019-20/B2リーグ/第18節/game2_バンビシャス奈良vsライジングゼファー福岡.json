@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4990,
+    "date": {
+        "season": "2019-20",
+        "month": "1.19",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1124人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "中田英教",
+        "crew": "富樫彰子"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "94",
+        "away": "97"
+    }
+}

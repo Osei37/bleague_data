@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2074,
+    "date": {
+        "season": "2017-18",
+        "month": "4.27",
+        "week": "[FRI]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜文化体育館",
+        "attendance": "2428人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "前田喜庸",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "77"
+    }
+}

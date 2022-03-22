@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3392,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4231人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "丸山大",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "86"
+    }
+}

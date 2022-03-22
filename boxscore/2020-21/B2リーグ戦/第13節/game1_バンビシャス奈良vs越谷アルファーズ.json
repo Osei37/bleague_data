@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6638,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "645人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "名越 龍男",
+        "crew": "木村 健太郎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "75"
+    }
+}

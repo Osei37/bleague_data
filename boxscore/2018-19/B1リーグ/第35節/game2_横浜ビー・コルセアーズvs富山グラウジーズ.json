@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3499,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜文化体育館",
+        "attendance": "3279人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "久米克弥",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "75"
+    }
+}

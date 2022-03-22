@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2008,
+    "date": {
+        "season": "2017-18",
+        "month": "3.31",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2430人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "守谷圭介",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "70",
+        "away": "75"
+    }
+}

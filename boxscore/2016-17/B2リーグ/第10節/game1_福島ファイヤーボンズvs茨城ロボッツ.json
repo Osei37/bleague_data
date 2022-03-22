@@ -1,0 +1,27 @@
+{
+    "schedule_key": 706,
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "15:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1327人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "上田 信彦",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "80"
+    }
+}

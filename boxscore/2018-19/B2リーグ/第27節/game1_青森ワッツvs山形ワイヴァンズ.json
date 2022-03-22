@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3967,
+    "date": {
+        "season": "2018-19",
+        "month": "3.23",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "スポカルイン黒石",
+        "attendance": "1427人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "高城邦弘",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "87"
+    }
+}

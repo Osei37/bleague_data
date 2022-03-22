@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3980,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "1538人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "薦田侑二郎",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "52",
+        "away": "81"
+    }
+}

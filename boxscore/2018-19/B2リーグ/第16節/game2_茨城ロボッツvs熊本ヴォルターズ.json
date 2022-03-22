@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3785,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1639人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "長谷川裕",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "80"
+    }
+}

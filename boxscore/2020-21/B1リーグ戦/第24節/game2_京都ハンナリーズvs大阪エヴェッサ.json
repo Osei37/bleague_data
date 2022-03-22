@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6249,
+    "date": {
+        "season": "2020-21",
+        "month": "2.28",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1107人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "守谷 圭介",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "74",
+        "away": "60"
+    }
+}

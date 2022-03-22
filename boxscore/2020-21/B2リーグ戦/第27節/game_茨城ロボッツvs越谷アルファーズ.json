@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6847,
+    "date": {
+        "season": "2020-21",
+        "month": "4.15",
+        "week": "[THU]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "553人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "鈴木 悟",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "101",
+        "away": "89"
+    }
+}

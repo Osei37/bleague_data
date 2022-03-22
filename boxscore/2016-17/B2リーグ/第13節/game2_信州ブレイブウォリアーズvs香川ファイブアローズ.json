@@ -1,0 +1,27 @@
+{
+    "schedule_key": 770,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "953人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "太田 匡俊",
+        "crew": "白川 直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "96"
+    }
+}

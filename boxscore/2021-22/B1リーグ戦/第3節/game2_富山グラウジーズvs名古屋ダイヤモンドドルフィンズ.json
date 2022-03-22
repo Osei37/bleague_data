@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7477,
+    "date": {
+        "season": "2021-22",
+        "month": "10.17",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1500人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "加藤 暁生",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "99"
+    }
+}

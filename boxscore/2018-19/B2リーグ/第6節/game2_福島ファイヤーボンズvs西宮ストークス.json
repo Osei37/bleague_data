@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3608,
+    "date": {
+        "season": "2018-19",
+        "month": "10.28",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "あいづ総合体育館",
+        "attendance": "673人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "嶋崎貴",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "78",
+        "away": "89"
+    }
+}

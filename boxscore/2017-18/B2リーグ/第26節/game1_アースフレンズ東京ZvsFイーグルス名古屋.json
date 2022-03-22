@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2544,
+    "date": {
+        "season": "2017-18",
+        "month": "3.31",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1648人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "田中充",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "89",
+        "away": "79"
+    }
+}

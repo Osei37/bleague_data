@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3051,
+    "date": {
+        "season": "2018-19",
+        "month": "10.24",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "2118人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "久米克弥",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "61",
+        "away": "62"
+    }
+}

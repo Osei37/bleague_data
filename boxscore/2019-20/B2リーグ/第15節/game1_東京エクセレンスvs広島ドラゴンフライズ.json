@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4931,
+    "date": {
+        "season": "2019-20",
+        "month": "12.20",
+        "week": "[FRI]",
+        "setsu": "第15節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "838人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "茅野修司",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "101"
+    }
+}

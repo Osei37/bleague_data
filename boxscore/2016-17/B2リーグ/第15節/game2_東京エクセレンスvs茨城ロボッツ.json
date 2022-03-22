@@ -1,0 +1,27 @@
+{
+    "schedule_key": 798,
+    "date": {
+        "season": "2016-17",
+        "month": "1.21",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "14:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "714人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "田島寛治",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "77"
+    }
+}

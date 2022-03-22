@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3258,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2828人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "大河原則人",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "89",
+        "away": "97"
+    }
+}

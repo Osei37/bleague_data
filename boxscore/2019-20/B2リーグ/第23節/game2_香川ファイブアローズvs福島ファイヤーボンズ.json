@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5071,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "山内正隆",
+        "crew": "遠藤大輔"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "71"
+    }
+}

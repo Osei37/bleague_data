@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6199,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1282人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "小澤 勤",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6193,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1430人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "宇田津 浩史",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "82",
+        "away": "54"
+    }
+}

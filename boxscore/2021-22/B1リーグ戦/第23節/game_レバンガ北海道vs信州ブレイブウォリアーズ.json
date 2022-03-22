@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7838,
+    "date": {
+        "season": "2021-22",
+        "month": "3.09",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1482人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "谷地 温",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "103"
+    }
+}

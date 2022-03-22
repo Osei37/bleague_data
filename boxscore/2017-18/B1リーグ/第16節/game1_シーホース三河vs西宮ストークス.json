@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1835,
+    "date": {
+        "season": "2017-18",
+        "month": "1.20",
+        "week": "[Sat]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "岡崎中央総合公園総合体育館",
+        "attendance": "2753人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "伊藤亮介",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "86",
+        "away": "65"
+    }
+}

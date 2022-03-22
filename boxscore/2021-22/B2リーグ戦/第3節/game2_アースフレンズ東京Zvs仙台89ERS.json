@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8115,
+    "date": {
+        "season": "2021-22",
+        "month": "10.18",
+        "week": "[MON]",
+        "setsu": "第3節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "752人"
+    },
+    "referee": {
+        "first": "緒方 崇",
+        "second": "茂泉 圭治",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "64",
+        "away": "82"
+    }
+}

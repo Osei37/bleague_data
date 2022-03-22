@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3313,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2794人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "上田信彦",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "62"
+    }
+}

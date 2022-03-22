@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3854,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "1908人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "管祐介",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "70",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1048,
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "1205人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "東考生",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "95"
+    }
+}

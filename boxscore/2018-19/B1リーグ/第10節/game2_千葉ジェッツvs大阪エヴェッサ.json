@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3126,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5586人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "谷古宇孝",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "81",
+        "away": "59"
+    }
+}

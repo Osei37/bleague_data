@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2166,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": "1309人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "坂井元直",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "90",
+        "away": "83"
+    }
+}

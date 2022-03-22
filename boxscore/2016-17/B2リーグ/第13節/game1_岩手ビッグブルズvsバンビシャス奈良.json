@@ -1,0 +1,27 @@
+{
+    "schedule_key": 759,
+    "date": {
+        "season": "2016-17",
+        "month": "12.24",
+        "week": "[Sat]",
+        "setsu": "第13節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "642人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "鈴木悟",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "75",
+        "away": "71"
+    }
+}

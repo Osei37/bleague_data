@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2403,
+    "date": {
+        "season": "2017-18",
+        "month": "2.03",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "911人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "嶋崎貴",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "76"
+    }
+}

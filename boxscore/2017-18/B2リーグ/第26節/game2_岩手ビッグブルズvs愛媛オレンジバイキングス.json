@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2537,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "葛巻町社会体育館",
+        "attendance": "688人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "熊谷久美子",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "61",
+        "away": "88"
+    }
+}

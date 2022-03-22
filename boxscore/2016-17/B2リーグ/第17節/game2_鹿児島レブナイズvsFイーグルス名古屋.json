@@ -1,0 +1,27 @@
+{
+    "schedule_key": 846,
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東串良町総合体育館",
+        "attendance": "295人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "小川 隆三",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "73",
+        "away": "87"
+    }
+}

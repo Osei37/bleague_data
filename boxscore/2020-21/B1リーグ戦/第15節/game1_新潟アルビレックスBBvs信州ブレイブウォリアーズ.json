@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6088,
+    "date": {
+        "season": "2020-21",
+        "month": "12.26",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1541人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "岩井 遥河",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "76"
+    }
+}

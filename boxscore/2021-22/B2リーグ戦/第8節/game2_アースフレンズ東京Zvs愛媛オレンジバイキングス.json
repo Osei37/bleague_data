@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8178,
+    "date": {
+        "season": "2021-22",
+        "month": "11.20",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "675人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "内田 祥平",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "57",
+        "away": "84"
+    }
+}

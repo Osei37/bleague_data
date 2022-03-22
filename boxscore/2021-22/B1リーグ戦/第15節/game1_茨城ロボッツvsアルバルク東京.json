@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7684,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1669人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "北沢 岳夫",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "65",
+        "away": "81"
+    }
+}

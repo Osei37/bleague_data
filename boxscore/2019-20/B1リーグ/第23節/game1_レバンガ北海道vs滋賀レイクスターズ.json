@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4484,
+    "date": {
+        "season": "2019-20",
+        "month": "2.15",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2922人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "谷地温",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "77"
+    }
+}

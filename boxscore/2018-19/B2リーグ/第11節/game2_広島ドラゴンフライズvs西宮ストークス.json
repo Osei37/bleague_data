@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3710,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "3127人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "前花直哉",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "61",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6384,
+    "date": {
+        "season": "2020-21",
+        "month": "4.14",
+        "week": "[WED]",
+        "setsu": "第33節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1486人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "北沢 岳夫",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "101",
+        "away": "108"
+    }
+}

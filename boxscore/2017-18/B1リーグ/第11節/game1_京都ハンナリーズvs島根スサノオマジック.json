@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1758,
+    "date": {
+        "season": "2017-18",
+        "month": "12.09",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1644人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "有澤重行",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "94",
+        "away": "90"
+    }
+}

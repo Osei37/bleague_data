@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4980,
+    "date": {
+        "season": "2019-20",
+        "month": "1.19",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三沢市国際交流スポーツセンター",
+        "attendance": "1639人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "山内正隆",
+        "crew": "皆川義紀"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

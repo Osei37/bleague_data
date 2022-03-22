@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3766,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "982人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "田中充",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "99",
+        "away": "73"
+    }
+}

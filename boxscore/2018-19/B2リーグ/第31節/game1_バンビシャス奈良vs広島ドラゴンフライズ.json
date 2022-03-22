@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4042,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1465人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "小田中涼子",
+        "crew": "御手洗亮"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "80"
+    }
+}

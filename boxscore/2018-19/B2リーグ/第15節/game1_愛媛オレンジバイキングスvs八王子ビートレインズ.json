@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3774,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予市民体育館",
+        "attendance": "639人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "伊藤彰二",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "114",
+        "away": "78"
+    }
+}

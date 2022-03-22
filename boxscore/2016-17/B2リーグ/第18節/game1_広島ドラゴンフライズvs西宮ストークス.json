@@ -1,0 +1,27 @@
+{
+    "schedule_key": 852,
+    "date": {
+        "season": "2016-17",
+        "month": "2.11",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "4508人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "伊藤彰二",
+        "crew": "LAW DAVID"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "84",
+        "away": "79"
+    }
+}

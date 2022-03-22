@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2644,
+    "date": {
+        "season": "2017-18",
+        "month": "5.05",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1674人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "眞榮喜工",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "80",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7773,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1068人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "青木 俊博",
+        "crew": "小畑 治"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "89",
+        "away": "79"
+    }
+}

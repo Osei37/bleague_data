@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3273,
+    "date": {
+        "season": "2018-19",
+        "month": "1.16",
+        "week": "[WED]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1539人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "宇田津浩史",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "64",
+        "away": "74"
+    }
+}

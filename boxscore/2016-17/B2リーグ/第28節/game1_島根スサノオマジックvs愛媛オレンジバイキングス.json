@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1037,
+    "date": {
+        "season": "2016-17",
+        "month": "4.22",
+        "week": "[Sat]",
+        "setsu": "第28節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1760人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "太田 匡俊",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "77",
+        "away": "61"
+    }
+}

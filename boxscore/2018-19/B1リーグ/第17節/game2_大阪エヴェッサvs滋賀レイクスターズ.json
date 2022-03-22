@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3244,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": "3699人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "松本究",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "60"
+    }
+}

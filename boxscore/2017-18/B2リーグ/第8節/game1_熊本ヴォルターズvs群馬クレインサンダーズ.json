@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2246,
+    "date": {
+        "season": "2017-18",
+        "month": "11.10",
+        "week": "[Fri]",
+        "setsu": "第8節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "水俣市立総合体育館",
+        "attendance": "1380人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "白川一樹",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "78"
+    }
+}

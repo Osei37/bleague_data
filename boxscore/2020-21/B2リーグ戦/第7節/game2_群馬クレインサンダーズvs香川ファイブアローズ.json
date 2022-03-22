@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6547,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第7節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1514人"
+    },
+    "referee": {
+        "first": "山内 正隆",
+        "second": "嶋崎 貴",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "81"
+    }
+}

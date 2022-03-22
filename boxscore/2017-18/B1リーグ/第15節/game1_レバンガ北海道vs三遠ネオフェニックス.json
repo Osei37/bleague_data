@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1807,
+    "date": {
+        "season": "2017-18",
+        "month": "12.29",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3664人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "緒方崇",
+        "crew": "玉木彰治"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "64"
+    }
+}

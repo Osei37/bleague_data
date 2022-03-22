@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4962,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三友エンジニア体育文化センター",
+        "attendance": "1596人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "熊谷久美子",
+        "crew": "竹田雄介"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "91",
+        "away": "101"
+    }
+}

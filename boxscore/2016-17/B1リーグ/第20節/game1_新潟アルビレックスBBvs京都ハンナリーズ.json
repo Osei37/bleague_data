@@ -1,0 +1,27 @@
+{
+    "schedule_key": 327,
+    "date": {
+        "season": "2016-17",
+        "month": "2.18",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2138人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "安西郷史",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "75"
+    }
+}

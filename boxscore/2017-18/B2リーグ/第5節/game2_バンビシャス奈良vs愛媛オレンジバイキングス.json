@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2191,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大和郡山市総合公園",
+        "attendance": "523人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "大野哲広",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "91",
+        "away": "92"
+    }
+}

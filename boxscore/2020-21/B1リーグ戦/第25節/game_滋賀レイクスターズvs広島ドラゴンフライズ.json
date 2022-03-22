@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6261,
+    "date": {
+        "season": "2020-21",
+        "month": "3.03",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1028人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "黒岡 和哲",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "97"
+    }
+}

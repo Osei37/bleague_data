@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2136,
+    "date": {
+        "season": "2017-18",
+        "month": "10.08",
+        "week": "[Sun]",
+        "setsu": "第2節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "2051人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "長谷川裕",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "74"
+    }
+}

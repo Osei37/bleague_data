@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2490,
+    "date": {
+        "season": "2017-18",
+        "month": "3.10",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1174人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "大谷英紀",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "75",
+        "away": "80"
+    }
+}

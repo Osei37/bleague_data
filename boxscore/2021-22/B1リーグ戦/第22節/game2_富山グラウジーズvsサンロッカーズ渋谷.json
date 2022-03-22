@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7825,
+    "date": {
+        "season": "2021-22",
+        "month": "3.06",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1469人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "久保 知仁",
+        "crew": "冨島 健司"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "89",
+        "away": "76"
+    }
+}

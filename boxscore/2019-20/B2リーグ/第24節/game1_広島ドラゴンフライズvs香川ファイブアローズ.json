@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5092,
+    "date": {
+        "season": "2019-20",
+        "month": "2.22",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1957人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "小畑治",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "64"
+    }
+}

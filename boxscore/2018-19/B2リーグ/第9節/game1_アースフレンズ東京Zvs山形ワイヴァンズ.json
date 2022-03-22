@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3663,
+    "date": {
+        "season": "2018-19",
+        "month": "11.17",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "814人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "鈴木悟",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "92"
+    }
+}

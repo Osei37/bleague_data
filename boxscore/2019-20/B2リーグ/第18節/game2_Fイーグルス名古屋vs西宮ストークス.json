@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4988,
+    "date": {
+        "season": "2019-20",
+        "month": "1.19",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市中村スポーツセンター",
+        "attendance": "1181人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "秋山厚志",
+        "crew": "小島慶子"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "75",
+        "away": "85"
+    }
+}

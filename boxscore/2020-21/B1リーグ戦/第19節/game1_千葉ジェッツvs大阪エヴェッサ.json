@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6156,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "1839人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "緒方 崇",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "75",
+        "away": "78"
+    }
+}

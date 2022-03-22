@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6913,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "882人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "高野 晃平",
+        "crew": "那須 弘幸"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "81"
+    }
+}

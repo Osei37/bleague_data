@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4280,
+    "date": {
+        "season": "2019-20",
+        "month": "11.17",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5372人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "久米克弥",
+        "crew": "北沢岳夫"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "76",
+        "away": "81"
+    }
+}

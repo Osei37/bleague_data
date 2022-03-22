@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6830,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "616人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "加川 真",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "94"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7535,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": "[SAT]",
+        "setsu": "第6節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1677人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "伊藤 亮介",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "51"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1950,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "安来市民体育館",
+        "attendance": "1912人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "守谷圭介",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "97"
+    }
+}

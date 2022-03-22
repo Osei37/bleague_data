@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4366,
+    "date": {
+        "season": "2019-20",
+        "month": "12.25",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1628人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "伊藤亮介",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "70",
+        "away": "73"
+    }
+}

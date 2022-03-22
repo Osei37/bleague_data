@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3002,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "3263人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "守谷圭介",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "67",
+        "away": "79"
+    }
+}

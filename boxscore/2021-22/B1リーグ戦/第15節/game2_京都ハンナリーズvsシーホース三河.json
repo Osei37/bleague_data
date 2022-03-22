@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7699,
+    "date": {
+        "season": "2021-22",
+        "month": "1.03",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "1036人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "蒲 健一",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "72",
+        "away": "71"
+    }
+}

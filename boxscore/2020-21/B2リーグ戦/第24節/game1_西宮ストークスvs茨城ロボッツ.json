@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6806,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加古川市立総合体育館",
+        "attendance": "445人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "大谷 英紀",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "49"
+    }
+}

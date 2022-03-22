@@ -1,0 +1,27 @@
+{
+    "schedule_key": 893,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "632人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "鬼頭 英伸",
+        "crew": "LAW DAVID"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "69"
+    }
+}

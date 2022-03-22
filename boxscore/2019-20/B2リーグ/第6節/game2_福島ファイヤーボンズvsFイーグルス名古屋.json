@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4777,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "猪苗代町総合体育館",
+        "attendance": "657人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "平澤明男",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "80",
+        "away": "86"
+    }
+}

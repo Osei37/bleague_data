@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3871,
+    "date": {
+        "season": "2018-19",
+        "month": "2.09",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1807人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "大谷英紀",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "77",
+        "away": "64"
+    }
+}

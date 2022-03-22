@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1946,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "三重県営サンアリーナ",
+        "attendance": "1148人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "清水幹治",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "93"
+    }
+}

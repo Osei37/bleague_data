@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3149,
+    "date": {
+        "season": "2018-19",
+        "month": "11.23",
+        "week": "[FRI]",
+        "setsu": "第11節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2251人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "宇地原尚彦",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "66",
+        "away": "87"
+    }
+}

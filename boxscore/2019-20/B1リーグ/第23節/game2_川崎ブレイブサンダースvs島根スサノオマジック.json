@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4491,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4829人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "東祐二",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "106",
+        "away": "74"
+    }
+}

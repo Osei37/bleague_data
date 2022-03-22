@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6420,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1086人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "伊藤 亮介",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "92",
+        "away": "64"
+    }
+}

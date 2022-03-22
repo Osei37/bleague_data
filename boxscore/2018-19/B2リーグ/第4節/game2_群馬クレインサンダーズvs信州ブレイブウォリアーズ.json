@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3587,
+    "date": {
+        "season": "2018-19",
+        "month": "10.20",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "712人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "長谷川裕",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "88"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6004,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1707人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "鈴木 悟",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "68",
+        "away": "72"
+    }
+}

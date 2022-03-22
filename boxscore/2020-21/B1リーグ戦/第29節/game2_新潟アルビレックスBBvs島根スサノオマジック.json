@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6325,
+    "date": {
+        "season": "2020-21",
+        "month": "5.10",
+        "week": "[MON]",
+        "setsu": "第29節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "874人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "丸山 大",
+        "crew": "遠藤 大輔"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "90",
+        "away": "92"
+    }
+}

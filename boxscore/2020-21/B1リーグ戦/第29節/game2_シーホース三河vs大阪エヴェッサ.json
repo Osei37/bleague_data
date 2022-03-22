@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6327,
+    "date": {
+        "season": "2020-21",
+        "month": "5.09",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1363人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "守谷 圭介",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "97",
+        "away": "84"
+    }
+}

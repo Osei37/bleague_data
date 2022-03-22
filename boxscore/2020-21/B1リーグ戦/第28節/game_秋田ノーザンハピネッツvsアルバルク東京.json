@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6304,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1914人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "久米 克弥",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "62",
+        "away": "76"
+    }
+}

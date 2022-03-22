@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3824,
+    "date": {
+        "season": "2018-19",
+        "month": "1.27",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "4207人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "鈴木悟",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "84"
+    }
+}

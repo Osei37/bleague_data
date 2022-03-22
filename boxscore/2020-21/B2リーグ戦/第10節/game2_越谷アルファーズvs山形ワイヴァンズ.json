@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6595,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "989人"
+    },
+    "referee": {
+        "first": "細田 知宏",
+        "second": "石田 祐二",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "86"
+    }
+}

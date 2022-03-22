@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2013,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "2238人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "甲斐清",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "69",
+        "away": "61"
+    }
+}

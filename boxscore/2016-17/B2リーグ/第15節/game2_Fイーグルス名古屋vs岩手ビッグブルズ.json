@@ -1,0 +1,27 @@
+{
+    "schedule_key": 807,
+    "date": {
+        "season": "2016-17",
+        "month": "1.22",
+        "week": "[Sun]",
+        "setsu": "第15節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "565人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "清水幹治",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "64"
+    }
+}

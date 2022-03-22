@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5082,
+    "date": {
+        "season": "2019-20",
+        "month": "2.22",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1112人"
+    },
+    "referee": {
+        "first": "大野哲広",
+        "second": "松岡隆博",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "71"
+    }
+}

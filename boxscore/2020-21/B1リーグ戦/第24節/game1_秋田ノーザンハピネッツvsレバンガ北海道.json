@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6234,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "タクミアリーナ",
+        "attendance": "1140人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "加川 真",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "81",
+        "away": "73"
+    }
+}

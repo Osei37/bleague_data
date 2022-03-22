@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2430,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1126人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "玉木彰治",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "84"
+    }
+}

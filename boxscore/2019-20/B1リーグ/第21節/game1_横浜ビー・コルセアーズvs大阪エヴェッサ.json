@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4454,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2536人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "冨島健司",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "75",
+        "away": "70"
+    }
+}

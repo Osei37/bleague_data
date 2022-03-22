@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3925,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1136人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "鬼頭英伸",
+        "crew": "大谷英紀"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "83",
+        "away": "81"
+    }
+}

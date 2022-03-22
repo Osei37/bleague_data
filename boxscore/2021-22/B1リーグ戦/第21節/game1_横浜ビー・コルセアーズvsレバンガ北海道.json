@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7800,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1175人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "佐藤 誠",
+        "crew": "谷古宇 孝"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "86",
+        "away": "67"
+    }
+}

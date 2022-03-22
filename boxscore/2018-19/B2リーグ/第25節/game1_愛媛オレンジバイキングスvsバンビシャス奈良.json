@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3947,
+    "date": {
+        "season": "2018-19",
+        "month": "3.09",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊方スポーツセンター",
+        "attendance": "717人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "橋本恵一",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "78",
+        "away": "67"
+    }
+}

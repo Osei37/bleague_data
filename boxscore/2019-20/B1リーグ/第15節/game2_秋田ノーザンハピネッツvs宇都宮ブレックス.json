@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4370,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "4396人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "小澤勤",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "78"
+    }
+}

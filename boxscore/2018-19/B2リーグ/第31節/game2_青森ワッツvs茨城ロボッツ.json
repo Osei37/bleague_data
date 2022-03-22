@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4031,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カクヒログループスタジアム",
+        "attendance": "1655人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "冨士将史",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "74",
+        "away": "71"
+    }
+}

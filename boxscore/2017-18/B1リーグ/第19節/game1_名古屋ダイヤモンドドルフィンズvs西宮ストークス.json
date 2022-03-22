@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1889,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "3693人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "北島寛臣",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "86",
+        "away": "73"
+    }
+}

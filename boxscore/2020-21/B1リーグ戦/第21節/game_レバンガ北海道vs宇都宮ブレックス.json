@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6194,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1661人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "阿部 聖",
+        "crew": "田中 充"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "85",
+        "away": "87"
+    }
+}

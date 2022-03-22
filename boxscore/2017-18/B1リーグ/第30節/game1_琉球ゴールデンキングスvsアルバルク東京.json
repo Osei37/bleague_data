@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2084,
+    "date": {
+        "season": "2017-18",
+        "month": "4.28",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3701人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "平出剛",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "77",
+        "away": "60"
+    }
+}

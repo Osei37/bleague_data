@@ -1,0 +1,27 @@
+{
+    "schedule_key": 427,
+    "date": {
+        "season": "2016-17",
+        "month": "4.01",
+        "week": "[Sat]",
+        "setsu": "第26節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3904人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "高城邦弘",
+        "crew": "北沢岳夫"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "80",
+        "away": "66"
+    }
+}

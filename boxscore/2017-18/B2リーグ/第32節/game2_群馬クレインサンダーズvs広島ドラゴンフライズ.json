@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2642,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1470人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "小田中涼子",
+        "crew": "山本邦博"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "105"
+    }
+}

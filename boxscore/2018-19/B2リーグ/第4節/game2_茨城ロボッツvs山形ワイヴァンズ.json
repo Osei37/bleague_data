@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3585,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1842人"
+    },
+    "referee": {
+        "first": "管祐介",
+        "second": "中川行臣",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "85"
+    }
+}

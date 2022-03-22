@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2624,
+    "date": {
+        "season": "2017-18",
+        "month": "4.28",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "1724人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "守谷圭介",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "75",
+        "away": "81"
+    }
+}

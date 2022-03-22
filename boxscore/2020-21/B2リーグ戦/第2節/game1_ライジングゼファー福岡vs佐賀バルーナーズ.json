@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6482,
+    "date": {
+        "season": "2020-21",
+        "month": "10.10",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1354人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "大谷 英紀",
+        "crew": "前花 直哉"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "85"
+    }
+}

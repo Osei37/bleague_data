@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4888,
+    "date": {
+        "season": "2019-20",
+        "month": "12.06",
+        "week": "[FRI]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "713人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "東條輝正",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "80"
+    }
+}

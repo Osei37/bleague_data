@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1789,
+    "date": {
+        "season": "2017-18",
+        "month": "12.23",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4243人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "上田信彦",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "64",
+        "away": "74"
+    }
+}

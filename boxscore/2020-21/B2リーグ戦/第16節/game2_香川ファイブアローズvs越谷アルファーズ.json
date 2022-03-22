@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6689,
+    "date": {
+        "season": "2020-21",
+        "month": "1.10",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "379人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "田中 豊弘",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "96"
+    }
+}

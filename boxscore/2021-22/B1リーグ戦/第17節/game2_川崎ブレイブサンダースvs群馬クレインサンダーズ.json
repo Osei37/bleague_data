@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7737,
+    "date": {
+        "season": "2021-22",
+        "month": "2.13",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "1974人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "北沢 岳夫",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "81"
+    }
+}

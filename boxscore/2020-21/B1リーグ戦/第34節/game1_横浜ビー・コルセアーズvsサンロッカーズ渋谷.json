@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6400,
+    "date": {
+        "season": "2020-21",
+        "month": "4.17",
+        "week": "[SAT]",
+        "setsu": "第34節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "931人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "青木 俊博",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "67",
+        "away": "79"
+    }
+}

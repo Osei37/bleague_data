@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8100,
+    "date": {
+        "season": "2021-22",
+        "month": "10.09",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "637人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "砂川 卓嗣",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "93"
+    }
+}

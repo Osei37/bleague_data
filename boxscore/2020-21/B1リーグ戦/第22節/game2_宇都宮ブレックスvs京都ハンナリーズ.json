@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6207,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1680人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "大野 太裕",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "71"
+    }
+}

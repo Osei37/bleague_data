@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1894,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "6001人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "伊藤亮介",
+        "crew": "須黒祥子"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "79",
+        "away": "91"
+    }
+}

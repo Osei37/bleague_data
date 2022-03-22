@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6354,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1508人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "北沢 岳夫",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "74",
+        "away": "103"
+    }
+}

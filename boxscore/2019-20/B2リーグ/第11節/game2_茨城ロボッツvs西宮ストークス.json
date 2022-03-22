@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4867,
+    "date": {
+        "season": "2019-20",
+        "month": "11.23",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1864人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "和嶋陽一",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "82",
+        "away": "71"
+    }
+}

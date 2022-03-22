@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6047,
+    "date": {
+        "season": "2020-21",
+        "month": "12.13",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1982人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "加川 真",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "75",
+        "away": "49"
+    }
+}

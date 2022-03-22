@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7672,
+    "date": {
+        "season": "2021-22",
+        "month": "12.26",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1595人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "久保 知仁",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "90",
+        "away": "77"
+    }
+}

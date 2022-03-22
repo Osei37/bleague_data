@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8168,
+    "date": {
+        "season": "2021-22",
+        "month": "11.16",
+        "week": "[TUE]",
+        "setsu": "第7節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "とらまるてぶくろ体育館",
+        "attendance": "226人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "辻 健太郎",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "92",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6667,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "921人"
+    },
+    "referee": {
+        "first": "佐藤 誠",
+        "second": "山内 正隆",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "98",
+        "away": "81"
+    }
+}

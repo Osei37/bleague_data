@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1090,
+    "date": {
+        "season": "2016-17",
+        "month": "10.01",
+        "week": "unknown",
+        "setsu": "unknown",
+        "time": "unknown"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "長尾繁徳",
+        "second": "遠藤大輔",
+        "crew": "廣瀬渉"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "62"
+    }
+}

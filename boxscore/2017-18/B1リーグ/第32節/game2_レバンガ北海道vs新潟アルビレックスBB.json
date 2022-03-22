@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2096,
+    "date": {
+        "season": "2017-18",
+        "month": "5.07",
+        "week": "[MON]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4883人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "守谷圭介",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "74",
+        "away": "72"
+    }
+}

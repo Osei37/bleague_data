@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3606,
+    "date": {
+        "season": "2018-19",
+        "month": "10.24",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予市民体育館",
+        "attendance": "763人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "田中豊弘",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "81"
+    }
+}

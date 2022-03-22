@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3102,
+    "date": {
+        "season": "2018-19",
+        "month": "11.07",
+        "week": "[WED]",
+        "setsu": "第8節",
+        "time": "20:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3321人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "宇田津浩史",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "73",
+        "away": "77"
+    }
+}

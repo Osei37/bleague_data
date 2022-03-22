@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6878,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "グリーンアリーナ神戸",
+        "attendance": "1483人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "秋山 厚志",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "76",
+        "away": "64"
+    }
+}

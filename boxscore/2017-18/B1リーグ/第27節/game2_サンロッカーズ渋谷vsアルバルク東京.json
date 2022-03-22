@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2019,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2684人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "久保知仁",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "79",
+        "away": "72"
+    }
+}

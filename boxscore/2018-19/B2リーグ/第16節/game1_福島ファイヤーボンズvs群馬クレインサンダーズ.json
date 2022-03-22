@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3782,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1052人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "岩城和利",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "100"
+    }
+}

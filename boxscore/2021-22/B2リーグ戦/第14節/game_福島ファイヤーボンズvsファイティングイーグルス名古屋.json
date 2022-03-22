@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8257,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島トヨタクラウンアリーナ",
+        "attendance": "1166人"
+    },
+    "referee": {
+        "first": "久保 知仁",
+        "second": "山内 正隆",
+        "crew": "平澤 明男"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "75",
+        "away": "79"
+    }
+}

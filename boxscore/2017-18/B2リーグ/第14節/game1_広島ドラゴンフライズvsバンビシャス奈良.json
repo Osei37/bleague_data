@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2343,
+    "date": {
+        "season": "2017-18",
+        "month": "12.23",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島県立みよし公園アリーナ",
+        "attendance": "1128人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "茅野修司",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "83",
+        "away": "74"
+    }
+}

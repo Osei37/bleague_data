@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7550,
+    "date": {
+        "season": "2021-22",
+        "month": "11.10",
+        "week": "[WED]",
+        "setsu": "第7節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1447人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "丸山 大",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "94",
+        "away": "102"
+    }
+}

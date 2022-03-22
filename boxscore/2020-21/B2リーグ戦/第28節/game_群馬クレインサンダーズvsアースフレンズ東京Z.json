@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6858,
+    "date": {
+        "season": "2020-21",
+        "month": "4.21",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "蒲 健一",
+        "second": "大井 陽平",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "79",
+        "away": "68"
+    }
+}

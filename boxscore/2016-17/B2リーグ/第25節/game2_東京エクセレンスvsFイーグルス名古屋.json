@@ -1,0 +1,27 @@
+{
+    "schedule_key": 994,
+    "date": {
+        "season": "2016-17",
+        "month": "4.01",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "1508人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "山内正隆",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "74",
+        "away": "95"
+    }
+}

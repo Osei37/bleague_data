@@ -1,0 +1,27 @@
+{
+    "schedule_key": 345,
+    "date": {
+        "season": "2016-17",
+        "month": "2.22",
+        "week": "[Wed]",
+        "setsu": "第21節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "2032人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "冨島健司",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "75",
+        "away": "77"
+    }
+}

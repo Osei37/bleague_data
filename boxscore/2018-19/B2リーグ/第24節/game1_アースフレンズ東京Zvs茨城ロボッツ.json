@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3915,
+    "date": {
+        "season": "2018-19",
+        "month": "3.04",
+        "week": "[MON]",
+        "setsu": "第24節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大森スポーツセンター",
+        "attendance": "677人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "中川行臣",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "94"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 969,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "1825人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "青木俊博",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "62",
+        "away": "94"
+    }
+}

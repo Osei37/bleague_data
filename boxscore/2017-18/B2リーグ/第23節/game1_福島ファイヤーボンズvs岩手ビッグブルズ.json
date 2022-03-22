@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2495,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1928人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "笠島喜与都",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "61"
+    }
+}

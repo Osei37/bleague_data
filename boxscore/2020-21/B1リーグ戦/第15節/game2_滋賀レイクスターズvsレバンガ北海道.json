@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6095,
+    "date": {
+        "season": "2020-21",
+        "month": "12.27",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "YMITアリーナ",
+        "attendance": "1514人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "青木 俊博",
+        "crew": "塩谷 禎"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "80",
+        "away": "77"
+    }
+}

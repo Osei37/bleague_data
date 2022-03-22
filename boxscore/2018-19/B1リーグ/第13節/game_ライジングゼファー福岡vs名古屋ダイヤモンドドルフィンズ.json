@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3182,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "3021人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "石田祐二",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "102"
+    }
+}

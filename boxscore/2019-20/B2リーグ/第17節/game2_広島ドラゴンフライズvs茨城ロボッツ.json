@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4974,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2335人"
+    },
+    "referee": {
+        "first": "東條輝正",
+        "second": "御手洗亮",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "87",
+        "away": "72"
+    }
+}

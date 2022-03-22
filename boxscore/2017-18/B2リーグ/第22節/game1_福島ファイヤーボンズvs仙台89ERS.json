@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2477,
+    "date": {
+        "season": "2017-18",
+        "month": "3.10",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島市国体記念体育館",
+        "attendance": "1781人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "針生淳男",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "77",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2102,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2706人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "小澤勤",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "75",
+        "away": "72"
+    }
+}

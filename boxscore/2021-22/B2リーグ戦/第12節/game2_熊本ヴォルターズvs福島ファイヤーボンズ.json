@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8240,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八代トヨオカ地建アリーナ",
+        "attendance": "882人"
+    },
+    "referee": {
+        "first": "秋山 厚志",
+        "second": "原田 拓朗",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "86"
+    }
+}

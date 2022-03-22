@@ -1,0 +1,27 @@
+{
+    "schedule_key": 451,
+    "date": {
+        "season": "2016-17",
+        "month": "4.09",
+        "week": "[Sun]",
+        "setsu": "第27節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県総合体育センター",
+        "attendance": "2632人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "山内俊幸",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "71",
+        "away": "81"
+    }
+}

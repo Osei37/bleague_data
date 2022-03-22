@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4495,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "2845人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "久米克弥",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "70",
+        "away": "75"
+    }
+}

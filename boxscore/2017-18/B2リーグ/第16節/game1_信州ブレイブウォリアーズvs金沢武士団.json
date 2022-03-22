@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2373,
+    "date": {
+        "season": "2017-18",
+        "month": "1.20",
+        "week": "[Sat]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2374人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "黒岡和哲",
+        "crew": "菊地真吾"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "60",
+        "away": "62"
+    }
+}

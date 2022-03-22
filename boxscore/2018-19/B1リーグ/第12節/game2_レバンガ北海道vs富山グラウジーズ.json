@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3158,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3903人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "久米克弥",
+        "crew": "加藤昌樹"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "91"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2519,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1407人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "那須弘幸",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "87",
+        "away": "78"
+    }
+}

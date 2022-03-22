@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8214,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台（仙台市体育館）",
+        "attendance": "1552人"
+    },
+    "referee": {
+        "first": "丸山 大",
+        "second": "北沢 あや子",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "75"
+    }
+}

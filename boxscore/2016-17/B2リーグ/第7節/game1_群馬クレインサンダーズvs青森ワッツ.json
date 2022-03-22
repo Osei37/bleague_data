@@ -1,0 +1,27 @@
+{
+    "schedule_key": 650,
+    "date": {
+        "season": "2016-17",
+        "month": "11.04",
+        "week": "[Fri]",
+        "setsu": "第7節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "672人"
+    },
+    "referee": {
+        "first": "関口 久視",
+        "second": "大河原 則人",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "91",
+        "away": "80"
+    }
+}

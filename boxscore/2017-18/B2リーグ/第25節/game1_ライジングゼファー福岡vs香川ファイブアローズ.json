@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2535,
+    "date": {
+        "season": "2017-18",
+        "month": "3.28",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": "655人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "小川隆三",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "74"
+    }
+}

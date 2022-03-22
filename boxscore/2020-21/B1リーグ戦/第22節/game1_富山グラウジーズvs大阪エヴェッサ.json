@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6212,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県総合体育センター",
+        "attendance": "1002人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "久保 知仁",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "101",
+        "away": "113"
+    }
+}

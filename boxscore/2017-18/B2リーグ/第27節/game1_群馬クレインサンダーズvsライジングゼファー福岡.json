@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2560,
+    "date": {
+        "season": "2017-18",
+        "month": "4.07",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1037人"
+    },
+    "referee": {
+        "first": "熊谷久美子",
+        "second": "前花直哉",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "91",
+        "away": "94"
+    }
+}

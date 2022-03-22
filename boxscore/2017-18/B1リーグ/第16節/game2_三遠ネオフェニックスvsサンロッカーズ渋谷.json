@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1834,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "湖西市アメニティプラザ",
+        "attendance": "1357人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "小澤勤",
+        "crew": "山本邦博"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "65",
+        "away": "56"
+    }
+}

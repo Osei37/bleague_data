@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3249,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3799人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "谷古宇孝",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "62"
+    }
+}

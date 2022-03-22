@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3870,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1333人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "高野 晃平",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "83"
+    }
+}

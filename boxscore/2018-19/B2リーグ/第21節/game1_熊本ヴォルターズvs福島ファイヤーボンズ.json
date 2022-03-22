@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3875,
+    "date": {
+        "season": "2018-19",
+        "month": "2.09",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "水俣市立総合体育館",
+        "attendance": "1506人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "白川一樹",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "110",
+        "away": "118"
+    }
+}

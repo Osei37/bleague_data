@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2425,
+    "date": {
+        "season": "2017-18",
+        "month": "2.10",
+        "week": "[Sat]",
+        "setsu": "第19節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1991人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "丸山大",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "94",
+        "away": "62"
+    }
+}

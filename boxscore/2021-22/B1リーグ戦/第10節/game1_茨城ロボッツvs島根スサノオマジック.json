@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7600,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1708人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "久米 克弥",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "59",
+        "away": "87"
+    }
+}

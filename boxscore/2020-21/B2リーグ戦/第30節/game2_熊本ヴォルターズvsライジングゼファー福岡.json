@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6901,
+    "date": {
+        "season": "2020-21",
+        "month": "4.11",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1121人"
+    },
+    "referee": {
+        "first": "黒岡 和哲",
+        "second": "蒲 健一",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "90",
+        "away": "88"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4361,
+    "date": {
+        "season": "2019-20",
+        "month": "12.25",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2603人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "清水幹治",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "86",
+        "away": "92"
+    }
+}

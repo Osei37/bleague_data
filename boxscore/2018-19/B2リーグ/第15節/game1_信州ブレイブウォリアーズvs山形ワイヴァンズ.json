@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3764,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1374人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "平澤明男",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "53"
+    }
+}

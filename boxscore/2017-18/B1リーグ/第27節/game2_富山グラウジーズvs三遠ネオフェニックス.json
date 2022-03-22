@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2025,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3103人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "東祐二",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "81",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5034,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "936人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "田中豊弘",
+        "crew": "山口尭彰"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "80"
+    }
+}

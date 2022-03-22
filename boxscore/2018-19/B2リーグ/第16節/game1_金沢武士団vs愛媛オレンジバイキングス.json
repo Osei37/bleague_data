@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3788,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "739人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "岩木太郎",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "92",
+        "away": "83"
+    }
+}

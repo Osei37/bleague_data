@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4901,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "377人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "遠藤大輔",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "67",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 277,
+    "date": {
+        "season": "2016-17",
+        "month": "1.22",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "栃木県立県北体育館",
+        "attendance": "2611人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "久米克弥",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "70",
+        "away": "79"
+    }
+}

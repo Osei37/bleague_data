@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1802,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "福知山・三段池公園　総合体育館",
+        "attendance": "1292人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "平出剛",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "91",
+        "away": "84"
+    }
+}

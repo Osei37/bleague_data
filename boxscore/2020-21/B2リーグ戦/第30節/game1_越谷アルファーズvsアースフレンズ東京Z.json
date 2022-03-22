@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6892,
+    "date": {
+        "season": "2020-21",
+        "month": "4.09",
+        "week": "[FRI]",
+        "setsu": "第30節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三郷市総合体育館",
+        "attendance": "201人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "遠藤 大輔",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "72",
+        "away": "77"
+    }
+}

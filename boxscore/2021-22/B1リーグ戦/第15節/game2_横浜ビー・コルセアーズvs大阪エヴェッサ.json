@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7693,
+    "date": {
+        "season": "2021-22",
+        "month": "1.03",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1827人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "加川 真",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "69",
+        "away": "98"
+    }
+}

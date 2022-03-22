@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3455,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3659人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "管祐介",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "86",
+        "away": "65"
+    }
+}

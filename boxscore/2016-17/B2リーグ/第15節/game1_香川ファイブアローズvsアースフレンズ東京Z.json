@@ -1,0 +1,27 @@
+{
+    "schedule_key": 801,
+    "date": {
+        "season": "2016-17",
+        "month": "1.21",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "476人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "那須弘幸",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "76",
+        "away": "75"
+    }
+}

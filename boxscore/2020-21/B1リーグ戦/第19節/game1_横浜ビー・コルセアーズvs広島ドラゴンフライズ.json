@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6162,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1517人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "佐藤 誠",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "73"
+    }
+}

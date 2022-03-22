@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1601,
+    "date": {
+        "season": "2017-18",
+        "month": "10.07",
+        "week": "[Sat]",
+        "setsu": "第2節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2488人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "清水幹治",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "89",
+        "away": "61"
+    }
+}

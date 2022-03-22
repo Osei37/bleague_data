@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4561,
+    "date": {
+        "season": "2019-20",
+        "month": "3.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "安西郷史",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "97",
+        "away": "71"
+    }
+}

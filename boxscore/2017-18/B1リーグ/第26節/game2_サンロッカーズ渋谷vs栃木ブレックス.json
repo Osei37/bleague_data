@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1999,
+    "date": {
+        "season": "2017-18",
+        "month": "3.31",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "2555人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "安西郷史",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "64",
+        "away": "76"
+    }
+}

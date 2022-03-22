@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3347,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ナイスアリーナ（由利本荘アリーナ）",
+        "attendance": "3825人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "細田知宏",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "73",
+        "away": "88"
+    }
+}

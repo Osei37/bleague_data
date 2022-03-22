@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2433,
+    "date": {
+        "season": "2017-18",
+        "month": "2.10",
+        "week": "[Sat]",
+        "setsu": "第19節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "2248人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "那須弘幸",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "96",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5021,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "662人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "渡邉浩二",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "57"
+    }
+}

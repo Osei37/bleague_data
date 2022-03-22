@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1012,
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[Sat]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2096人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "薦田 侑二郎",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "66",
+        "away": "64"
+    }
+}

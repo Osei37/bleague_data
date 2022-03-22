@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3162,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2034人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "片寄達",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "64",
+        "away": "58"
+    }
+}

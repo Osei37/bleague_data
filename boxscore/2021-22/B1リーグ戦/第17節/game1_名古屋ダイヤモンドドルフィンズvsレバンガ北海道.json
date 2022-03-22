@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7744,
+    "date": {
+        "season": "2021-22",
+        "month": "1.22",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1431人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "北沢 岳夫",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "90",
+        "away": "60"
+    }
+}

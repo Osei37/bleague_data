@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7652,
+    "date": {
+        "season": "2021-22",
+        "month": "12.26",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2496人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "小澤 勤",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "82",
+        "away": "95"
+    }
+}

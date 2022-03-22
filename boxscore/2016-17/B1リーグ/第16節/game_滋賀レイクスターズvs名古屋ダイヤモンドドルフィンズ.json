@@ -1,0 +1,27 @@
+{
+    "schedule_key": 264,
+    "date": {
+        "season": "2016-17",
+        "month": "1.18",
+        "week": "[Wed]",
+        "setsu": "第16節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1633人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "冨島健司",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "62",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 827,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "呉市総合体育館（オークアリーナ）",
+        "attendance": "1632人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "田中豊弘",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "88",
+        "away": "75"
+    }
+}

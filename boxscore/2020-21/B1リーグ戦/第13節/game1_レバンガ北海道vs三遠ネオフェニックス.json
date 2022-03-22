@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6044,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1444人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "久米 克弥",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 859,
+    "date": {
+        "season": "2016-17",
+        "month": "2.12",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "善通寺市民体育館",
+        "attendance": "463人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "飯尾勝紀",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "85",
+        "away": "92"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3514,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "3551人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "小澤勤",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "88"
+    }
+}

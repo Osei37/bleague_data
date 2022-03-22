@@ -1,0 +1,27 @@
+{
+    "schedule_key": 780,
+    "date": {
+        "season": "2016-17",
+        "month": "12.31",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "734人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "東考生",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "72",
+        "away": "64"
+    }
+}

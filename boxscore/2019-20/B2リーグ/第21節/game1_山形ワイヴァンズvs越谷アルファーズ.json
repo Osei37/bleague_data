@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5028,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1391人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "針生淳男",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "88"
+    }
+}

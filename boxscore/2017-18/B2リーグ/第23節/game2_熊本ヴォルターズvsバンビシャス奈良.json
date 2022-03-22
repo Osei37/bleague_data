@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2508,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八代市総合体育館",
+        "attendance": "1586人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "岩木太郎",
+        "crew": "小川隆三"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "97",
+        "away": "85"
+    }
+}

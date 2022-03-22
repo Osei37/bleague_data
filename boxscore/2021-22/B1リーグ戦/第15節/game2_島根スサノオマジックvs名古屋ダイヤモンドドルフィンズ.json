@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7701,
+    "date": {
+        "season": "2021-22",
+        "month": "1.03",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1898人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "伊藤 亮介",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "81"
+    }
+}

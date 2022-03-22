@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3625,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三沢市国際交流スポーツセンター",
+        "attendance": "1432人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "長谷川裕",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "79",
+        "away": "87"
+    }
+}

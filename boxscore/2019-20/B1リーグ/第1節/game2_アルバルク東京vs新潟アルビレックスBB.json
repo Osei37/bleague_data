@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4156,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2518人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "甲斐清",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "94",
+        "away": "84"
+    }
+}

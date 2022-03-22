@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3277,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2229人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "谷古宇孝",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "70",
+        "away": "79"
+    }
+}

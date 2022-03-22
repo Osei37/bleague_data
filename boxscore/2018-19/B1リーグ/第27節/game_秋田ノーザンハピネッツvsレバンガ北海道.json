@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3382,
+    "date": {
+        "season": "2018-19",
+        "month": "3.13",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "4830人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "阿部聖",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "76",
+        "away": "52"
+    }
+}

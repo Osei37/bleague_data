@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6926,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "684人"
+    },
+    "referee": {
+        "first": "大野 哲広",
+        "second": "加藤 昌樹",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5064,
+    "date": {
+        "season": "2019-20",
+        "month": "2.15",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1814人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "平澤明男",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "48",
+        "away": "58"
+    }
+}

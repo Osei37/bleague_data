@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4214,
+    "date": {
+        "season": "2019-20",
+        "month": "10.23",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4306人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "阿部聖",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "63",
+        "away": "78"
+    }
+}

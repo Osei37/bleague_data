@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6789,
+    "date": {
+        "season": "2020-21",
+        "month": "2.28",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "464人"
+    },
+    "referee": {
+        "first": "久保 知仁",
+        "second": "内野 翔太",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "85",
+        "away": "73"
+    }
+}

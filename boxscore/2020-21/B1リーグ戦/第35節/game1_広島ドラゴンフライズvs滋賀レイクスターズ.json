@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6430,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1179人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "守谷 圭介",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "88"
+    }
+}

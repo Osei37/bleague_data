@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7845,
+    "date": {
+        "season": "2021-22",
+        "month": "3.09",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1166人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "加藤 昌樹",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "82",
+        "away": "85"
+    }
+}

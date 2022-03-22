@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7859,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "4271人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "鈴木 悟",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "76",
+        "away": "68"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 862,
+    "date": {
+        "season": "2016-17",
+        "month": "2.10",
+        "week": "[Fri]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大洲市総合体育館",
+        "attendance": "653人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "宇田津浩史",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "73"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2606,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北九州市総合体育館",
+        "attendance": "2408人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "田中豊弘",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "72"
+    }
+}

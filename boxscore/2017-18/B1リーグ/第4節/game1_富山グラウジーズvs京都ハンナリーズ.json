@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1637,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県総合体育センター",
+        "attendance": "1522人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "漆間大吾",
+        "crew": "大倉守正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "92"
+    }
+}

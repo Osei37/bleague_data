@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4960,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2426人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "早崎康祐",
+        "crew": "富樫彰子"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "71",
+        "away": "70"
+    }
+}

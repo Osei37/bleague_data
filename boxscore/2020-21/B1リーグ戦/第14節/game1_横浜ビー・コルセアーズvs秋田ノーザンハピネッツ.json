@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6072,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1316人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "谷古宇 孝",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "82"
+    }
+}

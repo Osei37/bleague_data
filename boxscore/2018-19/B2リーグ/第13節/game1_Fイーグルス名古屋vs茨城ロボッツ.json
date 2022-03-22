@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3734,
+    "date": {
+        "season": "2018-19",
+        "month": "12.15",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1021人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "中田英教",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "88",
+        "away": "106"
+    }
+}

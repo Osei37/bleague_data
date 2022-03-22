@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3323,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2248人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "高野 晃平",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "88",
+        "away": "85"
+    }
+}

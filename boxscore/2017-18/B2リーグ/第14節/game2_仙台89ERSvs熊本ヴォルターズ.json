@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2332,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2008人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "熊谷久美子",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "53"
+    }
+}

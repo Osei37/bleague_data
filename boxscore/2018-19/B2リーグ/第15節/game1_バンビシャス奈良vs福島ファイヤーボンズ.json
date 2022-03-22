@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3770,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1125人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "黒岡和哲",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "97"
+    }
+}

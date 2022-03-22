@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6596,
+    "date": {
+        "season": "2020-21",
+        "month": "12.05",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "705人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "茅野 修司",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "75"
+    }
+}

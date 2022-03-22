@@ -1,0 +1,27 @@
+{
+    "schedule_key": 765,
+    "date": {
+        "season": "2016-17",
+        "month": "12.24",
+        "week": "[Sat]",
+        "setsu": "第13節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1702人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "前花直哉",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "51",
+        "away": "64"
+    }
+}

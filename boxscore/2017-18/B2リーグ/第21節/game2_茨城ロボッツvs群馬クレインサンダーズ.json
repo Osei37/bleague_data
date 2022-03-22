@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2462,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1637人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "平澤明男",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "96"
+    }
+}

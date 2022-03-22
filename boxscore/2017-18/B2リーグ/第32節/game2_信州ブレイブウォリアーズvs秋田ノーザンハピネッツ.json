@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2646,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "1626人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "平澤明男",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "94"
+    }
+}

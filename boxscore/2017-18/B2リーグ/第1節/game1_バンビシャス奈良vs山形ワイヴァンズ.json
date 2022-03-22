@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2123,
+    "date": {
+        "season": "2017-18",
+        "month": "9.30",
+        "week": "[Sat]",
+        "setsu": "第1節",
+        "time": "18:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1070人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "東考生",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "80"
+    }
+}

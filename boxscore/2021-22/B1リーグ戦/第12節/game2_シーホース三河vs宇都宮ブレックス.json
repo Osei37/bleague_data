@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7642,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1584人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "大野 太裕",
+        "crew": "谷古宇 孝"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "62",
+        "away": "86"
+    }
+}

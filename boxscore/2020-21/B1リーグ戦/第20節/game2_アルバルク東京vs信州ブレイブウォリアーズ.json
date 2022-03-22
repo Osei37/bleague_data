@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6177,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "842人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "久保 知仁",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "68"
+    }
+}

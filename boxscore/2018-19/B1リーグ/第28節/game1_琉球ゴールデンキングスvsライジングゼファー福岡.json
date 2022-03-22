@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3407,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "宜野湾市立体育館",
+        "attendance": "2852人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "谷古宇孝",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "55"
+    }
+}

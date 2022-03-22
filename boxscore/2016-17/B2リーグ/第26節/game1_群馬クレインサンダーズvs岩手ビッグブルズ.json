@@ -1,0 +1,27 @@
+{
+    "schedule_key": 997,
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊勢崎市民体育館",
+        "attendance": "1606人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "田島寛治",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "65"
+    }
+}

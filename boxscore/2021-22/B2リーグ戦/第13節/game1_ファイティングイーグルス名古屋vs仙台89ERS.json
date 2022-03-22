@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8249,
+    "date": {
+        "season": "2021-22",
+        "month": "12.25",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "848人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "茅野 修司",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "71",
+        "away": "75"
+    }
+}

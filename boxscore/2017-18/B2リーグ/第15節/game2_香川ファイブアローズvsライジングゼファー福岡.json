@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2360,
+    "date": {
+        "season": "2017-18",
+        "month": "12.30",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1004人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "冨島健司",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "84",
+        "away": "83"
+    }
+}

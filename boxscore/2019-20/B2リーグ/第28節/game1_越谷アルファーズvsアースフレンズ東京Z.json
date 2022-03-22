@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5147,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "秋山厚志",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "84",
+        "away": "80"
+    }
+}

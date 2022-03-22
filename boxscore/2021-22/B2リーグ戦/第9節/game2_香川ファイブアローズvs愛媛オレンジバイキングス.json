@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8196,
+    "date": {
+        "season": "2021-22",
+        "month": "11.26",
+        "week": "[FRI]",
+        "setsu": "第9節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "とらまるてぶくろ体育館",
+        "attendance": "303人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "和嶋 陽一",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "98",
+        "away": "99"
+    }
+}

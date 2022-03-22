@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3247,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "駒沢オリンピック公園総合運動場体育館",
+        "attendance": "3557人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "相原伸康",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "79",
+        "away": "62"
+    }
+}

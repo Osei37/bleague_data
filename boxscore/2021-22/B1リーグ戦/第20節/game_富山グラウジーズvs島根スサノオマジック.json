@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7788,
+    "date": {
+        "season": "2021-22",
+        "month": "2.02",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "861人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "和嶋 陽一",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "75",
+        "away": "91"
+    }
+}

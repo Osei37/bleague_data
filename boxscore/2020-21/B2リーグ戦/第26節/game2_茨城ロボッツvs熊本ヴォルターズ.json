@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6835,
+    "date": {
+        "season": "2020-21",
+        "month": "4.07",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "417人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "一色 渉",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "107",
+        "away": "71"
+    }
+}

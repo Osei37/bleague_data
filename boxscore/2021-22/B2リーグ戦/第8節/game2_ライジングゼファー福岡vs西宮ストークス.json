@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8182,
+    "date": {
+        "season": "2021-22",
+        "month": "11.23",
+        "week": "[TUE]",
+        "setsu": "第8節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大川市民体育館",
+        "attendance": "557人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "岩城 和利",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "92",
+        "away": "81"
+    }
+}

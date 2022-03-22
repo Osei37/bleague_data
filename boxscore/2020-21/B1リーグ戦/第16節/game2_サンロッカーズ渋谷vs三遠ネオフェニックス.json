@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6111,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "957人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "谷古宇 孝",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "105",
+        "away": "64"
+    }
+}

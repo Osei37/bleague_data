@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2446,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "小松市末広体育館",
+        "attendance": "982人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "茅野修司",
+        "crew": "山本邦博"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "63",
+        "away": "58"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2092,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2277人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "宇田津浩史",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "65",
+        "away": "77"
+    }
+}

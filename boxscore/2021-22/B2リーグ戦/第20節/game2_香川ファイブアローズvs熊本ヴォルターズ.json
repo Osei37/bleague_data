@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8332,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "とらまるてぶくろ体育館",
+        "attendance": "234人"
+    },
+    "referee": {
+        "first": "飯尾 勝紀",
+        "second": "茅野 修司",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "105",
+        "away": "91"
+    }
+}

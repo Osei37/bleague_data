@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6699,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "621人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "遠藤 大輔",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "102",
+        "away": "72"
+    }
+}

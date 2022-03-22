@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4847,
+    "date": {
+        "season": "2019-20",
+        "month": "11.16",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館サブアリーナ",
+        "attendance": "326人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "細田知宏",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "84",
+        "away": "97"
+    }
+}

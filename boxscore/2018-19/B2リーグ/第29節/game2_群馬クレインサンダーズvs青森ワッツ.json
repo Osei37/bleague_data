@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3999,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1663人"
+    },
+    "referee": {
+        "first": "管祐介",
+        "second": "井出 啓太",
+        "crew": "小田中涼子"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "93",
+        "away": "88"
+    }
+}

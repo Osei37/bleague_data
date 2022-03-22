@@ -1,0 +1,27 @@
+{
+    "schedule_key": 480,
+    "date": {
+        "season": "2016-17",
+        "month": "4.22",
+        "week": "[Sat]",
+        "setsu": "第29節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "3054人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "加藤昌樹",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "96",
+        "away": "53"
+    }
+}

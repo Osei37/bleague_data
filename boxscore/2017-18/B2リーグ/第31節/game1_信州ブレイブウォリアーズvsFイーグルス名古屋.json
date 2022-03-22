@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2631,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "847人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "菊地真吾",
+        "crew": "山本邦博"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "57",
+        "away": "85"
+    }
+}

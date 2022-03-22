@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2370,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1818人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "平澤明男",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "97",
+        "away": "89"
+    }
+}

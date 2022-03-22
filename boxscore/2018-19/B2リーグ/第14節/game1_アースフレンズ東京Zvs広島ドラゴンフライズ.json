@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3746,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "片柳アリーナ(日本工学院専門学校)",
+        "attendance": "1343人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "中田英教",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "54",
+        "away": "74"
+    }
+}

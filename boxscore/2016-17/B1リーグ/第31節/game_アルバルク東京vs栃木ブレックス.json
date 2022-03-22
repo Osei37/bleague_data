@@ -1,0 +1,27 @@
+{
+    "schedule_key": 521,
+    "date": {
+        "season": "2016-17",
+        "month": "5.03",
+        "week": "[Wed]",
+        "setsu": "第31節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "3246人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "久保知仁",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "76",
+        "away": "79"
+    }
+}

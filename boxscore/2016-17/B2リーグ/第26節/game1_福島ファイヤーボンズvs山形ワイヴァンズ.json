@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1007,
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[Sat]",
+        "setsu": "第26節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "807人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "山内正隆",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "76"
+    }
+}

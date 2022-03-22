@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4894,
+    "date": {
+        "season": "2019-20",
+        "month": "12.07",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1131人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "大谷英紀",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "82",
+        "away": "101"
+    }
+}

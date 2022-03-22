@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1639,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "2035人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "佐藤誠",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "89",
+        "away": "81"
+    }
+}

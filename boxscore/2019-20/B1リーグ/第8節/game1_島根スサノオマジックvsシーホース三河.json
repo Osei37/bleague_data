@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4275,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "島根県立浜山体育館",
+        "attendance": "2075人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "石田祐二",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "81",
+        "away": "77"
+    }
+}

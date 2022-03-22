@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3834,
+    "date": {
+        "season": "2018-19",
+        "month": "1.26",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2106人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "那須弘幸",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "89",
+        "away": "82"
+    }
+}

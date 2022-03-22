@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6736,
+    "date": {
+        "season": "2020-21",
+        "month": "4.30",
+        "week": "[FRI]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "952人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "大井 陽平",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "78",
+        "away": "81"
+    }
+}

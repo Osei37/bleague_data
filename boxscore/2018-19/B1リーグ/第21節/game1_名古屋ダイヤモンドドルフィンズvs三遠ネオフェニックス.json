@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3299,
+    "date": {
+        "season": "2018-19",
+        "month": "1.26",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2946人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "松本究",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "86",
+        "away": "105"
+    }
+}

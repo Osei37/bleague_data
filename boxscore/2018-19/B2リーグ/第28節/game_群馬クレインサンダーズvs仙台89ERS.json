@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3987,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1888人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "遠藤大輔",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "67",
+        "away": "69"
+    }
+}

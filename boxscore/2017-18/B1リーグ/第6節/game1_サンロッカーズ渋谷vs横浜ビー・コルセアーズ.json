@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1658,
+    "date": {
+        "season": "2017-18",
+        "month": "10.28",
+        "week": "[Sat]",
+        "setsu": "第6節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2011人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "高城邦弘",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "67"
+    }
+}

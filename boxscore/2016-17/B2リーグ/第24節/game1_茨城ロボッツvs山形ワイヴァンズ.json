@@ -1,0 +1,27 @@
+{
+    "schedule_key": 959,
+    "date": {
+        "season": "2016-17",
+        "month": "3.25",
+        "week": "[Sat]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日立市池の川さくらアリーナ",
+        "attendance": "674人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "加納 康平",
+        "crew": "東考生"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "72"
+    }
+}

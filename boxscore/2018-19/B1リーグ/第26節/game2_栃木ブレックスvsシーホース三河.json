@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3367,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4658人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "細田知宏",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "79",
+        "away": "56"
+    }
+}

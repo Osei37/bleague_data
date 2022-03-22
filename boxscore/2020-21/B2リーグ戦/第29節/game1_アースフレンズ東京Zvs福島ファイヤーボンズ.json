@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6876,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "540人"
+    },
+    "referee": {
+        "first": "蒲 健一",
+        "second": "一色 渉",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6710,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "448人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "熊谷 久美子",
+        "crew": "伊藤 睦哲"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "103"
+    }
+}

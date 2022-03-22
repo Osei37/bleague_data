@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3135,
+    "date": {
+        "season": "2018-19",
+        "month": "11.16",
+        "week": "[FRI]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "スカイホール豊田",
+        "attendance": "3160人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "清水幹治",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "71"
+    }
+}

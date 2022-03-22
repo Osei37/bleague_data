@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2063,
+    "date": {
+        "season": "2017-18",
+        "month": "4.22",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "3042人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "久保裕紀",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "76"
+    }
+}

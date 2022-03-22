@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7509,
+    "date": {
+        "season": "2021-22",
+        "month": "10.27",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2142人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "北沢 岳夫",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "100",
+        "away": "75"
+    }
+}

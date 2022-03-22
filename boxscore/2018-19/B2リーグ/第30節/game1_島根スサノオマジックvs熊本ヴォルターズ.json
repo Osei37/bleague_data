@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4024,
+    "date": {
+        "season": "2018-19",
+        "month": "4.05",
+        "week": "[FRI]",
+        "setsu": "第30節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "3060人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "加藤誉樹",
+        "crew": "岩木太郎"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "97"
+    }
+}

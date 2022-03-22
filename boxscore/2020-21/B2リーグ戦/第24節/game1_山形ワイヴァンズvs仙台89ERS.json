@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6800,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1041人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "一色 渉",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "76",
+        "away": "65"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6438,
+    "date": {
+        "season": "2020-21",
+        "month": "5.01",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2210人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "北沢 岳夫",
+        "crew": "久米 克弥"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "92",
+        "away": "81"
+    }
+}

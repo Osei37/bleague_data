@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3952,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "2224人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "小田中涼子",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "69",
+        "away": "77"
+    }
+}

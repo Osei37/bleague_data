@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4170,
+    "date": {
+        "season": "2019-20",
+        "month": "10.12",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4005人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "上田信彦",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "75",
+        "away": "53"
+    }
+}

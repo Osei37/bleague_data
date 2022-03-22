@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1918,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4777人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "阿部聖",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "93",
+        "away": "85"
+    }
+}

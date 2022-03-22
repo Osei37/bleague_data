@@ -1,0 +1,27 @@
+{
+    "schedule_key": 490,
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "2213人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "佐藤誠",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "81",
+        "away": "73"
+    }
+}

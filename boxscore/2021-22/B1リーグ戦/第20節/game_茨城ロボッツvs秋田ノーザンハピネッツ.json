@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7784,
+    "date": {
+        "season": "2021-22",
+        "month": "3.02",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "685人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "大野 太裕",
+        "crew": "谷古宇 孝"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "76"
+    }
+}

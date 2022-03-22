@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2348,
+    "date": {
+        "season": "2017-18",
+        "month": "12.31",
+        "week": "[Sun]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "1437人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "小田中涼子",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "94",
+        "away": "85"
+    }
+}

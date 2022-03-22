@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3685,
+    "date": {
+        "season": "2018-19",
+        "month": "11.23",
+        "week": "[FRI]",
+        "setsu": "第10節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "804人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "平澤明男",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "88",
+        "away": "83"
+    }
+}

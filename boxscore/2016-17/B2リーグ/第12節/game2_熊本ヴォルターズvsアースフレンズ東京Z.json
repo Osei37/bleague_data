@@ -1,0 +1,27 @@
+{
+    "schedule_key": 755,
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2544人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "東考生",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "68",
+        "away": "67"
+    }
+}

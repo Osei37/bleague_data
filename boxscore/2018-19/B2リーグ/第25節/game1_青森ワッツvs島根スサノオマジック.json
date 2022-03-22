@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3931,
+    "date": {
+        "season": "2018-19",
+        "month": "3.09",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三沢市国際交流スポーツセンター",
+        "attendance": "1306人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "大野太裕",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "80",
+        "away": "82"
+    }
+}

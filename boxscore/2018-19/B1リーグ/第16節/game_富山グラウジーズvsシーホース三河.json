@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3224,
+    "date": {
+        "season": "2018-19",
+        "month": "12.26",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3239人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "玉木彰治",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "88",
+        "away": "82"
+    }
+}

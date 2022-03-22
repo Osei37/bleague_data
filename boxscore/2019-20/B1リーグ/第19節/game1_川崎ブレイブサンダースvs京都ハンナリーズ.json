@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4427,
+    "date": {
+        "season": "2019-20",
+        "month": "1.24",
+        "week": "[FRI]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4304人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "安西郷史",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "82"
+    }
+}

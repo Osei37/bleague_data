@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3212,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2214人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "安西郷史",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "62"
+    }
+}

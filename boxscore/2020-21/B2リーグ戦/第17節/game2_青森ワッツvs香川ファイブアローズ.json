@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6695,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "569人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "北沢 あや子",
+        "crew": "山田 俊"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "85"
+    }
+}

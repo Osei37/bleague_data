@@ -1,0 +1,27 @@
+{
+    "schedule_key": 688,
+    "date": {
+        "season": "2016-17",
+        "month": "11.26",
+        "week": "[Sat]",
+        "setsu": "第9節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "816人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "吉田 剛",
+        "crew": "東条輝正"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "54",
+        "away": "66"
+    }
+}

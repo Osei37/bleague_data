@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3266,
+    "date": {
+        "season": "2018-19",
+        "month": "1.16",
+        "week": "[WED]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "5925人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "清水幹治",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "80",
+        "away": "71"
+    }
+}

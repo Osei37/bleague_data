@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6575,
+    "date": {
+        "season": "2020-21",
+        "month": "1.17",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青森県武道館",
+        "attendance": "502人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "熊谷 久美子",
+        "crew": "伊藤 睦哲"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "68"
+    }
+}

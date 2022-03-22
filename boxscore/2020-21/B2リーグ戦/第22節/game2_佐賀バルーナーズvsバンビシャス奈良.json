@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6781,
+    "date": {
+        "season": "2020-21",
+        "month": "2.21",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "883人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "原田 拓朗",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "78",
+        "away": "83"
+    }
+}

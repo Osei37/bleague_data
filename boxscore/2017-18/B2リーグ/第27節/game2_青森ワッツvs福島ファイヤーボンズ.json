@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2555,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "1683人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "鈴木悟",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "83"
+    }
+}

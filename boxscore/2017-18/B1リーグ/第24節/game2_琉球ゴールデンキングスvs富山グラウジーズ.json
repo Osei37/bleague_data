@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1986,
+    "date": {
+        "season": "2017-18",
+        "month": "3.25",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "石垣市総合体育館",
+        "attendance": "2216人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "久保知仁",
+        "crew": "加藤昌樹"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "80"
+    }
+}

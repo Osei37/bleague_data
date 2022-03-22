@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4055,
+    "date": {
+        "season": "2018-19",
+        "month": "4.21",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "2571人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "小田中涼子",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "72",
+        "away": "71"
+    }
+}

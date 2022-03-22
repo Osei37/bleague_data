@@ -1,0 +1,27 @@
+{
+    "schedule_key": 948,
+    "date": {
+        "season": "2016-17",
+        "month": "3.18",
+        "week": "[Sat]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1870人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "田島寛治",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "74"
+    }
+}

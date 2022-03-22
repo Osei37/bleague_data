@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6911,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "姫路市立中央体育館",
+        "attendance": "813人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "白川 一樹",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "103",
+        "away": "94"
+    }
+}

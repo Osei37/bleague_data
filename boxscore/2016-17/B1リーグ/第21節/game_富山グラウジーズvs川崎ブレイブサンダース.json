@@ -1,0 +1,27 @@
+{
+    "schedule_key": 344,
+    "date": {
+        "season": "2016-17",
+        "month": "2.22",
+        "week": "[Wed]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3024人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "橋本恵一",
+        "crew": "白川 直弘"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "88",
+        "away": "95"
+    }
+}

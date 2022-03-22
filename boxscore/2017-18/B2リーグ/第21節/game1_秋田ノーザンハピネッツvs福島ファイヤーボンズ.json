@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2457,
+    "date": {
+        "season": "2017-18",
+        "month": "3.03",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2764人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "谷古宇孝",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "69"
+    }
+}

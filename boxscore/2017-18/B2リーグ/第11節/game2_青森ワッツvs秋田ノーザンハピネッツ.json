@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2285,
+    "date": {
+        "season": "2017-18",
+        "month": "12.10",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "スポカルイン黒石",
+        "attendance": "1757人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "芳賀聡",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4201,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2161人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "北島寛臣",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "53"
+    }
+}

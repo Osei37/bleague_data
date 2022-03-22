@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2418,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2015人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "大谷英紀",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "64"
+    }
+}

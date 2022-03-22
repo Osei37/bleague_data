@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6301,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1522人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "黒岡 和哲",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "60"
+    }
+}

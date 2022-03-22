@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4947,
+    "date": {
+        "season": "2019-20",
+        "month": "12.28",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1812人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "大野哲広",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "99",
+        "away": "94"
+    }
+}

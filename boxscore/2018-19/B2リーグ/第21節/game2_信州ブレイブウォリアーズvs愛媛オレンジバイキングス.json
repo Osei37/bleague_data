@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3868,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "3030人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "嶋崎貴",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "93",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4885,
+    "date": {
+        "season": "2019-20",
+        "month": "12.07",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊勢崎市民体育館",
+        "attendance": "1083人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "丸山大",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "76",
+        "away": "71"
+    }
+}

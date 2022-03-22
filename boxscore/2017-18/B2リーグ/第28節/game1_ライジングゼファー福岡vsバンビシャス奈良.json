@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2586,
+    "date": {
+        "season": "2017-18",
+        "month": "4.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "1512人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "御手洗亮",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "80",
+        "away": "70"
+    }
+}

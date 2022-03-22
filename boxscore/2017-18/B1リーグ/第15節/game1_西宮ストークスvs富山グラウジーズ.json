@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1821,
+    "date": {
+        "season": "2017-18",
+        "month": "12.29",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1596人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "加藤昌樹",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "73"
+    }
+}

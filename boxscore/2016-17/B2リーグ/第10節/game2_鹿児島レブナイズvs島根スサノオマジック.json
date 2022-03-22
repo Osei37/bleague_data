@@ -1,0 +1,27 @@
+{
+    "schedule_key": 712,
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "霧島市国分体育館",
+        "attendance": "312人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "那須弘幸",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "57",
+        "away": "83"
+    }
+}

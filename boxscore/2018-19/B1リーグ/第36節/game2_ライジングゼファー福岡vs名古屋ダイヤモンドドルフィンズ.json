@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3523,
+    "date": {
+        "season": "2018-19",
+        "month": "4.21",
+        "week": "[SUN]",
+        "setsu": "第36節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "3208人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "堀内純",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "84"
+    }
+}

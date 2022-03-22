@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3361,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2614人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "青木俊博",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "85"
+    }
+}

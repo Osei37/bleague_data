@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1023,
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": "[Sun]",
+        "setsu": "第27節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "797人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "白川 直弘",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "76",
+        "away": "79"
+    }
+}

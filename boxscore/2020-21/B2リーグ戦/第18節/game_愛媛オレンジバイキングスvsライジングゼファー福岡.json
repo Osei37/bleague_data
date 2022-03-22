@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6717,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予市民体育館",
+        "attendance": "133人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "前花 直哉",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "118",
+        "away": "111"
+    }
+}

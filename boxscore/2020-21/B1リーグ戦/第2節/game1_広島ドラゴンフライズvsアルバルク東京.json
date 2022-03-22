@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5890,
+    "date": {
+        "season": "2020-21",
+        "month": "10.09",
+        "week": "[FRI]",
+        "setsu": "第2節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2061人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "青木 俊博",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "71",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 436,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第26節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3016人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "清水幹治",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "79",
+        "away": "70"
+    }
+}

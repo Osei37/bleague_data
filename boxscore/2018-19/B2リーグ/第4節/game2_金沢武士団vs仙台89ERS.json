@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3589,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加賀市スポーツセンター",
+        "attendance": "671人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "山内正隆",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "66",
+        "away": "76"
+    }
+}

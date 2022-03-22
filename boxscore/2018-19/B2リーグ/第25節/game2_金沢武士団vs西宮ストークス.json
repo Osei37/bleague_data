@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3942,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1254人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "加藤暁生",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "50",
+        "away": "89"
+    }
+}

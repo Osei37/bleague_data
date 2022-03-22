@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3226,
+    "date": {
+        "season": "2018-19",
+        "month": "12.26",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1907人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "伊藤亮介",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "71"
+    }
+}

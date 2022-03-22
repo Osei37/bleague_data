@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3680,
+    "date": {
+        "season": "2018-19",
+        "month": "11.25",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2834人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "小田中涼子",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "74",
+        "away": "72"
+    }
+}

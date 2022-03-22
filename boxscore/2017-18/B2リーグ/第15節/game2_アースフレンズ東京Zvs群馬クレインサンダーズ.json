@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2354,
+    "date": {
+        "season": "2017-18",
+        "month": "1.02",
+        "week": "[Tue]",
+        "setsu": "第15節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1878人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "熊谷久美子",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "78"
+    }
+}

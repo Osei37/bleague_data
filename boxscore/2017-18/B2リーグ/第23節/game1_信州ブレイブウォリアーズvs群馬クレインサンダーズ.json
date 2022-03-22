@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2501,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "760人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "白川直弘",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "53"
+    }
+}

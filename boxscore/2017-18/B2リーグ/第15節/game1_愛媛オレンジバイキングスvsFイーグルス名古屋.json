@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2361,
+    "date": {
+        "season": "2017-18",
+        "month": "12.29",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "今治市営中央体育館",
+        "attendance": "771人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "田中豊弘",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

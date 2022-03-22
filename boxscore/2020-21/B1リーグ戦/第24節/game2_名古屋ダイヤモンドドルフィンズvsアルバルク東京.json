@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6247,
+    "date": {
+        "season": "2020-21",
+        "month": "2.28",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2170人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "黒岡 和哲",
+        "crew": "塩谷 禎"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "85",
+        "away": "83"
+    }
+}

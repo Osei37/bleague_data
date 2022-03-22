@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6231,
+    "date": {
+        "season": "2020-21",
+        "month": "3.17",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1085人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "宇田津 浩史",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "58",
+        "away": "106"
+    }
+}

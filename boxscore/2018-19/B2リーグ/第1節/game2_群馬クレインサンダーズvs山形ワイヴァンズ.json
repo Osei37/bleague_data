@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3533,
+    "date": {
+        "season": "2018-19",
+        "month": "9.30",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "810人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "平澤明男",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "79"
+    }
+}

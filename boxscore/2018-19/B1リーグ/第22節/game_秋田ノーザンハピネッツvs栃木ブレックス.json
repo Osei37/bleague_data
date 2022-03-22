@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3301,
+    "date": {
+        "season": "2018-19",
+        "month": "1.30",
+        "week": "[WED]",
+        "setsu": "第22節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2634人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久米克弥",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "74",
+        "away": "78"
+    }
+}

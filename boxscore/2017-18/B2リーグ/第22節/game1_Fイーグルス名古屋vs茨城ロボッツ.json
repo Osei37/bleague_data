@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2485,
+    "date": {
+        "season": "2017-18",
+        "month": "3.10",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1393人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "岩木太郎",
+        "crew": "黒岡和哲"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "104",
+        "away": "110"
+    }
+}

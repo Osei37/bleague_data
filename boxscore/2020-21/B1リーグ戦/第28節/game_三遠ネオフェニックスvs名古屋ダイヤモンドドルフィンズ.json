@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6310,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1227人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "岩木 太郎",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "98"
+    }
+}

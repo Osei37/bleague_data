@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3756,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "673人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "大野哲広",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "63",
+        "away": "71"
+    }
+}

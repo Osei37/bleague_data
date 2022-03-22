@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6634,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "KAKINUMAアリーナ",
+        "attendance": "532人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "加川 真",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "89",
+        "away": "74"
+    }
+}

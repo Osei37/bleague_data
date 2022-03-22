@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2397,
+    "date": {
+        "season": "2017-18",
+        "month": "1.27",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "751人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "那須弘幸",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2394,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾総合市民体育館",
+        "attendance": "716人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "竹田 雄介",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "92",
+        "away": "78"
+    }
+}

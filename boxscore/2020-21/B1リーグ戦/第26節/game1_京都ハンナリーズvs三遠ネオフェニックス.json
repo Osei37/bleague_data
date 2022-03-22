@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6276,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "三重県営サンアリーナ",
+        "attendance": "592人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "塩谷 禎",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "78",
+        "away": "86"
+    }
+}

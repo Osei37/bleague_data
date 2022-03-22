@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3706,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1115人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "中川行臣",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "73"
+    }
+}

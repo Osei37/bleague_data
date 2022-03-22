@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4023,
+    "date": {
+        "season": "2018-19",
+        "month": "4.07",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1639人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "管祐介",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "70",
+        "away": "53"
+    }
+}

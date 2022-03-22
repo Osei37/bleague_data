@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5031,
+    "date": {
+        "season": "2019-20",
+        "month": "2.02",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "2558人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "高城邦弘",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "72"
+    }
+}

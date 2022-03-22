@@ -1,0 +1,27 @@
+{
+    "schedule_key": 564,
+    "date": {
+        "season": "2016-17",
+        "month": "10.01",
+        "week": "[Sat]",
+        "setsu": "第2節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1517人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "東考生",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "64"
+    }
+}

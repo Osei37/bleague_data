@@ -1,0 +1,27 @@
+{
+    "schedule_key": 99,
+    "date": {
+        "season": "2016-17",
+        "month": "10.30",
+        "week": "[Sun]",
+        "setsu": "第6節",
+        "time": "19:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2183人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "谷地温",
+        "crew": "大倉守正"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "61",
+        "away": "72"
+    }
+}

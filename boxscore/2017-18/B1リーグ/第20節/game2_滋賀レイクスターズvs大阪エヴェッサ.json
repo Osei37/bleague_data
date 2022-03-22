@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1912,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2527人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "清水幹治",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "73",
+        "away": "64"
+    }
+}

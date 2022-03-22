@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3375,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2585人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "安西郷史",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "92",
+        "away": "76"
+    }
+}

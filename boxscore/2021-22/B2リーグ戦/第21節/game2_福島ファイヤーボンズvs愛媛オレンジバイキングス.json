@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8344,
+    "date": {
+        "season": "2021-22",
+        "month": "2.12",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "いわき市立総合体育館",
+        "attendance": "428人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "嶋崎 貴",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "63",
+        "away": "78"
+    }
+}

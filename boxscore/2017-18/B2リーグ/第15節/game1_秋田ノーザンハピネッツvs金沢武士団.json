@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2349,
+    "date": {
+        "season": "2017-18",
+        "month": "12.29",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2670人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "加川真",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "69",
+        "away": "67"
+    }
+}

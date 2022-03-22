@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6463,
+    "date": {
+        "season": "2020-21",
+        "month": "10.04",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "390人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "加藤 昌樹",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "77"
+    }
+}

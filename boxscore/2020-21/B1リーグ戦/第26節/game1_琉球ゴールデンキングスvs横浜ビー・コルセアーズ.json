@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6282,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1451人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "名越 龍男",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "64"
+    }
+}

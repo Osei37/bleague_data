@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7721,
+    "date": {
+        "season": "2021-22",
+        "month": "3.13",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシン体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "名越 龍男",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "91"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6782,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "南三陸町総合体育館(ベイサイドアリーナ)",
+        "attendance": "663人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "松岡 隆博",
+        "crew": "伊藤 睦哲"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "95"
+    }
+}

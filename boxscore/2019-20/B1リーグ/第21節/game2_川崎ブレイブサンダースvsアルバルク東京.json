@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4453,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "5088人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "伊藤亮介",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "68",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6168,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "スカイホール豊田",
+        "attendance": "1445人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "名越 龍男",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2070,
+    "date": {
+        "season": "2017-18",
+        "month": "4.28",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "4331人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "大河原則人",
+        "crew": "谷地温"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "89",
+        "away": "86"
+    }
+}

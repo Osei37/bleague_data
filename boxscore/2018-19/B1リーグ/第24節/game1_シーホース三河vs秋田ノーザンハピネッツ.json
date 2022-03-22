@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3338,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "3014人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "安西郷史",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "58"
+    }
+}

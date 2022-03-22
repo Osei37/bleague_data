@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4053,
+    "date": {
+        "season": "2018-19",
+        "month": "4.21",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "2823人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "鈴木悟",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 55,
+    "date": {
+        "season": "2016-17",
+        "month": "10.13",
+        "week": "[Thu]",
+        "setsu": "第4節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2251人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "加藤昌樹",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "71",
+        "away": "85"
+    }
+}

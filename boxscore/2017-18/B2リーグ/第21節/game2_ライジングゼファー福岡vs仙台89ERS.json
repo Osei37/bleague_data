@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2472,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "みづま総合体育館",
+        "attendance": "1436人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "大谷英紀",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "58",
+        "away": "51"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6269,
+    "date": {
+        "season": "2020-21",
+        "month": "3.08",
+        "week": "[MON]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1272人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "久米 克弥",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "76",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6849,
+    "date": {
+        "season": "2020-21",
+        "month": "4.28",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "谷古宇 孝",
+        "second": "加藤 暁生",
+        "crew": "遠藤 大輔"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "100"
+    }
+}

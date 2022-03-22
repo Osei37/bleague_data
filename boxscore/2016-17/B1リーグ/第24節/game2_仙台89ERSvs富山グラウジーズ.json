@@ -1,0 +1,27 @@
+{
+    "schedule_key": 399,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2515人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "安西郷史",
+        "crew": "上田 信彦"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "88"
+    }
+}

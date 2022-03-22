@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6006,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2149人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "平原 勇次",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "60",
+        "away": "67"
+    }
+}

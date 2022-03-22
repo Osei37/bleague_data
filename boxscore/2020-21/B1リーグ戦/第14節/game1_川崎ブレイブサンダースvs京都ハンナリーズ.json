@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6070,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2465人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "久保 知仁",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "105"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6516,
+    "date": {
+        "season": "2020-21",
+        "month": "10.22",
+        "week": "[THU]",
+        "setsu": "第4節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "久留米アリーナ",
+        "attendance": "862人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "和嶋 陽一",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "72"
+    }
+}

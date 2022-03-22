@@ -1,0 +1,27 @@
+{
+    "schedule_key": 723,
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1296人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "大野 太裕",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "74"
+    }
+}

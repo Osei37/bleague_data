@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6735,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "697人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "加川 真",
+        "crew": "山田 俊"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "69",
+        "away": "94"
+    }
+}

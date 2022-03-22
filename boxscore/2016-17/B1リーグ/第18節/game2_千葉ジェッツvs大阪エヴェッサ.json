@@ -1,0 +1,27 @@
+{
+    "schedule_key": 296,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4073人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "高城邦弘",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "82",
+        "away": "61"
+    }
+}

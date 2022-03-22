@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4861,
+    "date": {
+        "season": "2019-20",
+        "month": "11.18",
+        "week": "[MON]",
+        "setsu": "第10節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ecowin宇土アリーナ",
+        "attendance": "1111人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "幡丸 登志久",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "70"
+    }
+}

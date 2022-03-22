@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5014,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "みづま総合体育館",
+        "attendance": "685人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "田中豊弘",
+        "crew": "小島慶子"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "81",
+        "away": "103"
+    }
+}

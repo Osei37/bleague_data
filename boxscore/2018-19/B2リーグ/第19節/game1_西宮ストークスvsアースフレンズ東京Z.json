@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3829,
+    "date": {
+        "season": "2018-19",
+        "month": "1.26",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "972人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "白川一樹",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "91",
+        "away": "80"
+    }
+}

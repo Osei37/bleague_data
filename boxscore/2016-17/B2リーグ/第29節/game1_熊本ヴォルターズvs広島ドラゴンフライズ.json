@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1062,
+    "date": {
+        "season": "2016-17",
+        "month": "4.29",
+        "week": "[Sat]",
+        "setsu": "第29節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "4356人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "平出 剛",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "74"
+    }
+}

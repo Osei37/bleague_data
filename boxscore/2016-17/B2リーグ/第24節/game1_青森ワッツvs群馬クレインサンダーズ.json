@@ -1,0 +1,27 @@
+{
+    "schedule_key": 957,
+    "date": {
+        "season": "2016-17",
+        "month": "3.25",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青森県武道館",
+        "attendance": "1651人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "上田信彦",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "77"
+    }
+}

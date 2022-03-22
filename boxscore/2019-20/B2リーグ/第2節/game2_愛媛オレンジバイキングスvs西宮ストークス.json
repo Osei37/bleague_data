@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4726,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1512人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "前花直哉",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "72",
+        "away": "81"
+    }
+}

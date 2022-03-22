@@ -1,0 +1,27 @@
+{
+    "schedule_key": 317,
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1504人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "大倉守正",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "73",
+        "away": "61"
+    }
+}

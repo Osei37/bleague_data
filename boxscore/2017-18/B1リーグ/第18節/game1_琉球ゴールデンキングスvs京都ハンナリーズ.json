@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1877,
+    "date": {
+        "season": "2017-18",
+        "month": "2.03",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3350人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "石田祐二",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "60"
+    }
+}

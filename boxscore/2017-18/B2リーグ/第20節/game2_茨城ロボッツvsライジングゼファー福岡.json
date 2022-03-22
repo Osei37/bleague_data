@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2444,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1405人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "鬼頭英伸",
+        "crew": "菊地真吾"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "60",
+        "away": "68"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4995,
+    "date": {
+        "season": "2019-20",
+        "month": "1.16",
+        "week": "[THU]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1409人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "遠藤大輔",
+        "crew": "尾形美樹"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "99"
+    }
+}

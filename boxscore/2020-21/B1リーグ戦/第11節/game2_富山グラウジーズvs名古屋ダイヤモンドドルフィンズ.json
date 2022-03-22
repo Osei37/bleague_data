@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6023,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "黒部市総合体育センター",
+        "attendance": "1510人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "東條 輝正",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "59"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3256,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2834人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "蒲健一",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "69",
+        "away": "59"
+    }
+}

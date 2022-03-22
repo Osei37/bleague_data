@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1876,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "12:55 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2610人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "倉口勉",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "75",
+        "away": "100"
+    }
+}

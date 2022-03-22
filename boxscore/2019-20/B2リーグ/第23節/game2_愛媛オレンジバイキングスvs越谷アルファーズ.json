@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5073,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1234人"
+    },
+    "referee": {
+        "first": "東條輝正",
+        "second": "石田祐二",
+        "crew": "皆川義紀"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "76"
+    }
+}

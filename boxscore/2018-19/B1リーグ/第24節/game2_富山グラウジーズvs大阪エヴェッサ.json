@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3337,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "4219人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "塩谷禎",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "100",
+        "away": "72"
+    }
+}

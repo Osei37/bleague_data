@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4015,
+    "date": {
+        "season": "2018-19",
+        "month": "4.07",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1893人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "石田祐二",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "72",
+        "away": "82"
+    }
+}

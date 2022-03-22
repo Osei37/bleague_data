@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3152,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "守山市民体育館",
+        "attendance": "2022人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "玉木彰治",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "78",
+        "away": "81"
+    }
+}

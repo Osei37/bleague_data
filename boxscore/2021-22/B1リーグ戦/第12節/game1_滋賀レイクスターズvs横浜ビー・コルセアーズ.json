@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7645,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1347人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "加川 真",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "72"
+    }
+}

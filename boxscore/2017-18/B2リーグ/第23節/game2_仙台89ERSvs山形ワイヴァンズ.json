@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2492,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2204人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "冨士将史",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "66"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 298,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2611人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "緒方崇",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "73"
+    }
+}

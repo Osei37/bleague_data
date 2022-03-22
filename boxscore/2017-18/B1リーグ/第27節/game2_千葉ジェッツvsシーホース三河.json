@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2017,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5360人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "高城邦弘",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "84",
+        "away": "102"
+    }
+}

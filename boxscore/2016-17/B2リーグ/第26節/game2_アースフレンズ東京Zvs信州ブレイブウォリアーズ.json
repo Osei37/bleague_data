@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1004,
+    "date": {
+        "season": "2016-17",
+        "month": "4.09",
+        "week": "[Sun]",
+        "setsu": "第26節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "944人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "青木俊博",
+        "crew": "白川 直弘"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "80"
+    }
+}

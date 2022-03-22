@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6614,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "734人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "松岡 隆博",
+        "crew": "山田 俊"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "62",
+        "away": "91"
+    }
+}

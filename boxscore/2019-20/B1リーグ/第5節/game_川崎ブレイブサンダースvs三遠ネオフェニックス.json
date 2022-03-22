@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4217,
+    "date": {
+        "season": "2019-20",
+        "month": "10.23",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4195人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "安西郷史",
+        "crew": "清水幹治"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "94",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2476,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "1291人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "山本邦博",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "64",
+        "away": "76"
+    }
+}

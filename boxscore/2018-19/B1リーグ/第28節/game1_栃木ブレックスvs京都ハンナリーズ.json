@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3395,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4232人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "安西郷史",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "60"
+    }
+}

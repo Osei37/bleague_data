@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3835,
+    "date": {
+        "season": "2018-19",
+        "month": "1.26",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "461人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "大谷英紀",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "96"
+    }
+}

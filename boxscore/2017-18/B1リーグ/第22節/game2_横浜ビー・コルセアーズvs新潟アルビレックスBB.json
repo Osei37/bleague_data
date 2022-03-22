@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1940,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "4562人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "阿部聖",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "91",
+        "away": "95"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1741,
+    "date": {
+        "season": "2017-18",
+        "month": "12.02",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": "3396人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "宇地原尚彦",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "70",
+        "away": "63"
+    }
+}

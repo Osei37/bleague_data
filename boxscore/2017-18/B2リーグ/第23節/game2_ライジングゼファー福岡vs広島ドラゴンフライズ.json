@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2506,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "2013人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "田中豊弘",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "82"
+    }
+}

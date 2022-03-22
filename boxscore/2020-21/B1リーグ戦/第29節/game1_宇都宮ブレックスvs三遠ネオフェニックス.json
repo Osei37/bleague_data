@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6314,
+    "date": {
+        "season": "2020-21",
+        "month": "3.27",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1831人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "大野 太裕",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "99",
+        "away": "55"
+    }
+}

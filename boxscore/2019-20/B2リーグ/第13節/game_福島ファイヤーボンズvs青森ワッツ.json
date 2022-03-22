@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4899,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1485人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "吉田剛",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "84"
+    }
+}

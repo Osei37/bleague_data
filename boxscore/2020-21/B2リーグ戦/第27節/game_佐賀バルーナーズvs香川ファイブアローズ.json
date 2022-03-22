@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6852,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "757人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "前花 直哉",
+        "crew": "小島 慶子"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "95"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1866,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2769人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "甲斐清",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "75",
+        "away": "90"
+    }
+}

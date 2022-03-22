@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7689,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2334人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "細田 知宏",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "74"
+    }
+}

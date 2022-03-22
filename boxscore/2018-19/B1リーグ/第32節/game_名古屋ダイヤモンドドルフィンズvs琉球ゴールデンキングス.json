@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3460,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2705人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "宇田津浩史",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "74",
+        "away": "60"
+    }
+}

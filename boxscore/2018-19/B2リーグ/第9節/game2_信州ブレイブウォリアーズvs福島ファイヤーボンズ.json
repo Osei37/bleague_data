@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3668,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1451人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "稲葉威",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "72"
+    }
+}

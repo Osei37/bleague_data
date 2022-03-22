@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6009,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1248人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "北島 寛臣",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "73",
+        "away": "66"
+    }
+}

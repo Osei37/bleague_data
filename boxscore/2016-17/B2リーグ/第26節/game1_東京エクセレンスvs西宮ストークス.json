@@ -1,0 +1,27 @@
+{
+    "schedule_key": 995,
+    "date": {
+        "season": "2016-17",
+        "month": "4.07",
+        "week": "[Fri]",
+        "setsu": "第26節",
+        "time": "19:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "811人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "加藤昌樹",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "82",
+        "away": "110"
+    }
+}

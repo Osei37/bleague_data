@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7599,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "2067人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "大野 太裕",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "75",
+        "away": "68"
+    }
+}

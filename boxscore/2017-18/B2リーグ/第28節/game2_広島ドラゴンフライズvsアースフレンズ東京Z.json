@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2583,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1911人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "薦田侑二郎",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "89",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6195,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1872人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "中道 凌平",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "76",
+        "away": "78"
+    }
+}

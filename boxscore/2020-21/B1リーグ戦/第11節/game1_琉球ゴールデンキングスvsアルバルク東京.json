@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6032,
+    "date": {
+        "season": "2020-21",
+        "month": "12.05",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1540人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "小澤 勤",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "87",
+        "away": "79"
+    }
+}

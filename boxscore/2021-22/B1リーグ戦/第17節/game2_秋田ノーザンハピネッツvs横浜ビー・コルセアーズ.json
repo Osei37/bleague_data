@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7729,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ナイスアリーナ",
+        "attendance": "1470人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "高城 邦弘",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "102"
+    }
+}

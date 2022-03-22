@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3062,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": "[SAT]",
+        "setsu": "第6節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "リージョンプラザ上越",
+        "attendance": "1952人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "針生淳男",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "77",
+        "away": "54"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1076,
+    "date": {
+        "season": "2016-17",
+        "month": "5.07",
+        "week": "[Sun]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "2117人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "北島寛臣",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "61"
+    }
+}

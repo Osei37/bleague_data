@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3982,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2170人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "宇田津浩史",
+        "crew": "北沢あや子"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "92"
+    }
+}

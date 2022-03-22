@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1071,
+    "date": {
+        "season": "2016-17",
+        "month": "5.06",
+        "week": "[Sat]",
+        "setsu": "第30節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "3253人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "平澤明男",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "67",
+        "away": "87"
+    }
+}

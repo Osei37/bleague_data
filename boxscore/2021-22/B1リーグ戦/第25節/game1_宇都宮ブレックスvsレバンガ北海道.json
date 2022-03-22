@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7864,
+    "date": {
+        "season": "2021-22",
+        "month": "3.19",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1851人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "宇田津 浩史",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "89",
+        "away": "98"
+    }
+}

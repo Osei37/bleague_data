@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1891,
+    "date": {
+        "season": "2017-18",
+        "month": "2.09",
+        "week": "[Fri]",
+        "setsu": "第19節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1906人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "倉口勉",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "89",
+        "away": "93"
+    }
+}

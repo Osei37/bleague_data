@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6378,
+    "date": {
+        "season": "2020-21",
+        "month": "4.10",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1218人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "市川 雄介",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "94",
+        "away": "87"
+    }
+}

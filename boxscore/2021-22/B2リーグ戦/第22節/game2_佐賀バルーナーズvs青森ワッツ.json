@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8366,
+    "date": {
+        "season": "2021-22",
+        "month": "2.20",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "473人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "皆川 義紀",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "77",
+        "away": "57"
+    }
+}

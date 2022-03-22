@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6341,
+    "date": {
+        "season": "2020-21",
+        "month": "3.31",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1082人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "甲斐 清",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "88"
+    }
+}

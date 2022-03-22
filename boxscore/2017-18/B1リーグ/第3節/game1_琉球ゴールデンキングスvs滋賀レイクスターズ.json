@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1625,
+    "date": {
+        "season": "2017-18",
+        "month": "10.14",
+        "week": "[Sat]",
+        "setsu": "第3節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3221人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "御手洗亮",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "53"
+    }
+}

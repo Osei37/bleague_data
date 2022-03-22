@@ -1,0 +1,27 @@
+{
+    "schedule_key": 972,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "観音寺市立総合体育館",
+        "attendance": "601人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "御手洗亮",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "86"
+    }
+}

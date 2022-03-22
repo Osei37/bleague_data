@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6225,
+    "date": {
+        "season": "2020-21",
+        "month": "4.21",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1946人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "大河原 則人",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "104",
+        "away": "73"
+    }
+}

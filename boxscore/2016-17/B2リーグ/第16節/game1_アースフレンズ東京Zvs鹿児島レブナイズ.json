@@ -1,0 +1,27 @@
+{
+    "schedule_key": 815,
+    "date": {
+        "season": "2016-17",
+        "month": "1.28",
+        "week": "[Sat]",
+        "setsu": "第16節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "714人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "平出 剛",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "66"
+    }
+}

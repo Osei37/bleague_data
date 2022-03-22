@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3725,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3008人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "和嶋陽一",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5058,
+    "date": {
+        "season": "2019-20",
+        "month": "2.08",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1825人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "岩木太郎",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "88"
+    }
+}

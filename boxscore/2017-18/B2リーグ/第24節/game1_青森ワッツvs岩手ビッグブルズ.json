@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2509,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青森県武道館",
+        "attendance": "1635人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "三好啓太",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "111",
+        "away": "87"
+    }
+}

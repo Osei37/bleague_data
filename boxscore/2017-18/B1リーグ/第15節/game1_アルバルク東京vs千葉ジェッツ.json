@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1809,
+    "date": {
+        "season": "2017-18",
+        "month": "12.31",
+        "week": "[Sun]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "駒沢オリンピック公園総合運動場体育館",
+        "attendance": "3592人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "宇地原尚彦",
+        "crew": "北沢岳夫"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "57",
+        "away": "56"
+    }
+}

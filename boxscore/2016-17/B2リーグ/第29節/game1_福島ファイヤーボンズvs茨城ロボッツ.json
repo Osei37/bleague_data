@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1058,
+    "date": {
+        "season": "2016-17",
+        "month": "5.01",
+        "week": "[Mon]",
+        "setsu": "第29節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "716人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "山内正隆",
+        "crew": "太田 匡俊"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "62",
+        "away": "85"
+    }
+}

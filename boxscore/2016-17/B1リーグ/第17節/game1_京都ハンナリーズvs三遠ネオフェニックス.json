@@ -1,0 +1,27 @@
+{
+    "schedule_key": 274,
+    "date": {
+        "season": "2016-17",
+        "month": "1.21",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1523人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "玉木彰治",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "81",
+        "away": "83"
+    }
+}

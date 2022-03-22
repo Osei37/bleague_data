@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6855,
+    "date": {
+        "season": "2020-21",
+        "month": "4.14",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "257人"
+    },
+    "referee": {
+        "first": "松岡 隆博",
+        "second": "中田 英教",
+        "crew": "伊藤 睦哲"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "80",
+        "away": "71"
+    }
+}

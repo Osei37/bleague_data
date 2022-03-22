@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3236,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2952人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "上田信彦",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "72",
+        "away": "79"
+    }
+}

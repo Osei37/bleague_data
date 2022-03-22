@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3666,
+    "date": {
+        "season": "2018-19",
+        "month": "11.17",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "759人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "中田英教",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "50",
+        "away": "95"
+    }
+}

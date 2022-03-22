@@ -1,0 +1,27 @@
+{
+    "schedule_key": 180,
+    "date": {
+        "season": "2016-17",
+        "month": "12.04",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3779人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "片寄達",
+        "crew": "加藤誉樹"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "74",
+        "away": "68"
+    }
+}

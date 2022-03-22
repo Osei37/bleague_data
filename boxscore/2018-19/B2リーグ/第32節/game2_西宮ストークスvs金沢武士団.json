@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4059,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "2490人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "黒岡和哲",
+        "crew": "白川一樹"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "61",
+        "away": "54"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2155,
+    "date": {
+        "season": "2017-18",
+        "month": "10.14",
+        "week": "[Sat]",
+        "setsu": "第3節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1144人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "菊地真吾",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "77",
+        "away": "47"
+    }
+}

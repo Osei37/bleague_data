@@ -1,0 +1,27 @@
+{
+    "schedule_key": 321,
+    "date": {
+        "season": "2016-17",
+        "month": "2.17",
+        "week": "[Fri]",
+        "setsu": "第20節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1326人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "稲葉威",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "102"
+    }
+}

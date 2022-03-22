@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4497,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3988人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "増渕泰久",
+        "crew": "小田中涼子"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "80"
+    }
+}

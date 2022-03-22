@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1942,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2113人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "東祐二",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "64",
+        "away": "62"
+    }
+}

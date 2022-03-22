@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2602,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1294人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "那須弘幸",
+        "crew": "東考生"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "75"
+    }
+}

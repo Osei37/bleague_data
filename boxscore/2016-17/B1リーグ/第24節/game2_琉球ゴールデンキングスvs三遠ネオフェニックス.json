@@ -1,0 +1,27 @@
+{
+    "schedule_key": 405,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3228人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "緒方崇",
+        "crew": "加藤誉樹"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "72",
+        "away": "68"
+    }
+}

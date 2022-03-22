@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4430,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": "3058人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "増渕泰久",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "66",
+        "away": "53"
+    }
+}

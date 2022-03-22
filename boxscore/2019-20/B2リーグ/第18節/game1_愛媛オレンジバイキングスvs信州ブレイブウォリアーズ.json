@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4993,
+    "date": {
+        "season": "2019-20",
+        "month": "1.17",
+        "week": "[FRI]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1425人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "豊田 康平",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "85"
+    }
+}

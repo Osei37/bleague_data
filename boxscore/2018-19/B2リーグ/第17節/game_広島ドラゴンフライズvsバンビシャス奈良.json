@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3802,
+    "date": {
+        "season": "2018-19",
+        "month": "1.15",
+        "week": "[TUE]",
+        "setsu": "第17節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2090人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "黒岡和哲",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "89",
+        "away": "78"
+    }
+}

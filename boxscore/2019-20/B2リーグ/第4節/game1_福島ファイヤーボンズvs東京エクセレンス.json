@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4747,
+    "date": {
+        "season": "2019-20",
+        "month": "1.10",
+        "week": "[FRI]",
+        "setsu": "第4節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "いわき市立総合体育館",
+        "attendance": "228人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "山内正隆",
+        "crew": "竹田雄介"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "63",
+        "away": "78"
+    }
+}

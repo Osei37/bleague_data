@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6730,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "349人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "秋山 厚志",
+        "crew": "御手洗 亮"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "86",
+        "away": "94"
+    }
+}

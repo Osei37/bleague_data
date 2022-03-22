@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3751,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1061人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "長谷川裕",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "73",
+        "away": "62"
+    }
+}

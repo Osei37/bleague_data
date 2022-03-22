@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3333,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "3093人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "久米克弥",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "65"
+    }
+}

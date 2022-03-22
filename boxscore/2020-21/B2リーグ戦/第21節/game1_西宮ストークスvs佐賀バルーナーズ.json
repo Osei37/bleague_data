@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6758,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝塚市立スポーツセンター",
+        "attendance": "419人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "大谷 英紀",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "83"
+    }
+}

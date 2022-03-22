@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3344,
+    "date": {
+        "season": "2018-19",
+        "month": "2.09",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3432人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "緒方崇",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "62",
+        "away": "76"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3225,
+    "date": {
+        "season": "2018-19",
+        "month": "12.26",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1949人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "久保知仁",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "64",
+        "away": "82"
+    }
+}

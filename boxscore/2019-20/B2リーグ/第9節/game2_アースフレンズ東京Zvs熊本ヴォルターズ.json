@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4839,
+    "date": {
+        "season": "2019-20",
+        "month": "11.12",
+        "week": "[TUE]",
+        "setsu": "第9節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "831人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "細田知宏",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "78"
+    }
+}

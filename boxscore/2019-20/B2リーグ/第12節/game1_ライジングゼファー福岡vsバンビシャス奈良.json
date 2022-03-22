@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4896,
+    "date": {
+        "season": "2019-20",
+        "month": "12.07",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1147人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "御手洗亮",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

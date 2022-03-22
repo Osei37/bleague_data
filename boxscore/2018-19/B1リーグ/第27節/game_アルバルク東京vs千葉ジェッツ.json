@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3383,
+    "date": {
+        "season": "2018-19",
+        "month": "3.13",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2968人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "細田知宏",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "62",
+        "away": "76"
+    }
+}

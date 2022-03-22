@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2620,
+    "date": {
+        "season": "2017-18",
+        "month": "4.28",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1415人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "白川一樹",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "65"
+    }
+}

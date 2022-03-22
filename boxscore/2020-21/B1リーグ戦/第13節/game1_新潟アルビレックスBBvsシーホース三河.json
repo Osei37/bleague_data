@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6052,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1682人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "眞榮喜 工",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "71",
+        "away": "94"
+    }
+}

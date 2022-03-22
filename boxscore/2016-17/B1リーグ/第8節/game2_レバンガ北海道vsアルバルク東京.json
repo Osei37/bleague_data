@@ -1,0 +1,27 @@
+{
+    "schedule_key": 137,
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "帯広市総合体育館",
+        "attendance": "2280人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "安西郷史",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "71",
+        "away": "83"
+    }
+}

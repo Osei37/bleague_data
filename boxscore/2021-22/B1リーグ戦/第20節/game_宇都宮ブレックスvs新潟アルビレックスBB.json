@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7785,
+    "date": {
+        "season": "2021-22",
+        "month": "2.02",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1218人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "宇田津 浩史",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "74",
+        "away": "51"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3430,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "3650人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "安西郷史",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "62",
+        "away": "67"
+    }
+}

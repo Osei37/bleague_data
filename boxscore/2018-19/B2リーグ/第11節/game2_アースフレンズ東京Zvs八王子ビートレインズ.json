@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3702,
+    "date": {
+        "season": "2018-19",
+        "month": "12.08",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1403人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "熊谷久美子",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3923,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加古川市立総合体育館",
+        "attendance": "2013人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "前花直哉",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "66"
+    }
+}

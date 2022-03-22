@@ -1,0 +1,27 @@
+{
+    "schedule_key": 839,
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1022人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "中田英教",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "54",
+        "away": "60"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4911,
+    "date": {
+        "season": "2019-20",
+        "month": "12.14",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "14:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1096人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "白川一樹",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "86"
+    }
+}

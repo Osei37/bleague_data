@@ -1,0 +1,27 @@
+{
+    "schedule_key": 204,
+    "date": {
+        "season": "2016-17",
+        "month": "12.11",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1611人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "冨島健司",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "85"
+    }
+}

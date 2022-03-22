@@ -1,0 +1,27 @@
+{
+    "schedule_key": 514,
+    "date": {
+        "season": "2016-17",
+        "month": "5.03",
+        "week": "[Wed]",
+        "setsu": "第31節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "7327人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "小澤勤",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "79",
+        "away": "76"
+    }
+}

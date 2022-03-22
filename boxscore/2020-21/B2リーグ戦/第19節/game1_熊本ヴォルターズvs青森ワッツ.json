@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6732,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "507人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "豊田 康平",
+        "crew": "大谷 英紀"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "94",
+        "away": "70"
+    }
+}

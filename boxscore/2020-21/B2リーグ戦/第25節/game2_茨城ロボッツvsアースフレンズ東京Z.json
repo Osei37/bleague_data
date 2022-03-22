@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6821,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1303人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "一色 渉",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "86",
+        "away": "68"
+    }
+}

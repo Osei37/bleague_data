@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3482,
+    "date": {
+        "season": "2018-19",
+        "month": "4.10",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "5023人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "谷古宇孝",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "91",
+        "away": "62"
+    }
+}

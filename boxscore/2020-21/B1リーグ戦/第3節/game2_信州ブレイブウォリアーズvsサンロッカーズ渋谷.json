@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5909,
+    "date": {
+        "season": "2020-21",
+        "month": "10.18",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1407人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "宇田津 浩史",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "61",
+        "away": "72"
+    }
+}

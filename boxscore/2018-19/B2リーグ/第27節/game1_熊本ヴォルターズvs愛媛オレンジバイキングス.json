@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3983,
+    "date": {
+        "season": "2018-19",
+        "month": "3.23",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "菊池市総合体育館",
+        "attendance": "1721人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "高野杏実",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "106",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2531,
+    "date": {
+        "season": "2017-18",
+        "month": "3.28",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "みどり市桐生大学グリーンアリーナ",
+        "attendance": "1191人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "丸山大",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "100",
+        "away": "60"
+    }
+}

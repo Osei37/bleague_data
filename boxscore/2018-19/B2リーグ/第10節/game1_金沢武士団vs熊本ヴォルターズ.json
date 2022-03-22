@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3687,
+    "date": {
+        "season": "2018-19",
+        "month": "11.23",
+        "week": "[FRI]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "いしかわ総合スポーツセンター",
+        "attendance": "985人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "那須弘幸",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "89"
+    }
+}

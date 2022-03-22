@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6752,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "732人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "谷地 温",
+        "crew": "松岡 隆博"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "100",
+        "away": "70"
+    }
+}

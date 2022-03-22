@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4417,
+    "date": {
+        "season": "2019-20",
+        "month": "1.22",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2362人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "名越龍男",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "78",
+        "away": "74"
+    }
+}

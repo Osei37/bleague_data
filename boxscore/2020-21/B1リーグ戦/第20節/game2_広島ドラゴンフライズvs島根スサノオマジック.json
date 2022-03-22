@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6191,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "13:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "エフピコアリーナふくやま",
+        "attendance": "1279人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "早崎 康祐",
+        "crew": "大谷 英紀"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "71",
+        "away": "86"
+    }
+}

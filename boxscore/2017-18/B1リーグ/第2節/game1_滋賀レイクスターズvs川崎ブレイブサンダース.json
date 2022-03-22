@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1605,
+    "date": {
+        "season": "2017-18",
+        "month": "10.07",
+        "week": "[Sat]",
+        "setsu": "第2節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2541人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "伊藤亮介",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "59",
+        "away": "76"
+    }
+}

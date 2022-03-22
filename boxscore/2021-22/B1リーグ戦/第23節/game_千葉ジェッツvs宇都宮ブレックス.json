@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7840,
+    "date": {
+        "season": "2021-22",
+        "month": "3.09",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2932人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "眞榮喜 工",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "93",
+        "away": "66"
+    }
+}

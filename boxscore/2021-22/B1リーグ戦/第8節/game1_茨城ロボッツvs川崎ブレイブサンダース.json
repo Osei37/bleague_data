@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7554,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1835人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "久保 知仁",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "96",
+        "away": "105"
+    }
+}

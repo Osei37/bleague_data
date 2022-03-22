@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4692,
+    "date": {
+        "season": "2019-20",
+        "month": "9.22",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "2001人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "小田中涼子",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "73"
+    }
+}

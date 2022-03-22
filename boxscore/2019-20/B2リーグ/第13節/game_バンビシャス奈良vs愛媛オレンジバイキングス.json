@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4904,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "650人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "岩木太郎",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "92",
+        "away": "95"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3742,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1281人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "冨士将史",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "81"
+    }
+}

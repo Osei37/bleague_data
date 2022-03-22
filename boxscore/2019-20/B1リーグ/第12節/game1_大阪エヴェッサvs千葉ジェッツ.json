@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4336,
+    "date": {
+        "season": "2019-20",
+        "month": "12.14",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "5415人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "加藤昌樹",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2493,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "4721人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "針生淳男",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "108",
+        "away": "92"
+    }
+}

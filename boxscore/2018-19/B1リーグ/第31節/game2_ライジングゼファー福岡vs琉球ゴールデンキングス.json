@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3453,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "2166人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "針生淳男",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "70",
+        "away": "86"
+    }
+}

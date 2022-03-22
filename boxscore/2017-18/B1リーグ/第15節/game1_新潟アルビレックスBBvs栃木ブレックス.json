@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1813,
+    "date": {
+        "season": "2017-18",
+        "month": "12.29",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4325人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "青木俊博",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "62",
+        "away": "71"
+    }
+}

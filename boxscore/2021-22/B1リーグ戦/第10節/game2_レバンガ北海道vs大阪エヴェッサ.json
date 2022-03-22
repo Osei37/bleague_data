@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7597,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1962人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "佐藤 誠",
+        "crew": "中川 行臣"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "80",
+        "away": "83"
+    }
+}

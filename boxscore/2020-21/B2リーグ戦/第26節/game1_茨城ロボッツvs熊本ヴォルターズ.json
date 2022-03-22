@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6834,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "884人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "大山 賢史",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "111",
+        "away": "82"
+    }
+}

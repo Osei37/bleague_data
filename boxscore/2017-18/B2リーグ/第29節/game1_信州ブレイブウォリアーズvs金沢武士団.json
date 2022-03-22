@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2598,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "1174人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "高野 晃平",
+        "crew": "菊地真吾"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "57",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7802,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1287人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "宇田津 浩史",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "83"
+    }
+}

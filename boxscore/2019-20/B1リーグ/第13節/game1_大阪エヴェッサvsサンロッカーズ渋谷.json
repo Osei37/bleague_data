@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4352,
+    "date": {
+        "season": "2019-20",
+        "month": "12.21",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪",
+        "attendance": "3820人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "青木俊博",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "87",
+        "away": "76"
+    }
+}

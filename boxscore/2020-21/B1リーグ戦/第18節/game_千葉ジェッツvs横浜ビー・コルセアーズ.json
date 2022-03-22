@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6146,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2031人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "細田 知宏",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "64"
+    }
+}

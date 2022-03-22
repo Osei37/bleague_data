@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8210,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1171人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "茅野 修司",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "87",
+        "away": "85"
+    }
+}

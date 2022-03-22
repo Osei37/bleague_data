@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6891,
+    "date": {
+        "season": "2020-21",
+        "month": "4.11",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "715人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "熊谷 久美子",
+        "crew": "山田 俊"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "76"
+    }
+}

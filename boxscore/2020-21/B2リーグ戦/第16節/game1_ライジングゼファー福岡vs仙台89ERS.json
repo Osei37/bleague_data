@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6692,
+    "date": {
+        "season": "2020-21",
+        "month": "1.09",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "448人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "秋山 厚志",
+        "crew": "山口 勝真"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "78",
+        "away": "91"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6531,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "601人"
+    },
+    "referee": {
+        "first": "守谷 圭介",
+        "second": "坂井 元直",
+        "crew": "高野 杏実"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "63"
+    }
+}

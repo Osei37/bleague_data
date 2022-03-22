@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4374,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "3258人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "堀内純",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4439,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "秋田県立体育館",
+        "attendance": "2930人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "北沢岳夫",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "76",
+        "away": "64"
+    }
+}

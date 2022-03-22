@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3278,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2014人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "玉木彰治",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "71"
+    }
+}

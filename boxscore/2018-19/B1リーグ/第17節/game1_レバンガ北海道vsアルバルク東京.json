@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3229,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4433人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "高城邦弘",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "67",
+        "away": "83"
+    }
+}

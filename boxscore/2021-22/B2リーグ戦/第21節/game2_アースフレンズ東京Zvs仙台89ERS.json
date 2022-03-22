@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8346,
+    "date": {
+        "season": "2021-22",
+        "month": "2.13",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "416人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "大野 哲広",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "69",
+        "away": "80"
+    }
+}

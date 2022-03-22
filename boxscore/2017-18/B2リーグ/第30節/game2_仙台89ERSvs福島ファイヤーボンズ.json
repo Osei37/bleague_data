@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2611,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3705人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "竹田 雄介",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3503,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2630人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "安西郷史",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "65"
+    }
+}

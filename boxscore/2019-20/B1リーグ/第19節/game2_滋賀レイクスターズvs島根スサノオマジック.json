@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4436,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2134人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "堀内純",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "92",
+        "away": "71"
+    }
+}

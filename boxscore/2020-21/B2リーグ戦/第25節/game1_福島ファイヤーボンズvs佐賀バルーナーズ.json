@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6818,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "猪苗代町総合体育館（カメリーナ）",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "内野 翔太",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "79"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2169,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1850人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "長谷川裕",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "94"
+    }
+}

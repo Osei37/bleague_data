@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2230,
+    "date": {
+        "season": "2017-18",
+        "month": "11.11",
+        "week": "[Sat]",
+        "setsu": "第8節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北上総合体育館",
+        "attendance": "1457人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "針生淳男",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "52",
+        "away": "67"
+    }
+}

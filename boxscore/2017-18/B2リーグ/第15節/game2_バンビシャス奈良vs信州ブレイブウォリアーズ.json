@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2356,
+    "date": {
+        "season": "2017-18",
+        "month": "12.30",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "870人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "蒲健一",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "67"
+    }
+}

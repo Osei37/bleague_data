@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2648,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "1633人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "白川直弘",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "111",
+        "away": "81"
+    }
+}

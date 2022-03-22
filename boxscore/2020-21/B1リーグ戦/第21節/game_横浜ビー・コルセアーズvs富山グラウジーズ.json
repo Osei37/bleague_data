@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6197,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "17:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "910人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "中川 行臣",
+        "crew": "遠藤 大輔"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "55",
+        "away": "96"
+    }
+}

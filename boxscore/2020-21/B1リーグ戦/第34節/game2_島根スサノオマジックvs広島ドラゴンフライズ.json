@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6411,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第34節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "カミアリーナ",
+        "attendance": "1338人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "松本 究",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "58"
+    }
+}

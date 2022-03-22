@@ -1,0 +1,27 @@
+{
+    "schedule_key": 967,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1637人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "平出 剛",
+        "crew": "太田 匡俊"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "96"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 736,
+    "date": {
+        "season": "2016-17",
+        "month": "12.11",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1105人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "那須弘幸",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "61"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3446,
+    "date": {
+        "season": "2018-19",
+        "month": "3.30",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "2297人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "久米克弥",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "55",
+        "away": "76"
+    }
+}

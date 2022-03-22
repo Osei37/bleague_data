@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6122,
+    "date": {
+        "season": "2020-21",
+        "month": "1.02",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エフピコアリーナふくやま",
+        "attendance": "852人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "橋本 恵一",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "72"
+    }
+}

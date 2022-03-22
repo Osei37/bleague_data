@@ -1,0 +1,27 @@
+{
+    "schedule_key": 261,
+    "date": {
+        "season": "2016-17",
+        "month": "1.18",
+        "week": "[Wed]",
+        "setsu": "第16節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横須賀アリーナ",
+        "attendance": "1217人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "北島寛臣",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "69",
+        "away": "66"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1960,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2038人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "相原伸康",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "73",
+        "away": "85"
+    }
+}

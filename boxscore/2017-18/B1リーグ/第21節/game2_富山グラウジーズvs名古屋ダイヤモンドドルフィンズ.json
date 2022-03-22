@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1924,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3010人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "緒方崇",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "80"
+    }
+}

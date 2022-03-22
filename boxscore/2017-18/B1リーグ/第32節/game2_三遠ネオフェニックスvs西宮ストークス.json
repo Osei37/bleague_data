@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2104,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜北総合体育館",
+        "attendance": "1502人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "関口久視",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "90",
+        "away": "92"
+    }
+}

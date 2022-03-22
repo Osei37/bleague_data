@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2390,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1062人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "稲葉威",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "70"
+    }
+}

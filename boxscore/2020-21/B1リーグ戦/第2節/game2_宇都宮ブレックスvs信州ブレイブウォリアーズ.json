@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5875,
+    "date": {
+        "season": "2020-21",
+        "month": "10.11",
+        "week": "[SUN]",
+        "setsu": "第2節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1770人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "片寄 達",
+        "crew": "高城 邦弘"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "74"
+    }
+}

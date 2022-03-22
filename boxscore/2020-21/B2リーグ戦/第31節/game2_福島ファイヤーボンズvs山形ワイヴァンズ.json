@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6903,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "県営あづま総合体育館",
+        "attendance": "706人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "一色 渉",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "72"
+    }
+}

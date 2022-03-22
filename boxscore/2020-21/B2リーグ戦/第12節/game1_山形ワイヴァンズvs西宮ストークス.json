@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6616,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "612人"
+    },
+    "referee": {
+        "first": "増渕 泰久",
+        "second": "高城 邦弘",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "66",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1681,
+    "date": {
+        "season": "2017-18",
+        "month": "11.05",
+        "week": "[Sun]",
+        "setsu": "第7節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "守山市民体育館",
+        "attendance": "2124人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "安西郷史",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "68"
+    }
+}

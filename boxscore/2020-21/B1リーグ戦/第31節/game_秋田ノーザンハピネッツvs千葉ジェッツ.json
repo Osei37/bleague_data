@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6344,
+    "date": {
+        "season": "2020-21",
+        "month": "5.08",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ナイスアリーナ",
+        "attendance": "1614人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "眞榮喜 工",
+        "crew": "高城 邦弘"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "98"
+    }
+}

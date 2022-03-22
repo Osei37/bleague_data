@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4905,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "845人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "前花直哉",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "104"
+    }
+}

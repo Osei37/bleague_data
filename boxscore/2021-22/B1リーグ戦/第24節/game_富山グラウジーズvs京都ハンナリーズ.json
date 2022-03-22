@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7854,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1061人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "丸山 大",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "88"
+    }
+}

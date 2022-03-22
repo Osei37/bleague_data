@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3279,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2281人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "伊藤亮介",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "89",
+        "away": "94"
+    }
+}

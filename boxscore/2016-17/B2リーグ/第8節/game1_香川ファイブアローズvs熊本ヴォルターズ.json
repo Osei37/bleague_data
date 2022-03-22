@@ -1,0 +1,27 @@
+{
+    "schedule_key": 675,
+    "date": {
+        "season": "2016-17",
+        "month": "11.19",
+        "week": "[Sat]",
+        "setsu": "第8節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "512人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "那須弘幸",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "79"
+    }
+}

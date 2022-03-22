@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4368,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4636人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "上田信彦",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "96"
+    }
+}

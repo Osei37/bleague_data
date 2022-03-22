@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7871,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1861人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "早崎 康祐",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "76",
+        "away": "87"
+    }
+}

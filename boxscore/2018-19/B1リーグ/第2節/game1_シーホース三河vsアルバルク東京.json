@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3014,
+    "date": {
+        "season": "2018-19",
+        "month": "10.13",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2912人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "佐藤誠",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "69",
+        "away": "77"
+    }
+}

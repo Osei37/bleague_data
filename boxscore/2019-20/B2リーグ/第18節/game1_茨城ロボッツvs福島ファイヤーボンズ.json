@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4981,
+    "date": {
+        "season": "2019-20",
+        "month": "1.18",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1553人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "大谷英紀",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1915,
+    "date": {
+        "season": "2017-18",
+        "month": "3.05",
+        "week": "[MON]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2833人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "平原勇次",
+        "crew": "倉口勉"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "109",
+        "away": "74"
+    }
+}

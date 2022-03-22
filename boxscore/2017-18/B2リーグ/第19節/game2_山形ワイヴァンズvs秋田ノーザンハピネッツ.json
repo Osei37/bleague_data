@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2424,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "3009人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "山内正隆",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "51",
+        "away": "67"
+    }
+}

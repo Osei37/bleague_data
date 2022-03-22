@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4278,
+    "date": {
+        "season": "2019-20",
+        "month": "11.17",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "4153人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "宇田津浩史",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "72",
+        "away": "81"
+    }
+}

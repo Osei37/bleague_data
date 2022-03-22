@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1965,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "加古川市立総合体育館",
+        "attendance": "2687人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "東祐二",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "72",
+        "away": "96"
+    }
+}

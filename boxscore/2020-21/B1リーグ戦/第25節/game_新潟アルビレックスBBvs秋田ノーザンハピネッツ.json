@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6258,
+    "date": {
+        "season": "2020-21",
+        "month": "3.03",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1245人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "谷古宇 孝",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "53"
+    }
+}

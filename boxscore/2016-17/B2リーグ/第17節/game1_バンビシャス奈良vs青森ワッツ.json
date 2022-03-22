@@ -1,0 +1,27 @@
+{
+    "schedule_key": 835,
+    "date": {
+        "season": "2016-17",
+        "month": "2.04",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "786人"
+    },
+    "referee": {
+        "first": "山内俊幸",
+        "second": "橋本恵一",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "75",
+        "away": "73"
+    }
+}

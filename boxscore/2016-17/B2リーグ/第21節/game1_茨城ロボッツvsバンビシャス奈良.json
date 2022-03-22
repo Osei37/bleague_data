@@ -1,0 +1,27 @@
+{
+    "schedule_key": 909,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": "[Sat]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "618人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "田島寛治",
+        "crew": "LAW DAVID"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "88",
+        "away": "72"
+    }
+}

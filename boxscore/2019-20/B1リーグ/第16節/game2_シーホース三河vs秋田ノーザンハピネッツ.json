@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4392,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2704人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "眞榮喜工",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "89",
+        "away": "81"
+    }
+}

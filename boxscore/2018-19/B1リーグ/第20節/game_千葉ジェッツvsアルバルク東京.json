@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3276,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "5289人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "橋本恵一",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

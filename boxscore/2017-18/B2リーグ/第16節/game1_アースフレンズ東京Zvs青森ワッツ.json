@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2371,
+    "date": {
+        "season": "2017-18",
+        "month": "1.19",
+        "week": "[Fri]",
+        "setsu": "第16節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "612人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "小田中涼子",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "88",
+        "away": "77"
+    }
+}

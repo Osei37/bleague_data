@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3852,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鐘山総合スポーツセンター",
+        "attendance": "616人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "薦田侑二郎",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "63",
+        "away": "70"
+    }
+}

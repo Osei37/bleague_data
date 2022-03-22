@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6008,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2336人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "和嶋 陽一",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "104",
+        "away": "85"
+    }
+}

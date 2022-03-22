@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3351,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "3015人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "宇田津浩史",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "73"
+    }
+}

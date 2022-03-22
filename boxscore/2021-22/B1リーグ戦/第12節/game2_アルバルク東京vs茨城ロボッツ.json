@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7634,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1658人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "北沢 岳夫",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "98",
+        "away": "73"
+    }
+}

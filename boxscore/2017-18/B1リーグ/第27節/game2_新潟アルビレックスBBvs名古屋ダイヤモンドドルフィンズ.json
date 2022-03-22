@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2023,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2671人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "玉木彰治",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "82"
+    }
+}

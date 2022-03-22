@@ -1,0 +1,27 @@
+{
+    "schedule_key": 311,
+    "date": {
+        "season": "2016-17",
+        "month": "2.04",
+        "week": "[Sat]",
+        "setsu": "第19節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "5634人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "阿部聖",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "57",
+        "away": "86"
+    }
+}

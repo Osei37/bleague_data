@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6274,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1336人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "高野 晃平",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "78"
+    }
+}

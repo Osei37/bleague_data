@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6514,
+    "date": {
+        "season": "2020-21",
+        "month": "10.22",
+        "week": "[THU]",
+        "setsu": "第4節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "134人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "柏原 琢磨",
+        "crew": "小島 慶子"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "86"
+    }
+}

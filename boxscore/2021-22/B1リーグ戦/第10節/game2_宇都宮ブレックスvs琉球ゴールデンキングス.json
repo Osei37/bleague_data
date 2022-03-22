@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7603,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2114人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "大河原 則人",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "62",
+        "away": "65"
+    }
+}

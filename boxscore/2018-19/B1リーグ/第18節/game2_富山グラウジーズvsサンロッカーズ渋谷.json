@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3254,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2555人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "久保知仁",
+        "crew": "針生淳男"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "94",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8397,
+    "date": {
+        "season": "2021-22",
+        "month": "3.12",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1219人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "東條 輝正",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "82",
+        "away": "75"
+    }
+}

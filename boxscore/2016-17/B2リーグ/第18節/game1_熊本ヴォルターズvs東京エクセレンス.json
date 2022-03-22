@@ -1,0 +1,27 @@
+{
+    "schedule_key": 854,
+    "date": {
+        "season": "2016-17",
+        "month": "2.11",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "人吉スポーツパレス",
+        "attendance": "1268人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "太田 匡俊",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "82",
+        "away": "65"
+    }
+}

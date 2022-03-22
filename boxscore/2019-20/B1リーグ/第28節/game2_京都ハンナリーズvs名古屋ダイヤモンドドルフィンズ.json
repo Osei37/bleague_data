@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4571,
+    "date": {
+        "season": "2019-20",
+        "month": "3.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "加川真",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "83"
+    }
+}

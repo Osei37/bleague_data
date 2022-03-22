@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6632,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加美町陶芸の里スポーツ公園",
+        "attendance": "582人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "松岡 隆博",
+        "crew": "伊藤 睦哲"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "76"
+    }
+}

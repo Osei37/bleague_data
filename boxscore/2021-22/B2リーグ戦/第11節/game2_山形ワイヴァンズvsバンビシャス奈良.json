@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8216,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "1074人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "熊谷 久美子",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "64",
+        "away": "56"
+    }
+}

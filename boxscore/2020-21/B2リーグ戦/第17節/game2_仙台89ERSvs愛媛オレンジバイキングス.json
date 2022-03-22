@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6697,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台（仙台市体育館）",
+        "attendance": "1112人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "一色 渉",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "97",
+        "away": "82"
+    }
+}

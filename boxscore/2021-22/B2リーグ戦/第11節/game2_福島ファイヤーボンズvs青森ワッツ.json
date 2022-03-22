@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8218,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1082人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "富樫 彰子",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "69"
+    }
+}

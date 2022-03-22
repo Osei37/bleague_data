@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6396,
+    "date": {
+        "season": "2020-21",
+        "month": "4.17",
+        "week": "[SAT]",
+        "setsu": "第34節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1702人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "細田 知宏",
+        "crew": "松岡 隆博"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "79",
+        "away": "76"
+    }
+}

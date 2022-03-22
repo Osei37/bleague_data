@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1043,
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "849人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "早崎康祐",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "91",
+        "away": "79"
+    }
+}

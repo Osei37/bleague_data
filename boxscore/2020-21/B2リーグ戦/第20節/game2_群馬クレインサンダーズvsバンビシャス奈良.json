@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6739,
+    "date": {
+        "season": "2020-21",
+        "month": "2.06",
+        "week": "[SAT]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "谷古宇 孝",
+        "second": "加藤 暁生",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "88",
+        "away": "77"
+    }
+}

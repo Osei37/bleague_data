@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1913,
+    "date": {
+        "season": "2017-18",
+        "month": "2.16",
+        "week": "[Fri]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1092人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "宇地原尚彦",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "83"
+    }
+}

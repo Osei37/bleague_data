@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3050,
+    "date": {
+        "season": "2018-19",
+        "month": "10.24",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4008人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "安西郷史",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "110",
+        "away": "78"
+    }
+}

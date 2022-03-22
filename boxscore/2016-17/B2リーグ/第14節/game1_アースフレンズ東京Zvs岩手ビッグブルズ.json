@@ -1,0 +1,27 @@
+{
+    "schedule_key": 781,
+    "date": {
+        "season": "2016-17",
+        "month": "1.02",
+        "week": "[Mon]",
+        "setsu": "第14節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "822人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "阿部聖",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1059,
+    "date": {
+        "season": "2016-17",
+        "month": "4.29",
+        "week": "[Sat]",
+        "setsu": "第29節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1005人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "関口 久視",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "77",
+        "away": "85"
+    }
+}

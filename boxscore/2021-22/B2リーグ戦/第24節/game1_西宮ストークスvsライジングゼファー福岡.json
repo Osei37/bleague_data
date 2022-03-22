@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8385,
+    "date": {
+        "season": "2021-22",
+        "month": "3.05",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加古川市立総合体育館",
+        "attendance": "639人"
+    },
+    "referee": {
+        "first": "岩木 太郎",
+        "second": "小田中 涼子",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "80",
+        "away": "71"
+    }
+}

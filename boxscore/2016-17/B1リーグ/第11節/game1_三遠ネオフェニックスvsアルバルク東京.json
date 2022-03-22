@@ -1,0 +1,27 @@
+{
+    "schedule_key": 176,
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2140人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "北沢岳夫",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "96",
+        "away": "101"
+    }
+}

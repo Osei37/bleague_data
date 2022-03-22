@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3028,
+    "date": {
+        "season": "2018-19",
+        "month": "10.17",
+        "week": "[WED]",
+        "setsu": "第3節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2041人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "青木俊博",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "89",
+        "away": "76"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6658,
+    "date": {
+        "season": "2020-21",
+        "month": "12.26",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "586人"
+    },
+    "referee": {
+        "first": "和嶋 陽一",
+        "second": "小島 慶子",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "99",
+        "away": "88"
+    }
+}

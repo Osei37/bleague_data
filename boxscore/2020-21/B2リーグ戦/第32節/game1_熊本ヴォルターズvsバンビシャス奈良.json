@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6932,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1204人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "秋山 厚志",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "82",
+        "away": "92"
+    }
+}

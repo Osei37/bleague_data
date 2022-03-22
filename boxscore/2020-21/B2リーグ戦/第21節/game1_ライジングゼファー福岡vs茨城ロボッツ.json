@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6762,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1217人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "柳田 雅人",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "89"
+    }
+}

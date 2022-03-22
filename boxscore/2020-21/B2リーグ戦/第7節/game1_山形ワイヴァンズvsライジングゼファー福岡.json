@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6544,
+    "date": {
+        "season": "2020-21",
+        "month": "11.14",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "941人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "久米 克弥",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "77",
+        "away": "61"
+    }
+}

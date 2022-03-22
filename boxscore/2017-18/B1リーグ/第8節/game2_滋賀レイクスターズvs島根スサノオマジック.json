@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1703,
+    "date": {
+        "season": "2017-18",
+        "month": "11.12",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2103人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "宇田津浩史",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "78",
+        "away": "69"
+    }
+}

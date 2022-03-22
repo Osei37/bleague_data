@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7863,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1021人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "久保 知仁",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "79",
+        "away": "76"
+    }
+}

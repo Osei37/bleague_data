@@ -1,0 +1,27 @@
+{
+    "schedule_key": 112,
+    "date": {
+        "season": "2016-17",
+        "month": "11.05",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県総合体育センター",
+        "attendance": "1628人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "冨島健司",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "73",
+        "away": "79"
+    }
+}

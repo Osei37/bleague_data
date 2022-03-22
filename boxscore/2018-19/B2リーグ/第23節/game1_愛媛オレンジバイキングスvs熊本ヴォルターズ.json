@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3911,
+    "date": {
+        "season": "2018-19",
+        "month": "2.23",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1389人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "幡丸 登志久",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "110"
+    }
+}

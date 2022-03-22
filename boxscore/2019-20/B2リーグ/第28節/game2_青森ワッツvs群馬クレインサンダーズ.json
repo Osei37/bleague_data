@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5142,
+    "date": {
+        "season": "2019-20",
+        "month": "3.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "白川一樹",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "104"
+    }
+}

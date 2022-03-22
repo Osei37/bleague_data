@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4902,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1109人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "山内正隆",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "51"
+    }
+}

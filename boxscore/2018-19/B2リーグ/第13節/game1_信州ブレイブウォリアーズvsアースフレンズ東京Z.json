@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3732,
+    "date": {
+        "season": "2018-19",
+        "month": "12.15",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "1904人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "坂井元直",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "78",
+        "away": "74"
+    }
+}

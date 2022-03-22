@@ -1,0 +1,27 @@
+{
+    "schedule_key": 348,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": "[Sat]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3122人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "久保裕紀",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "68"
+    }
+}

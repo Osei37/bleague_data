@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2547,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加賀市スポーツセンター",
+        "attendance": "686人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "山本邦博",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "91"
+    }
+}

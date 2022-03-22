@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3505,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2342人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "加藤昌樹",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "83",
+        "away": "79"
+    }
+}

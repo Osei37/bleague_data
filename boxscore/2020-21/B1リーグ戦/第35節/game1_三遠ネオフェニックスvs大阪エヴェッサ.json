@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6424,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1483人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "宇田津 浩史",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "101",
+        "away": "105"
+    }
+}

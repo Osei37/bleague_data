@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7678,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1822人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "佐藤 誠",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "86"
+    }
+}

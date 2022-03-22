@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8416,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "447人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "田中 豊弘",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "77"
+    }
+}

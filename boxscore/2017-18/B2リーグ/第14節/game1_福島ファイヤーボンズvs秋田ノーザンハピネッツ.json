@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2333,
+    "date": {
+        "season": "2017-18",
+        "month": "12.23",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1511人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "加納康平",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "57",
+        "away": "72"
+    }
+}

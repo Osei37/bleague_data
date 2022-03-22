@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4769,
+    "date": {
+        "season": "2019-20",
+        "month": "10.16",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダハウジング東区スポーツセンター",
+        "attendance": "1591人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "大谷英紀",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "88",
+        "away": "82"
+    }
+}

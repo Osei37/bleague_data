@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1647,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "3005人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "緒方崇",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "85",
+        "away": "65"
+    }
+}

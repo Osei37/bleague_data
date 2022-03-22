@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7848,
+    "date": {
+        "season": "2021-22",
+        "month": "3.09",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1705人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "坂井 元直",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "88",
+        "away": "101"
+    }
+}

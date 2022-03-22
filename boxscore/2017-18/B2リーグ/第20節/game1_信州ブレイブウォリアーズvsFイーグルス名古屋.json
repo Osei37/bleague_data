@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2447,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "845人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "平澤明男",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "67",
+        "away": "79"
+    }
+}

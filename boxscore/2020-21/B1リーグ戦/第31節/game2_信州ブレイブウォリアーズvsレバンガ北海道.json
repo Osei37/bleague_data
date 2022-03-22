@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6353,
+    "date": {
+        "season": "2020-21",
+        "month": "4.04",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1518人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "守谷 圭介",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "91",
+        "away": "57"
+    }
+}

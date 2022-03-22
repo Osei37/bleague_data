@@ -1,0 +1,27 @@
+{
+    "schedule_key": 826,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "米子産業体育館",
+        "attendance": "1024人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "久保知仁",
+        "crew": "鬼頭 英伸"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "65"
+    }
+}

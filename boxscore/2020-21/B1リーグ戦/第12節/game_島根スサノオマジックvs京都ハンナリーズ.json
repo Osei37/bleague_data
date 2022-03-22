@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6042,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "989人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "橋本 恵一",
+        "crew": "前花 直哉"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "84"
+    }
+}

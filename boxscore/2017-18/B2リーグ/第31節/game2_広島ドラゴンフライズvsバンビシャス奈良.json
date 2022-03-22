@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2632,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2825人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "茅野修司",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "65",
+        "away": "72"
+    }
+}

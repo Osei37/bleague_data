@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3193,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "2996人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "佐藤誠",
+        "crew": "安西郷史"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "62",
+        "away": "68"
+    }
+}

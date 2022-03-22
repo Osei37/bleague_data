@@ -1,0 +1,27 @@
+{
+    "schedule_key": 641,
+    "date": {
+        "season": "2016-17",
+        "month": "10.30",
+        "week": "[Sun]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1815人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "鈴木悟",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "65"
+    }
+}

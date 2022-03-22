@@ -1,0 +1,27 @@
+{
+    "schedule_key": 953,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第23節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1005人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "平澤明男",
+        "crew": "東考生"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "73"
+    }
+}

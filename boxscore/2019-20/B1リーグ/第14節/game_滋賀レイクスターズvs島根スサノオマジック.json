@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4365,
+    "date": {
+        "season": "2019-20",
+        "month": "12.25",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1702人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "黒岡和哲",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "84",
+        "away": "85"
+    }
+}

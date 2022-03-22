@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4310,
+    "date": {
+        "season": "2019-20",
+        "month": "12.08",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2397人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "大野太裕",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "80",
+        "away": "86"
+    }
+}

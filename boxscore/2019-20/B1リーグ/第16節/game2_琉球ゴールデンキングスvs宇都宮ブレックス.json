@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4402,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3389人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "相原伸康",
+        "crew": "安西郷史"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 897,
+    "date": {
+        "season": "2016-17",
+        "month": "2.26",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "763人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "地頭薗 剛",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "101",
+        "away": "86"
+    }
+}

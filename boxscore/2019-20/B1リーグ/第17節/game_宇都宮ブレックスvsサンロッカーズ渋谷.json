@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4403,
+    "date": {
+        "season": "2019-20",
+        "month": "1.15",
+        "week": "[WED]",
+        "setsu": "第17節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3923人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "谷古宇孝",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

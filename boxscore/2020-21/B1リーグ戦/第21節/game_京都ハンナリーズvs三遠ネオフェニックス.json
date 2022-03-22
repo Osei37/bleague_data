@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6201,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "17:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "626人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "早崎 康祐",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "85",
+        "away": "72"
+    }
+}

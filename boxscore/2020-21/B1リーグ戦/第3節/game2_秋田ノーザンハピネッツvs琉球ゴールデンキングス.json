@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5897,
+    "date": {
+        "season": "2020-21",
+        "month": "10.18",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1815人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "久米 克弥",
+        "crew": "芳賀 聡"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "76",
+        "away": "82"
+    }
+}

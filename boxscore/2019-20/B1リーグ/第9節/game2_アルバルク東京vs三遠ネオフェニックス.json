@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4282,
+    "date": {
+        "season": "2019-20",
+        "month": "11.17",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2615人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "増渕泰久",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "85",
+        "away": "63"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6125,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2159人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "宇田津 浩史",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "68"
+    }
+}

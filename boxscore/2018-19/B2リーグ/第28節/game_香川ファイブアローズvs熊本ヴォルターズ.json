@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3993,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市香川総合体育館",
+        "attendance": "713人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "白川一樹",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "100"
+    }
+}

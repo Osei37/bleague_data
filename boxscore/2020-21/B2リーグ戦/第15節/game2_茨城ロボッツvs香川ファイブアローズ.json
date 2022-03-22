@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6665,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "978人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "嶋崎 貴",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "101",
+        "away": "81"
+    }
+}

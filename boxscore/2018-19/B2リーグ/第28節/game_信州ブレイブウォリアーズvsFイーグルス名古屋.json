@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3989,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1870人"
+    },
+    "referee": {
+        "first": "小田中涼子",
+        "second": "竹田 雄介",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "84",
+        "away": "85"
+    }
+}

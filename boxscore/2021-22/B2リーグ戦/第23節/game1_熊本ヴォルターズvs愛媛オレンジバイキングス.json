@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8379,
+    "date": {
+        "season": "2021-22",
+        "month": "2.26",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "821人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "大野 哲広",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "99",
+        "away": "95"
+    }
+}

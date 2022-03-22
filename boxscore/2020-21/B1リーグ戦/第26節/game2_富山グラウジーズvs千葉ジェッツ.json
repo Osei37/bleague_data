@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6273,
+    "date": {
+        "season": "2020-21",
+        "month": "3.07",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2349人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "岩井 遥河",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "88",
+        "away": "90"
+    }
+}

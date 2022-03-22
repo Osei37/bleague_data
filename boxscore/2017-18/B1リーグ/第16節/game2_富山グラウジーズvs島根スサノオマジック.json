@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1832,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3288人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "北沢岳夫",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "77",
+        "away": "71"
+    }
+}

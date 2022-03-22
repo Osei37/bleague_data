@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3759,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1214人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "黒岡和哲",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "82",
+        "away": "92"
+    }
+}

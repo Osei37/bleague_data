@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4482,
+    "date": {
+        "season": "2019-20",
+        "month": "2.08",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊見城市民体育館",
+        "attendance": "3201人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "久米克弥",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "60"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4698,
+    "date": {
+        "season": "2019-20",
+        "month": "9.22",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "836人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "北沢あや子",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "92",
+        "away": "52"
+    }
+}

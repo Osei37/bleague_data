@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8243,
+    "date": {
+        "season": "2021-22",
+        "month": "12.25",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならはスカイアリーナ",
+        "attendance": "485人"
+    },
+    "referee": {
+        "first": "増渕 泰久",
+        "second": "田中 充",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "88",
+        "away": "71"
+    }
+}

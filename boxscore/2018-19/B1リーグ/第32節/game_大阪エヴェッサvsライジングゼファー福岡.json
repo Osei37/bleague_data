@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3462,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンエイワーク住吉スポーツセンター",
+        "attendance": "3272人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "黒岡和哲",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "77",
+        "away": "61"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6826,
+    "date": {
+        "season": "2020-21",
+        "month": "3.13",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北九州市立総合体育館",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "柳田 雅人",
+        "crew": "御手洗 亮"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "83",
+        "away": "90"
+    }
+}

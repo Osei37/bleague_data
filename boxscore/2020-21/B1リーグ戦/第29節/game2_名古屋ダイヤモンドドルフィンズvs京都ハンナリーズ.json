@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6329,
+    "date": {
+        "season": "2020-21",
+        "month": "3.28",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1555人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "佐藤 誠",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "86"
+    }
+}

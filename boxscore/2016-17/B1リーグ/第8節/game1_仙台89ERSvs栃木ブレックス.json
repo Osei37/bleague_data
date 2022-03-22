@@ -1,0 +1,27 @@
+{
+    "schedule_key": 129,
+    "date": {
+        "season": "2016-17",
+        "month": "11.19",
+        "week": "[Sat]",
+        "setsu": "第8節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3908人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "久米克弥",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "63",
+        "away": "89"
+    }
+}

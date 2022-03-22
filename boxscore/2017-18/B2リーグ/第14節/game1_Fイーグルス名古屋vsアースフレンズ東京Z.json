@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2341,
+    "date": {
+        "season": "2017-18",
+        "month": "12.23",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "1902人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "白川一樹",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "82",
+        "away": "79"
+    }
+}

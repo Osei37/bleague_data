@@ -1,0 +1,27 @@
+{
+    "schedule_key": 71,
+    "date": {
+        "season": "2016-17",
+        "month": "10.16",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1670人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "北沢岳夫",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "81",
+        "away": "83"
+    }
+}

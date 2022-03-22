@@ -1,0 +1,27 @@
+{
+    "schedule_key": 878,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "田島寛治",
+        "crew": "佐藤匠"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "53",
+        "away": "65"
+    }
+}

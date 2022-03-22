@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3858,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "呉市総合体育館（オークアリーナ）",
+        "attendance": "2258人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "小畑治",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "85",
+        "away": "90"
+    }
+}

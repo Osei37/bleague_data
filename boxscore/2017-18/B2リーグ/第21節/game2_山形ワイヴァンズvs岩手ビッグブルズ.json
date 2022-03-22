@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2460,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1732人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "加藤暁生",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "57",
+        "away": "67"
+    }
+}

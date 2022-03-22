@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6027,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "13:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1239人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "守谷 圭介",
+        "crew": "塩谷 禎"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "60",
+        "away": "83"
+    }
+}

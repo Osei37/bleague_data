@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4781,
+    "date": {
+        "season": "2019-20",
+        "month": "10.22",
+        "week": "[TUE]",
+        "setsu": "第6節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1903人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "前花直哉",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "73"
+    }
+}

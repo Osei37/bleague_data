@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2568,
+    "date": {
+        "season": "2017-18",
+        "month": "4.07",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1865人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "竹田 雄介",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "84",
+        "away": "87"
+    }
+}

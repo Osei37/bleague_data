@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8236,
+    "date": {
+        "season": "2021-22",
+        "month": "12.17",
+        "week": "[FRI]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "とらまるてぶくろ体育館",
+        "attendance": "317人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "那須 弘幸",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "83"
+    }
+}

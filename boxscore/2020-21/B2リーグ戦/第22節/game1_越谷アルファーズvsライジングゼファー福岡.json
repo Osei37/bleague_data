@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6772,
+    "date": {
+        "season": "2020-21",
+        "month": "2.20",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "621人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "梶 崇司",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "80",
+        "away": "57"
+    }
+}

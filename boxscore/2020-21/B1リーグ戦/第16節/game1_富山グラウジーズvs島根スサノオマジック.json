@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6116,
+    "date": {
+        "season": "2020-21",
+        "month": "1.02",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2132人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "蒲 健一",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "95",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4412,
+    "date": {
+        "season": "2019-20",
+        "month": "1.22",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2517人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "久米克弥",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "84"
+    }
+}

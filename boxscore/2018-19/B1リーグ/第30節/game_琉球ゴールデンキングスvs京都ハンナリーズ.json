@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3435,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "20:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3280人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "宇田津浩史",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "67"
+    }
+}

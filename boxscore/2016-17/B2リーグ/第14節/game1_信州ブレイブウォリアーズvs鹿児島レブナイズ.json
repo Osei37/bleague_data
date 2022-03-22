@@ -1,0 +1,27 @@
+{
+    "schedule_key": 782,
+    "date": {
+        "season": "2016-17",
+        "month": "1.02",
+        "week": "[Mon]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "980人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "玉木彰治",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "76"
+    }
+}

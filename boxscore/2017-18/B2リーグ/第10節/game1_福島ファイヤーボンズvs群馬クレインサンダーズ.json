@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2272,
+    "date": {
+        "season": "2017-18",
+        "month": "12.02",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "15:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1012人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "大倉守正",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3840,
+    "date": {
+        "season": "2018-19",
+        "month": "1.27",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3873人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "田中豊弘",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "93"
+    }
+}

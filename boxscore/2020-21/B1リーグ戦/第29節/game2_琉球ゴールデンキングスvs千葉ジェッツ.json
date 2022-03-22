@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6333,
+    "date": {
+        "season": "2020-21",
+        "month": "5.05",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "3901人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "蒲 健一",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "89",
+        "away": "97"
+    }
+}

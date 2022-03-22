@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6606,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "631人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "北沢 あや子",
+        "crew": "伊藤 睦哲"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "87",
+        "away": "84"
+    }
+}

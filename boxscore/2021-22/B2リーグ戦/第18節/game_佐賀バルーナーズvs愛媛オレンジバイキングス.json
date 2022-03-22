@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8314,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "吉野ヶ里町文化体育館",
+        "attendance": "357人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "皆川 義紀",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "81",
+        "away": "94"
+    }
+}

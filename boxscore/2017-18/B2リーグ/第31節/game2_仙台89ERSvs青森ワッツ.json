@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2627,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "3765人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "岩城和利",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "91"
+    }
+}

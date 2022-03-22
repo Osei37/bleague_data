@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4862,
+    "date": {
+        "season": "2019-20",
+        "month": "11.23",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3101人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "芳賀聡",
+        "crew": "遠藤大輔"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "87",
+        "away": "65"
+    }
+}

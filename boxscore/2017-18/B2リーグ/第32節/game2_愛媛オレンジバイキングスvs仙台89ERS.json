@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2650,
+    "date": {
+        "season": "2017-18",
+        "month": "5.05",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1604人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "早崎康祐",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "94",
+        "away": "89"
+    }
+}

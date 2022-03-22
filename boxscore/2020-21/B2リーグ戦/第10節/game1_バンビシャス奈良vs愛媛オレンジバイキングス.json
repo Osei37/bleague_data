@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6598,
+    "date": {
+        "season": "2020-21",
+        "month": "12.05",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "505人"
+    },
+    "referee": {
+        "first": "早崎 康祐",
+        "second": "黒岡 和哲",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "73",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3232,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3456人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "針生淳男",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "73",
+        "away": "59"
+    }
+}

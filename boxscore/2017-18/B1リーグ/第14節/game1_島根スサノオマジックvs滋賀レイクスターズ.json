@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1805,
+    "date": {
+        "season": "2017-18",
+        "month": "12.22",
+        "week": "[Fri]",
+        "setsu": "第14節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2052人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "稲葉威",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1709,
+    "date": {
+        "season": "2017-18",
+        "month": "11.18",
+        "week": "[Sat]",
+        "setsu": "第9節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2537人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "平出剛",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "89",
+        "away": "69"
+    }
+}

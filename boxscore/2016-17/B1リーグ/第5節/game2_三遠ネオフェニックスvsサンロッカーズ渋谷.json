@@ -1,0 +1,27 @@
+{
+    "schedule_key": 87,
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": "[Sun]",
+        "setsu": "第5節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "2405人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "佐藤誠",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "76",
+        "away": "79"
+    }
+}

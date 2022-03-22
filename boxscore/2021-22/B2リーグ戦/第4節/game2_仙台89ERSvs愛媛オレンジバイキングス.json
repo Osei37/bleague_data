@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8123,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "登米市登米総合体育館(とよま蔵ジアム)",
+        "attendance": "764人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "嶋崎 貴",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "90",
+        "away": "85"
+    }
+}

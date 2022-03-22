@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2375,
+    "date": {
+        "season": "2017-18",
+        "month": "1.20",
+        "week": "[Sat]",
+        "setsu": "第16節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1357人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "岩木太郎",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "73"
+    }
+}

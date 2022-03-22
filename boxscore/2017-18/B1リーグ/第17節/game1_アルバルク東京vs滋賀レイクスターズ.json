@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1845,
+    "date": {
+        "season": "2017-18",
+        "month": "1.27",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2184人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "阿部聖",
+        "crew": "宇地原尚彦"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "59"
+    }
+}

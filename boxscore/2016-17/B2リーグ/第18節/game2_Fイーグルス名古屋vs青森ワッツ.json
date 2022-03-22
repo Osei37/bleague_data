@@ -1,0 +1,27 @@
+{
+    "schedule_key": 857,
+    "date": {
+        "season": "2016-17",
+        "month": "2.12",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "817人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "山内正隆",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "82",
+        "away": "93"
+    }
+}

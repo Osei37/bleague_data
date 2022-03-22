@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3847,
+    "date": {
+        "season": "2018-19",
+        "month": "2.01",
+        "week": "[FRI]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊勢崎市民体育館",
+        "attendance": "800人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "須黒祥子",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "101",
+        "away": "47"
+    }
+}

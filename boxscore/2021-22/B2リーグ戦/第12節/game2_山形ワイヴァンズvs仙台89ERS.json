@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8230,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1328人"
+    },
+    "referee": {
+        "first": "松岡 隆博",
+        "second": "田中 充",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "67",
+        "away": "83"
+    }
+}

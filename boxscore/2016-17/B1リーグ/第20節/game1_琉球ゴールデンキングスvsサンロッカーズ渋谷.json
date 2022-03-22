@@ -1,0 +1,27 @@
+{
+    "schedule_key": 331,
+    "date": {
+        "season": "2016-17",
+        "month": "2.18",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3000人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "加藤昌樹",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "78",
+        "away": "63"
+    }
+}

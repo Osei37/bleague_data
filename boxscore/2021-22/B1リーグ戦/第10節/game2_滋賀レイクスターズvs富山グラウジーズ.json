@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7613,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1605人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "小澤 勤",
+        "crew": "小畑 治"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "95"
+    }
+}

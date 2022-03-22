@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1948,
+    "date": {
+        "season": "2017-18",
+        "month": "3.10",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "2868人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "冨島健司",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "82"
+    }
+}

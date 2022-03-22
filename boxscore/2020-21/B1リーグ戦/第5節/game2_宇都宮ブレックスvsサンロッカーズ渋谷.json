@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5929,
+    "date": {
+        "season": "2020-21",
+        "month": "10.25",
+        "week": "[SUN]",
+        "setsu": "第5節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "栃木県立県北体育館",
+        "attendance": "1303人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "緒方 崇",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "78",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3428,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3884人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "加川真",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "99",
+        "away": "54"
+    }
+}

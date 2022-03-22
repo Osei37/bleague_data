@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2195,
+    "date": {
+        "season": "2017-18",
+        "month": "10.29",
+        "week": "[Sun]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "786人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "岩城和利",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "87"
+    }
+}

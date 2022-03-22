@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2109,
+    "date": {
+        "season": "2017-18",
+        "month": "5.05",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "3380人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "緒方崇",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "67"
+    }
+}

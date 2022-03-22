@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1587,
+    "date": {
+        "season": "2017-18",
+        "month": "9.30",
+        "week": "[Sat]",
+        "setsu": "第1節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "2693人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "有澤重行",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "86"
+    }
+}

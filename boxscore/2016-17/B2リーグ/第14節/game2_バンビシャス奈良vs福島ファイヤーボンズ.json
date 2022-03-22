@@ -1,0 +1,27 @@
+{
+    "schedule_key": 790,
+    "date": {
+        "season": "2016-17",
+        "month": "1.03",
+        "week": "[Tue]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "900人"
+    },
+    "referee": {
+        "first": "山内俊幸",
+        "second": "石田祐二",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "80"
+    }
+}

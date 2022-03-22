@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6471,
+    "date": {
+        "season": "2020-21",
+        "month": "10.11",
+        "week": "[SUN]",
+        "setsu": "第2節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "むつマエダアリーナ",
+        "attendance": "803人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "谷地 温",
+        "crew": "松岡 隆博"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "66",
+        "away": "76"
+    }
+}

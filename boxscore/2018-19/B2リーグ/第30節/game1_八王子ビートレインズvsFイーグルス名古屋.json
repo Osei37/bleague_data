@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4020,
+    "date": {
+        "season": "2018-19",
+        "month": "4.06",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1192人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "大野太裕",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "70",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5052,
+    "date": {
+        "season": "2019-20",
+        "month": "2.08",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "817人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "山内正隆",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "83",
+        "away": "85"
+    }
+}

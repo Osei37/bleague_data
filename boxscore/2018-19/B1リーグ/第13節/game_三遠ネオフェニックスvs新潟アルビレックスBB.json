@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3179,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1475人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "細田知宏",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "74",
+        "away": "82"
+    }
+}

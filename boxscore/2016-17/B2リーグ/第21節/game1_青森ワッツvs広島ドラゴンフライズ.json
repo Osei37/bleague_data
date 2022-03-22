@@ -1,0 +1,27 @@
+{
+    "schedule_key": 905,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": "[Sat]",
+        "setsu": "第21節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1585人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "松岡隆博",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "71"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 347,
+    "date": {
+        "season": "2016-17",
+        "month": "2.22",
+        "week": "[Wed]",
+        "setsu": "第21節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "3173人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "守谷圭介",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "84"
+    }
+}

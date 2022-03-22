@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3139,
+    "date": {
+        "season": "2018-19",
+        "month": "11.23",
+        "week": "[FRI]",
+        "setsu": "第11節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3250人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "松岡隆博",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "64",
+        "away": "62"
+    }
+}

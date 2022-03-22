@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3726,
+    "date": {
+        "season": "2018-19",
+        "month": "12.15",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1415人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "長谷川裕",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "72"
+    }
+}

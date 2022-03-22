@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2467,
+    "date": {
+        "season": "2017-18",
+        "month": "3.03",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1304人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "早崎康祐",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "50",
+        "away": "59"
+    }
+}

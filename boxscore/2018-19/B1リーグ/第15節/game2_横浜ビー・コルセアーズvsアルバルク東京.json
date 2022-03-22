@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3207,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3808人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "片寄達",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "68",
+        "away": "89"
+    }
+}

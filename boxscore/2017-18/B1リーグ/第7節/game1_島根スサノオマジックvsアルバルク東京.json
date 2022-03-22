@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1686,
+    "date": {
+        "season": "2017-18",
+        "month": "11.03",
+        "week": "[Fri]",
+        "setsu": "第7節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "3721人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "松本究",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "60",
+        "away": "67"
+    }
+}

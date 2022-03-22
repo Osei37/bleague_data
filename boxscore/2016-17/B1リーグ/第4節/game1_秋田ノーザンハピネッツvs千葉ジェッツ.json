@@ -1,0 +1,27 @@
+{
+    "schedule_key": 57,
+    "date": {
+        "season": "2016-17",
+        "month": "10.15",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3338人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "安西郷史",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "82"
+    }
+}

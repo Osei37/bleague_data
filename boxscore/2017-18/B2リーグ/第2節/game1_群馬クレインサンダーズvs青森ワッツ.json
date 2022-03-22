@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2137,
+    "date": {
+        "season": "2017-18",
+        "month": "10.07",
+        "week": "[Sat]",
+        "setsu": "第2節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1053人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "丸山大",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "96",
+        "away": "75"
+    }
+}

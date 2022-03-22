@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5155,
+    "date": {
+        "season": "2019-20",
+        "month": "3.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "前花直哉",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "73"
+    }
+}

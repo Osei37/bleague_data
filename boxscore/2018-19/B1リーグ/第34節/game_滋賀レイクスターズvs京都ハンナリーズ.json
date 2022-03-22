@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3487,
+    "date": {
+        "season": "2018-19",
+        "month": "4.10",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "3717人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "早崎康祐",
+        "crew": "黒岡和哲"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "88"
+    }
+}

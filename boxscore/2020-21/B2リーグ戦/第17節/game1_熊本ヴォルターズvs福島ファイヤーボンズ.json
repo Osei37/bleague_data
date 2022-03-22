@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6708,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "536人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "柳田 雅人",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "86"
+    }
+}

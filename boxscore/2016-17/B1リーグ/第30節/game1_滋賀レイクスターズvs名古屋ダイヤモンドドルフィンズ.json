@@ -1,0 +1,27 @@
+{
+    "schedule_key": 503,
+    "date": {
+        "season": "2016-17",
+        "month": "4.29",
+        "week": "[Sat]",
+        "setsu": "第30節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2184人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "松本究",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "81"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1052,
+    "date": {
+        "season": "2016-17",
+        "month": "4.29",
+        "week": "[Sat]",
+        "setsu": "第29節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1258人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "御手洗亮",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "73",
+        "away": "85"
+    }
+}

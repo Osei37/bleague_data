@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6637,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "528人"
+    },
+    "referee": {
+        "first": "黒岡 和哲",
+        "second": "茅野 修司",
+        "crew": "山内 正隆"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "55",
+        "away": "75"
+    }
+}

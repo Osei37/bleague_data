@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6622,
+    "date": {
+        "season": "2020-21",
+        "month": "12.11",
+        "week": "[FRI]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "254人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "遠藤 大輔",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "98"
+    }
+}

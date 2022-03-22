@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1752,
+    "date": {
+        "season": "2017-18",
+        "month": "12.10",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "2678人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "宇田津浩史",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "70",
+        "away": "78"
+    }
+}

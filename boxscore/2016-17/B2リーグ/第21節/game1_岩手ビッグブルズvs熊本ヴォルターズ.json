@@ -1,0 +1,27 @@
+{
+    "schedule_key": 906,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": "[Sat]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "723人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "平出 剛",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "67"
+    }
+}

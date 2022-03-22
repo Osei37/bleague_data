@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5061,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "2008人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "高城邦弘",
+        "crew": "北沢あや子"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "82"
+    }
+}

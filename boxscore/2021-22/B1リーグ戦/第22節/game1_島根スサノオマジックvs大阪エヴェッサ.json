@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7836,
+    "date": {
+        "season": "2021-22",
+        "month": "3.05",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1987人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "塩谷 禎",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "77",
+        "away": "69"
+    }
+}

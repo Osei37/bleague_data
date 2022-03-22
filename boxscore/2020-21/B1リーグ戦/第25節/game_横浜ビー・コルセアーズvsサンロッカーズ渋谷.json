@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6257,
+    "date": {
+        "season": "2020-21",
+        "month": "3.03",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "17:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "740人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "緒方 崇",
+        "crew": "加藤 暁生"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "91",
+        "away": "86"
+    }
+}

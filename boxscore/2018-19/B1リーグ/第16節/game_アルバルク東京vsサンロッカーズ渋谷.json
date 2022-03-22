@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3222,
+    "date": {
+        "season": "2018-19",
+        "month": "12.26",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2891人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "谷地温",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "77",
+        "away": "74"
+    }
+}

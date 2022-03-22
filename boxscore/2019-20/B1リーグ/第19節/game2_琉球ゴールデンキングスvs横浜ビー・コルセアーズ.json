@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4438,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3323人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "小澤勤",
+        "crew": "佐藤誠"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "69"
+    }
+}

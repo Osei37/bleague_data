@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7544,
+    "date": {
+        "season": "2021-22",
+        "month": "11.10",
+        "week": "[WED]",
+        "setsu": "第7節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1302人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "蒲 健一",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "75"
+    }
+}

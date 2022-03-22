@@ -1,0 +1,27 @@
+{
+    "schedule_key": 294,
+    "date": {
+        "season": "2016-17",
+        "month": "1.28",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3211人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "前田喜庸",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "74",
+        "away": "82"
+    }
+}

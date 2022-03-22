@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4036,
+    "date": {
+        "season": "2018-19",
+        "month": "4.12",
+        "week": "[FRI]",
+        "setsu": "第31節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1128人"
+    },
+    "referee": {
+        "first": "熊谷久美子",
+        "second": "山内正隆",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "73",
+        "away": "95"
+    }
+}

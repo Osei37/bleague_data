@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6928,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1226人"
+    },
+    "referee": {
+        "first": "早崎 康祐",
+        "second": "茅野 修司",
+        "crew": "御手洗 亮"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "78",
+        "away": "79"
+    }
+}

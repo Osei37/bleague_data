@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8260,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第1体育館",
+        "attendance": "1016人"
+    },
+    "referee": {
+        "first": "大野 哲広",
+        "second": "前花 直哉",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "102"
+    }
+}

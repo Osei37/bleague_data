@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1973,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1987人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "安西郷史",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "84",
+        "away": "80"
+    }
+}

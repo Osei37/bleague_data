@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3567,
+    "date": {
+        "season": "2018-19",
+        "month": "10.14",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1156人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "平澤明男",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

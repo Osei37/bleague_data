@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1907,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "3565人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "佐藤誠",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "86"
+    }
+}

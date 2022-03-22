@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2381,
+    "date": {
+        "season": "2017-18",
+        "month": "1.20",
+        "week": "[Sat]",
+        "setsu": "第16節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1478人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "白川一樹",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "86"
+    }
+}

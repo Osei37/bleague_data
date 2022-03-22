@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3548,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1313人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "吉田剛",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "90",
+        "away": "60"
+    }
+}

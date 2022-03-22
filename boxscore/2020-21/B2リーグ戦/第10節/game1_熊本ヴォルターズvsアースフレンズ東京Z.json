@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6604,
+    "date": {
+        "season": "2020-21",
+        "month": "12.05",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ecowin宇土アリーナ",
+        "attendance": "703人"
+    },
+    "referee": {
+        "first": "和嶋 陽一",
+        "second": "御手洗 亮",
+        "crew": "山口 勝真"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "87",
+        "away": "81"
+    }
+}

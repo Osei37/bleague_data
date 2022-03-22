@@ -1,0 +1,27 @@
+{
+    "schedule_key": 766,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1656人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "松岡隆博",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "73",
+        "away": "62"
+    }
+}

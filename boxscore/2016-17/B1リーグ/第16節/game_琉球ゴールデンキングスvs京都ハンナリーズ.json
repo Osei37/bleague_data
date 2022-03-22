@@ -1,0 +1,27 @@
+{
+    "schedule_key": 265,
+    "date": {
+        "season": "2016-17",
+        "month": "1.18",
+        "week": "[Wed]",
+        "setsu": "第16節",
+        "time": "20:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3112人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "宇地原尚彦",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "66"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1881,
+    "date": {
+        "season": "2017-18",
+        "month": "2.09",
+        "week": "[Fri]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "2016人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "平原勇次",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "64",
+        "away": "90"
+    }
+}

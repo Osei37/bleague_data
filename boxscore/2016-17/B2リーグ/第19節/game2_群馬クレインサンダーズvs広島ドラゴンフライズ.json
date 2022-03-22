@@ -1,0 +1,27 @@
+{
+    "schedule_key": 871,
+    "date": {
+        "season": "2016-17",
+        "month": "2.18",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "703人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "LAW DAVID",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6680,
+    "date": {
+        "season": "2020-21",
+        "month": "4.29",
+        "week": "[THU]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "963人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "熊谷 久美子",
+        "crew": "田中 充"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "104",
+        "away": "81"
+    }
+}

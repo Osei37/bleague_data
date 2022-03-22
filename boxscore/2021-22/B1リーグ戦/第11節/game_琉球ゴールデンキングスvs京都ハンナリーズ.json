@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7628,
+    "date": {
+        "season": "2021-22",
+        "month": "12.15",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "4054人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "久米 克弥",
+        "crew": "谷古宇 孝"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "67"
+    }
+}

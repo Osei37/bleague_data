@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6338,
+    "date": {
+        "season": "2020-21",
+        "month": "3.31",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1733人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "蒲 健一",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "91",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3449,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2914人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "安西郷史",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "58",
+        "away": "65"
+    }
+}

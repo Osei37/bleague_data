@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3463,
+    "date": {
+        "season": "2018-19",
+        "month": "4.06",
+        "week": "[SAT]",
+        "setsu": "第33節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "湿原の風アリーナ釧路",
+        "attendance": "2235人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "岩井 遥河",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "67",
+        "away": "97"
+    }
+}

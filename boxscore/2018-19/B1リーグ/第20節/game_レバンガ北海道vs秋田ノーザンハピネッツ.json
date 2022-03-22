@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3274,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2631人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "谷地温",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "76"
+    }
+}

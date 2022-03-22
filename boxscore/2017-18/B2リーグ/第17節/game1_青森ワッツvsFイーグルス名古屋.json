@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2383,
+    "date": {
+        "season": "2017-18",
+        "month": "1.27",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1430人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "加川真",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "75",
+        "away": "76"
+    }
+}

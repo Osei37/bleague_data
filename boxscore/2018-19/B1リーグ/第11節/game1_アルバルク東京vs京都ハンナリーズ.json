@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3141,
+    "date": {
+        "season": "2018-19",
+        "month": "11.23",
+        "week": "[FRI]",
+        "setsu": "第11節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "3006人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "清水幹治",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "87"
+    }
+}

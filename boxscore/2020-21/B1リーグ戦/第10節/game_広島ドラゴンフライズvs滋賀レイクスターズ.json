@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6013,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1918人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "黒岡 和哲",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "109"
+    }
+}

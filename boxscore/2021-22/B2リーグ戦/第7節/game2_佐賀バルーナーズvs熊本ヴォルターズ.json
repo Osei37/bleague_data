@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8170,
+    "date": {
+        "season": "2021-22",
+        "month": "11.14",
+        "week": "[SUN]",
+        "setsu": "第7節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館ハートフル",
+        "attendance": "392人"
+    },
+    "referee": {
+        "first": "冨島 健司",
+        "second": "那須 弘幸",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "68"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6365,
+    "date": {
+        "season": "2020-21",
+        "month": "4.11",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2761人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "久米 克弥",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "76",
+        "away": "81"
+    }
+}

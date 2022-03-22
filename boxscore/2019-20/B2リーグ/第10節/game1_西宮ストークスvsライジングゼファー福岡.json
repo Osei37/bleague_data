@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4852,
+    "date": {
+        "season": "2019-20",
+        "month": "11.16",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1473人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "大谷英紀",
+        "crew": "小田中涼子"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "77",
+        "away": "64"
+    }
+}

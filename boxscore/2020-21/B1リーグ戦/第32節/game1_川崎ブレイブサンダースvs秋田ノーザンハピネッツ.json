@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6370,
+    "date": {
+        "season": "2020-21",
+        "month": "4.10",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2359人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "青木 俊博",
+        "crew": "高城 邦弘"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "82",
+        "away": "55"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6841,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "987人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "秋山 厚志",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "82",
+        "away": "67"
+    }
+}

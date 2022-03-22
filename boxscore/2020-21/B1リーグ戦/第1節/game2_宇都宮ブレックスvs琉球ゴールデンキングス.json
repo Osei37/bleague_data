@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5855,
+    "date": {
+        "season": "2020-21",
+        "month": "10.04",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2073人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "大野 太裕",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "79",
+        "away": "68"
+    }
+}

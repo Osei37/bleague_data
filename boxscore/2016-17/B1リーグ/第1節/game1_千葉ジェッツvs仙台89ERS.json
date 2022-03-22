@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4,
+    "date": {
+        "season": "2016-17",
+        "month": "9.24",
+        "week": "[Sat]",
+        "setsu": "第1節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4932人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "谷古宇孝",
+        "crew": "大倉守正"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "96",
+        "away": "77"
+    }
+}

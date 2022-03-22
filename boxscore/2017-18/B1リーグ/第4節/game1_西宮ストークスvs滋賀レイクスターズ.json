@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1641,
+    "date": {
+        "season": "2017-18",
+        "month": "10.20",
+        "week": "[Fri]",
+        "setsu": "第4節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1435人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "堀内純",
+        "crew": "岩木太郎"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "71"
+    }
+}

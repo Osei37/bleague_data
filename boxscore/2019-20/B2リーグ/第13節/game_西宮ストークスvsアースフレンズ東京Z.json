@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4903,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1163人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "坂井元直",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "62",
+        "away": "63"
+    }
+}

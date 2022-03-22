@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4174,
+    "date": {
+        "season": "2019-20",
+        "month": "2.12",
+        "week": "[WED]",
+        "setsu": "第2節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2020人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "平原勇次",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "75",
+        "away": "93"
+    }
+}

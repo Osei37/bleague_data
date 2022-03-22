@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6281,
+    "date": {
+        "season": "2020-21",
+        "month": "3.07",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1570人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "甲斐 清",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "73",
+        "away": "77"
+    }
+}

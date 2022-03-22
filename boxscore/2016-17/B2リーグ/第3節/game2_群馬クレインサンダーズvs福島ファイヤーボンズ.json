@@ -1,0 +1,27 @@
+{
+    "schedule_key": 582,
+    "date": {
+        "season": "2016-17",
+        "month": "10.08",
+        "week": "[Sat]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1303人"
+    },
+    "referee": {
+        "first": "関口 久視",
+        "second": "大野 太裕",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "64"
+    }
+}

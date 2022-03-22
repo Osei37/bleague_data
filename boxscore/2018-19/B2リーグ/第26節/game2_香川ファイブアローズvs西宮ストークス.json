@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3966,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1268人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "岩木太郎",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "53",
+        "away": "71"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6048,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1393人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "大野 太裕",
+        "crew": "蒲 健一"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "71",
+        "away": "73"
+    }
+}

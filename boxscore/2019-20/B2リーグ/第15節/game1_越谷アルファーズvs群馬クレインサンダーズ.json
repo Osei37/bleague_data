@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4929,
+    "date": {
+        "season": "2019-20",
+        "month": "12.20",
+        "week": "[FRI]",
+        "setsu": "第15節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "行田市総合体育館行田グリーンアリーナ",
+        "attendance": "507人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "吉田剛",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "70"
+    }
+}

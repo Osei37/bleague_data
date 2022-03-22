@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8396,
+    "date": {
+        "season": "2021-22",
+        "month": "3.13",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "五所川原市民体育館",
+        "attendance": "321人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "茂泉 圭治",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "97"
+    }
+}

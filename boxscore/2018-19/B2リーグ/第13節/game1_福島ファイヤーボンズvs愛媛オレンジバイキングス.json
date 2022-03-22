@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3728,
+    "date": {
+        "season": "2018-19",
+        "month": "12.15",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "14:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "805人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "熊谷久美子",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "97",
+        "away": "78"
+    }
+}

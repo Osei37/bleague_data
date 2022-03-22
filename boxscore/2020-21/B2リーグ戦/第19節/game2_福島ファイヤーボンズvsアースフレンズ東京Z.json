@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6721,
+    "date": {
+        "season": "2020-21",
+        "month": "1.31",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "795人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "谷地 温",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "87",
+        "away": "55"
+    }
+}

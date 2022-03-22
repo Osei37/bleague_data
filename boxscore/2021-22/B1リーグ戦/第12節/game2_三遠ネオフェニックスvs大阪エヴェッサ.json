@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7640,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1528人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "松本 究",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "75",
+        "away": "86"
+    }
+}

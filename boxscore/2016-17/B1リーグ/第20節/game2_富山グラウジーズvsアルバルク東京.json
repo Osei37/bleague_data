@@ -1,0 +1,27 @@
+{
+    "schedule_key": 336,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3417人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "平澤明男",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "81",
+        "away": "100"
+    }
+}

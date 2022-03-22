@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6399,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第34節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2454人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "北沢 岳夫",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "80",
+        "away": "73"
+    }
+}

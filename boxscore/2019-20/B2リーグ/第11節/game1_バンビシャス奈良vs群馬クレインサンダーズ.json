@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4876,
+    "date": {
+        "season": "2019-20",
+        "month": "11.23",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "五條市上野公園総合体育館(シダーアリーナ)",
+        "attendance": "759人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "渡邉浩二",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "77"
+    }
+}

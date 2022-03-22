@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2214,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2323人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "熊谷久美子",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2219,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1509人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "和嶋陽一",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "93"
+    }
+}

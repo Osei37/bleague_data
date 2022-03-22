@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4035,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1655人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "丸山大",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "86",
+        "away": "97"
+    }
+}

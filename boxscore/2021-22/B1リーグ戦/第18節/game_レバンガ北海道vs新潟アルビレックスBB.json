@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7750,
+    "date": {
+        "season": "2021-22",
+        "month": "1.26",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "871人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "鈴木 悟",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "107",
+        "away": "85"
+    }
+}

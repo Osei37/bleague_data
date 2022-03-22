@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6629,
+    "date": {
+        "season": "2020-21",
+        "month": "12.13",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1061人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "和嶋 陽一",
+        "crew": "大谷 英紀"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "86"
+    }
+}

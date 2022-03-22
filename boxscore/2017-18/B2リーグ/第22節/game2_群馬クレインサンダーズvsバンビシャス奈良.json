@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2480,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "2322人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "中川行臣",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "70",
+        "away": "84"
+    }
+}

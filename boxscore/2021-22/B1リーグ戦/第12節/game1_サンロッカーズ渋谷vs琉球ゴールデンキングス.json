@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7635,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1734人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "久保 知仁",
+        "crew": "増渕 泰久"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "60",
+        "away": "80"
+    }
+}

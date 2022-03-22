@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3445,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "4712人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "上田信彦",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "83",
+        "away": "97"
+    }
+}

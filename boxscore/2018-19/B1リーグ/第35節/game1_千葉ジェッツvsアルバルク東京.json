@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3492,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5439人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "大河原則人",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "59",
+        "away": "57"
+    }
+}

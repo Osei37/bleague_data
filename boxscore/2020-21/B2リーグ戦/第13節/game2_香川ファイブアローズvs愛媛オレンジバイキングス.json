@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6641,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "463人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "前花 直哉",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "81",
+        "away": "87"
+    }
+}

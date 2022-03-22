@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3287,
+    "date": {
+        "season": "2018-19",
+        "month": "1.25",
+        "week": "[FRI]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3433人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "上田信彦",
+        "crew": "谷地温"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "79",
+        "away": "78"
+    }
+}

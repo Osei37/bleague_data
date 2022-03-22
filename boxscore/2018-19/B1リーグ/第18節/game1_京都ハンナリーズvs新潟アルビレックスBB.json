@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3259,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2203人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "平出剛",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "61",
+        "away": "82"
+    }
+}

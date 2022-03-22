@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2378,
+    "date": {
+        "season": "2017-18",
+        "month": "1.20",
+        "week": "[Sat]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1522人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "早崎康祐",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "80"
+    }
+}

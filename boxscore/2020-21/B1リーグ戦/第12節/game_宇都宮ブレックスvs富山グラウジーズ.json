@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6035,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1994人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "加藤 暁生",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "63"
+    }
+}

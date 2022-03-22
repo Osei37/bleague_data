@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6144,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1286人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "谷地 温",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "79",
+        "away": "73"
+    }
+}

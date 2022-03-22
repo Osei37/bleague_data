@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6363,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1329人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "黒岡 和哲",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "87"
+    }
+}

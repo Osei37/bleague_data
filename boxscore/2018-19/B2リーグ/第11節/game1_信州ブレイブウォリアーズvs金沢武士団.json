@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3703,
+    "date": {
+        "season": "2018-19",
+        "month": "12.08",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1012人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "竹田 雄介",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "78",
+        "away": "64"
+    }
+}

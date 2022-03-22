@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3844,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1638人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "蒲健一",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "57"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1074,
+    "date": {
+        "season": "2016-17",
+        "month": "5.06",
+        "week": "[Sat]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2677人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "宇田津浩史",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "77",
+        "away": "52"
+    }
+}

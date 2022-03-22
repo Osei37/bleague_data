@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2203,
+    "date": {
+        "season": "2017-18",
+        "month": "10.29",
+        "week": "[Sun]",
+        "setsu": "第6節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "729人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "鬼頭英伸",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "80"
+    }
+}

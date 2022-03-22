@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6348,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1442人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "上田 信彦",
+        "crew": "久米 克弥"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "96",
+        "away": "85"
+    }
+}

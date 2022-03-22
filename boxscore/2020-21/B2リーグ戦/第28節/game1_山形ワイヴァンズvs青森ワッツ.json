@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6854,
+    "date": {
+        "season": "2020-21",
+        "month": "4.07",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "219人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "松岡 隆博",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "70"
+    }
+}

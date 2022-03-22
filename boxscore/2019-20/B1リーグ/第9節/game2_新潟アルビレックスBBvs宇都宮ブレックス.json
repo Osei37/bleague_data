@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4288,
+    "date": {
+        "season": "2019-20",
+        "month": "11.17",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": "3498人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "東祐二",
+        "crew": "安西郷史"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "76",
+        "away": "85"
+    }
+}

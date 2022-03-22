@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6161,
+    "date": {
+        "season": "2020-21",
+        "month": "1.31",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1571人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "久保 知仁",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "62",
+        "away": "67"
+    }
+}

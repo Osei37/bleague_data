@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6609,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "622人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "梶 崇司",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "72",
+        "away": "64"
+    }
+}

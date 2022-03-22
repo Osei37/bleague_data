@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2276,
+    "date": {
+        "season": "2017-18",
+        "month": "12.02",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "781人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "平澤明男",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "57",
+        "away": "58"
+    }
+}

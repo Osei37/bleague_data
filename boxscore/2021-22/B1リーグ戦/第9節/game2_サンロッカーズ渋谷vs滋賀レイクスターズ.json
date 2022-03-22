@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7581,
+    "date": {
+        "season": "2021-22",
+        "month": "12.06",
+        "week": "[MON]",
+        "setsu": "第9節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "932人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "平原 勇次",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "82"
+    }
+}

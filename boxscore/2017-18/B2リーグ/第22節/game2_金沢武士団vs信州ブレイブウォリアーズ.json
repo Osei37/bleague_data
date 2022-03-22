@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2484,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1697人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "玉木彰治",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "64"
+    }
+}

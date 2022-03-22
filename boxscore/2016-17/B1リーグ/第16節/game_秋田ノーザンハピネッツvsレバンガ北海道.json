@@ -1,0 +1,27 @@
+{
+    "schedule_key": 259,
+    "date": {
+        "season": "2016-17",
+        "month": "1.18",
+        "week": "[Wed]",
+        "setsu": "第16節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2004人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "久米克弥",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "80",
+        "away": "58"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3809,
+    "date": {
+        "season": "2018-19",
+        "month": "1.18",
+        "week": "[FRI]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "799人"
+    },
+    "referee": {
+        "first": "熊谷久美子",
+        "second": "加藤暁生",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "84"
+    }
+}

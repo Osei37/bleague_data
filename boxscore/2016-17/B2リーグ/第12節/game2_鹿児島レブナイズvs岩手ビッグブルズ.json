@@ -1,0 +1,27 @@
+{
+    "schedule_key": 756,
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "姶良総合運動公園体育館",
+        "attendance": "392人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "太田 匡俊",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "72"
+    }
+}

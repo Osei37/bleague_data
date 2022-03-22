@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1040,
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北上総合体育館",
+        "attendance": "1411人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "三好啓太",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "80"
+    }
+}

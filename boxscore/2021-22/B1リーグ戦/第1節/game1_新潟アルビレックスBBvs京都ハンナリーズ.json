@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7428,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1491人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "加川 真",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "85"
+    }
+}

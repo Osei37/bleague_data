@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4843,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大川市民体育館",
+        "attendance": "751人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "甲斐清",
+        "crew": "渡邉浩二"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "50",
+        "away": "71"
+    }
+}

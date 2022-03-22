@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1798,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3016人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "堀内純",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "77",
+        "away": "80"
+    }
+}

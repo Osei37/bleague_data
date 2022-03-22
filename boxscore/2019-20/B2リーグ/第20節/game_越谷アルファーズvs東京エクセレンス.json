@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5018,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館サブアリーナ",
+        "attendance": "407人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "茅野修司",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "65",
+        "away": "103"
+    }
+}

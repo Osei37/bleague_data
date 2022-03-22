@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6173,
+    "date": {
+        "season": "2020-21",
+        "month": "1.31",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1319人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "市川 雄介",
+        "crew": "前花 直哉"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "86",
+        "away": "85"
+    }
+}

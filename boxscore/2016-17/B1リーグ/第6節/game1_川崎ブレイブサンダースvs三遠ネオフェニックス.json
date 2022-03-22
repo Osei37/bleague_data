@@ -1,0 +1,27 @@
+{
+    "schedule_key": 91,
+    "date": {
+        "season": "2016-17",
+        "month": "10.28",
+        "week": "[Fri]",
+        "setsu": "第6節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "1818人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "前田喜庸",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "81",
+        "away": "87"
+    }
+}

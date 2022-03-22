@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2315,
+    "date": {
+        "season": "2017-18",
+        "month": "12.17",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1528人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "早崎康祐",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "58",
+        "away": "66"
+    }
+}

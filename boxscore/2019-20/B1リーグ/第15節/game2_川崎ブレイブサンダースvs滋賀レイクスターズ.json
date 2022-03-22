@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4376,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "5212人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "伊藤亮介",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "71"
+    }
+}

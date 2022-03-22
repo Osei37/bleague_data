@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6038,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1680人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "北島 寛臣",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "94"
+    }
+}

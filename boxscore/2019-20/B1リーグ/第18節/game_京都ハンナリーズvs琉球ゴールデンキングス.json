@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4418,
+    "date": {
+        "season": "2019-20",
+        "month": "1.22",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1711人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "玉木彰治",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "92",
+        "away": "78"
+    }
+}

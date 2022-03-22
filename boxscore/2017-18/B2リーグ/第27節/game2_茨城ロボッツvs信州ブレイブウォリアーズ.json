@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2559,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1430人"
+    },
+    "referee": {
+        "first": "須黒祥子",
+        "second": "吉田剛",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "62"
+    }
+}

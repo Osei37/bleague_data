@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3285,
+    "date": {
+        "season": "2018-19",
+        "month": "1.26",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3020人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "安西郷史",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "65"
+    }
+}

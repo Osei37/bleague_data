@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7606,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1420人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "高城 邦弘",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "79",
+        "away": "70"
+    }
+}

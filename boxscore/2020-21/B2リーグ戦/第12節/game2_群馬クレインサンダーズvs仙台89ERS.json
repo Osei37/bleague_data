@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6621,
+    "date": {
+        "season": "2020-21",
+        "month": "12.13",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "785人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "一色 渉",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "79",
+        "away": "66"
+    }
+}

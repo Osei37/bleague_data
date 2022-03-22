@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8263,
+    "date": {
+        "season": "2021-22",
+        "month": "1.03",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青森県武道館",
+        "attendance": "710人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "田中 充",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "60",
+        "away": "91"
+    }
+}

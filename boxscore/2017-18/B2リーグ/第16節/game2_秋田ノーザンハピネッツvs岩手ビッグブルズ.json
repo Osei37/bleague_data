@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2368,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "能代市総合体育館",
+        "attendance": "2303人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "針生淳男",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "51"
+    }
+}

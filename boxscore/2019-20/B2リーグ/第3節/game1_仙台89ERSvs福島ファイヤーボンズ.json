@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4727,
+    "date": {
+        "season": "2019-20",
+        "month": "10.05",
+        "week": "[SAT]",
+        "setsu": "第3節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1882人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "伊藤彰二",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "73"
+    }
+}

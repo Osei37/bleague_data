@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1905,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "2016人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "北沢岳夫",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "83"
+    }
+}

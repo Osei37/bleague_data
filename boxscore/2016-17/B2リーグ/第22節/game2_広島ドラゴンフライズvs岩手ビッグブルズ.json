@@ -1,0 +1,27 @@
+{
+    "schedule_key": 935,
+    "date": {
+        "season": "2016-17",
+        "month": "3.12",
+        "week": "[Sun]",
+        "setsu": "第22節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1323人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "橋本恵一",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "66"
+    }
+}

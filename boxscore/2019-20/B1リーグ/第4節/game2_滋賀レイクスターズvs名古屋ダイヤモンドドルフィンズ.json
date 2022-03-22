@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4211,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2382人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "甲斐清",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "83"
+    }
+}

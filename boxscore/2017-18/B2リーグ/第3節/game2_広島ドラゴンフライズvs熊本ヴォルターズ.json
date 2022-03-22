@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2162,
+    "date": {
+        "season": "2017-18",
+        "month": "10.13",
+        "week": "[Fri]",
+        "setsu": "第3節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1324人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "飯尾勝紀",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6550,
+    "date": {
+        "season": "2020-21",
+        "month": "11.12",
+        "week": "[THU]",
+        "setsu": "第7節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大森スポーツセンター",
+        "attendance": "337人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "谷古宇 孝",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "77",
+        "away": "87"
+    }
+}

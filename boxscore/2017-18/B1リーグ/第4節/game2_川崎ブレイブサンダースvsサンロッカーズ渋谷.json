@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1632,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3629人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "関口久視",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "71",
+        "away": "69"
+    }
+}

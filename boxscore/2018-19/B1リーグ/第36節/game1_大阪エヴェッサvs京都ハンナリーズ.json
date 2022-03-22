@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3520,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "3662人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "佐藤誠",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "57",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4306,
+    "date": {
+        "season": "2019-20",
+        "month": "12.08",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "4941人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "谷地温",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "72",
+        "away": "73"
+    }
+}

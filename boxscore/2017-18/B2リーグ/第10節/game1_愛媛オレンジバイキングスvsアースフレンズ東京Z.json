@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2280,
+    "date": {
+        "season": "2017-18",
+        "month": "12.01",
+        "week": "[Fri]",
+        "setsu": "第10節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1030人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "白川一樹",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "89",
+        "away": "91"
+    }
+}

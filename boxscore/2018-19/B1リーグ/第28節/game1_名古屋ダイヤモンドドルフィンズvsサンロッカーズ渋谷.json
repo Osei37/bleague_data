@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3405,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2845人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "玉木彰治",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "73",
+        "away": "75"
+    }
+}

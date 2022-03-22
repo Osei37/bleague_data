@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6331,
+    "date": {
+        "season": "2020-21",
+        "month": "5.09",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1489人"
+    },
+    "referee": {
+        "first": "東條 輝正",
+        "second": "市川 雄介",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "69"
+    }
+}

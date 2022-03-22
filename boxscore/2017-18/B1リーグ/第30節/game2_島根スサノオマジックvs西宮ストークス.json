@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2083,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿島総合体育館",
+        "attendance": "1667人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "石田祐二",
+        "crew": "加藤昌樹"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "92",
+        "away": "72"
+    }
+}

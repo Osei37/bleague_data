@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6469,
+    "date": {
+        "season": "2020-21",
+        "month": "10.04",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAサンライズパーク総合体育館",
+        "attendance": "972人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "御手洗 亮",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "83"
+    }
+}

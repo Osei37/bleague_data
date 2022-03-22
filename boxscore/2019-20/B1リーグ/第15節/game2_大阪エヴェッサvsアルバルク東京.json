@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4382,
+    "date": {
+        "season": "2019-20",
+        "month": "12.30",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪",
+        "attendance": "4263人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "北沢岳夫",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "55",
+        "away": "62"
+    }
+}

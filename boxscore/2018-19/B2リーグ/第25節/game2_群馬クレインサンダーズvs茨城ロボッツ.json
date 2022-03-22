@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3938,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1924人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "大山賢史",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "82",
+        "away": "89"
+    }
+}

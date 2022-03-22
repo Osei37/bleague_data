@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6011,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "673人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "宇田津 浩史",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "72"
+    }
+}

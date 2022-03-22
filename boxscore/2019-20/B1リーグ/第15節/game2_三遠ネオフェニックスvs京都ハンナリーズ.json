@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4380,
+    "date": {
+        "season": "2019-20",
+        "month": "12.30",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2810人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "中川行臣",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "82"
+    }
+}

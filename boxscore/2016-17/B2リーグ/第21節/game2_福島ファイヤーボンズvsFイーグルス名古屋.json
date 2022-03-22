@@ -1,0 +1,27 @@
+{
+    "schedule_key": 916,
+    "date": {
+        "season": "2016-17",
+        "month": "3.05",
+        "week": "[Sun]",
+        "setsu": "第21節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島市国体記念体育館",
+        "attendance": "1341人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "稲葉威",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "77",
+        "away": "93"
+    }
+}

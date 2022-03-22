@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4871,
+    "date": {
+        "season": "2019-20",
+        "month": "11.23",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1023人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "管祐介",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "100",
+        "away": "71"
+    }
+}

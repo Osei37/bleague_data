@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6356,
+    "date": {
+        "season": "2020-21",
+        "month": "4.28",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1010人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "伊藤 亮介",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "74"
+    }
+}

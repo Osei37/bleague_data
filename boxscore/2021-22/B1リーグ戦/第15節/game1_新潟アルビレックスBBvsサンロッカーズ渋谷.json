@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7694,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1393人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "片寄 達",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "68",
+        "away": "88"
+    }
+}

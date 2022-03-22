@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3850,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1507人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "前花直哉",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "59"
+    }
+}

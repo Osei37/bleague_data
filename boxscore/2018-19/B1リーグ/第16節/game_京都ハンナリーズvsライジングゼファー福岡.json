@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3227,
+    "date": {
+        "season": "2018-19",
+        "month": "12.26",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1381人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "石田祐二",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

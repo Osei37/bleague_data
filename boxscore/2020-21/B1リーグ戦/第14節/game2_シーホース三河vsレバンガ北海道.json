@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6079,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1364人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "早崎 康祐",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "89",
+        "away": "92"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3816,
+    "date": {
+        "season": "2018-19",
+        "month": "1.19",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1396人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "幡丸 登志久",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "83",
+        "away": "85"
+    }
+}

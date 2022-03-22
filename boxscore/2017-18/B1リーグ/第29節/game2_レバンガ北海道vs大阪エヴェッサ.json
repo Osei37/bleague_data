@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2051,
+    "date": {
+        "season": "2017-18",
+        "month": "4.22",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "旭川市総合体育館",
+        "attendance": "2289人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "小澤勤",
+        "crew": "清水幹治"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "76",
+        "away": "81"
+    }
+}

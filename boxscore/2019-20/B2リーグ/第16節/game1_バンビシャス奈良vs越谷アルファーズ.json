@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4953,
+    "date": {
+        "season": "2019-20",
+        "month": "12.28",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1103人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "名越龍男",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "93"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4322,
+    "date": {
+        "season": "2019-20",
+        "month": "12.14",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4057人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "塩谷禎",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "69",
+        "away": "82"
+    }
+}

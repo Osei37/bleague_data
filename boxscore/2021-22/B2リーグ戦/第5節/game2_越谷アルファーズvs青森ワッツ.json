@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8139,
+    "date": {
+        "season": "2021-22",
+        "month": "11.07",
+        "week": "[SUN]",
+        "setsu": "第5節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "1017人"
+    },
+    "referee": {
+        "first": "加藤 昌樹",
+        "second": "吉田 剛",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "100",
+        "away": "76"
+    }
+}

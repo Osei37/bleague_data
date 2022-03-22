@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7771,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1200人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "佐藤 誠",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "68"
+    }
+}

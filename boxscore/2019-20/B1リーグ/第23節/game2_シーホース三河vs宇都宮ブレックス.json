@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4501,
+    "date": {
+        "season": "2019-20",
+        "month": "2.17",
+        "week": "[MON]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "スカイホール豊田",
+        "attendance": "3413人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "伊藤亮介",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

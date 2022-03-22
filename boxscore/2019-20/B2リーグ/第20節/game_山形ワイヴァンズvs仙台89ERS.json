@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5016,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1196人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "大山賢史",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "68",
+        "away": "79"
+    }
+}

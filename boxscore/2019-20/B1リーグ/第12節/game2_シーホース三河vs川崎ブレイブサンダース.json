@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4333,
+    "date": {
+        "season": "2019-20",
+        "month": "12.17",
+        "week": "[TUE]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2828人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "谷古宇孝",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "76",
+        "away": "86"
+    }
+}

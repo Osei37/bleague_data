@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8417,
+    "date": {
+        "season": "2021-22",
+        "month": "3.18",
+        "week": "[FRI]",
+        "setsu": "第26節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "388人"
+    },
+    "referee": {
+        "first": "岩木 太郎",
+        "second": "内田 祥平",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1746,
+    "date": {
+        "season": "2017-18",
+        "month": "12.09",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1480人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "阿部聖",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "99",
+        "away": "55"
+    }
+}

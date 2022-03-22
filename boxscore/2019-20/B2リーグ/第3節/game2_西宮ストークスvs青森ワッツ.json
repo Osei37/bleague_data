@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4736,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加古川市立総合体育館",
+        "attendance": "2033人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "秋山厚志",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "64",
+        "away": "69"
+    }
+}

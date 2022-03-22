@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3560,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2207人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "伊藤彰二",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "82",
+        "away": "71"
+    }
+}

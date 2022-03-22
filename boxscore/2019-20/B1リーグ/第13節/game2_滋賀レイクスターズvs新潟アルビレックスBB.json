@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4351,
+    "date": {
+        "season": "2019-20",
+        "month": "12.22",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2773人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "高城邦弘",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "72",
+        "away": "67"
+    }
+}

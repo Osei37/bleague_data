@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8231,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "854人"
+    },
+    "referee": {
+        "first": "中川 行臣",
+        "second": "渡邉 浩二",
+        "crew": "山内 正隆"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "77",
+        "away": "92"
+    }
+}

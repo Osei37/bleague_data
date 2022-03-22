@@ -1,0 +1,27 @@
+{
+    "schedule_key": 541,
+    "date": {
+        "season": "2016-17",
+        "month": "9.24",
+        "week": "[Sat]",
+        "setsu": "第1節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "五所川原市民体育館",
+        "attendance": "1901人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "上田 信彦",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "59",
+        "away": "65"
+    }
+}

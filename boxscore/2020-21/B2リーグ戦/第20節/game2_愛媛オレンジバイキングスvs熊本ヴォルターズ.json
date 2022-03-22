@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6747,
+    "date": {
+        "season": "2020-21",
+        "month": "2.06",
+        "week": "[SAT]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "679人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "薦田 侑二郎",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "93"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1996,
+    "date": {
+        "season": "2017-18",
+        "month": "3.31",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4015人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "清水幹治",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "72",
+        "away": "103"
+    }
+}

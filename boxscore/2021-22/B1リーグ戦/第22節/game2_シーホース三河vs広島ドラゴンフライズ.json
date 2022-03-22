@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7829,
+    "date": {
+        "season": "2021-22",
+        "month": "3.06",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "スカイホール豊田",
+        "attendance": "1895人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "小澤 勤",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "94"
+    }
+}

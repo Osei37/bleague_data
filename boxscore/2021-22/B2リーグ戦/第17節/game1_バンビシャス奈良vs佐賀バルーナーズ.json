@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8298,
+    "date": {
+        "season": "2021-22",
+        "month": "1.22",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "326人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "原田 拓朗",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "89"
+    }
+}

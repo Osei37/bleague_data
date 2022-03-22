@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6915,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "637人"
+    },
+    "referee": {
+        "first": "早崎 康祐",
+        "second": "甲斐 清",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "95"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4010,
+    "date": {
+        "season": "2018-19",
+        "month": "3.29",
+        "week": "[FRI]",
+        "setsu": "第29節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "玉名市総合体育館",
+        "attendance": "1532人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "幡丸 登志久",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "84",
+        "away": "94"
+    }
+}

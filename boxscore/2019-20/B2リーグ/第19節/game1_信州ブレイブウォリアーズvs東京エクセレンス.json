@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5007,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1624人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "谷古宇孝",
+        "crew": "山口尭彰"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "72",
+        "away": "61"
+    }
+}

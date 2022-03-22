@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1864,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2838人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "久保知仁",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "72"
+    }
+}

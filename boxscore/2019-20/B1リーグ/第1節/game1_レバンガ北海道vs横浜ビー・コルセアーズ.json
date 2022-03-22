@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4151,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "5601人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "谷地温",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "67"
+    }
+}

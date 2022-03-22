@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4442,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": "2938人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "谷古宇孝",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "89",
+        "away": "80"
+    }
+}

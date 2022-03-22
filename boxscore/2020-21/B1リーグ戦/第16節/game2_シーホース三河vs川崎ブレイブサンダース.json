@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6119,
+    "date": {
+        "season": "2020-21",
+        "month": "1.05",
+        "week": "[TUE]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1367人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "塩谷 禎",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "99",
+        "away": "86"
+    }
+}

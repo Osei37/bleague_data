@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4763,
+    "date": {
+        "season": "2019-20",
+        "month": "10.16",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カクヒログループスタジアム",
+        "attendance": "1184人"
+    },
+    "referee": {
+        "first": "熊谷久美子",
+        "second": "鈴木悟",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "91"
+    }
+}

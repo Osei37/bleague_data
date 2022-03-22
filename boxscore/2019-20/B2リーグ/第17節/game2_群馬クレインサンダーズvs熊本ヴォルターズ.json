@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4966,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "那須弘幸",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "72"
+    }
+}

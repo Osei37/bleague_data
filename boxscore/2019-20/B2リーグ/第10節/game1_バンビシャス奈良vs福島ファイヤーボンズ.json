@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4854,
+    "date": {
+        "season": "2019-20",
+        "month": "11.16",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1013人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "白川一樹",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 163,
+    "date": {
+        "season": "2016-17",
+        "month": "11.27",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1842人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "佐藤誠",
+        "crew": "田島寛治"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "83",
+        "away": "75"
+    }
+}

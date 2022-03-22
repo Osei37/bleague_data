@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6216,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1381人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "早崎 康祐",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "83",
+        "away": "77"
+    }
+}

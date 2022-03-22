@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2105,
+    "date": {
+        "season": "2017-18",
+        "month": "5.05",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "15:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2951人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "前田喜庸",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "62",
+        "away": "75"
+    }
+}

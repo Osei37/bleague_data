@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2036,
+    "date": {
+        "season": "2017-18",
+        "month": "4.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4418人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "久米克弥",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "106",
+        "away": "76"
+    }
+}

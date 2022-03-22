@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3262,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1531人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "安西郷史",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "66",
+        "away": "85"
+    }
+}

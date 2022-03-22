@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6068,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "874人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "眞榮喜 工",
+        "crew": "清水 幹治"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "78"
+    }
+}

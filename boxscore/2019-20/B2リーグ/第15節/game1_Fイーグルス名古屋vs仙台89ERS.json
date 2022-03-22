@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4935,
+    "date": {
+        "season": "2019-20",
+        "month": "12.21",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "955人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "伊藤彰二",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "68",
+        "away": "77"
+    }
+}

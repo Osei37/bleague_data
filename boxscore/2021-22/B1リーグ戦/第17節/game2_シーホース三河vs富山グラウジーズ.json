@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7743,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1243人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "細田 知宏",
+        "crew": "谷古宇 孝"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "70"
+    }
+}

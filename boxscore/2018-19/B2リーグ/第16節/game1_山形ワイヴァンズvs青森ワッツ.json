@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3780,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1280人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "稲葉威",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "82"
+    }
+}

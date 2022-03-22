@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6461,
+    "date": {
+        "season": "2020-21",
+        "month": "10.03",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "808人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "加藤 暁生",
+        "crew": "遠藤 大輔"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "73"
+    }
+}

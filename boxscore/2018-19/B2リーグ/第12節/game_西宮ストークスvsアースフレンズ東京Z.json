@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3720,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "756人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "黒岡和哲",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "68",
+        "away": "61"
+    }
+}

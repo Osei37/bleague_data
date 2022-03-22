@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3731,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1267人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "平澤明男",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "81",
+        "away": "60"
+    }
+}

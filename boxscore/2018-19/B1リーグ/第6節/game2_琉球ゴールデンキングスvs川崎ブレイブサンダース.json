@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3075,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": "[SAT]",
+        "setsu": "第6節",
+        "time": "15:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3362人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "安西郷史",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "72",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3402,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "4005人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "黒岡和哲",
+        "crew": "鬼頭英伸"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "86"
+    }
+}

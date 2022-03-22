@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4420,
+    "date": {
+        "season": "2019-20",
+        "month": "1.22",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1488人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "宇田津浩史",
+        "crew": "黒岡和哲"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "81"
+    }
+}

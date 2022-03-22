@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8291,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "786人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "嶋崎 貴",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "50",
+        "away": "90"
+    }
+}

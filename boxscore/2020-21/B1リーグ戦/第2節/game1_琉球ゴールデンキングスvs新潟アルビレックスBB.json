@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5892,
+    "date": {
+        "season": "2020-21",
+        "month": "10.10",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1321人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "和嶋 陽一",
+        "crew": "松本 究"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "89",
+        "away": "75"
+    }
+}

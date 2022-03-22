@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2588,
+    "date": {
+        "season": "2017-18",
+        "month": "4.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3242人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "加藤昌樹",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6785,
+    "date": {
+        "season": "2020-21",
+        "month": "2.28",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "県営あづま総合体育館",
+        "attendance": "1568人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "遠藤 大輔",
+        "crew": "山田 俊"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "87"
+    }
+}

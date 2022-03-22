@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1867,
+    "date": {
+        "season": "2017-18",
+        "month": "2.03",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2067人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "宇地原尚彦",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "81"
+    }
+}

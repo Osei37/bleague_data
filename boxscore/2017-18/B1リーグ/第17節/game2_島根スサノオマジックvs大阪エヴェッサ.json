@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1860,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "島根県立浜山体育館（カミアリーナ）",
+        "attendance": "2321人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "甲斐清",
+        "crew": "有澤重行"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "71",
+        "away": "84"
+    }
+}

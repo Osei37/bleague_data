@@ -1,0 +1,27 @@
+{
+    "schedule_key": 944,
+    "date": {
+        "season": "2016-17",
+        "month": "3.18",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "館林市城沼総合体育館",
+        "attendance": "1245人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "松岡隆博",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "83"
+    }
+}

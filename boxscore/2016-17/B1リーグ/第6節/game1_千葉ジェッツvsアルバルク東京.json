@@ -1,0 +1,27 @@
+{
+    "schedule_key": 93,
+    "date": {
+        "season": "2016-17",
+        "month": "10.29",
+        "week": "[Sat]",
+        "setsu": "第6節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4425人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久米克弥",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "84",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1067,
+    "date": {
+        "season": "2016-17",
+        "month": "4.30",
+        "week": "[Sun]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予市民体育館",
+        "attendance": "1104人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "前花直哉",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "76"
+    }
+}

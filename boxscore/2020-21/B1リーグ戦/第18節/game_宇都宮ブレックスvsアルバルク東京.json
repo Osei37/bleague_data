@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6145,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1633人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "小澤 勤",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "59",
+        "away": "83"
+    }
+}

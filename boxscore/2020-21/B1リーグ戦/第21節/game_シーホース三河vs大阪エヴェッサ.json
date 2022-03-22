@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6200,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1084人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "名越 龍男",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "85",
+        "away": "93"
+    }
+}

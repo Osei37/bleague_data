@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2450,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": "[SAT]",
+        "setsu": "第20節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1918人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "秋山厚志",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "80"
+    }
+}

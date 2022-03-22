@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3944,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "2778人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "坂井元直",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "68",
+        "away": "58"
+    }
+}

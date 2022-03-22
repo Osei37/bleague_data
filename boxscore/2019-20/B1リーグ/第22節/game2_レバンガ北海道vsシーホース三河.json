@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4467,
+    "date": {
+        "season": "2019-20",
+        "month": "2.09",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "5808人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "小澤勤",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "92",
+        "away": "100"
+    }
+}

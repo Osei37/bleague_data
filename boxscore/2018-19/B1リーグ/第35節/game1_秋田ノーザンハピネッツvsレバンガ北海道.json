@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3490,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3088人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "佐藤誠",
+        "crew": "久保裕紀"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "79",
+        "away": "66"
+    }
+}

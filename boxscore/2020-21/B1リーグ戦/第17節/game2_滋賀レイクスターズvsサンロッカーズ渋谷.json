@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6139,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1018人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "黒岡 和哲",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "79",
+        "away": "86"
+    }
+}

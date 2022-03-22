@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1995,
+    "date": {
+        "season": "2017-18",
+        "month": "3.28",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1776人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "北島寛臣",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "85"
+    }
+}

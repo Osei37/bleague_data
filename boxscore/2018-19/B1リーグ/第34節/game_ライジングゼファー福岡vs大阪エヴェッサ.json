@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3488,
+    "date": {
+        "season": "2018-19",
+        "month": "4.10",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "2011人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "宇田津浩史",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "71",
+        "away": "80"
+    }
+}

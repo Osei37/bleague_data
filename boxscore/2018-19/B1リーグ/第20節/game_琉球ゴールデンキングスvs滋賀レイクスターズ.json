@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3282,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "20:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3260人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "宇地原尚彦",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "55",
+        "away": "65"
+    }
+}

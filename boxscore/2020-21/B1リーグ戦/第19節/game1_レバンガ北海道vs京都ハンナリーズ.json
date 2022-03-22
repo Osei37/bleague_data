@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6154,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1471人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "中田 英教",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "78"
+    }
+}

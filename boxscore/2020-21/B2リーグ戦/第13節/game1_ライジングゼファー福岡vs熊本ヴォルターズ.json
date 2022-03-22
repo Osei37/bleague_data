@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6642,
+    "date": {
+        "season": "2020-21",
+        "month": "12.19",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アクシオン福岡",
+        "attendance": "735人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "松本 究",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "96"
+    }
+}

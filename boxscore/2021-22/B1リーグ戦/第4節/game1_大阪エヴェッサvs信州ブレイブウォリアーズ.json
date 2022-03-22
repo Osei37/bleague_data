@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7504,
+    "date": {
+        "season": "2021-22",
+        "month": "10.23",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "1815人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "小澤 勤",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "85"
+    }
+}

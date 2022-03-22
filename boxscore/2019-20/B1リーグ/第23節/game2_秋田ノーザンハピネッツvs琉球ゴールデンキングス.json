@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4487,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "秋田県立体育館",
+        "attendance": "3570人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "松岡隆博",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "81",
+        "away": "67"
+    }
+}

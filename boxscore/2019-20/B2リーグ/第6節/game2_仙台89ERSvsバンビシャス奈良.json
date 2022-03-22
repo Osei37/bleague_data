@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4775,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2007人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "山内正隆",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "69",
+        "away": "51"
+    }
+}

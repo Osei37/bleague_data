@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3426,
+    "date": {
+        "season": "2018-19",
+        "month": "3.24",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第１体育館",
+        "attendance": "2097人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "塩谷禎",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "101"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3305,
+    "date": {
+        "season": "2018-19",
+        "month": "1.30",
+        "week": "[WED]",
+        "setsu": "第22節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1824人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "蒲健一",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "57",
+        "away": "91"
+    }
+}

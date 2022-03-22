@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3465,
+    "date": {
+        "season": "2018-19",
+        "month": "4.06",
+        "week": "[SAT]",
+        "setsu": "第33節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "秋田県立体育館",
+        "attendance": "2795人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "黒岡和哲",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "68",
+        "away": "75"
+    }
+}

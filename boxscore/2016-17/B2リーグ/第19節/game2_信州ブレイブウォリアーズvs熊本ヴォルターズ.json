@@ -1,0 +1,27 @@
+{
+    "schedule_key": 882,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "1008人"
+    },
+    "referee": {
+        "first": "鬼頭 英伸",
+        "second": "三好啓太",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4804,
+    "date": {
+        "season": "2019-20",
+        "month": "10.26",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "五島市中央公園市民体育館",
+        "attendance": "705人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "宇田津浩史",
+        "crew": "大谷英紀"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "87"
+    }
+}

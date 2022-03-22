@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7731,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1156人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "宇田津 浩史",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "90"
+    }
+}

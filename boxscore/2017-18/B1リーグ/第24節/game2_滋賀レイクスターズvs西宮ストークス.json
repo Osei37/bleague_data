@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1982,
+    "date": {
+        "season": "2017-18",
+        "month": "3.25",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "彦根市民体育センター",
+        "attendance": "2055人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "佐藤誠",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "70",
+        "away": "76"
+    }
+}

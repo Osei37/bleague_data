@@ -1,0 +1,27 @@
+{
+    "schedule_key": 85,
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": "[Sun]",
+        "setsu": "第5節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5183人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "倉口勉",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "96",
+        "away": "52"
+    }
+}

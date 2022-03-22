@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1771,
+    "date": {
+        "season": "2017-18",
+        "month": "12.17",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2510人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "冨島健司",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "94",
+        "away": "78"
+    }
+}

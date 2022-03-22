@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8324,
+    "date": {
+        "season": "2021-22",
+        "month": "2.02",
+        "week": "[WED]",
+        "setsu": "第19節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "691人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "茅野 修司",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "102",
+        "away": "106"
+    }
+}

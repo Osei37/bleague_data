@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3356,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "3781人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "阿部聖",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "53",
+        "away": "73"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4950,
+    "date": {
+        "season": "2019-20",
+        "month": "12.31",
+        "week": "[TUE]",
+        "setsu": "第16節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1316人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "秋山厚志",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "109"
+    }
+}

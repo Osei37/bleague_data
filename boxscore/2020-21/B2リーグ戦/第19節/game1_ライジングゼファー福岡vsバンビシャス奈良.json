@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6728,
+    "date": {
+        "season": "2020-21",
+        "month": "1.29",
+        "week": "[FRI]",
+        "setsu": "第19節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "356人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "柳田 雅人",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "69",
+        "away": "75"
+    }
+}

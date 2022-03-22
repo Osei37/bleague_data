@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4813,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": "[SUN]",
+        "setsu": "第8節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "KAKINUMAアリーナ(千代田町総合体育館)",
+        "attendance": "1405人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "丸山大",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "73",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3890,
+    "date": {
+        "season": "2018-19",
+        "month": "2.17",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "土庄町総合会館（フレトピアホール）",
+        "attendance": "1115人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "大谷英紀",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "68",
+        "away": "66"
+    }
+}

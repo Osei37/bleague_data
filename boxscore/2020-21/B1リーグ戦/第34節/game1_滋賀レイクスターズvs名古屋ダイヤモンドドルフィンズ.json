@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6406,
+    "date": {
+        "season": "2020-21",
+        "month": "4.17",
+        "week": "[SAT]",
+        "setsu": "第34節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1022人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "眞榮喜 工",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2168,
+    "date": {
+        "season": "2017-18",
+        "month": "10.22",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三沢市国際交流スポーツセンター",
+        "attendance": "1698人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "松岡隆博",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "66",
+        "away": "67"
+    }
+}

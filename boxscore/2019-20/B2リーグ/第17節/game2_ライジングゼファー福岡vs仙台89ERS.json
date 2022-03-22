@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4978,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "958人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "小田中涼子",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "60",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2399,
+    "date": {
+        "season": "2017-18",
+        "month": "1.27",
+        "week": "[Sat]",
+        "setsu": "第17節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "651人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "伊藤彰二",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "67"
+    }
+}

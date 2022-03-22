@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1742,
+    "date": {
+        "season": "2017-18",
+        "month": "12.01",
+        "week": "[Fri]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1439人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "冨島健司",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "82",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3689,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1024人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "田中充",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "67"
+    }
+}

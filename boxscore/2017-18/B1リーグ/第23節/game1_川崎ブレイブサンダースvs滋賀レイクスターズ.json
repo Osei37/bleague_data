@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1957,
+    "date": {
+        "season": "2017-18",
+        "month": "3.16",
+        "week": "[FRI]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2805人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "倉口勉",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "60"
+    }
+}

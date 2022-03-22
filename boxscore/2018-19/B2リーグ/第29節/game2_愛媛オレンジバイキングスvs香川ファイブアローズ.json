@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4009,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1021人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "大谷英紀",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "67"
+    }
+}

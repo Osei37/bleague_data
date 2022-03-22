@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4441,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "6208人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "東祐二",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "91",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3443,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "4191人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "宇地原尚彦",
+        "crew": "平出剛"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "78",
+        "away": "92"
+    }
+}

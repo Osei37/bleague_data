@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6722,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "504人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "長谷川 裕",
+        "crew": "松岡 隆博"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "88"
+    }
+}

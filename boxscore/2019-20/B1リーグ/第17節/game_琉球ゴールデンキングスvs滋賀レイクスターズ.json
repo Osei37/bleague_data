@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4411,
+    "date": {
+        "season": "2019-20",
+        "month": "1.15",
+        "week": "[WED]",
+        "setsu": "第17節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3261人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "宇田津浩史",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "90"
+    }
+}

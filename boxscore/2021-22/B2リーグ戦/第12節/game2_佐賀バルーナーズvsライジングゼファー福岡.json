@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8238,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "881人"
+    },
+    "referee": {
+        "first": "和嶋 陽一",
+        "second": "飯尾 勝紀",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "83",
+        "away": "62"
+    }
+}

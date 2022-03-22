@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2327,
+    "date": {
+        "season": "2017-18",
+        "month": "12.20",
+        "week": "[Wed]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "1309人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "黒岡和哲",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "96"
+    }
+}

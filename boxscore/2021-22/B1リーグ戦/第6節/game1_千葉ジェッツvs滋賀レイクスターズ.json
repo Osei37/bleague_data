@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7523,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": "[SAT]",
+        "setsu": "第6節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2199人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "松本 究",
+        "crew": "中川 行臣"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "88"
+    }
+}

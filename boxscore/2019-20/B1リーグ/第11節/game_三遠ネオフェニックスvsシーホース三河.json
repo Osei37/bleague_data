@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4318,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2204人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "黒岡和哲",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "61",
+        "away": "66"
+    }
+}

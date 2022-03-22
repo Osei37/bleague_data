@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6202,
+    "date": {
+        "season": "2020-21",
+        "month": "2.10",
+        "week": "[WED]",
+        "setsu": "第21節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1365人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "橋本 恵一",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "78"
+    }
+}

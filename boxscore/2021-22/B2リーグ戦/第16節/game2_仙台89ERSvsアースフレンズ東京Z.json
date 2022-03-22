@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8277,
+    "date": {
+        "season": "2021-22",
+        "month": "1.09",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "本山製作所青葉アリーナ(青葉体育館)",
+        "attendance": "1119人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "茅野 修司",
+        "crew": "田中 充"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "91",
+        "away": "75"
+    }
+}

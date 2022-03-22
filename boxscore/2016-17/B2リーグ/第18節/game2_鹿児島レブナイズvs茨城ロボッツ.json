@@ -1,0 +1,27 @@
+{
+    "schedule_key": 866,
+    "date": {
+        "season": "2016-17",
+        "month": "2.12",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "奄美市名瀬総合体育館",
+        "attendance": "663人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "鬼頭 英伸",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "90",
+        "away": "77"
+    }
+}

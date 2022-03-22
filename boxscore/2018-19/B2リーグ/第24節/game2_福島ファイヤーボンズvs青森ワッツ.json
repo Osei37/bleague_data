@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3914,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "あいづ総合体育館",
+        "attendance": "1032人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "高城邦弘",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "78"
+    }
+}

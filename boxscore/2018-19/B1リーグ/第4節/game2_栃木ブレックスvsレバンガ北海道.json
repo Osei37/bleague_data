@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3034,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "栃木県立県南体育館",
+        "attendance": "2877人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "谷地温",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "79",
+        "away": "70"
+    }
+}

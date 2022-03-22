@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3370,
+    "date": {
+        "season": "2018-19",
+        "month": "3.09",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "4242人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "久米克弥",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "110"
+    }
+}

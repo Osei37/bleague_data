@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7608,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1949人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "蒲 健一",
+        "crew": "塩谷 禎"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "77",
+        "away": "90"
+    }
+}

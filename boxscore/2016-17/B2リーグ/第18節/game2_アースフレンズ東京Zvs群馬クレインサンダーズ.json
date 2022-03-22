@@ -1,0 +1,27 @@
+{
+    "schedule_key": 850,
+    "date": {
+        "season": "2016-17",
+        "month": "2.11",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "932人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "平出剛",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "52"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3211,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2868人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "久保知仁",
+        "crew": "針生淳男"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "86",
+        "away": "73"
+    }
+}

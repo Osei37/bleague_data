@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1636,
+    "date": {
+        "season": "2017-18",
+        "month": "10.22",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "2146人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "玉木彰治",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "79",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 877,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "2102人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "松岡隆博",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "81",
+        "away": "88"
+    }
+}

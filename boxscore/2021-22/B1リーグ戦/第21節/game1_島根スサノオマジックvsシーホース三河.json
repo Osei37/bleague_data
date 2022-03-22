@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7810,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1303人"
+    },
+    "referee": {
+        "first": "細田 知宏",
+        "second": "冨島 健司",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "86",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4415,
+    "date": {
+        "season": "2019-20",
+        "month": "1.22",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "2704人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "谷古宇孝",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "86",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 201,
+    "date": {
+        "season": "2016-17",
+        "month": "12.11",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2298人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "北沢岳夫",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "87",
+        "away": "71"
+    }
+}

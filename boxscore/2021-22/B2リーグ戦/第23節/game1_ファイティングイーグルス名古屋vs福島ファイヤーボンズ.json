@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8373,
+    "date": {
+        "season": "2021-22",
+        "month": "2.26",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "526人"
+    },
+    "referee": {
+        "first": "冨士 将史",
+        "second": "柳田 雅人",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "58"
+    }
+}

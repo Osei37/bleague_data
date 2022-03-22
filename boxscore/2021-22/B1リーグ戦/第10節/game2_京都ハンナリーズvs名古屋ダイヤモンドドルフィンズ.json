@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7615,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "1490人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "和嶋 陽一",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "48",
+        "away": "93"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6848,
+    "date": {
+        "season": "2020-21",
+        "month": "4.28",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1250人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "鈴木 悟",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "93",
+        "away": "66"
+    }
+}

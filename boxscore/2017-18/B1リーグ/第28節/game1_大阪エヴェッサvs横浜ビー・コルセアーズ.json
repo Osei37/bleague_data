@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2048,
+    "date": {
+        "season": "2017-18",
+        "month": "4.14",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "2458人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "青木俊博",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "76"
+    }
+}

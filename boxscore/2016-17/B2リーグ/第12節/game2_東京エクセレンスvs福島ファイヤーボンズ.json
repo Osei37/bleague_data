@@ -1,0 +1,27 @@
+{
+    "schedule_key": 751,
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1005人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "稲葉威",
+        "crew": "LAW DAVID"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "85"
+    }
+}

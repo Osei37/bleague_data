@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4975,
+    "date": {
+        "season": "2019-20",
+        "month": "1.04",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1165人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "名越龍男",
+        "crew": "富樫彰子"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3315,
+    "date": {
+        "season": "2018-19",
+        "month": "2.02",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "1995人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "緒方崇",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "83",
+        "away": "82"
+    }
+}

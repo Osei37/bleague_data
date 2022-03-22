@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1786,
+    "date": {
+        "season": "2017-18",
+        "month": "12.20",
+        "week": "[Wed]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "池田市五月山体育館",
+        "attendance": "1884人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "田中豊弘",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "62"
+    }
+}

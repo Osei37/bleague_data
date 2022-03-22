@@ -1,0 +1,27 @@
+{
+    "schedule_key": 140,
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2073人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "宇地原尚彦",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "60",
+        "away": "65"
+    }
+}

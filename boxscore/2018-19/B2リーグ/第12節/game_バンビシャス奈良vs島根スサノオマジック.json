@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3721,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "1008人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "茅野修司",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "83",
+        "away": "78"
+    }
+}

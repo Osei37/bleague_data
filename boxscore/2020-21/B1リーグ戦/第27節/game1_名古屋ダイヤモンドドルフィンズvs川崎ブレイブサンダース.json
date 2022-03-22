@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6294,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1921人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "青木 俊博",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "84",
+        "away": "75"
+    }
+}

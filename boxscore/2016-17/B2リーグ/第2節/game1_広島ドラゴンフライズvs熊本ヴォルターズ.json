@@ -1,0 +1,27 @@
+{
+    "schedule_key": 559,
+    "date": {
+        "season": "2016-17",
+        "month": "9.30",
+        "week": "[Fri]",
+        "setsu": "第2節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2507人"
+    },
+    "referee": {
+        "first": "地頭薗 剛",
+        "second": "茅野修司",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "49",
+        "away": "54"
+    }
+}

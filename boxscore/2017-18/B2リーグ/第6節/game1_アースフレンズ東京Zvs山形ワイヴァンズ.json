@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2200,
+    "date": {
+        "season": "2017-18",
+        "month": "10.27",
+        "week": "[Fri]",
+        "setsu": "第6節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "864人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "中田英教",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "56"
+    }
+}

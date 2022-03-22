@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7673,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3911人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "蒲 健一",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "96"
+    }
+}

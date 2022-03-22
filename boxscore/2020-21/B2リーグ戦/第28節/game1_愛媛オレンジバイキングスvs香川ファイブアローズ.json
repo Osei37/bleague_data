@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6866,
+    "date": {
+        "season": "2020-21",
+        "month": "3.26",
+        "week": "[FRI]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "236人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "前花 直哉",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "98"
+    }
+}

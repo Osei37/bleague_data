@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4177,
+    "date": {
+        "season": "2019-20",
+        "month": "10.14",
+        "week": "[MON]",
+        "setsu": "第2節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2618人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "清水幹治",
+        "crew": "黒岡和哲"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "107"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4434,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "3542人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "中川行臣",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "78",
+        "away": "74"
+    }
+}

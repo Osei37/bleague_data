@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7674,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "2007人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "久米 克弥",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "72",
+        "away": "52"
+    }
+}

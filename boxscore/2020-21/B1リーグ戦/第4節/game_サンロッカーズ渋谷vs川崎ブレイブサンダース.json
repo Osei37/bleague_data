@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5916,
+    "date": {
+        "season": "2020-21",
+        "month": "10.21",
+        "week": "[WED]",
+        "setsu": "第4節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "918人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "谷古宇 孝",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "87",
+        "away": "95"
+    }
+}

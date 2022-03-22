@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6152,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "948人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "黒岡 和哲",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8146,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": "[SAT]",
+        "setsu": "第5節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "686人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "御手洗 亮",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "85"
+    }
+}

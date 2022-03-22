@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6309,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2167人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "東條 輝正",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "60",
+        "away": "82"
+    }
+}

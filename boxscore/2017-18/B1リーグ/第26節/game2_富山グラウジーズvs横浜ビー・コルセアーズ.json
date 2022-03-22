@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2003,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2858人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "大倉守正",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "82"
+    }
+}

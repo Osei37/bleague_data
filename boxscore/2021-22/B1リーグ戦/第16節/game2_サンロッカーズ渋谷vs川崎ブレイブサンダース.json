@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7713,
+    "date": {
+        "season": "2021-22",
+        "month": "1.09",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2252人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "堀内 純",
+        "crew": "谷地 温"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "60",
+        "away": "86"
+    }
+}

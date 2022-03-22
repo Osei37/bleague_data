@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6323,
+    "date": {
+        "season": "2020-21",
+        "month": "3.28",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1963人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "久米 克弥",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "96"
+    }
+}

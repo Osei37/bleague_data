@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3611,
+    "date": {
+        "season": "2018-19",
+        "month": "10.28",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "765人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "太田匡俊",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "88",
+        "away": "77"
+    }
+}

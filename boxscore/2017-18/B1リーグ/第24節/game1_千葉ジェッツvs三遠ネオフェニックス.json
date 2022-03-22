@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1971,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4512人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "前田喜庸",
+        "crew": "谷地温"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "100",
+        "away": "86"
+    }
+}

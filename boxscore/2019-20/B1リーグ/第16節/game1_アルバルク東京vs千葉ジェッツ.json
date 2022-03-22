@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4385,
+    "date": {
+        "season": "2019-20",
+        "month": "1.04",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "駒沢オリンピック公園総合運動場体育館",
+        "attendance": "3693人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "守谷圭介",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "65",
+        "away": "73"
+    }
+}

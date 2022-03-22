@@ -1,0 +1,27 @@
+{
+    "schedule_key": 977,
+    "date": {
+        "season": "2016-17",
+        "month": "4.01",
+        "week": "[Sat]",
+        "setsu": "第25節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宮古市民総合体育館",
+        "attendance": "1116人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "谷地温",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "89",
+        "away": "91"
+    }
+}

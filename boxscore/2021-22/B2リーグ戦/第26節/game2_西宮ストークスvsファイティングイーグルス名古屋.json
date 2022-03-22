@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8414,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "956人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "茅野 修司",
+        "crew": "富樫 彰子"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "81",
+        "away": "73"
+    }
+}

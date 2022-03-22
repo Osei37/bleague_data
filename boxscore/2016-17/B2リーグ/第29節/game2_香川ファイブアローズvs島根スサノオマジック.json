@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1066,
+    "date": {
+        "season": "2016-17",
+        "month": "4.30",
+        "week": "[Sun]",
+        "setsu": "第29節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "952人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "宇田津浩史",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "60",
+        "away": "76"
+    }
+}

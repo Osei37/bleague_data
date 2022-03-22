@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6104,
+    "date": {
+        "season": "2020-21",
+        "month": "1.02",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1588人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "鈴木 悟",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "60"
+    }
+}

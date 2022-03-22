@@ -1,0 +1,27 @@
+{
+    "schedule_key": 768,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "南陽市民体育館",
+        "attendance": "1590人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "関口 久視",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "74"
+    }
+}

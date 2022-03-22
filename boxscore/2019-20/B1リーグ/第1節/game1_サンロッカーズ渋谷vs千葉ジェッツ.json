@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4157,
+    "date": {
+        "season": "2019-20",
+        "month": "10.05",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "4132人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "宇地原尚彦",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "88",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4749,
+    "date": {
+        "season": "2019-20",
+        "month": "1.02",
+        "week": "[THU]",
+        "setsu": "第4節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "827人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "伊藤彰二",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "90",
+        "away": "83"
+    }
+}

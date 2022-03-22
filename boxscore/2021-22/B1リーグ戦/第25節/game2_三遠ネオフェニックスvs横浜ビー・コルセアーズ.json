@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7873,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1527人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "丸山 大",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "68"
+    }
+}

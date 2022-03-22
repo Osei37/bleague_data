@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3905,
+    "date": {
+        "season": "2018-19",
+        "month": "2.21",
+        "week": "[THU]",
+        "setsu": "第23節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "神戸常盤アリーナ",
+        "attendance": "686人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "秋山厚志",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "77"
+    }
+}

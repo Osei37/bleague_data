@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4048,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2079人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "針生淳男",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "77",
+        "away": "56"
+    }
+}

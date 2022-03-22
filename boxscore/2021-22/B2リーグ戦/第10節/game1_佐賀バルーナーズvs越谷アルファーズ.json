@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8211,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "唐津市文化体育館",
+        "attendance": "303人"
+    },
+    "referee": {
+        "first": "市川 雄介",
+        "second": "伊藤 彰二",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 161,
+    "date": {
+        "season": "2016-17",
+        "month": "11.27",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゆうばり文化スポーツセンター",
+        "attendance": "1151人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "前田喜庸",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "74",
+        "away": "100"
+    }
+}

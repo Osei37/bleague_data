@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3349,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5352人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "谷古宇孝",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "87",
+        "away": "64"
+    }
+}

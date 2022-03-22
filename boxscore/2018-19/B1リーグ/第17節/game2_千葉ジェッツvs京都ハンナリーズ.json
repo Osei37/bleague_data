@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3234,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5551人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "松岡隆博",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "84"
+    }
+}

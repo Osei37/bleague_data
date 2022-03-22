@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1872,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "3115人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "松本究",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "80"
+    }
+}

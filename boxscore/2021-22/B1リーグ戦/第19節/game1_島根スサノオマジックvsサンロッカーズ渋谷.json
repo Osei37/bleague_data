@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7781,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "米子産業体育館",
+        "attendance": "585人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "中川 行臣",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "109",
+        "away": "77"
+    }
+}

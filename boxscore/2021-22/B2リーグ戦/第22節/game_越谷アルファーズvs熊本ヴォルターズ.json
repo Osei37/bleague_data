@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8358,
+    "date": {
+        "season": "2021-22",
+        "month": "2.20",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウイング・ハット春日部",
+        "attendance": "1007人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "和嶋 陽一",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "81"
+    }
+}

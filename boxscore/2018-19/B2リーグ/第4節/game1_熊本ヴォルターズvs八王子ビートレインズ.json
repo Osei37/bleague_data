@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3596,
+    "date": {
+        "season": "2018-19",
+        "month": "10.20",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2140人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "那須弘幸",
+        "crew": "大山直輝"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "68"
+    }
+}

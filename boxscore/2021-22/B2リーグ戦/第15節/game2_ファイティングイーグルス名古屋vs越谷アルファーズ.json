@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8267,
+    "date": {
+        "season": "2021-22",
+        "month": "1.03",
+        "week": "[MON]",
+        "setsu": "第15節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "716人"
+    },
+    "referee": {
+        "first": "橋本 恵一",
+        "second": "豊田 康平",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "62"
+    }
+}

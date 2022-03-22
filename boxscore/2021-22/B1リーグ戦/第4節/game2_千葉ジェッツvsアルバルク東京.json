@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7491,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2257人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "緒方 崇",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "88",
+        "away": "71"
+    }
+}

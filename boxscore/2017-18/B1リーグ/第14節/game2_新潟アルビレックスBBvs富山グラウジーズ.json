@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1800,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "リージョンプラザ上越",
+        "attendance": "2840人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "久保知仁",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "96"
+    }
+}

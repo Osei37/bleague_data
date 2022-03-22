@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6238,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1980人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "蒲 健一",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "65",
+        "away": "92"
+    }
+}

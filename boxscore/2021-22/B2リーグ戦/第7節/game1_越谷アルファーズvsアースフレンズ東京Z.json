@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8161,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウイング・ハット春日部",
+        "attendance": "743人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "原田 拓朗",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "91",
+        "away": "80"
+    }
+}

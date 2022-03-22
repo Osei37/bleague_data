@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6387,
+    "date": {
+        "season": "2020-21",
+        "month": "4.14",
+        "week": "[WED]",
+        "setsu": "第33節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "1012人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "加納 康平",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "91",
+        "away": "85"
+    }
+}

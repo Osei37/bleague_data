@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5091,
+    "date": {
+        "season": "2019-20",
+        "month": "2.23",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市中村スポーツセンター",
+        "attendance": "1111人"
+    },
+    "referee": {
+        "first": "東條輝正",
+        "second": "遠藤大輔",
+        "crew": "山口尭彰"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "97",
+        "away": "73"
+    }
+}

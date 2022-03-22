@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1688,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "宜野湾市立体育館",
+        "attendance": "2812人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "久保知仁",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "51",
+        "away": "77"
+    }
+}

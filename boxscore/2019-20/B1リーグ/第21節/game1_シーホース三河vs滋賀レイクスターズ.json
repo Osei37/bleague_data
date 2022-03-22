@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4460,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2502人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "大河原則人",
+        "crew": "小田中涼子"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "57"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6829,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1246人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "秋山 厚志",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "96"
+    }
+}

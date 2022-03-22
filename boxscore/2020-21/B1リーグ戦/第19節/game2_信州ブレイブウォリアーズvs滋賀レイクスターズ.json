@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6165,
+    "date": {
+        "season": "2020-21",
+        "month": "1.31",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1618人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "小澤 勤",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "79"
+    }
+}

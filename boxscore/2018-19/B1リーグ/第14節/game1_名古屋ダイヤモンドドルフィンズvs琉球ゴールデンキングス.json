@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3196,
+    "date": {
+        "season": "2018-19",
+        "month": "12.15",
+        "week": "[SAT]",
+        "setsu": "第14節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "2022人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "久保知仁",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "70",
+        "away": "84"
+    }
+}

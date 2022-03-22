@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7832,
+    "date": {
+        "season": "2021-22",
+        "month": "3.05",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1343人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "松本 究",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "84",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3986,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "2227人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "坂井元直",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "94",
+        "away": "62"
+    }
+}

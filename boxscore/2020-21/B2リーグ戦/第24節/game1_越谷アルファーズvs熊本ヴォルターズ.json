@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6804,
+    "date": {
+        "season": "2020-21",
+        "month": "3.05",
+        "week": "[FRI]",
+        "setsu": "第24節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富士見市立市民総合体育館",
+        "attendance": "365人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "熊谷 久美子",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 558,
+    "date": {
+        "season": "2016-17",
+        "month": "9.25",
+        "week": "[Sun]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3471人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "宇田津浩史",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "69"
+    }
+}

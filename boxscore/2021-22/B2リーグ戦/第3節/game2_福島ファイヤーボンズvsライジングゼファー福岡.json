@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8111,
+    "date": {
+        "season": "2021-22",
+        "month": "10.17",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1051人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "松岡 隆博",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "83",
+        "away": "94"
+    }
+}

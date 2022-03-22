@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8223,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "671人"
+    },
+    "referee": {
+        "first": "小田中 涼子",
+        "second": "岩月 遼司",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "76",
+        "away": "73"
+    }
+}

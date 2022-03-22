@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2585,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1208人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "秋山厚志",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "79",
+        "away": "70"
+    }
+}

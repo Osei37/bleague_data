@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8377,
+    "date": {
+        "season": "2021-22",
+        "month": "2.25",
+        "week": "[FRI]",
+        "setsu": "第23節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "571人"
+    },
+    "referee": {
+        "first": "中川 行臣",
+        "second": "茅野 修司",
+        "crew": "田中 豊弘"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "113"
+    }
+}

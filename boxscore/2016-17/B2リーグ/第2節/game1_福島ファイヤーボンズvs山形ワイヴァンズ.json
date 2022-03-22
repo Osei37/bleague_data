@@ -1,0 +1,27 @@
+{
+    "schedule_key": 561,
+    "date": {
+        "season": "2016-17",
+        "month": "10.01",
+        "week": "[Sat]",
+        "setsu": "第2節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1735人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "上田 信彦",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "73"
+    }
+}

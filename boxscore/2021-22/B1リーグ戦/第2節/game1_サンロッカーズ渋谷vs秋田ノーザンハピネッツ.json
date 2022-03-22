@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7448,
+    "date": {
+        "season": "2021-22",
+        "month": "10.09",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1201人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "塩谷 禎",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "94",
+        "away": "83"
+    }
+}

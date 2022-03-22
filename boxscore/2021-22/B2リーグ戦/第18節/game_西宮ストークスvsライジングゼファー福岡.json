@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8308,
+    "date": {
+        "season": "2021-22",
+        "month": "3.02",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "326人"
+    },
+    "referee": {
+        "first": "和嶋 陽一",
+        "second": "岩城 和利",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "91",
+        "away": "87"
+    }
+}

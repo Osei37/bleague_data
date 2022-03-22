@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3461,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1486人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "北島寛臣",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "84"
+    }
+}

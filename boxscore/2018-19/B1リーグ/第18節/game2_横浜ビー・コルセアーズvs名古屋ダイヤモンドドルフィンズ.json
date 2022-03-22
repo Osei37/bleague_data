@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3252,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3830人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "加川真",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "68"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4007,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "3515人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "那須弘幸",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "69",
+        "away": "76"
+    }
+}

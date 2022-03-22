@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4952,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "2506人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "梶崇司",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "79",
+        "away": "58"
+    }
+}

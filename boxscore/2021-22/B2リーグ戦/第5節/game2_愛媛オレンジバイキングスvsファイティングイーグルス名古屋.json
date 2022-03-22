@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8143,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": "[SAT]",
+        "setsu": "第5節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "410人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "田中 充",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "87",
+        "away": "110"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7521,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": "[SAT]",
+        "setsu": "第6節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1435人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "北島 寛臣",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "101",
+        "away": "92"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1675,
+    "date": {
+        "season": "2017-18",
+        "month": "11.05",
+        "week": "[Sun]",
+        "setsu": "第7節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2703人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "阿部聖",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "70",
+        "away": "76"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6853,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "862人"
+    },
+    "referee": {
+        "first": "黒岡 和哲",
+        "second": "御手洗 亮",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "93",
+        "away": "87"
+    }
+}

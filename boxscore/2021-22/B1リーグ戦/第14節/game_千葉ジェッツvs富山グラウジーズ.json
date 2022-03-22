@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7676,
+    "date": {
+        "season": "2021-22",
+        "month": "12.29",
+        "week": "[WED]",
+        "setsu": "第14節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2292人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "堀内 純",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "105",
+        "away": "64"
+    }
+}

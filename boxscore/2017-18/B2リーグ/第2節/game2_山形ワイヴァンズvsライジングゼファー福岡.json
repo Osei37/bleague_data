@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2134,
+    "date": {
+        "season": "2017-18",
+        "month": "10.08",
+        "week": "[Sun]",
+        "setsu": "第2節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "2139人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "吉田剛",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "81",
+        "away": "84"
+    }
+}

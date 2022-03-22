@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1738,
+    "date": {
+        "season": "2017-18",
+        "month": "12.02",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "4283人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "久保知仁",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "105",
+        "away": "97"
+    }
+}

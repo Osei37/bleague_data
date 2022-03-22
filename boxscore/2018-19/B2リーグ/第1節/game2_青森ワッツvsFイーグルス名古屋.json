@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3527,
+    "date": {
+        "season": "2018-19",
+        "month": "9.30",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カクヒログループスタジアム",
+        "attendance": "1424人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "岩城和利",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "71",
+        "away": "94"
+    }
+}

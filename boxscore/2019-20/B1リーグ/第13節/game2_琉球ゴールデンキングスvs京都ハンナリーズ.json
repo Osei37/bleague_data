@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4357,
+    "date": {
+        "season": "2019-20",
+        "month": "12.22",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3275人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "久保知仁",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "76"
+    }
+}

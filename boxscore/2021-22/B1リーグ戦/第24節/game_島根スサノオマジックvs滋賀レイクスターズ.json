@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7857,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1593人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "橋本 恵一",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "74"
+    }
+}

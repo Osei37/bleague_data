@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1926,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2628人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "堀内純",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "92",
+        "away": "108"
+    }
+}

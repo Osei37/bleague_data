@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4714,
+    "date": {
+        "season": "2019-20",
+        "month": "9.29",
+        "week": "[SUN]",
+        "setsu": "第2節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "2665人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "嶋崎貴",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "70"
+    }
+}

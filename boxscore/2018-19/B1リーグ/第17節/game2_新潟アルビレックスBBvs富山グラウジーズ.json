@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3240,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": "[SUN]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4813人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "甲斐清",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "83"
+    }
+}

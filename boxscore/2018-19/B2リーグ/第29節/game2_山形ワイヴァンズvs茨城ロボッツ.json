@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3997,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1741人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "吉田剛",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "74"
+    }
+}

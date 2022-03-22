@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3215,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンエイワーク住吉スポーツセンター",
+        "attendance": "3304人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "伊藤亮介",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "76",
+        "away": "73"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6102,
+    "date": {
+        "season": "2020-21",
+        "month": "12.26",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1530人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "小澤 勤",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "72",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6687,
+    "date": {
+        "season": "2020-21",
+        "month": "1.10",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "538人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "大野 哲広",
+        "crew": "木村 健太郎"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "98",
+        "away": "80"
+    }
+}

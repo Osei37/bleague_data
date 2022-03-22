@@ -1,0 +1,27 @@
+{
+    "schedule_key": 424,
+    "date": {
+        "season": "2016-17",
+        "month": "3.31",
+        "week": "[Fri]",
+        "setsu": "第26節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1305人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "谷古宇孝",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "55",
+        "away": "53"
+    }
+}

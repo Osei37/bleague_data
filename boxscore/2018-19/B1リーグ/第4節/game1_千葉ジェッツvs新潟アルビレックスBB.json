@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3035,
+    "date": {
+        "season": "2018-19",
+        "month": "10.20",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4526人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "蒲健一",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "98",
+        "away": "90"
+    }
+}

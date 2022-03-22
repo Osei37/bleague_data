@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7855,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1285人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "中川 行臣",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "69",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 738,
+    "date": {
+        "season": "2016-17",
+        "month": "12.11",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2760人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "前花直哉",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "73",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1646,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "5034人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "久保知仁",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "89",
+        "away": "68"
+    }
+}

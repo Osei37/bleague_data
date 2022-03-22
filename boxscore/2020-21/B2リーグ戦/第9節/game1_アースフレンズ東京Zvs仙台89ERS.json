@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6580,
+    "date": {
+        "season": "2020-21",
+        "month": "11.28",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1122人"
+    },
+    "referee": {
+        "first": "緒方 崇",
+        "second": "清水 幹治",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "65",
+        "away": "107"
+    }
+}

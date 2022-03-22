@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1777,
+    "date": {
+        "season": "2017-18",
+        "month": "12.17",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "3373人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "堀内純",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "58",
+        "away": "92"
+    }
+}

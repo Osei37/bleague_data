@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4887,
+    "date": {
+        "season": "2019-20",
+        "month": "12.08",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "1588人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "石田祐二",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "77"
+    }
+}

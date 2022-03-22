@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2571,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "856人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "薦田侑二郎",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "64"
+    }
+}

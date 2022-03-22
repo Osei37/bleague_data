@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1844,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4005人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "片寄達",
+        "crew": "上田信彦"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "95",
+        "away": "80"
+    }
+}

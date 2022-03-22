@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2000,
+    "date": {
+        "season": "2017-18",
+        "month": "3.30",
+        "week": "[FRI]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2824人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "谷地温",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "71",
+        "away": "80"
+    }
+}

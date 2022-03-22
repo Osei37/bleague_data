@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6691,
+    "date": {
+        "season": "2020-21",
+        "month": "1.09",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "304人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "薦田 侑二郎",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "113"
+    }
+}

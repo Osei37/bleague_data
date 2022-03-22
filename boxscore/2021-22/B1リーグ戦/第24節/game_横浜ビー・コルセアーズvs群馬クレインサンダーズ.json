@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7852,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1224人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "佐藤 誠",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "92"
+    }
+}

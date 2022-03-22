@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3991,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1290人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "大野哲広",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 951,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三友エンジニア体育文化センター",
+        "attendance": "1680人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "太田 匡俊",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

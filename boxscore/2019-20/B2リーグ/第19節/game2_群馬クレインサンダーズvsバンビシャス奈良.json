@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5002,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "2107人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "加川真",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "116",
+        "away": "63"
+    }
+}

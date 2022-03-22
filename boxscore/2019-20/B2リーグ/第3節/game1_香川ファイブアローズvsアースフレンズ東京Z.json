@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4739,
+    "date": {
+        "season": "2019-20",
+        "month": "10.05",
+        "week": "[SAT]",
+        "setsu": "第3節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "804人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "前花直哉",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "75",
+        "away": "67"
+    }
+}

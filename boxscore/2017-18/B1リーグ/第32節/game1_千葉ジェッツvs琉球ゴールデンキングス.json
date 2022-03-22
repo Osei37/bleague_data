@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2097,
+    "date": {
+        "season": "2017-18",
+        "month": "5.05",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5521人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "相原伸康",
+        "crew": "清水幹治"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "80",
+        "away": "76"
+    }
+}

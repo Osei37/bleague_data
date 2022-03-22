@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3400,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4601人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "石田祐二",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "72",
+        "away": "81"
+    }
+}

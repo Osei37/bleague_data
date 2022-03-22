@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6288,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1219人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "蒲 健一",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "72"
+    }
+}

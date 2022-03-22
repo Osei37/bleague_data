@@ -1,0 +1,27 @@
+{
+    "schedule_key": 803,
+    "date": {
+        "season": "2016-17",
+        "month": "1.21",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "霧島市国分体育館",
+        "attendance": "260人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "御手洗亮",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "80"
+    }
+}

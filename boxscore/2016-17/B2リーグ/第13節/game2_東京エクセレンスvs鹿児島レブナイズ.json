@@ -1,0 +1,27 @@
+{
+    "schedule_key": 774,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "立川市泉市民体育館",
+        "attendance": "523人"
+    },
+    "referee": {
+        "first": "鬼頭 英伸",
+        "second": "宇田津浩史",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "53",
+        "away": "56"
+    }
+}

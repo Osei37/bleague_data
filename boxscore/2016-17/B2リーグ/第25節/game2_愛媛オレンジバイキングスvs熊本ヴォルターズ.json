@@ -1,0 +1,27 @@
+{
+    "schedule_key": 992,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "812人"
+    },
+    "referee": {
+        "first": "山内俊幸",
+        "second": "御手洗亮",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "77"
+    }
+}

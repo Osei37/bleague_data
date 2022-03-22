@@ -1,0 +1,27 @@
+{
+    "schedule_key": 838,
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第17節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "猪苗代総合体育館",
+        "attendance": "877人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "松岡隆博",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "85",
+        "away": "81"
+    }
+}

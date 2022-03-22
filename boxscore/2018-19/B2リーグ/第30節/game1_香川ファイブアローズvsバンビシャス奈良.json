@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4026,
+    "date": {
+        "season": "2018-19",
+        "month": "4.06",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "観音寺市立総合体育館",
+        "attendance": "709人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "秋山厚志",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "71",
+        "away": "63"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6056,
+    "date": {
+        "season": "2020-21",
+        "month": "12.12",
+        "week": "[SAT]",
+        "setsu": "第13節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1225人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "小澤 勤",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "75",
+        "away": "86"
+    }
+}

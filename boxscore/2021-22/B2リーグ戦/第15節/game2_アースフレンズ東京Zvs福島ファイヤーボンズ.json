@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8265,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "片柳アリーナ（日本工学院専門学校）",
+        "attendance": "388人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "岩木 太郎",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6081,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1848人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "伊藤 亮介",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "70"
+    }
+}

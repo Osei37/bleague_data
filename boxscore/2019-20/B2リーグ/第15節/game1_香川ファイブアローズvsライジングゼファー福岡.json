@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4939,
+    "date": {
+        "season": "2019-20",
+        "month": "12.20",
+        "week": "[FRI]",
+        "setsu": "第15節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "826人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "中田英教",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "79"
+    }
+}

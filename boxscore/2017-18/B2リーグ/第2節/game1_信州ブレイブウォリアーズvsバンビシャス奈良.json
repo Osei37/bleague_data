@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2143,
+    "date": {
+        "season": "2017-18",
+        "month": "10.07",
+        "week": "[Sat]",
+        "setsu": "第2節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "1153人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "白川直弘",
+        "crew": "菊地真吾"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "68",
+        "away": "51"
+    }
+}

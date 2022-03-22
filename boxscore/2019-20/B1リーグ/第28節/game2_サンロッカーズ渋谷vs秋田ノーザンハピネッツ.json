@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4559,
+    "date": {
+        "season": "2019-20",
+        "month": "3.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "大河原則人",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "79"
+    }
+}

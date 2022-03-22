@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2441,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "あいづ総合体育館",
+        "attendance": "963人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "三好啓太",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "77"
+    }
+}

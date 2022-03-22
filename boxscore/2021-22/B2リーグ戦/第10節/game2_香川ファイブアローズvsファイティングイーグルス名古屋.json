@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8206,
+    "date": {
+        "season": "2021-22",
+        "month": "12.03",
+        "week": "[FRI]",
+        "setsu": "第10節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "とらまるてぶくろ体育館",
+        "attendance": "293人"
+    },
+    "referee": {
+        "first": "岩木 太郎",
+        "second": "名越 龍男",
+        "crew": "田中 充"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "68",
+        "away": "95"
+    }
+}

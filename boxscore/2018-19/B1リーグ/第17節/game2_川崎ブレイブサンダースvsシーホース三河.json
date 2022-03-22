@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3238,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3659人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "平出剛",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "93",
+        "away": "67"
+    }
+}

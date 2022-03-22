@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6025,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "904人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "伊藤 亮介",
+        "crew": "緒方 崇"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "90"
+    }
+}

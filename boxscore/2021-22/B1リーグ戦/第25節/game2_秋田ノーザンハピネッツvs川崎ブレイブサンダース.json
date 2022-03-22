@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7861,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "2234人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "加川 真",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "83",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3209,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "3470人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "佐藤誠",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "83"
+    }
+}

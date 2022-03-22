@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5150,
+    "date": {
+        "season": "2019-20",
+        "month": "3.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "針生淳男",
+        "crew": "岩木太郎"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "78",
+        "away": "112"
+    }
+}

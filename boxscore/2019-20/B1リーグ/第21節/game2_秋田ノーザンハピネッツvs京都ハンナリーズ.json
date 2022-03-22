@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4449,
+    "date": {
+        "season": "2019-20",
+        "month": "2.02",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "能代市総合体育館",
+        "attendance": "2401人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "久保知仁",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "82"
+    }
+}

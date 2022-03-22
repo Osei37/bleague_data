@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3272,
+    "date": {
+        "season": "2018-19",
+        "month": "1.16",
+        "week": "[WED]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "2496人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "谷地温",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "67"
+    }
+}

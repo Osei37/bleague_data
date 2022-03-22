@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3216,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1467人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "北沢岳夫",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "80",
+        "away": "82"
+    }
+}

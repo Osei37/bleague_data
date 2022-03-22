@@ -1,0 +1,27 @@
+{
+    "schedule_key": 910,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": "[Sat]",
+        "setsu": "第21節",
+        "time": "14:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1005人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "白川 直弘",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "76",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2407,
+    "date": {
+        "season": "2017-18",
+        "month": "2.03",
+        "week": "[Sat]",
+        "setsu": "第18節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "館林市城沼総合体育館",
+        "attendance": "1495人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "大倉守正",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "108",
+        "away": "76"
+    }
+}

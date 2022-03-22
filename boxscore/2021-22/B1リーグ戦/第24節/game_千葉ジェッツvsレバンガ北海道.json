@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7850,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2892人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "細田 知宏",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "93",
+        "away": "72"
+    }
+}

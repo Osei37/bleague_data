@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3803,
+    "date": {
+        "season": "2018-19",
+        "month": "1.14",
+        "week": "[MON]",
+        "setsu": "第17節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "今治市営中央体育館",
+        "attendance": "1059人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "田中豊弘",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "64",
+        "away": "90"
+    }
+}

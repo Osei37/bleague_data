@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8222,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "586人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "大谷 英紀",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "52",
+        "away": "118"
+    }
+}

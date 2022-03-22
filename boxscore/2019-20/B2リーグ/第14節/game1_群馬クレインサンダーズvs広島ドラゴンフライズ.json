@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4915,
+    "date": {
+        "season": "2019-20",
+        "month": "12.13",
+        "week": "[FRI]",
+        "setsu": "第14節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "みどり市民体育館（桐生大学グリーンアリーナ）",
+        "attendance": "805人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "鈴木悟",
+        "crew": "岩木太郎"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3985,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1080人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "香野学",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "66"
+    }
+}

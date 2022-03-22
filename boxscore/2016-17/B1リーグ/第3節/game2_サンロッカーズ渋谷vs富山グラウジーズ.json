@@ -1,0 +1,27 @@
+{
+    "schedule_key": 49,
+    "date": {
+        "season": "2016-17",
+        "month": "10.09",
+        "week": "[Sun]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2503人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "佐藤誠",
+        "crew": "宇地原尚彦"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "52"
+    }
+}

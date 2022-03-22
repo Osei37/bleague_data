@@ -1,0 +1,27 @@
+{
+    "schedule_key": 418,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2638人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "高城邦弘",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "80"
+    }
+}

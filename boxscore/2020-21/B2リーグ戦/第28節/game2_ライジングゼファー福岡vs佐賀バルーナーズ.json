@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6869,
+    "date": {
+        "season": "2020-21",
+        "month": "5.03",
+        "week": "[MON]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第1体育館",
+        "attendance": "612人"
+    },
+    "referee": {
+        "first": "細田 知宏",
+        "second": "守谷 圭介",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "87"
+    }
+}

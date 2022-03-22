@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5023,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1462人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "御手洗亮",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "91",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6287,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2200人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "上田 信彦",
+        "crew": "梶 崇司"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "85",
+        "away": "87"
+    }
+}

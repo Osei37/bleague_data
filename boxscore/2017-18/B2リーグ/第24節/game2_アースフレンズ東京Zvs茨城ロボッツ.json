@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2516,
+    "date": {
+        "season": "2017-18",
+        "month": "3.22",
+        "week": "[THU]",
+        "setsu": "第24節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1143人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "長谷川裕",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "75"
+    }
+}

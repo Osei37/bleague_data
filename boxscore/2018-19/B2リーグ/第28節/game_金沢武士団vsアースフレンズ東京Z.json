@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3988,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾総合市民体育館",
+        "attendance": "367人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "幡丸 登志久",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "69",
+        "away": "81"
+    }
+}

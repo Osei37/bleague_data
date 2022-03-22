@@ -1,0 +1,27 @@
+{
+    "schedule_key": 986,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1889人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "松岡隆博",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "73"
+    }
+}

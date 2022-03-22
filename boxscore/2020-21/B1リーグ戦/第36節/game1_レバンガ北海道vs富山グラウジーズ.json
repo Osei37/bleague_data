@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6434,
+    "date": {
+        "season": "2020-21",
+        "month": "5.01",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北ガスアリーナ札幌46",
+        "attendance": "1508人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "久保 知仁",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "99"
+    }
+}

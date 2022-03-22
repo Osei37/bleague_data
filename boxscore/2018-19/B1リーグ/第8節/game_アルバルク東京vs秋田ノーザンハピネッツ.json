@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3096,
+    "date": {
+        "season": "2018-19",
+        "month": "11.07",
+        "week": "[WED]",
+        "setsu": "第8節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1879人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "加納康平",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "100",
+        "away": "55"
+    }
+}

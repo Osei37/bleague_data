@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2298,
+    "date": {
+        "season": "2017-18",
+        "month": "12.08",
+        "week": "[Fri]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "土庄町総合会館（フレトピアホール）",
+        "attendance": "1253人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "黒岡和哲",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "76",
+        "away": "62"
+    }
+}

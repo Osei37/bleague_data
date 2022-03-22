@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6142,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1132人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "甲斐 清",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "64",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8274,
+    "date": {
+        "season": "2021-22",
+        "month": "1.01",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "564人"
+    },
+    "referee": {
+        "first": "冨島 健司",
+        "second": "茅野 修司",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "67"
+    }
+}

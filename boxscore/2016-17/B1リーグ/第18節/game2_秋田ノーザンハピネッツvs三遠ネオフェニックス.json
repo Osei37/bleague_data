@@ -1,0 +1,27 @@
+{
+    "schedule_key": 295,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2735人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "佐藤誠",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "54",
+        "away": "64"
+    }
+}

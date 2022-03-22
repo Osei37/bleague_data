@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5979,
+    "date": {
+        "season": "2020-21",
+        "month": "11.11",
+        "week": "[WED]",
+        "setsu": "第8節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "946人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "和嶋 陽一",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "84",
+        "away": "85"
+    }
+}

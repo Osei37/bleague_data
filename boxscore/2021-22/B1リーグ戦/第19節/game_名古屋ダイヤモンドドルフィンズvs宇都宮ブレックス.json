@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7777,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1094人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "大野 太裕",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "79",
+        "away": "93"
+    }
+}

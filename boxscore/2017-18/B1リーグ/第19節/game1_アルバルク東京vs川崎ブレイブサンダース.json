@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1879,
+    "date": {
+        "season": "2017-18",
+        "month": "2.10",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2911人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "宇地原尚彦",
+        "crew": "大倉守正"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "65",
+        "away": "94"
+    }
+}

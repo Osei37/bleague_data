@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2456,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1703人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "松岡隆博",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "105"
+    }
+}

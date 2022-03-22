@@ -1,0 +1,27 @@
+{
+    "schedule_key": 836,
+    "date": {
+        "season": "2016-17",
+        "month": "2.04",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1319人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "田中豊弘",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "49"
+    }
+}

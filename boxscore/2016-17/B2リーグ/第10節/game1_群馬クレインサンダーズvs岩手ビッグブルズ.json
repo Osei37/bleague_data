@@ -1,0 +1,27 @@
+{
+    "schedule_key": 707,
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高崎市浜川体育館",
+        "attendance": "856人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "関口 久視",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "64"
+    }
+}

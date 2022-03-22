@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1030,
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": "[Sun]",
+        "setsu": "第27節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2701人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "那須弘幸",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "85"
+    }
+}

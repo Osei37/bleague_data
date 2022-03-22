@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3438,
+    "date": {
+        "season": "2018-19",
+        "month": "3.30",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5462人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "高城邦弘",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "95",
+        "away": "86"
+    }
+}

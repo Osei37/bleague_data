@@ -1,0 +1,27 @@
+{
+    "schedule_key": 544,
+    "date": {
+        "season": "2016-17",
+        "month": "9.24",
+        "week": "[Sat]",
+        "setsu": "第1節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1003人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "関口 久視",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "90",
+        "away": "72"
+    }
+}

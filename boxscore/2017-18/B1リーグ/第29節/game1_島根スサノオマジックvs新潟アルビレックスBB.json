@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2066,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "米子産業体育館",
+        "attendance": "1457人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "東祐二",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "64",
+        "away": "77"
+    }
+}

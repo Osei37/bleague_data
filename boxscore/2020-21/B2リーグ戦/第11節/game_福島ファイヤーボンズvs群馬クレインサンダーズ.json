@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6607,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "603人"
+    },
+    "referee": {
+        "first": "丸山 大",
+        "second": "松岡 隆博",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "98"
+    }
+}

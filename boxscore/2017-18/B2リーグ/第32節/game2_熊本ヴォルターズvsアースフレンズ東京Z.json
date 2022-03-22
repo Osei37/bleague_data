@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2652,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3637人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "薦田侑二郎",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "86",
+        "away": "80"
+    }
+}

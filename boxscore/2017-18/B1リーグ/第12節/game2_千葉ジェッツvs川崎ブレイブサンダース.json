@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1763,
+    "date": {
+        "season": "2017-18",
+        "month": "12.17",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5649人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久米克弥",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "70",
+        "away": "78"
+    }
+}

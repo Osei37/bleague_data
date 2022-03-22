@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8107,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": "[SUN]",
+        "setsu": "第2節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1701人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "原田 拓朗",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "80"
+    }
+}

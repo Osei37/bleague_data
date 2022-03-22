@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3898,
+    "date": {
+        "season": "2018-19",
+        "month": "2.24",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1879人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "東條輝正",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "90",
+        "away": "74"
+    }
+}

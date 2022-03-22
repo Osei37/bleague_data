@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6850,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "531人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "坂井 元直",
+        "crew": "野々村 日希"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "68",
+        "away": "89"
+    }
+}

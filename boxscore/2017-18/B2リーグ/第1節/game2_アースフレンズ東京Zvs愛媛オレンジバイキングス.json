@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2122,
+    "date": {
+        "season": "2017-18",
+        "month": "10.01",
+        "week": "[Sun]",
+        "setsu": "第1節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1321人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "坂井元直",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "88",
+        "away": "86"
+    }
+}

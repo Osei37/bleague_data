@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2605,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "723人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "大野哲広",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "77",
+        "away": "80"
+    }
+}

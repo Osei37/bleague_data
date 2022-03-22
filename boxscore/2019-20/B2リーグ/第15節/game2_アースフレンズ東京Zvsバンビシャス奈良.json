@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4934,
+    "date": {
+        "season": "2019-20",
+        "month": "12.22",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "片柳アリーナ（日本工学院専門学校）",
+        "attendance": "1194人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "幡丸 登志久",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "91",
+        "away": "105"
+    }
+}

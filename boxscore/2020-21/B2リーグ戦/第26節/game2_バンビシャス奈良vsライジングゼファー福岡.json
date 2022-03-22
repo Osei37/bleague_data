@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6843,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "835人"
+    },
+    "referee": {
+        "first": "早崎 康祐",
+        "second": "前花 直哉",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "85",
+        "away": "77"
+    }
+}

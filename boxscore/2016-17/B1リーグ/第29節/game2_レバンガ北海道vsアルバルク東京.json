@@ -1,0 +1,27 @@
+{
+    "schedule_key": 486,
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4071人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "石田祐二",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "61",
+        "away": "83"
+    }
+}

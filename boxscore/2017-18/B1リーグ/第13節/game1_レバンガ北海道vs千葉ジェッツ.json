@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1780,
+    "date": {
+        "season": "2017-18",
+        "month": "12.20",
+        "week": "[Wed]",
+        "setsu": "第13節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4431人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "北島寛臣",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "97"
+    }
+}

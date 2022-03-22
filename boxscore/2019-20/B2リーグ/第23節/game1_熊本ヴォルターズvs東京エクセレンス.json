@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5076,
+    "date": {
+        "season": "2019-20",
+        "month": "2.15",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2084人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "長谷川裕",
+        "crew": "小島慶子"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "81",
+        "away": "83"
+    }
+}

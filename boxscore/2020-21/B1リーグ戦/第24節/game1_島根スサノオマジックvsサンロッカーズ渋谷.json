@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6250,
+    "date": {
+        "season": "2020-21",
+        "month": "2.26",
+        "week": "[FRI]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1011人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "柳田 雅人",
+        "crew": "前花 直哉"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "99",
+        "away": "90"
+    }
+}

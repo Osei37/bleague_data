@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4387,
+    "date": {
+        "season": "2019-20",
+        "month": "1.04",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2851人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "久米克弥",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "66"
+    }
+}

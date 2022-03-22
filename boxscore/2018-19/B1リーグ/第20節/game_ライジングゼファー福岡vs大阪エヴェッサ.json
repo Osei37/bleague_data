@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3281,
+    "date": {
+        "season": "2018-19",
+        "month": "1.23",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "948人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "松本究",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "71",
+        "away": "67"
+    }
+}

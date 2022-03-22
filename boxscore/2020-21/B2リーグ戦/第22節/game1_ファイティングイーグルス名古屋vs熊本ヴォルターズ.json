@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6774,
+    "date": {
+        "season": "2020-21",
+        "month": "2.20",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "455人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "守谷 圭介",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "76"
+    }
+}

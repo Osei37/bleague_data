@@ -1,0 +1,27 @@
+{
+    "schedule_key": 534,
+    "date": {
+        "season": "2016-17",
+        "month": "5.07",
+        "week": "[Sun]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3602人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "清水幹治",
+        "crew": "上田 信彦"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "52",
+        "away": "78"
+    }
+}

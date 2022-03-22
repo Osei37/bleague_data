@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4302,
+    "date": {
+        "season": "2019-20",
+        "month": "12.08",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4469人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "上田信彦",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "98",
+        "away": "75"
+    }
+}

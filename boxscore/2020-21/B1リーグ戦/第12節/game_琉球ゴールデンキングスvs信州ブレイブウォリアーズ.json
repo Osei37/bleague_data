@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6043,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1441人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "和嶋 陽一",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "69"
+    }
+}

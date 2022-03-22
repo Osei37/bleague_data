@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5088,
+    "date": {
+        "season": "2019-20",
+        "month": "2.22",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1531人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "田中豊弘",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "68"
+    }
+}

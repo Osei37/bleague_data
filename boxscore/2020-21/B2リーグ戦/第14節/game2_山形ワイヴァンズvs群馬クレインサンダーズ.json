@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6649,
+    "date": {
+        "season": "2020-21",
+        "month": "12.27",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三友エンジニア体育文化センター",
+        "attendance": "541人"
+    },
+    "referee": {
+        "first": "増渕 泰久",
+        "second": "長谷川 裕",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "90"
+    }
+}

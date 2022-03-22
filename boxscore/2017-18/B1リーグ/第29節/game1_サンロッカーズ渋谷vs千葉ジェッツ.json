@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2054,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2616人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "伊藤亮介",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "63",
+        "away": "84"
+    }
+}

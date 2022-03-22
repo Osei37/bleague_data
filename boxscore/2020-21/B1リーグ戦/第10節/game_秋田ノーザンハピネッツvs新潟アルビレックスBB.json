@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6005,
+    "date": {
+        "season": "2020-21",
+        "month": "12.02",
+        "week": "[WED]",
+        "setsu": "第10節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1466人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "谷地 温",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "102",
+        "away": "110"
+    }
+}

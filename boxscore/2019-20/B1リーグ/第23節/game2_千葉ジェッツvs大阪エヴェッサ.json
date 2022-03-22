@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4489,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5022人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "小澤勤",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "89",
+        "away": "66"
+    }
+}

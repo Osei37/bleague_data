@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2366,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2671人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "蒲健一",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "84"
+    }
+}

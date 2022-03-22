@@ -1,0 +1,27 @@
+{
+    "schedule_key": 352,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": "[Sat]",
+        "setsu": "第22節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "4049人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "宇地原尚彦",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "88"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4215,
+    "date": {
+        "season": "2019-20",
+        "month": "10.23",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "3608人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "谷地温",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "77",
+        "away": "96"
+    }
+}

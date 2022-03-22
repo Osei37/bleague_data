@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8191,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "774人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "大野 哲広",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "69"
+    }
+}

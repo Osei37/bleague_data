@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3170,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "3066人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "谷地温",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "94"
+    }
+}

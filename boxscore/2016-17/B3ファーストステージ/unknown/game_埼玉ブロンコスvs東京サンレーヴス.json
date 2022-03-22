@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1099,
+    "date": {
+        "season": "2016-17",
+        "month": "10.15",
+        "week": "unknown",
+        "setsu": "unknown",
+        "time": "unknown"
+    },
+    "place": {
+        "stadium": "さいたま市記念総合体育館",
+        "attendance": "811人"
+    },
+    "referee": {
+        "first": "菊地真吾",
+        "second": "長谷川裕",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "72",
+        "away": "71"
+    }
+}

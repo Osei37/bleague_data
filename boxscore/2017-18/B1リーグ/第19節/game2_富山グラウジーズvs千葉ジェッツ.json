@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1886,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "4101人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "宇田津浩史",
+        "crew": "前田喜庸"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "65",
+        "away": "88"
+    }
+}

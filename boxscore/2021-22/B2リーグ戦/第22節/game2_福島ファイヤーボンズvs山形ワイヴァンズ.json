@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8356,
+    "date": {
+        "season": "2021-22",
+        "month": "2.20",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島トヨタクラウンアリーナ",
+        "attendance": "722人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "鈴木 悟",
+        "crew": "梶 崇司"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "69"
+    }
+}

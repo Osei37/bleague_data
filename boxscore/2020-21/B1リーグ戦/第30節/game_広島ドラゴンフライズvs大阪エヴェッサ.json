@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6342,
+    "date": {
+        "season": "2020-21",
+        "month": "5.05",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1247人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "宇田津 浩史",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "77",
+        "away": "102"
+    }
+}

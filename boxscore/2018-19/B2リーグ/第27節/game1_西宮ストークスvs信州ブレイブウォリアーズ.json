@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3977,
+    "date": {
+        "season": "2018-19",
+        "month": "3.22",
+        "week": "[FRI]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝塚市立スポーツセンター",
+        "attendance": "1074人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "高野 晃平",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "87"
+    }
+}

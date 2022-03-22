@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4307,
+    "date": {
+        "season": "2019-20",
+        "month": "12.07",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2248人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "久保知仁",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "80",
+        "away": "65"
+    }
+}

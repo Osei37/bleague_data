@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3318,
+    "date": {
+        "season": "2018-19",
+        "month": "2.01",
+        "week": "[FRI]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1886人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "伊藤亮介",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "82"
+    }
+}

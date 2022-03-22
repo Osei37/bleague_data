@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4938,
+    "date": {
+        "season": "2019-20",
+        "month": "12.22",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1830人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "前花直哉",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "89"
+    }
+}

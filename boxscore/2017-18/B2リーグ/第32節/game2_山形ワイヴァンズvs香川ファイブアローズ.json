@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2638,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "15:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "2492人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "吉田剛",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "86"
+    }
+}

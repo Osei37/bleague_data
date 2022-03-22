@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6167,
+    "date": {
+        "season": "2020-21",
+        "month": "1.31",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1002人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "黒岡 和哲",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "72",
+        "away": "99"
+    }
+}

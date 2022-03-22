@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3108,
+    "date": {
+        "season": "2018-19",
+        "month": "11.11",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1952人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "上田信彦",
+        "crew": "佐藤誠"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

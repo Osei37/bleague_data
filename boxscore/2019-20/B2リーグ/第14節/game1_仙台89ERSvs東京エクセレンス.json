@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4909,
+    "date": {
+        "season": "2019-20",
+        "month": "12.13",
+        "week": "[FRI]",
+        "setsu": "第14節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1845人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "丸山大",
+        "crew": "北沢あや子"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "95",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6416,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "2359人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "加藤 暁生",
+        "crew": "中川 行臣"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "83"
+    }
+}

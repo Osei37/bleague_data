@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3147,
+    "date": {
+        "season": "2018-19",
+        "month": "11.23",
+        "week": "[FRI]",
+        "setsu": "第11節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県西部体育センター",
+        "attendance": "2226人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "蒲健一",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "99"
+    }
+}

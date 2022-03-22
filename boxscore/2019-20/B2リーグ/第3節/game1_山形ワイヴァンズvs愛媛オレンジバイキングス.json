@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4729,
+    "date": {
+        "season": "2019-20",
+        "month": "10.05",
+        "week": "[SAT]",
+        "setsu": "第3節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1373人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "嶋崎貴",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "85",
+        "away": "97"
+    }
+}

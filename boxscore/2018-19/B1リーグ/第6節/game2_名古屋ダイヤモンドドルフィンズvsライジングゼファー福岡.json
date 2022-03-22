@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3067,
+    "date": {
+        "season": "2018-19",
+        "month": "10.28",
+        "week": "[SUN]",
+        "setsu": "第6節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "4186人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "清水幹治",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "91",
+        "away": "88"
+    }
+}

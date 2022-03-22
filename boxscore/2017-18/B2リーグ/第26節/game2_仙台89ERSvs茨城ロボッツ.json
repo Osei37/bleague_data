@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2539,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2098人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "和嶋陽一",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "84"
+    }
+}

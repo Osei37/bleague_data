@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6419,
+    "date": {
+        "season": "2020-21",
+        "month": "4.25",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "高城 邦弘",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "93",
+        "away": "75"
+    }
+}

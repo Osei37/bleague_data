@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7687,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ALSOKぐんまアリーナ",
+        "attendance": "3654人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "高城 邦弘",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "88",
+        "away": "97"
+    }
+}

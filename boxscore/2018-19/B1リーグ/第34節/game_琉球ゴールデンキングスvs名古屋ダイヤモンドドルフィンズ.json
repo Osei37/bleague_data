@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3489,
+    "date": {
+        "season": "2018-19",
+        "month": "4.10",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "20:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3230人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "和嶋陽一",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "68"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2612,
+    "date": {
+        "season": "2017-18",
+        "month": "4.28",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3505人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "北島寛臣",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "63"
+    }
+}

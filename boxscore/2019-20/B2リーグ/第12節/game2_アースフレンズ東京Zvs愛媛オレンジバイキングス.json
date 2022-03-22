@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4891,
+    "date": {
+        "season": "2019-20",
+        "month": "12.06",
+        "week": "[FRI]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1121人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "黒岡和哲",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "51",
+        "away": "73"
+    }
+}

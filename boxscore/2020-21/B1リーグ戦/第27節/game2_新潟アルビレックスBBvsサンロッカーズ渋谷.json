@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6291,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1604人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "久保 知仁",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "73",
+        "away": "95"
+    }
+}

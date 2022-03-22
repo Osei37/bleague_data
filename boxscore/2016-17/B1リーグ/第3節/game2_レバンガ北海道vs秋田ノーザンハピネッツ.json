@@ -1,0 +1,27 @@
+{
+    "schedule_key": 54,
+    "date": {
+        "season": "2016-17",
+        "month": "10.10",
+        "week": "[Mon]",
+        "setsu": "第3節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3024人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "久保知仁",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "63",
+        "away": "55"
+    }
+}

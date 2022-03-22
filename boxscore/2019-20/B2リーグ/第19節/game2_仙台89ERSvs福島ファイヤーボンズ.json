@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4998,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3539人"
+    },
+    "referee": {
+        "first": "鈴木悟",
+        "second": "白川一樹",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "65"
+    }
+}

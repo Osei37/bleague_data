@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8271,
+    "date": {
+        "season": "2021-22",
+        "month": "1.04",
+        "week": "[TUE]",
+        "setsu": "第15節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "528人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "遠藤 大輔",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "72",
+        "away": "90"
+    }
+}

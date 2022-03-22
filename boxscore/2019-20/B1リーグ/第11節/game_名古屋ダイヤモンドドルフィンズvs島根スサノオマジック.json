@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4319,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2177人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "谷地温",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "78",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8226,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1198人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "内田 祥平",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "83"
+    }
+}

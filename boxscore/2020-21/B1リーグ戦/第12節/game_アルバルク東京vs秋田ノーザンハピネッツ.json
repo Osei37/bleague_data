@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6036,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1220人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "緒方 崇",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "89"
+    }
+}

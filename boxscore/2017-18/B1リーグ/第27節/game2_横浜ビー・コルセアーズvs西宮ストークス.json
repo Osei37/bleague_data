@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2021,
+    "date": {
+        "season": "2017-18",
+        "month": "4.08",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "2176人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "安西郷史",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "89",
+        "away": "80"
+    }
+}

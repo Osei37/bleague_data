@@ -1,0 +1,27 @@
+{
+    "schedule_key": 223,
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "池田市五月山体育館",
+        "attendance": "2475人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "加藤誉樹",
+        "crew": "加藤昌樹"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "91",
+        "away": "81"
+    }
+}

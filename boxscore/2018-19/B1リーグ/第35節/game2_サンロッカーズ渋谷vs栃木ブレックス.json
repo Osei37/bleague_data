@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3495,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "3396人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "冨島健司",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "65",
+        "away": "99"
+    }
+}

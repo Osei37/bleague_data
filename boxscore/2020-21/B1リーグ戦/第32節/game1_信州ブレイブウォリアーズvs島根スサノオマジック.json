@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6374,
+    "date": {
+        "season": "2020-21",
+        "month": "4.10",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1352人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "上田 信彦",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "85",
+        "away": "75"
+    }
+}

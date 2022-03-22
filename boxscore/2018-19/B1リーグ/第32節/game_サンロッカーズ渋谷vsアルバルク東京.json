@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3456,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2652人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "谷古宇孝",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "61",
+        "away": "110"
+    }
+}

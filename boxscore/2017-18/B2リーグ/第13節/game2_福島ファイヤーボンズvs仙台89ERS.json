@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2322,
+    "date": {
+        "season": "2017-18",
+        "month": "12.20",
+        "week": "[Wed]",
+        "setsu": "第13節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1105人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "笠島喜与都",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "100",
+        "away": "87"
+    }
+}

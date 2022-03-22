@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6613,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館ハートフル",
+        "attendance": "323人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "原田 拓朗",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "109",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4056,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1213人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "坂井元直",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "61"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 627,
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": "[Sun]",
+        "setsu": "第5節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "607人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "宇田津浩史",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "74"
+    }
+}

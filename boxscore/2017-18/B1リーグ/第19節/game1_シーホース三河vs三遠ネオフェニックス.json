@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1887,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2504人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "加川真",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "89",
+        "away": "78"
+    }
+}

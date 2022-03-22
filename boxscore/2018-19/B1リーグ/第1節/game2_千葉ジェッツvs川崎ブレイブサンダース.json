@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2991,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4941人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久保裕紀",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "66",
+        "away": "68"
+    }
+}

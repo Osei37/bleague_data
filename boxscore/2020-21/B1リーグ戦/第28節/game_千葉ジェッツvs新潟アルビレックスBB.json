@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6305,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2262人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "眞榮喜 工",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "104",
+        "away": "65"
+    }
+}

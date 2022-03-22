@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1045,
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1059人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "茅野修司",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "85",
+        "away": "62"
+    }
+}

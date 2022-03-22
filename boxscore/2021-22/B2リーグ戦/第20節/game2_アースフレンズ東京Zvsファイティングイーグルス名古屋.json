@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8330,
+    "date": {
+        "season": "2021-22",
+        "month": "2.06",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "365人"
+    },
+    "referee": {
+        "first": "岩木 太郎",
+        "second": "和嶋 陽一",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "53",
+        "away": "126"
+    }
+}

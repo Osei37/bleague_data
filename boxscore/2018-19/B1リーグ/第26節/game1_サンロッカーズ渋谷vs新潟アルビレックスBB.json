@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3368,
+    "date": {
+        "season": "2018-19",
+        "month": "3.08",
+        "week": "[FRI]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "3580人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "眞榮喜工",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "92",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3571,
+    "date": {
+        "season": "2018-19",
+        "month": "10.14",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "815人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "井出 啓太",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "86",
+        "away": "60"
+    }
+}

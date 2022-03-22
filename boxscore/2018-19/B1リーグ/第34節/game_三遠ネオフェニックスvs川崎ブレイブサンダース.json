@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3486,
+    "date": {
+        "season": "2018-19",
+        "month": "4.10",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "3816人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "熊谷久美子",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "83",
+        "away": "85"
+    }
+}

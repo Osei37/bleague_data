@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3651,
+    "date": {
+        "season": "2018-19",
+        "month": "11.09",
+        "week": "[FRI]",
+        "setsu": "第8節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "505人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "中川行臣",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "86",
+        "away": "74"
+    }
+}

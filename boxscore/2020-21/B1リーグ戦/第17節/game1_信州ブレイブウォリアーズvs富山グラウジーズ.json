@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6132,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1322人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "眞榮喜 工",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "68"
+    }
+}

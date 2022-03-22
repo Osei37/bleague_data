@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5144,
+    "date": {
+        "season": "2019-20",
+        "month": "3.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "山内正隆",
+        "crew": "内野翔太"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "86"
+    }
+}

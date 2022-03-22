@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6107,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2277人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "平出 剛",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "80",
+        "away": "74"
+    }
+}

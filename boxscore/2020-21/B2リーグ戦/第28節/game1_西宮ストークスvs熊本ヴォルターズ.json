@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6862,
+    "date": {
+        "season": "2020-21",
+        "month": "3.27",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "801人"
+    },
+    "referee": {
+        "first": "大野 哲広",
+        "second": "茅野 修司",
+        "crew": "大谷 英紀"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "88"
+    }
+}

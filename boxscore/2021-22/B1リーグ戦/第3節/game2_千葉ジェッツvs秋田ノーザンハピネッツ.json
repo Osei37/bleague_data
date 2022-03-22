@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7471,
+    "date": {
+        "season": "2021-22",
+        "month": "10.17",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2257人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "東條 輝正",
+        "crew": "小田中 涼子"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "90",
+        "away": "73"
+    }
+}

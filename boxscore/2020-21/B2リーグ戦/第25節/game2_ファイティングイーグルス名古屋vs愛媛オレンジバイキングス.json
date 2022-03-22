@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6823,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "703人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "山内 正隆",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "99",
+        "away": "73"
+    }
+}

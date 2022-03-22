@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3137,
+    "date": {
+        "season": "2018-19",
+        "month": "11.17",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "20:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3558人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "伊藤亮介",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "54",
+        "away": "57"
+    }
+}

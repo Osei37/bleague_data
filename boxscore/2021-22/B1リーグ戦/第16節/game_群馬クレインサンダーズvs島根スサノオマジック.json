@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7710,
+    "date": {
+        "season": "2021-22",
+        "month": "1.08",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1103人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "上田 信彦",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "65",
+        "away": "106"
+    }
+}

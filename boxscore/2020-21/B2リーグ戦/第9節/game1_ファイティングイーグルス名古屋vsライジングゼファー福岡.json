@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6582,
+    "date": {
+        "season": "2020-21",
+        "month": "11.28",
+        "week": "[SAT]",
+        "setsu": "第9節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "711人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "加藤 昌樹",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "69",
+        "away": "58"
+    }
+}

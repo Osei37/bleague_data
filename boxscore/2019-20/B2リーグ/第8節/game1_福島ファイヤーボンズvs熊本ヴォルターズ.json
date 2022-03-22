@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4810,
+    "date": {
+        "season": "2019-20",
+        "month": "11.02",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "あいづ総合体育館",
+        "attendance": "968人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "高野 晃平",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "66"
+    }
+}

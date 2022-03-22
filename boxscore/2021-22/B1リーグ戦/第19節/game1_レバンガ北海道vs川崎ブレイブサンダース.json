@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7761,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1200人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "小澤 勤",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "91",
+        "away": "109"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3329,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "4344人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "大河原則人",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "60",
+        "away": "84"
+    }
+}

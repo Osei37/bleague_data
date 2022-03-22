@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5069,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1007人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "白川一樹",
+        "crew": "御手洗亮"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "68",
+        "away": "76"
+    }
+}

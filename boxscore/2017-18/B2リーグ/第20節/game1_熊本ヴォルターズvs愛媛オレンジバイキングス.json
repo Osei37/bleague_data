@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2453,
+    "date": {
+        "season": "2017-18",
+        "month": "2.16",
+        "week": "[Fri]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1219人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "白川一樹",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "103",
+        "away": "100"
+    }
+}

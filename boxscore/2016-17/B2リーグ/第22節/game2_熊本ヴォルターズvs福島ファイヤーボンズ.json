@@ -1,0 +1,27 @@
+{
+    "schedule_key": 937,
+    "date": {
+        "season": "2016-17",
+        "month": "3.12",
+        "week": "[Sun]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1606人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "坂井元直",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "74"
+    }
+}

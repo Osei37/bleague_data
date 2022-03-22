@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1928,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "3528人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "久保知仁",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "90",
+        "away": "86"
+    }
+}

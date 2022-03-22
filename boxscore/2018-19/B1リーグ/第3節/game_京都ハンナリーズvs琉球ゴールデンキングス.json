@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3030,
+    "date": {
+        "season": "2018-19",
+        "month": "10.17",
+        "week": "[WED]",
+        "setsu": "第3節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "向日市民体育館",
+        "attendance": "1387人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "加藤昌樹",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "94",
+        "away": "89"
+    }
+}

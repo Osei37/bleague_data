@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2514,
+    "date": {
+        "season": "2017-18",
+        "month": "3.25",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1580人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "山内正隆",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "57",
+        "away": "76"
+    }
+}

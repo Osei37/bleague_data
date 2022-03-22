@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4431,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "3036人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "伊藤亮介",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "56",
+        "away": "75"
+    }
+}

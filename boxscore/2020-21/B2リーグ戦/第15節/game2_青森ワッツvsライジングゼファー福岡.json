@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6663,
+    "date": {
+        "season": "2020-21",
+        "month": "1.03",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "711人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "加川 真",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "84",
+        "away": "80"
+    }
+}

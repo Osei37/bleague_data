@@ -1,0 +1,27 @@
+{
+    "schedule_key": 822,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオ　サイバーダインアリーナ",
+        "attendance": "1059人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "LAW DAVID",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "72"
+    }
+}

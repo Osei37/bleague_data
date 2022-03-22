@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2432,
+    "date": {
+        "season": "2017-18",
+        "month": "2.13",
+        "week": "[Tue]",
+        "setsu": "第19節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "とらまるてぶくろ体育館",
+        "attendance": "412人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "岩木太郎",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "88"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8228,
+    "date": {
+        "season": "2021-22",
+        "month": "12.19",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青森県武道館",
+        "attendance": "869人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "芳賀 聡",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "56",
+        "away": "95"
+    }
+}

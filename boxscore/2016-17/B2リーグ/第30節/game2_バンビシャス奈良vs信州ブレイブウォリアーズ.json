@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1078,
+    "date": {
+        "season": "2016-17",
+        "month": "5.07",
+        "week": "[Sun]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1344人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "嶋崎貴",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "68"
+    }
+}

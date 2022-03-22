@@ -1,0 +1,27 @@
+{
+    "schedule_key": 221,
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2158人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "伊藤亮介",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "70",
+        "away": "101"
+    }
+}

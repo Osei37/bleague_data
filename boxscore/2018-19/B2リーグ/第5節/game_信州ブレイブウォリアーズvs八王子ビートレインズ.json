@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3602,
+    "date": {
+        "season": "2018-19",
+        "month": "10.24",
+        "week": "[WED]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "868人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "山内正隆",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "84"
+    }
+}

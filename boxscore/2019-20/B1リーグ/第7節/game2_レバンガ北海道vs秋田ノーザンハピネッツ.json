@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4242,
+    "date": {
+        "season": "2019-20",
+        "month": "11.05",
+        "week": "[TUE]",
+        "setsu": "第7節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2675人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "北島寛臣",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "80"
+    }
+}

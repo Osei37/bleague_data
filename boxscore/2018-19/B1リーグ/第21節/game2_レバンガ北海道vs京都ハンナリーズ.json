@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3284,
+    "date": {
+        "season": "2018-19",
+        "month": "1.26",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3829人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "久米克弥",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "76"
+    }
+}

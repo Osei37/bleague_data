@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5011,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シシンヨーオークアリーナ",
+        "attendance": "1710人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "那須弘幸",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "76"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3358,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2838人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "小澤勤",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "70"
+    }
+}

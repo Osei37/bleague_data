@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2113,
+    "date": {
+        "season": "2017-18",
+        "month": "9.30",
+        "week": "[SAT]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "2102人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "中田英教",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "72"
+    }
+}

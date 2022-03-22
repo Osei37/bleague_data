@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6432,
+    "date": {
+        "season": "2020-21",
+        "month": "5.08",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "3552人"
+    },
+    "referee": {
+        "first": "蒲 健一",
+        "second": "加藤 暁生",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "73"
+    }
+}

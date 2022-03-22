@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7794,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "973人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "中川 行臣",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "96"
+    }
+}

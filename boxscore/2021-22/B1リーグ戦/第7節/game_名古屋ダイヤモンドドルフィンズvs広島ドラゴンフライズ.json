@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7549,
+    "date": {
+        "season": "2021-22",
+        "month": "11.10",
+        "week": "[WED]",
+        "setsu": "第7節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1139人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "加藤 昌樹",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "76"
+    }
+}

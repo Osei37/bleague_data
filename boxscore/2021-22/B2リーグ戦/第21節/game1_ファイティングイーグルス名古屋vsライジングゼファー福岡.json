@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8347,
+    "date": {
+        "season": "2021-22",
+        "month": "2.12",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "448人"
+    },
+    "referee": {
+        "first": "市川 雄介",
+        "second": "蒲 健一",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "91",
+        "away": "80"
+    }
+}

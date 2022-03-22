@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4875,
+    "date": {
+        "season": "2019-20",
+        "month": "11.24",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市中村スポーツセンター",
+        "attendance": "1512人"
+    },
+    "referee": {
+        "first": "冨士将史",
+        "second": "早崎康祐",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "74"
+    }
+}

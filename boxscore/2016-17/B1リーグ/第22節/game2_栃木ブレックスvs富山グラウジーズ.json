@@ -1,0 +1,27 @@
+{
+    "schedule_key": 357,
+    "date": {
+        "season": "2016-17",
+        "month": "2.26",
+        "week": "[Sun]",
+        "setsu": "第22節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿沼総合体育館フォレストアリーナ",
+        "attendance": "2713人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "谷地温",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "76"
+    }
+}

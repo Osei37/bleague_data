@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6423,
+    "date": {
+        "season": "2020-21",
+        "month": "4.25",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1701人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "増渕 泰久",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "104"
+    }
+}

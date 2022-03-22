@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1086,
+    "date": {
+        "season": "2016-17",
+        "month": "5.07",
+        "week": "[Sun]",
+        "setsu": "第30節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1525人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "那須弘幸",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "86"
+    }
+}

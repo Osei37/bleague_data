@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4468,
+    "date": {
+        "season": "2019-20",
+        "month": "2.08",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4705人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "片寄達",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "72",
+        "away": "74"
+    }
+}

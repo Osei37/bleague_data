@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2527,
+    "date": {
+        "season": "2017-18",
+        "month": "3.28",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "1233人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "茅野修司",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "94",
+        "away": "93"
+    }
+}

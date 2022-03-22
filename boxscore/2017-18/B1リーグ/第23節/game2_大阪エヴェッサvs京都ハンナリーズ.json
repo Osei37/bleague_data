@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1964,
+    "date": {
+        "season": "2017-18",
+        "month": "3.18",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "2467人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "平出剛",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "89"
+    }
+}

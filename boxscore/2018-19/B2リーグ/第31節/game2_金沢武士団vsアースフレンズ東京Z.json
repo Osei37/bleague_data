@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4039,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1477人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "岩城和利",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "79",
+        "away": "73"
+    }
+}

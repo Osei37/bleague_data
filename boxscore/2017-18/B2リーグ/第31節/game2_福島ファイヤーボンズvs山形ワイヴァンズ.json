@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2628,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1628人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "小田中涼子",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "73"
+    }
+}

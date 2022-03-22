@@ -1,0 +1,27 @@
+{
+    "schedule_key": 896,
+    "date": {
+        "season": "2016-17",
+        "month": "2.26",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1551人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "松岡隆博",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "79"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3716,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1417人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "吉田剛",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "73"
+    }
+}

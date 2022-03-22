@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4865,
+    "date": {
+        "season": "2019-20",
+        "month": "11.26",
+        "week": "[TUE]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "893人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "黒岡和哲",
+        "crew": "安西郷史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "112"
+    }
+}

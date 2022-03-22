@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4751,
+    "date": {
+        "season": "2019-20",
+        "month": "1.13",
+        "week": "[MON]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "2312人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "茅野修司",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 764,
+    "date": {
+        "season": "2016-17",
+        "month": "12.24",
+        "week": "[Sat]",
+        "setsu": "第13節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "879人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "山内正隆",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "83",
+        "away": "79"
+    }
+}

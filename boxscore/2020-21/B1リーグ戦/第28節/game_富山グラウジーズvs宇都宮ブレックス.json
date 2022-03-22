@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6308,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2378人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "小澤 勤",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "90",
+        "away": "85"
+    }
+}

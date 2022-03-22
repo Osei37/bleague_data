@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4942,
+    "date": {
+        "season": "2019-20",
+        "month": "12.22",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2020人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "嶋崎貴",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "105"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1015,
+    "date": {
+        "season": "2016-17",
+        "month": "4.15",
+        "week": "[Sat]",
+        "setsu": "第27節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1078人"
+    },
+    "referee": {
+        "first": "山内俊幸",
+        "second": "中田英教",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "81",
+        "away": "59"
+    }
+}

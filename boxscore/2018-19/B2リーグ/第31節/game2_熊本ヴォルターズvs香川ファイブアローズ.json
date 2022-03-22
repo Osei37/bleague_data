@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4047,
+    "date": {
+        "season": "2018-19",
+        "month": "4.14",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本市総合体育館",
+        "attendance": "3567人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "豊田 康平",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "81"
+    }
+}

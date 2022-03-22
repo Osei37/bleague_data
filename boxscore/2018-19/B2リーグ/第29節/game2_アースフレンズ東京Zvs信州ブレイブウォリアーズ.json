@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4001,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1911人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "白川一樹",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "92"
+    }
+}

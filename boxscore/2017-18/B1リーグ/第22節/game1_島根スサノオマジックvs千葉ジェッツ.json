@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1949,
+    "date": {
+        "season": "2017-18",
+        "month": "3.10",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "米子産業体育館",
+        "attendance": "2135人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "守谷圭介",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "60",
+        "away": "104"
+    }
+}

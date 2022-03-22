@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3199,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1975人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "谷古宇孝",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "77",
+        "away": "73"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5022,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2434人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "前花直哉",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "85",
+        "away": "89"
+    }
+}

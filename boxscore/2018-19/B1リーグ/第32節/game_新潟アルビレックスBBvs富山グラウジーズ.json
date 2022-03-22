@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3458,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2711人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "谷地温",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "66"
+    }
+}

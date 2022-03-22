@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4377,
+    "date": {
+        "season": "2019-20",
+        "month": "12.28",
+        "week": "[SAT]",
+        "setsu": "第15節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3124人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "東祐二",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "78",
+        "away": "83"
+    }
+}

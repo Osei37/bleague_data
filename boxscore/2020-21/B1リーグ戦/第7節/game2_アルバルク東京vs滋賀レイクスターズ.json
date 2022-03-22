@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5959,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第7節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1001人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "大野 太裕",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "87"
+    }
+}

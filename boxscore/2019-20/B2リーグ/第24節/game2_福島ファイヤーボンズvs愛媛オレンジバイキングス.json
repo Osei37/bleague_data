@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5085,
+    "date": {
+        "season": "2019-20",
+        "month": "2.23",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1271人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "高野 晃平",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "71",
+        "away": "67"
+    }
+}

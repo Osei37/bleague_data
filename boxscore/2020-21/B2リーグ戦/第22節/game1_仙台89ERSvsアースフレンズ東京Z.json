@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6766,
+    "date": {
+        "season": "2020-21",
+        "month": "2.20",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1307人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "高城 邦弘",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "86",
+        "away": "77"
+    }
+}

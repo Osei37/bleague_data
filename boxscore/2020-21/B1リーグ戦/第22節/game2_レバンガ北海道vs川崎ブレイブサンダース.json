@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6205,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1985人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "久米 克弥",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "70",
+        "away": "91"
+    }
+}

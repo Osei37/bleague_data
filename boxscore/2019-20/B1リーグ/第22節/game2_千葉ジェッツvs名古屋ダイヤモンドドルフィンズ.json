@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4471,
+    "date": {
+        "season": "2019-20",
+        "month": "2.09",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "5822人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "伊藤亮介",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5003,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "騎西町総合体育館ふじアリーナ",
+        "attendance": "449人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "冨士将史",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "78",
+        "away": "72"
+    }
+}

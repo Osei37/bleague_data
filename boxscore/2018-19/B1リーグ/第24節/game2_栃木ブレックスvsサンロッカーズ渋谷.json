@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3331,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4201人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "蒲健一",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "92",
+        "away": "79"
+    }
+}

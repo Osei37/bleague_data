@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6715,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "411人"
+    },
+    "referee": {
+        "first": "大野 哲広",
+        "second": "井出 啓太",
+        "crew": "木村 健太郎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "76"
+    }
+}

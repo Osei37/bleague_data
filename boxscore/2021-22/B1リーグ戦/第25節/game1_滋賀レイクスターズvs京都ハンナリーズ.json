@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7878,
+    "date": {
+        "season": "2021-22",
+        "month": "3.19",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "YMITアリーナ",
+        "attendance": "1479人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "加藤 昌樹",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "102"
+    }
+}

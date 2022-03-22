@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6796,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "864人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "御手洗 亮",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "82",
+        "away": "94"
+    }
+}

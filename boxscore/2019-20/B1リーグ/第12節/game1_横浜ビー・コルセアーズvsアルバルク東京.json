@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4328,
+    "date": {
+        "season": "2019-20",
+        "month": "12.14",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3901人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "青木俊博",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "58",
+        "away": "78"
+    }
+}

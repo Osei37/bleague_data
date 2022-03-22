@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5961,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第7節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "836人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "宇田津 浩史",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6713,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "263人"
+    },
+    "referee": {
+        "first": "蒲 健一",
+        "second": "遠藤 大輔",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "88",
+        "away": "83"
+    }
+}

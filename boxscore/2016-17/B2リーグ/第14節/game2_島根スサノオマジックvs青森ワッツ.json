@@ -1,0 +1,27 @@
+{
+    "schedule_key": 791,
+    "date": {
+        "season": "2016-17",
+        "month": "1.03",
+        "week": "[Tue]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1386人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "堀内純",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "73"
+    }
+}

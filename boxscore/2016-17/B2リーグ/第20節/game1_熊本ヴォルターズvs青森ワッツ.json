@@ -1,0 +1,27 @@
+{
+    "schedule_key": 894,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1203人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "伊藤彰二",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "87",
+        "away": "83"
+    }
+}

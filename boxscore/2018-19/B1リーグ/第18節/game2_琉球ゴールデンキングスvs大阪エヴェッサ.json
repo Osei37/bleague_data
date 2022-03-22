@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3264,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3228人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "佐藤誠",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "53",
+        "away": "61"
+    }
+}

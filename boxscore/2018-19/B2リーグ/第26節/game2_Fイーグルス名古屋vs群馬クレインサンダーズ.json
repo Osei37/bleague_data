@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3960,
+    "date": {
+        "season": "2018-19",
+        "month": "3.17",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1127人"
+    },
+    "referee": {
+        "first": "鈴木悟",
+        "second": "御手洗亮",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "96"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3320,
+    "date": {
+        "season": "2018-19",
+        "month": "2.02",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2431人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "加藤昌樹",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "72",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7760,
+    "date": {
+        "season": "2021-22",
+        "month": "1.26",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1271人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "伊藤 亮介",
+        "crew": "冨島 健司"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "73"
+    }
+}

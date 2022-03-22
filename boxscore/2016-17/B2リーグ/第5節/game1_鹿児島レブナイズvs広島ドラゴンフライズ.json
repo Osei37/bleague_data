@@ -1,0 +1,27 @@
+{
+    "schedule_key": 622,
+    "date": {
+        "season": "2016-17",
+        "month": "10.22",
+        "week": "[Sat]",
+        "setsu": "第5節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島県総合体育センター体育館",
+        "attendance": "557人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "茅野修司",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "89"
+    }
+}

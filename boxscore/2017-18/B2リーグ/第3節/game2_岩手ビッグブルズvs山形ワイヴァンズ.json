@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2152,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第3節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "692人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "梶崇司",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "77"
+    }
+}

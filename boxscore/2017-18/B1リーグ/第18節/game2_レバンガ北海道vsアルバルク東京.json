@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1862,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "函館アリーナ",
+        "attendance": "2815人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "清水幹治",
+        "crew": "久保裕紀"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "61",
+        "away": "90"
+    }
+}

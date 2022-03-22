@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3385,
+    "date": {
+        "season": "2018-19",
+        "month": "3.13",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3461人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "緒方崇",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "76"
+    }
+}

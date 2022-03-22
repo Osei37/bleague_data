@@ -1,0 +1,27 @@
+{
+    "schedule_key": 251,
+    "date": {
+        "season": "2016-17",
+        "month": "12.31",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "3315人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "緒方崇",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "82",
+        "away": "84"
+    }
+}

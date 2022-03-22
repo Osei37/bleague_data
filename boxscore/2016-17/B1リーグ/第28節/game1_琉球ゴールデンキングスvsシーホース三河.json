@@ -1,0 +1,27 @@
+{
+    "schedule_key": 468,
+    "date": {
+        "season": "2016-17",
+        "month": "4.15",
+        "week": "[Sat]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3350人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "御手洗亮",
+        "crew": "加藤誉樹"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "82",
+        "away": "96"
+    }
+}

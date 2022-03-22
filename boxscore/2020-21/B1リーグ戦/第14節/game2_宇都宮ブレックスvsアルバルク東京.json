@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6065,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2180人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "岩井 遥河",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "86",
+        "away": "70"
+    }
+}

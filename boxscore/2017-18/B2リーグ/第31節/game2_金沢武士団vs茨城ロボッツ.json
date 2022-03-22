@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2630,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": "[WED]",
+        "setsu": "第31節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "777人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "笠島喜与都",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "72",
+        "away": "74"
+    }
+}

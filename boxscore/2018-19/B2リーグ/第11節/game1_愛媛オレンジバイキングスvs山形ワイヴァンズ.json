@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3713,
+    "date": {
+        "season": "2018-19",
+        "month": "12.08",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宇和島市総合体育館",
+        "attendance": "795人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "白川一樹",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "89"
+    }
+}

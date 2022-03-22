@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6260,
+    "date": {
+        "season": "2020-21",
+        "month": "3.03",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "830人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "中川 行臣",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "95"
+    }
+}

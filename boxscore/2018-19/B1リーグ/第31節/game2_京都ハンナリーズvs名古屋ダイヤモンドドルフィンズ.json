@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3451,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2396人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "佐藤誠",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "85"
+    }
+}

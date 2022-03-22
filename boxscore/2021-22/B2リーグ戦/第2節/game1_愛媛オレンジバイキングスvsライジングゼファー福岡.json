@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8102,
+    "date": {
+        "season": "2021-22",
+        "month": "10.08",
+        "week": "[FRI]",
+        "setsu": "第2節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "540人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "那須 弘幸",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "98",
+        "away": "71"
+    }
+}

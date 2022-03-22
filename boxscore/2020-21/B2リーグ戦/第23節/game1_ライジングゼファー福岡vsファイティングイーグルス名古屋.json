@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6794,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "久留米アリーナ",
+        "attendance": "1004人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "市川 雄介",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "54",
+        "away": "84"
+    }
+}

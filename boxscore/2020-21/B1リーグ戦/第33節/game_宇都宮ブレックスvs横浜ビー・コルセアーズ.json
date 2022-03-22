@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6385,
+    "date": {
+        "season": "2020-21",
+        "month": "4.14",
+        "week": "[WED]",
+        "setsu": "第33節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1762人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "細田 知宏",
+        "crew": "北沢 あや子"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "71"
+    }
+}

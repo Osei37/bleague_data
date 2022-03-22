@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2364,
+    "date": {
+        "season": "2017-18",
+        "month": "12.30",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "2007人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "那須弘幸",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "52"
+    }
+}

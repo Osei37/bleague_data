@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7804,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1028人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "高城 邦弘",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "58"
+    }
+}

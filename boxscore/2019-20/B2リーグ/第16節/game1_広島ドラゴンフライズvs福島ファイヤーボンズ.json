@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4955,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "3212人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "小畑治",
+        "crew": "岩木太郎"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "78"
+    }
+}

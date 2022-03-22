@@ -1,0 +1,27 @@
+{
+    "schedule_key": 333,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3579人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "久米克弥",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "93",
+        "away": "88"
+    }
+}

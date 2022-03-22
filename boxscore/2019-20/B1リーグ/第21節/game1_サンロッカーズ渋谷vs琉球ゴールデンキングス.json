@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4450,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "3127人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "青木俊博",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "75",
+        "away": "73"
+    }
+}

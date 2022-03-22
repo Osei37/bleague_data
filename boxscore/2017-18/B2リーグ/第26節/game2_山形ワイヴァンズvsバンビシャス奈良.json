@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2541,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1655人"
+    },
+    "referee": {
+        "first": "芳賀聡",
+        "second": "梶崇司",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "78",
+        "away": "77"
+    }
+}

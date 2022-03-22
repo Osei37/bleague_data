@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4704,
+    "date": {
+        "season": "2019-20",
+        "month": "9.22",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "2075人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "那須弘幸",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "72",
+        "away": "62"
+    }
+}

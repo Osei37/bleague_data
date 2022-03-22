@@ -1,0 +1,27 @@
+{
+    "schedule_key": 890,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "兵庫県立総合体育館",
+        "attendance": "833人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "宇田津浩史",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "65"
+    }
+}

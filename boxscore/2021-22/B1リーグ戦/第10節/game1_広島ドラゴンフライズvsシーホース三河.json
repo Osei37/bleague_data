@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7616,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1937人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "早崎 康祐",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "74",
+        "away": "91"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8242,
+    "date": {
+        "season": "2021-22",
+        "month": "12.26",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "667人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "梶 崇司",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "36",
+        "away": "93"
+    }
+}

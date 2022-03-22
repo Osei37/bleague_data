@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1828,
+    "date": {
+        "season": "2017-18",
+        "month": "1.19",
+        "week": "[Fri]",
+        "setsu": "第16節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3176人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "平出剛",
+        "crew": "谷地温"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "79"
+    }
+}

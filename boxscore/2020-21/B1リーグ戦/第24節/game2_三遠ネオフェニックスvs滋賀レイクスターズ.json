@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6245,
+    "date": {
+        "season": "2020-21",
+        "month": "2.28",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1382人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "谷古宇 孝",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "81"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6836,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": "[SAT]",
+        "setsu": "第26節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "921人"
+    },
+    "referee": {
+        "first": "谷古宇 孝",
+        "second": "芳賀 聡",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "81"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6339,
+    "date": {
+        "season": "2020-21",
+        "month": "3.31",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1282人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "北島 寛臣",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "67"
+    }
+}

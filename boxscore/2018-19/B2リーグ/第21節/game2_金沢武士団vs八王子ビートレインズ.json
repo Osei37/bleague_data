@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3866,
+    "date": {
+        "season": "2018-19",
+        "month": "2.09",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "908人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "那須弘幸",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "90"
+    }
+}

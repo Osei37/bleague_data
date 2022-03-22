@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4869,
+    "date": {
+        "season": "2019-20",
+        "month": "11.24",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "獨協大学35周年記念館アリーナ",
+        "attendance": "526人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "鈴木悟",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "94",
+        "away": "97"
+    }
+}

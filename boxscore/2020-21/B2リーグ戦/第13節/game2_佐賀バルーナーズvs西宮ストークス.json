@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6645,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "835人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "御手洗 亮",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "67",
+        "away": "74"
+    }
+}

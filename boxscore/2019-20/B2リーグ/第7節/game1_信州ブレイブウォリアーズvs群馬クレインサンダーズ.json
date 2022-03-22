@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4798,
+    "date": {
+        "season": "2019-20",
+        "month": "10.26",
+        "week": "[SAT]",
+        "setsu": "第7節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1523人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "名越龍男",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "56"
+    }
+}

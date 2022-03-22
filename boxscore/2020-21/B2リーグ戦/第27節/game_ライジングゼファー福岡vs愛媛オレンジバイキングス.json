@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6851,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "939人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "大谷 英紀",
+        "crew": "-"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "80",
+        "away": "73"
+    }
+}

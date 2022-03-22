@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2518,
+    "date": {
+        "season": "2017-18",
+        "month": "3.25",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾総合市民体育館",
+        "attendance": "719人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "岩木太郎",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "87"
+    }
+}

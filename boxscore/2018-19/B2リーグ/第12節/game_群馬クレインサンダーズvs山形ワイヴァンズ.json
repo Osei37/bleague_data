@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3717,
+    "date": {
+        "season": "2018-19",
+        "month": "12.12",
+        "week": "[WED]",
+        "setsu": "第12節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "611人"
+    },
+    "referee": {
+        "first": "白川直弘",
+        "second": "加藤暁生",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "70"
+    }
+}

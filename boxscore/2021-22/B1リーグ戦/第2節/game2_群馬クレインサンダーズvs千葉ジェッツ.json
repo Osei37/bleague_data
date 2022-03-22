@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7445,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": "[SUN]",
+        "setsu": "第2節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1508人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "谷古宇 孝",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "97"
+    }
+}

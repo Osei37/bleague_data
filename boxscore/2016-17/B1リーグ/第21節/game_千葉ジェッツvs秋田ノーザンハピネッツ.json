@@ -1,0 +1,27 @@
+{
+    "schedule_key": 340,
+    "date": {
+        "season": "2016-17",
+        "month": "2.22",
+        "week": "[Wed]",
+        "setsu": "第21節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "4815人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "北島寛臣",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "67",
+        "away": "64"
+    }
+}

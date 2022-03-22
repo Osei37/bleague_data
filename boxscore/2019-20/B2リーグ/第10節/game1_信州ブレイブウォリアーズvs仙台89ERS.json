@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4848,
+    "date": {
+        "season": "2019-20",
+        "month": "11.16",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1644人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "和嶋陽一",
+        "crew": "北沢あや子"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "76",
+        "away": "66"
+    }
+}

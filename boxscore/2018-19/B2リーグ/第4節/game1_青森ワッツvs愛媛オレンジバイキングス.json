@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3580,
+    "date": {
+        "season": "2018-19",
+        "month": "10.20",
+        "week": "[SAT]",
+        "setsu": "第4節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "五所川原市民体育館",
+        "attendance": "1631人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "嶋崎貴",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "89",
+        "away": "70"
+    }
+}

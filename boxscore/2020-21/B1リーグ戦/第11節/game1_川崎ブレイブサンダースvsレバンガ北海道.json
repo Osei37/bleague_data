@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6020,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第11節",
+        "time": "20:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2256人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "谷古宇 孝",
+        "crew": "遠藤 大輔"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "88",
+        "away": "83"
+    }
+}

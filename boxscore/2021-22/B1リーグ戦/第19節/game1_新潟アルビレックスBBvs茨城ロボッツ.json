@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7769,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "762人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "久米 克弥",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "79",
+        "away": "76"
+    }
+}

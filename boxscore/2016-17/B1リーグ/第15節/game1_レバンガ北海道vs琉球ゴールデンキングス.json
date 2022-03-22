@@ -1,0 +1,27 @@
+{
+    "schedule_key": 244,
+    "date": {
+        "season": "2016-17",
+        "month": "12.30",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3608人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "飯尾勝紀",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "79",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3386,
+    "date": {
+        "season": "2018-19",
+        "month": "3.13",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3274人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "玉木彰治",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "50",
+        "away": "75"
+    }
+}

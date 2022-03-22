@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3939,
+    "date": {
+        "season": "2018-19",
+        "month": "3.08",
+        "week": "[FRI]",
+        "setsu": "第25節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1101人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "鈴木悟",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "102"
+    }
+}

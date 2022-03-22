@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4908,
+    "date": {
+        "season": "2019-20",
+        "month": "12.15",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1680人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "谷地温",
+        "crew": "小田中涼子"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "71"
+    }
+}

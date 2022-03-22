@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2617,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "2136人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "黒岡和哲",
+        "crew": "小田中涼子"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "93"
+    }
+}

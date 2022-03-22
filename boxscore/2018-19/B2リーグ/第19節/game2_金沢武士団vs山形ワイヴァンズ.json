@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3828,
+    "date": {
+        "season": "2018-19",
+        "month": "1.27",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "862人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "高野 晃平",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "74"
+    }
+}

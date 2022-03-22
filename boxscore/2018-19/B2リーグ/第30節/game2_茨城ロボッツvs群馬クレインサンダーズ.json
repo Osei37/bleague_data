@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4017,
+    "date": {
+        "season": "2018-19",
+        "month": "4.07",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "2117人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "高城邦弘",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3882,
+    "date": {
+        "season": "2018-19",
+        "month": "2.17",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオアリーナ（つくば市）",
+        "attendance": "1639人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "谷古宇孝",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "60",
+        "away": "53"
+    }
+}

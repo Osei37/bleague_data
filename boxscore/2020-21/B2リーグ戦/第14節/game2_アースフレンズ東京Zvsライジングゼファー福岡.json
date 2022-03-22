@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6655,
+    "date": {
+        "season": "2020-21",
+        "month": "12.27",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1106人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "小田中 涼子",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "70",
+        "away": "91"
+    }
+}

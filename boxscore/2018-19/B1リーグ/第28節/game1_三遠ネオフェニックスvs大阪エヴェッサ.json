@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3403,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2104人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "清水幹治",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "68",
+        "away": "86"
+    }
+}

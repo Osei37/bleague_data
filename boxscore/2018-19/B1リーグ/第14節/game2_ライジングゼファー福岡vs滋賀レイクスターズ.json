@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3201,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1578人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "松本究",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "56"
+    }
+}

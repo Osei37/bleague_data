@@ -1,0 +1,27 @@
+{
+    "schedule_key": 971,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第24節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1739人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "橋本恵一",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "87",
+        "away": "71"
+    }
+}

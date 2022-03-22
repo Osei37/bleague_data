@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5919,
+    "date": {
+        "season": "2020-21",
+        "month": "10.21",
+        "week": "[WED]",
+        "setsu": "第4節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "649人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "中川 行臣",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2035,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3911人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "宇田津浩史",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "65"
+    }
+}

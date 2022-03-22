@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8172,
+    "date": {
+        "season": "2021-22",
+        "month": "11.21",
+        "week": "[SUN]",
+        "setsu": "第8節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2083人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "冨士 将史",
+        "crew": "梶 崇司"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "88",
+        "away": "53"
+    }
+}

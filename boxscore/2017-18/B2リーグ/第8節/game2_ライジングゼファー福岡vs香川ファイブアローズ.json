@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2245,
+    "date": {
+        "season": "2017-18",
+        "month": "11.12",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "2084人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "前花直哉",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "64"
+    }
+}

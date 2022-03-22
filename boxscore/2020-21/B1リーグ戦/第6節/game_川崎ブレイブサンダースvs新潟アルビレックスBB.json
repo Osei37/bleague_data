@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5947,
+    "date": {
+        "season": "2020-21",
+        "month": "10.28",
+        "week": "[WED]",
+        "setsu": "第6節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2158人"
+    },
+    "referee": {
+        "first": "細田 知宏",
+        "second": "加藤 暁生",
+        "crew": "清水 幹治"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "92",
+        "away": "69"
+    }
+}

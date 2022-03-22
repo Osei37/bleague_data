@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6075,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1859人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "小澤 勤",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "58",
+        "away": "68"
+    }
+}

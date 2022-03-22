@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2181,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "704人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "黒岡和哲",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "67"
+    }
+}

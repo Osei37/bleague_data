@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7780,
+    "date": {
+        "season": "2021-22",
+        "month": "1.30",
+        "week": "[SUN]",
+        "setsu": "第19節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "878人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "和嶋 陽一",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "79",
+        "away": "62"
+    }
+}

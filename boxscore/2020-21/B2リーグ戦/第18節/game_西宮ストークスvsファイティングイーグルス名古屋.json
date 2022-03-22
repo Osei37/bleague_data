@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6714,
+    "date": {
+        "season": "2020-21",
+        "month": "1.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "288人"
+    },
+    "referee": {
+        "first": "橋本 恵一",
+        "second": "茅野 修司",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "84",
+        "away": "66"
+    }
+}

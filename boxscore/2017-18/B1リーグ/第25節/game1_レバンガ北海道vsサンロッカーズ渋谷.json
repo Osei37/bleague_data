@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1987,
+    "date": {
+        "season": "2017-18",
+        "month": "3.28",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3360人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "平出剛",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "89",
+        "away": "72"
+    }
+}

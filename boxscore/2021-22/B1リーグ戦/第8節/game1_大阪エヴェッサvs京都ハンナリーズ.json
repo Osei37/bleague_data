@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7566,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "2258人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "松本 究",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "71"
+    }
+}

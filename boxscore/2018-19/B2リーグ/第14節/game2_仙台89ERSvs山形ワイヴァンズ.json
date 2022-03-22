@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3745,
+    "date": {
+        "season": "2018-19",
+        "month": "12.24",
+        "week": "[MON]",
+        "setsu": "第14節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3712人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "梶崇司",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "64"
+    }
+}

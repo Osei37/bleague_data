@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6591,
+    "date": {
+        "season": "2020-21",
+        "month": "12.06",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "白石市文化体育活動センター(ホワイトキューブ)",
+        "attendance": "880人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "熊谷 久美子",
+        "crew": "佐藤 匠"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "93"
+    }
+}

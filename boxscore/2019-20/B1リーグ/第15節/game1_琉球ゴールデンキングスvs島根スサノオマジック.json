@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4383,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3301人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "佐藤誠",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "89",
+        "away": "69"
+    }
+}

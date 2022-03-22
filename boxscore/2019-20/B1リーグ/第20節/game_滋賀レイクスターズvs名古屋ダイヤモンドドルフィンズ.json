@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4445,
+    "date": {
+        "season": "2019-20",
+        "month": "1.29",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1733人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "加藤暁生",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "61"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8281,
+    "date": {
+        "season": "2021-22",
+        "month": "1.09",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1167人"
+    },
+    "referee": {
+        "first": "松岡 隆博",
+        "second": "梶 崇司",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "87",
+        "away": "77"
+    }
+}

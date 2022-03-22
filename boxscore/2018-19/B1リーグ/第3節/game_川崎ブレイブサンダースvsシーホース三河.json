@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3025,
+    "date": {
+        "season": "2018-19",
+        "month": "10.17",
+        "week": "[WED]",
+        "setsu": "第3節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2403人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "谷地温",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "69",
+        "away": "60"
+    }
+}

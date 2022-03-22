@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3454,
+    "date": {
+        "season": "2018-19",
+        "month": "4.03",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "秋田県立体育館",
+        "attendance": "3304人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "久米克弥",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "85"
+    }
+}

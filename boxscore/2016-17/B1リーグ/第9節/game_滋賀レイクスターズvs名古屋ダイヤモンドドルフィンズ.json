@@ -1,0 +1,27 @@
+{
+    "schedule_key": 151,
+    "date": {
+        "season": "2016-17",
+        "month": "11.23",
+        "week": "[Wed]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2505人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "玉木彰治",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "74"
+    }
+}

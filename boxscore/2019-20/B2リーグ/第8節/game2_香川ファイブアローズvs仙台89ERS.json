@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4823,
+    "date": {
+        "season": "2019-20",
+        "month": "11.05",
+        "week": "[TUE]",
+        "setsu": "第8節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "670人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "大野哲広",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "94",
+        "away": "97"
+    }
+}

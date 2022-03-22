@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5087,
+    "date": {
+        "season": "2019-20",
+        "month": "2.23",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1269人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "秋山厚志",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "60"
+    }
+}

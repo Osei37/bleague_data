@@ -1,0 +1,27 @@
+{
+    "schedule_key": 802,
+    "date": {
+        "season": "2016-17",
+        "month": "1.20",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "玉名市総合体育館",
+        "attendance": "1230人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "宇田津浩史",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "86",
+        "away": "97"
+    }
+}

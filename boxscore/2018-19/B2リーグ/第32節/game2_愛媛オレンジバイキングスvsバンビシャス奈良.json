@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4065,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "2089人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "加藤暁生",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "68",
+        "away": "71"
+    }
+}

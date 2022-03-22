@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2193,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第5節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "524人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "黒岡和哲",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "89"
+    }
+}

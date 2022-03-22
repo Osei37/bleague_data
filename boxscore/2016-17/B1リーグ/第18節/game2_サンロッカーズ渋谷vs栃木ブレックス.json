@@ -1,0 +1,27 @@
+{
+    "schedule_key": 297,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "14:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "3133人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "清水幹治",
+        "crew": "北沢岳夫"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "78",
+        "away": "82"
+    }
+}

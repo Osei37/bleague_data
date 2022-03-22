@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2640,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "いわき市立総合体育館",
+        "attendance": "1788人"
+    },
+    "referee": {
+        "first": "佐藤匠",
+        "second": "熊谷久美子",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "87",
+        "away": "83"
+    }
+}

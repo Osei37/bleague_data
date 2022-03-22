@@ -1,0 +1,27 @@
+{
+    "schedule_key": 419,
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第25節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "2182人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "倉口勉",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "71",
+        "away": "90"
+    }
+}

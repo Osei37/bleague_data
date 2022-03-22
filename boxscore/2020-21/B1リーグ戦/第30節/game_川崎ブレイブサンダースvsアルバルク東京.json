@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6336,
+    "date": {
+        "season": "2020-21",
+        "month": "4.28",
+        "week": "[WED]",
+        "setsu": "第30節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2322人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "守谷 圭介",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "92",
+        "away": "72"
+    }
+}

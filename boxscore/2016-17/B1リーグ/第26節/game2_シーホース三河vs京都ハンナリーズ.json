@@ -1,0 +1,27 @@
+{
+    "schedule_key": 441,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2336人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "宇地原尚彦",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "69"
+    }
+}

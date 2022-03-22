@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6126,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1767人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "北島 寛臣",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "67",
+        "away": "80"
+    }
+}

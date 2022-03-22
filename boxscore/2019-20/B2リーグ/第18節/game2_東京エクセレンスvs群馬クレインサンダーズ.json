@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4984,
+    "date": {
+        "season": "2019-20",
+        "month": "1.19",
+        "week": "[SUN]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1006人"
+    },
+    "referee": {
+        "first": "市川雄介",
+        "second": "熊谷久美子",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "85"
+    }
+}

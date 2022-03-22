@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2340,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": "[Sun]",
+        "setsu": "第14節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "1404人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "青木俊博",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "84"
+    }
+}

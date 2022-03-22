@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2243,
+    "date": {
+        "season": "2017-18",
+        "month": "11.14",
+        "week": "[Tue]",
+        "setsu": "第8節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1615人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "秋山厚志",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "78",
+        "away": "103"
+    }
+}

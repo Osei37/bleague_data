@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1779,
+    "date": {
+        "season": "2017-18",
+        "month": "12.17",
+        "week": "[Sun]",
+        "setsu": "第12節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3533人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "松本究",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "89",
+        "away": "75"
+    }
+}

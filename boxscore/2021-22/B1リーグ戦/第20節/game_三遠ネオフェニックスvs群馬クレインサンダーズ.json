@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7789,
+    "date": {
+        "season": "2021-22",
+        "month": "2.02",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "701人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "青木 俊博",
+        "crew": "小畑 治"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "101"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4320,
+    "date": {
+        "season": "2019-20",
+        "month": "12.11",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1694人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "阿部聖",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "67",
+        "away": "57"
+    }
+}

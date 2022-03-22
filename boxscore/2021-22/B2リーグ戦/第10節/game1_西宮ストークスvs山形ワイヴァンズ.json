@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8203,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第10節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "696人"
+    },
+    "referee": {
+        "first": "緒方 崇",
+        "second": "那須 弘幸",
+        "crew": "梶 崇司"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "61"
+    }
+}

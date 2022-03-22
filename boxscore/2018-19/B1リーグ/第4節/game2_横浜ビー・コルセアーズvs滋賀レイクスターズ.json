@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3040,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第4節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2691人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "久米克弥",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "70"
+    }
+}

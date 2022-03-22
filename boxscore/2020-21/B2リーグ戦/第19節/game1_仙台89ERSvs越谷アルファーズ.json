@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6718,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台（仙台市体育館）",
+        "attendance": "921人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "加川 真",
+        "crew": "久米 克弥"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "101"
+    }
+}

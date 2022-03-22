@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3927,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2126人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "塩谷禎",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "86"
+    }
+}

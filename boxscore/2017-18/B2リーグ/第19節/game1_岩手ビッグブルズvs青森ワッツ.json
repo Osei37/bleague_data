@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2419,
+    "date": {
+        "season": "2017-18",
+        "month": "2.10",
+        "week": "[Sat]",
+        "setsu": "第19節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "897人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "大野太裕",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "72",
+        "away": "70"
+    }
+}

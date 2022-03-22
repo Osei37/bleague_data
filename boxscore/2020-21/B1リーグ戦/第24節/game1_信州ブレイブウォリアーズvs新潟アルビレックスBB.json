@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6242,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": "[SAT]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "2402人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "緒方 崇",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "79",
+        "away": "67"
+    }
+}

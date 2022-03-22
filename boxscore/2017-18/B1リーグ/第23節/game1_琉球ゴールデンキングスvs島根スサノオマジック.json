@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1967,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3298人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "前田喜庸",
+        "crew": "御手洗亮"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "77",
+        "away": "57"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3019,
+    "date": {
+        "season": "2018-19",
+        "month": "10.13",
+        "week": "[SAT]",
+        "setsu": "第2節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンエイワーク住吉スポーツセンター",
+        "attendance": "1750人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "宇田津浩史",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "89",
+        "away": "65"
+    }
+}

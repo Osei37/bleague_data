@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6185,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "YMITアリーナ",
+        "attendance": "1773人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "高野 晃平",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "97"
+    }
+}

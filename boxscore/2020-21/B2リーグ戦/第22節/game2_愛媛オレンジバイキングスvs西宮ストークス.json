@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6779,
+    "date": {
+        "season": "2020-21",
+        "month": "2.21",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "407人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "市川 雄介",
+        "crew": "小島 慶子"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "94",
+        "away": "98"
+    }
+}

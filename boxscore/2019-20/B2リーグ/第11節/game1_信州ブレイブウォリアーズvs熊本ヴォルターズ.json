@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4872,
+    "date": {
+        "season": "2019-20",
+        "month": "11.23",
+        "week": "[SAT]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1716人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "丸山大",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "82"
+    }
+}

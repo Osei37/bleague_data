@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6219,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1470人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "名越 龍男",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "65",
+        "away": "83"
+    }
+}

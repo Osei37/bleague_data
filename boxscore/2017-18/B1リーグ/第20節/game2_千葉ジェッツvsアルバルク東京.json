@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1900,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": "[Sun]",
+        "setsu": "第20節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5345人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "久米克弥",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "79",
+        "away": "69"
+    }
+}

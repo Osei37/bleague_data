@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6652,
+    "date": {
+        "season": "2020-21",
+        "month": "12.25",
+        "week": "[FRI]",
+        "setsu": "第14節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "505人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "尾形 美樹",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "97",
+        "away": "76"
+    }
+}

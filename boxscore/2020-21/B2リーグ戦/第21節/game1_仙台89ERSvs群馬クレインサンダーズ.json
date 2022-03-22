@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6750,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1353人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "加川 真",
+        "crew": "山田 俊"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "93"
+    }
+}

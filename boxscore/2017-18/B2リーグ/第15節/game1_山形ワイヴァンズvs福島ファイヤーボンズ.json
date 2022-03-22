@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2351,
+    "date": {
+        "season": "2017-18",
+        "month": "12.29",
+        "week": "[Fri]",
+        "setsu": "第15節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "南陽市民体育館",
+        "attendance": "1256人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "菊地真吾",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "60"
+    }
+}

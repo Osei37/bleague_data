@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3100,
+    "date": {
+        "season": "2018-19",
+        "month": "11.07",
+        "week": "[WED]",
+        "setsu": "第8節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1640人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "青木俊博",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "56"
+    }
+}

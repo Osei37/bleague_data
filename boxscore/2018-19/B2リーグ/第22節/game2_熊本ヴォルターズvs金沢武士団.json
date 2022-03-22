@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3894,
+    "date": {
+        "season": "2018-19",
+        "month": "2.17",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3144人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "豊田 康平",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "84",
+        "away": "54"
+    }
+}

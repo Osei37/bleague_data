@@ -1,0 +1,27 @@
+{
+    "schedule_key": 195,
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1603人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "平澤明男",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "71"
+    }
+}

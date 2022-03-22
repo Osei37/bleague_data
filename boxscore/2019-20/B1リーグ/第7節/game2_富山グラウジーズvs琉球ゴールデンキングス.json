@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4252,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": "[SUN]",
+        "setsu": "第7節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県西部体育センター",
+        "attendance": "2072人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "加藤昌樹",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "64",
+        "away": "85"
+    }
+}

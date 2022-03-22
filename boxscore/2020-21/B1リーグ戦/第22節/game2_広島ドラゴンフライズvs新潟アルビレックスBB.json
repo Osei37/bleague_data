@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6223,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1109人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "橋本 恵一",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "76",
+        "away": "102"
+    }
+}

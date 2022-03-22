@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8408,
+    "date": {
+        "season": "2021-22",
+        "month": "3.13",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "久留米アリーナ",
+        "attendance": "794人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "冨島 健司",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "88",
+        "away": "81"
+    }
+}

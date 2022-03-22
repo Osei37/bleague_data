@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2316,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宇和島市総合体育館",
+        "attendance": "595人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "前花直哉",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "85"
+    }
+}

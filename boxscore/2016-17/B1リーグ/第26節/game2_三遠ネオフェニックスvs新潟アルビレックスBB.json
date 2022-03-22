@@ -1,0 +1,27 @@
+{
+    "schedule_key": 437,
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2016人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "増渕泰久",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "85",
+        "away": "75"
+    }
+}

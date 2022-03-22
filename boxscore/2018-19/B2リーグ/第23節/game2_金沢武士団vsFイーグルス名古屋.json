@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3904,
+    "date": {
+        "season": "2018-19",
+        "month": "2.24",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1237人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "冨島健司",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "63",
+        "away": "91"
+    }
+}

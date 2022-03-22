@@ -1,0 +1,27 @@
+{
+    "schedule_key": 769,
+    "date": {
+        "season": "2016-17",
+        "month": "12.25",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島市国体記念体育館",
+        "attendance": "1325人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "平出 剛",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "58",
+        "away": "91"
+    }
+}

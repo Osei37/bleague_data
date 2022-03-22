@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3120,
+    "date": {
+        "season": "2018-19",
+        "month": "11.11",
+        "week": "[SUN]",
+        "setsu": "第9節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "3088人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "伊藤亮介",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "68"
+    }
+}

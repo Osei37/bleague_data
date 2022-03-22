@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1649,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第5節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2312人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "加藤昌樹",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "87",
+        "away": "92"
+    }
+}

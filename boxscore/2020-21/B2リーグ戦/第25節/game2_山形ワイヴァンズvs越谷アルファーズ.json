@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6817,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": "[SUN]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三友エンジニア体育文化センター",
+        "attendance": "764人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "蒲 健一",
+        "crew": "清水 幹治"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "75"
+    }
+}

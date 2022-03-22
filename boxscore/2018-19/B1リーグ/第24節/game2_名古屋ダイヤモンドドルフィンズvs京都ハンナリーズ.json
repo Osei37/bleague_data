@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3341,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": "[SUN]",
+        "setsu": "第24節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1882人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "加納康平",
+        "crew": "加藤暁生"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "83"
+    }
+}

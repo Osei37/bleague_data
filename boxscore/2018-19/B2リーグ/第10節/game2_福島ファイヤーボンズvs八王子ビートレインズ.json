@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3684,
+    "date": {
+        "season": "2018-19",
+        "month": "11.25",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "田村市総合体育館",
+        "attendance": "1029人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "岩城和利",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "73"
+    }
+}

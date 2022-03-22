@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6770,
+    "date": {
+        "season": "2020-21",
+        "month": "2.19",
+        "week": "[FRI]",
+        "setsu": "第22節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "580人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "加藤 暁生",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "101"
+    }
+}

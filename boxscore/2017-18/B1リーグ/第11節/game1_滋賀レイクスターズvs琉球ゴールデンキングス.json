@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1756,
+    "date": {
+        "season": "2017-18",
+        "month": "12.08",
+        "week": "[Fri]",
+        "setsu": "第11節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1736人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "谷地温",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "63",
+        "away": "83"
+    }
+}

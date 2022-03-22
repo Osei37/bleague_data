@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4457,
+    "date": {
+        "season": "2019-20",
+        "month": "2.02",
+        "week": "[SUN]",
+        "setsu": "第21節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "3316人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "安西郷史",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "80",
+        "away": "88"
+    }
+}

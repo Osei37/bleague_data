@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6611,
+    "date": {
+        "season": "2020-21",
+        "month": "12.09",
+        "week": "[WED]",
+        "setsu": "第11節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "286人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "田中 豊弘",
+        "crew": "柏原 琢磨"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "95"
+    }
+}

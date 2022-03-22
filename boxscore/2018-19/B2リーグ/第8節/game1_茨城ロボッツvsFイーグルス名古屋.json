@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3649,
+    "date": {
+        "season": "2018-19",
+        "month": "11.10",
+        "week": "[SAT]",
+        "setsu": "第8節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1736人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "長谷川裕",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "80",
+        "away": "63"
+    }
+}

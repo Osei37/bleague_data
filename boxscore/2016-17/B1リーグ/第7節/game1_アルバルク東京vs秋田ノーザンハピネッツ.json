@@ -1,0 +1,27 @@
+{
+    "schedule_key": 119,
+    "date": {
+        "season": "2016-17",
+        "month": "11.06",
+        "week": "[Sun]",
+        "setsu": "第7節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "3120人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "佐藤誠",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "55"
+    }
+}

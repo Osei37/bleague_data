@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7719,
+    "date": {
+        "season": "2021-22",
+        "month": "2.13",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1292人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "佐藤 誠",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "75"
+    }
+}

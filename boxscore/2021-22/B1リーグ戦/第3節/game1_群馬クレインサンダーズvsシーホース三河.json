@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7468,
+    "date": {
+        "season": "2021-22",
+        "month": "10.16",
+        "week": "[SAT]",
+        "setsu": "第3節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1352人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "久保 知仁",
+        "crew": "高城 邦弘"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "87",
+        "away": "89"
+    }
+}

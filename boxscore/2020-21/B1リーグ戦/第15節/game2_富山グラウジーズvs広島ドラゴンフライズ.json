@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6091,
+    "date": {
+        "season": "2020-21",
+        "month": "12.27",
+        "week": "[SUN]",
+        "setsu": "第15節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2214人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "東條 輝正",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "70"
+    }
+}

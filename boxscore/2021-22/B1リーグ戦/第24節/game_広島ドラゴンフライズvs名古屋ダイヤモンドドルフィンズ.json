@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7858,
+    "date": {
+        "season": "2021-22",
+        "month": "3.16",
+        "week": "[WED]",
+        "setsu": "第24節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1256人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "松本 究",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "100"
+    }
+}

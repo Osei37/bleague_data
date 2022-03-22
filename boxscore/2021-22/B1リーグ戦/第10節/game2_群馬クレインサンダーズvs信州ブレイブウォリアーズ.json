@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7605,
+    "date": {
+        "season": "2021-22",
+        "month": "12.12",
+        "week": "[SUN]",
+        "setsu": "第10節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1203人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "谷地 温",
+        "crew": "加藤 暁生"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "65"
+    }
+}

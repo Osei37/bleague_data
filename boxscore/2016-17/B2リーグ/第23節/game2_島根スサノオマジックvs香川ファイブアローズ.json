@@ -1,0 +1,27 @@
+{
+    "schedule_key": 955,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": "[Sun]",
+        "setsu": "第23節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安来市民体育館",
+        "attendance": "1008人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "茅野修司",
+        "crew": "那須弘幸"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "81"
+    }
+}

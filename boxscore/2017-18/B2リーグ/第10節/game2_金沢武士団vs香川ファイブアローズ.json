@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2275,
+    "date": {
+        "season": "2017-18",
+        "month": "12.02",
+        "week": "[Sat]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "1316人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "岩木太郎",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "64"
+    }
+}

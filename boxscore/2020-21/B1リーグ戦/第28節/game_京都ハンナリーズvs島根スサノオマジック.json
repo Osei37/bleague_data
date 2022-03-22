@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6312,
+    "date": {
+        "season": "2020-21",
+        "month": "3.24",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "780人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "大野 哲広",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "86",
+        "away": "96"
+    }
+}

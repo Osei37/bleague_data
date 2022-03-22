@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2306,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2383人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "高城邦弘",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "68"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 92,
+    "date": {
+        "season": "2016-17",
+        "month": "10.29",
+        "week": "[Sat]",
+        "setsu": "第6節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "能代市総合体育館",
+        "attendance": "2385人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "高城邦弘",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "61",
+        "away": "68"
+    }
+}

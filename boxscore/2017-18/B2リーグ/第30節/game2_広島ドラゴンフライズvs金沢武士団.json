@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2623,
+    "date": {
+        "season": "2017-18",
+        "month": "4.29",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2585人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "岩木太郎",
+        "crew": "小川隆三"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "90",
+        "away": "86"
+    }
+}

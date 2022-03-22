@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7465,
+    "date": {
+        "season": "2021-22",
+        "month": "10.17",
+        "week": "[SUN]",
+        "setsu": "第3節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1688人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "北沢 岳夫",
+        "crew": "谷古宇 孝"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "72",
+        "away": "69"
+    }
+}

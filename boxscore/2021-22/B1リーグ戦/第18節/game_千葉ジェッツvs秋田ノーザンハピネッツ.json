@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7752,
+    "date": {
+        "season": "2021-22",
+        "month": "1.26",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2364人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "丸山 大",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "69"
+    }
+}

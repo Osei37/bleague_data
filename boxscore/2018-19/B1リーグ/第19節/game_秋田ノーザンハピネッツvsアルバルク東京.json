@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3265,
+    "date": {
+        "season": "2018-19",
+        "month": "1.16",
+        "week": "[WED]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "秋田県立体育館",
+        "attendance": "2357人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "久米克弥",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "72",
+        "away": "81"
+    }
+}

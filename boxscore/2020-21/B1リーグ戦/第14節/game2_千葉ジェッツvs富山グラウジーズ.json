@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6067,
+    "date": {
+        "season": "2020-21",
+        "month": "12.20",
+        "week": "[SUN]",
+        "setsu": "第14節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2160人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "増渕 泰久",
+        "crew": "佐藤 誠"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "130",
+        "away": "129"
+    }
+}

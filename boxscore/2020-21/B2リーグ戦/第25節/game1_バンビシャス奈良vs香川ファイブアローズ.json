@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6824,
+    "date": {
+        "season": "2020-21",
+        "month": "3.13",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金魚スクエア",
+        "attendance": "607人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "市川 雄介",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "92"
+    }
+}

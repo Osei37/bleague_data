@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2564,
+    "date": {
+        "season": "2017-18",
+        "month": "4.07",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1249人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "大野太裕",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "92",
+        "away": "73"
+    }
+}

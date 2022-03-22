@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3327,
+    "date": {
+        "season": "2018-19",
+        "month": "2.02",
+        "week": "[SAT]",
+        "setsu": "第23節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "5618人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "安西郷史",
+        "crew": "黒岡和哲"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "74",
+        "away": "84"
+    }
+}

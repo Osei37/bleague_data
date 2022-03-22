@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2045,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2721人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "玉木彰治",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "99",
+        "away": "85"
+    }
+}

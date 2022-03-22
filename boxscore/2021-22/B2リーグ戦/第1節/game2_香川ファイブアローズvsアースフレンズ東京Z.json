@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8089,
+    "date": {
+        "season": "2021-22",
+        "month": "10.03",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "観音寺市立総合体育館",
+        "attendance": "474人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "岩木 太郎",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "100",
+        "away": "85"
+    }
+}

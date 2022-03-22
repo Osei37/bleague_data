@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4005,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "DIADORAアリーナ",
+        "attendance": "1368人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "前花直哉",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "73",
+        "away": "60"
+    }
+}

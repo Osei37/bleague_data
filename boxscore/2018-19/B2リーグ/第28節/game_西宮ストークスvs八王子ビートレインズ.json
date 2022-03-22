@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3990,
+    "date": {
+        "season": "2018-19",
+        "month": "3.27",
+        "week": "[WED]",
+        "setsu": "第28節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1503人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "砂川卓嗣",
+        "crew": "山口憲昭"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8422,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1505人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "御手洗 亮",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "113",
+        "away": "58"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3793,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": "[SUN]",
+        "setsu": "第16節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1904人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "黒岡和哲",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "73",
+        "away": "75"
+    }
+}

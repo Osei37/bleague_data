@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6128,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": "[SAT]",
+        "setsu": "第17節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1913人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "蒲 健一",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "64"
+    }
+}

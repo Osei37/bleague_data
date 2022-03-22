@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6833,
+    "date": {
+        "season": "2020-21",
+        "month": "5.02",
+        "week": "[SUN]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1283人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "松岡 隆博",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "85",
+        "away": "66"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3163,
+    "date": {
+        "season": "2018-19",
+        "month": "12.08",
+        "week": "[SAT]",
+        "setsu": "第12節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3798人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "宇地原尚彦",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "55"
+    }
+}

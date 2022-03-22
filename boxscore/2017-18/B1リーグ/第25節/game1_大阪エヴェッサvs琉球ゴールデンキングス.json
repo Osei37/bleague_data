@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1994,
+    "date": {
+        "season": "2017-18",
+        "month": "3.28",
+        "week": "[WED]",
+        "setsu": "第25節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンエイワーク住吉スポーツセンター",
+        "attendance": "2528人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "堀内純",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "53",
+        "away": "72"
+    }
+}

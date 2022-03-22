@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2439,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": "[Sat]",
+        "setsu": "第20節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2216人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "嶋崎貴",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3389,
+    "date": {
+        "season": "2018-19",
+        "month": "3.13",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2274人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "伊藤亮介",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "85",
+        "away": "69"
+    }
+}

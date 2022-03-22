@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4702,
+    "date": {
+        "season": "2019-20",
+        "month": "9.22",
+        "week": "[SUN]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "2019人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "坂井元直",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "74",
+        "away": "79"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7812,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島グリーンアリーナ",
+        "attendance": "2594人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "守谷 圭介",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "63",
+        "away": "77"
+    }
+}

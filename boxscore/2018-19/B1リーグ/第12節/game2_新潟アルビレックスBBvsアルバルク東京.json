@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3166,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": "[SUN]",
+        "setsu": "第12節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4457人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "宇田津浩史",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "83",
+        "away": "86"
+    }
+}

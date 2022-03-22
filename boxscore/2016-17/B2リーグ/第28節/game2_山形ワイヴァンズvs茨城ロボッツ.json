@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1041,
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "2006人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "鬼頭 英伸",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "75",
+        "away": "82"
+    }
+}

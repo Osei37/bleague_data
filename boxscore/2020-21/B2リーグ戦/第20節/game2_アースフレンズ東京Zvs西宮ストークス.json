@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6743,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": "[SUN]",
+        "setsu": "第20節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "503人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "東條 輝正",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "69",
+        "away": "86"
+    }
+}

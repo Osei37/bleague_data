@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3814,
+    "date": {
+        "season": "2018-19",
+        "month": "1.19",
+        "week": "[SAT]",
+        "setsu": "第18節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1428人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "和嶋陽一",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "59"
+    }
+}

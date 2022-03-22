@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7876,
+    "date": {
+        "season": "2021-22",
+        "month": "3.19",
+        "week": "[SAT]",
+        "setsu": "第25節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2037人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "小澤 勤",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "65"
+    }
+}

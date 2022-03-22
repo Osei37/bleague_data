@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3908,
+    "date": {
+        "season": "2018-19",
+        "month": "2.24",
+        "week": "[SUN]",
+        "setsu": "第23節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2251人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "鬼頭英伸",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "77"
+    }
+}

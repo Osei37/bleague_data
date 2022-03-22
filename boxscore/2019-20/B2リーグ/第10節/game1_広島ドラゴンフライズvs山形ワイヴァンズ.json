@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4856,
+    "date": {
+        "season": "2019-20",
+        "month": "11.18",
+        "week": "[MON]",
+        "setsu": "第10節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダハウジング東区スポーツセンター",
+        "attendance": "1629人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "名越龍男",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "105",
+        "away": "88"
+    }
+}

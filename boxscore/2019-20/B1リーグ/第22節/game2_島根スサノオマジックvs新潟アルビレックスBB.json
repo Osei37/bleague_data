@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4481,
+    "date": {
+        "season": "2019-20",
+        "month": "2.09",
+        "week": "[SUN]",
+        "setsu": "第22節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2516人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "青木俊博",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "82",
+        "away": "93"
+    }
+}
