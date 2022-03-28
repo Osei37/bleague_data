@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "14:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "2278人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "石田祐二",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "75"
+    }
+}

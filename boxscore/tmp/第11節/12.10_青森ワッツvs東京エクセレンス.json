@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "十和田市総合体育センター",
+        "attendance": "1317人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "清水幹治",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "85",
+        "away": "79"
+    }
+}

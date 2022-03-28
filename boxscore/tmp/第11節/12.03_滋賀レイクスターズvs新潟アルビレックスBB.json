@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "彦根市民体育センター",
+        "attendance": "1815人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "山内俊幸",
+        "crew": "加藤昌樹"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "91",
+        "away": "92"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "5.03",
+        "week": "[Wed]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "6013人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "松本隆志",
+        "crew": "前田喜庸"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "69",
+        "away": "62"
+    }
+}

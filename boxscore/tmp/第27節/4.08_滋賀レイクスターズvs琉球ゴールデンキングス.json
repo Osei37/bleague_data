@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[Sat]",
+        "setsu": "第27節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "守山市民体育館",
+        "attendance": "1794人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "倉口勉",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "73",
+        "away": "75"
+    }
+}

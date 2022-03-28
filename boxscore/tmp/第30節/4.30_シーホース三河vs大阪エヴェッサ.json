@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.30",
+        "week": "[Sun]",
+        "setsu": "第30節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岡崎中央総合公園総合体育館",
+        "attendance": "3402人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "増渕泰久",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "77",
+        "away": "62"
+    }
+}

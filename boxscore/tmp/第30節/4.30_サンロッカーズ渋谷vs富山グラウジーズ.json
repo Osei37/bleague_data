@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.30",
+        "week": "[Sun]",
+        "setsu": "第30節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "2204人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "阿部聖",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "76"
+    }
+}

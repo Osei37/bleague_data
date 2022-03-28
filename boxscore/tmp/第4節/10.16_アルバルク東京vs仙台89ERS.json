@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.16",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "2665人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "大倉守正",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "91",
+        "away": "69"
+    }
+}

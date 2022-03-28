@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.26",
+        "week": "[Sun]",
+        "setsu": "第22節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2649人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "玉木彰治",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "60",
+        "away": "71"
+    }
+}

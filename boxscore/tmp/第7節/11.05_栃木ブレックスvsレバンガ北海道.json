@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.05",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3085人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "北沢岳夫",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "92",
+        "away": "60"
+    }
+}

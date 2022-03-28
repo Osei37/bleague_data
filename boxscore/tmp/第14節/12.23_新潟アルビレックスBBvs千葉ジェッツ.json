@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.23",
+        "week": "[Fri]",
+        "setsu": "第14節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4086人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "加藤昌樹",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "91",
+        "away": "90"
+    }
+}

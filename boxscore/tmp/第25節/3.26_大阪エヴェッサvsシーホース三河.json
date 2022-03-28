@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第25節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "2582人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "堀内純",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "94",
+        "away": "100"
+    }
+}

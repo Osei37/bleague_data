@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.02",
+        "week": "[Sun]",
+        "setsu": "第26節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "守山市民体育館",
+        "attendance": "1871人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "守谷圭介",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "68",
+        "away": "65"
+    }
+}

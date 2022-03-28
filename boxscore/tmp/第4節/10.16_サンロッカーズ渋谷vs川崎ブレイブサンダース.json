@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.16",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1663人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "倉口勉",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "56",
+        "away": "68"
+    }
+}

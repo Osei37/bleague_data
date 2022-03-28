@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.26",
+        "week": "[Sun]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2400人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "大倉守正",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "79"
+    }
+}

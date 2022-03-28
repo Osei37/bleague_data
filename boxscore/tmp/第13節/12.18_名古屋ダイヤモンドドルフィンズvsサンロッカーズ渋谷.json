@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "1430人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "谷古宇孝",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "86",
+        "away": "73"
+    }
+}

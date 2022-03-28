@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.19",
+        "week": "[Sat]",
+        "setsu": "第8節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンエイワーク住吉スポーツセンター",
+        "attendance": "2206人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "谷古宇孝",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "79"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.26",
+        "week": "[Sat]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "752人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "松本究",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "51",
+        "away": "94"
+    }
+}

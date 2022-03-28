@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.05",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "3149人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "高城邦弘",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "77",
+        "away": "64"
+    }
+}

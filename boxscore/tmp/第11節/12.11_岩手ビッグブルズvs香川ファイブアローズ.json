@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.11",
+        "week": "[Sun]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "811人"
+    },
+    "referee": {
+        "first": "中田英教",
+        "second": "佐藤匠",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "73"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横須賀アリーナ",
+        "attendance": "2021人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "佐藤誠",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "87",
+        "away": "76"
+    }
+}

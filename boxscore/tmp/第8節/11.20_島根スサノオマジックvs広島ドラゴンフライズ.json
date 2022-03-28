@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "島根県立体育館",
+        "attendance": "1119人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "前花直哉",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "53"
+    }
+}

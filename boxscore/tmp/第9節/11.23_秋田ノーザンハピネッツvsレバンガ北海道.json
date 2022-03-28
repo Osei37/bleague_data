@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.23",
+        "week": "[Wed]",
+        "setsu": "第9節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3593人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "谷古宇孝",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "70",
+        "away": "75"
+    }
+}

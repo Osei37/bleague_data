@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.22",
+        "week": "[Wed]",
+        "setsu": "第21節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "2012人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "石田祐二",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "73",
+        "away": "85"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "3.12",
+        "week": "[Sun]",
+        "setsu": "第23節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2958人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "堀内純",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "70"
+    }
+}

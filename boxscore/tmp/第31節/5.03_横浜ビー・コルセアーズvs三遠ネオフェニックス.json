@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "5.03",
+        "week": "[Wed]",
+        "setsu": "第31節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜文化体育館",
+        "attendance": "3109人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "平原勇次",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "61",
+        "away": "77"
+    }
+}

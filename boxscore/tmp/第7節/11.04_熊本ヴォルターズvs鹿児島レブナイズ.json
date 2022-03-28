@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.04",
+        "week": "[Fri]",
+        "setsu": "第7節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "菊池市総合体育館",
+        "attendance": "1202人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "田中豊弘",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "75"
+    }
+}

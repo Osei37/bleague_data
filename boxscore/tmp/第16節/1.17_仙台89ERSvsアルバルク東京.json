@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "1.17",
+        "week": "[Tue]",
+        "setsu": "第16節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2384人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "青木俊博",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "80",
+        "away": "91"
+    }
+}

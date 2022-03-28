@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.22",
+        "week": "[Sat]",
+        "setsu": "第29節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2011人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "増渕泰久",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "80",
+        "away": "87"
+    }
+}

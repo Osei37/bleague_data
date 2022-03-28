@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "3.11",
+        "week": "[Sat]",
+        "setsu": "第23節",
+        "time": "15:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "1957人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "前田喜庸",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "75",
+        "away": "58"
+    }
+}

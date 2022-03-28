@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "9.22",
+        "week": "[Thu]",
+        "setsu": "第1節",
+        "time": "18:55 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第一体育館",
+        "attendance": "9132人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "片寄達",
+        "crew": "平原勇次"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "80",
+        "away": "75"
+    }
+}

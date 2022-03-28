@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.23",
+        "week": "[Sun]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "秋田県立体育館",
+        "attendance": "3324人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "芳賀聡",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "71",
+        "away": "74"
+    }
+}

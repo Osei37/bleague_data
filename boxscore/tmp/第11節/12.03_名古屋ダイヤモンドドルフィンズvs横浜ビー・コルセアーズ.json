@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1351人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "東祐二",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "64"
+    }
+}

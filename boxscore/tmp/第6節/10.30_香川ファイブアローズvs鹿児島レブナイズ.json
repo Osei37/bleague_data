@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.30",
+        "week": "[Sun]",
+        "setsu": "第6節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "388人"
+    },
+    "referee": {
+        "first": "地頭薗 剛",
+        "second": "宇田津浩史",
+        "crew": "太田 匡俊"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "62"
+    }
+}

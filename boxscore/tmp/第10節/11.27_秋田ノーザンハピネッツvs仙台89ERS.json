@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.27",
+        "week": "[Sun]",
+        "setsu": "第10節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2939人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "倉口勉",
+        "crew": "上田 信彦"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "88",
+        "away": "72"
+    }
+}

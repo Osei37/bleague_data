@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.02",
+        "week": "[Sun]",
+        "setsu": "第2節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "3503人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "久米克弥",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "72",
+        "away": "64"
+    }
+}

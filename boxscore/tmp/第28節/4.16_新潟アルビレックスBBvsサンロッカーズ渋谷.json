@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "2592人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "飯尾勝紀",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "73",
+        "away": "85"
+    }
+}

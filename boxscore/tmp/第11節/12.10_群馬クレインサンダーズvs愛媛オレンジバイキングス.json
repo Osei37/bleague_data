@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "渋川市子持社会体育館",
+        "attendance": "859人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "山内正隆",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "87",
+        "away": "65"
+    }
+}

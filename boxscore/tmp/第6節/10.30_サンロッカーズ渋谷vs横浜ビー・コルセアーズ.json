@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.30",
+        "week": "[Sun]",
+        "setsu": "第6節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "キッコーマン アリーナ（流山市民総合体育館）",
+        "attendance": "1822人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "田島寛治",
+        "crew": "有澤重行"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "89"
+    }
+}

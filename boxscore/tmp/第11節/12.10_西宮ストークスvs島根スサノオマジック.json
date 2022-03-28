@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "三田駒ケ谷体育館",
+        "attendance": "884人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "茅野修司",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "59",
+        "away": "71"
+    }
+}

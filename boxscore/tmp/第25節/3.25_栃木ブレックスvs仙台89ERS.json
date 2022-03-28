@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "3.25",
+        "week": "[Sat]",
+        "setsu": "第25節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2945人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "清水幹治",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "86",
+        "away": "53"
+    }
+}

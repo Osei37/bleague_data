@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5217人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "前田喜庸",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "65"
+    }
+}

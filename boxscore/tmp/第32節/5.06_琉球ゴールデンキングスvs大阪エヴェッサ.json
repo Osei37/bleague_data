@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "5.06",
+        "week": "[Sat]",
+        "setsu": "第32節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3588人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "堀内純",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "88",
+        "away": "83"
+    }
+}

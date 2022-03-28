@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "3.26",
+        "week": "[Sun]",
+        "setsu": "第25節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5218人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "宇地原尚彦",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "101",
+        "away": "90"
+    }
+}

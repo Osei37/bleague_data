@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.04",
+        "week": "[Sat]",
+        "setsu": "第19節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "2449人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "伊藤亮介",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "86"
+    }
+}

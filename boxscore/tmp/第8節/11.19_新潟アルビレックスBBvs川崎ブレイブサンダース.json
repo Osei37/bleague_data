@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.19",
+        "week": "[Sat]",
+        "setsu": "第8節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "3070人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "玉木彰治",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "79",
+        "away": "95"
+    }
+}

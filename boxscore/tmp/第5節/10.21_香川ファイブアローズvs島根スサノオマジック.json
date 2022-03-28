@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.21",
+        "week": "[Fri]",
+        "setsu": "第5節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "きびじアリーナ",
+        "attendance": "783人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "薦田 侑二郎",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "67",
+        "away": "93"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.22",
+        "week": "[Sat]",
+        "setsu": "第5節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1955人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "嶋崎貴",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "83",
+        "away": "71"
+    }
+}

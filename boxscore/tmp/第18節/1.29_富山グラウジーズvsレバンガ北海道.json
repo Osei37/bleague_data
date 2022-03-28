@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": "[Sun]",
+        "setsu": "第18節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2367人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "伊藤亮介",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "89",
+        "away": "76"
+    }
+}

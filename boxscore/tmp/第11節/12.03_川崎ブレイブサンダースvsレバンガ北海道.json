@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": "[Sat]",
+        "setsu": "第11節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "1862人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "倉口勉",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "91",
+        "away": "78"
+    }
+}

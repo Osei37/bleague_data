@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.05",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "833人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "白川 直弘",
+        "crew": "LAW DAVID"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "61",
+        "away": "79"
+    }
+}

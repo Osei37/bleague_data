@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1684人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "玉木彰治",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "74"
+    }
+}

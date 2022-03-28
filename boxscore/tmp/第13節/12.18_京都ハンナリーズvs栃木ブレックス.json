@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": "[Sun]",
+        "setsu": "第13節",
+        "time": "13:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "3644人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "松本隆志",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "72",
+        "away": "70"
+    }
+}

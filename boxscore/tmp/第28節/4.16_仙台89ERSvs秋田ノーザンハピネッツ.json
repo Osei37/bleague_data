@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2232人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "阿部聖",
+        "crew": "松岡隆博"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "60",
+        "away": "79"
+    }
+}

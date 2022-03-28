@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.24",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3519人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "北島寛臣",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "96",
+        "away": "83"
+    }
+}

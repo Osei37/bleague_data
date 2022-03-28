@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.15",
+        "week": "[Sat]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "1683人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "増渕泰久",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "73",
+        "away": "92"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "5.07",
+        "week": "[Sun]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2205人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "山内俊幸",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "85"
+    }
+}

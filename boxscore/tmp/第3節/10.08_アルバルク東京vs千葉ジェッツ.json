@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.08",
+        "week": "[Sat]",
+        "setsu": "第3節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "スカイホール豊田",
+        "attendance": "2797人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "加藤昌樹",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "80"
+    }
+}

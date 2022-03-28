@@ -1,1 +1,6 @@
+# crawl log
+log.json
+
+# program
 crawler.py
+rename.py

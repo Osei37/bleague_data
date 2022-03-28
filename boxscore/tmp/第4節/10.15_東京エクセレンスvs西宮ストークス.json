@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.15",
+        "week": "[Sat]",
+        "setsu": "第4節",
+        "time": "14:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "立川市泉市民体育館",
+        "attendance": "513人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "中田英教",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "75",
+        "away": "88"
+    }
+}

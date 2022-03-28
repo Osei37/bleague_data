@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": "[Sat]",
+        "setsu": "第27節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "1812人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "東祐二",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "84"
+    }
+}

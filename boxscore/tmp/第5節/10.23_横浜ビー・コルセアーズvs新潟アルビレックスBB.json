@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": "[Sun]",
+        "setsu": "第5節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3456人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "芳賀聡",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "78",
+        "away": "96"
+    }
+}

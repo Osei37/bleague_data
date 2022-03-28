@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": "[Sun]",
+        "setsu": "第28節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "2368人"
+    },
+    "referee": {
+        "first": "宇地原尚彦",
+        "second": "松本究",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "82"
+    }
+}

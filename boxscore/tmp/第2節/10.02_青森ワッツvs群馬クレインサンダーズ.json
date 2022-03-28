@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.02",
+        "week": "[Sun]",
+        "setsu": "第2節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八戸市東体育館",
+        "attendance": "1509人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "加納 康平",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "81"
+    }
+}

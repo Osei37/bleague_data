@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.31",
+        "week": "[Sat]",
+        "setsu": "第15節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1955人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "伊藤亮介",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "64",
+        "away": "82"
+    }
+}

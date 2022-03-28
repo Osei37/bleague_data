@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "3.17",
+        "week": "[Fri]",
+        "setsu": "第24節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2965人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "阿部聖",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "65",
+        "away": "92"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.26",
+        "week": "[Sat]",
+        "setsu": "第9節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "756人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "LAW DAVID",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "83",
+        "away": "70"
+    }
+}

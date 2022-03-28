@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2822人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "久米克弥",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "99"
+    }
+}

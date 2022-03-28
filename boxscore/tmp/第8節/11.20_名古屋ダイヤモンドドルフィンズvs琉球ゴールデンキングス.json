@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": "[Sun]",
+        "setsu": "第8節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "4631人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "高城邦弘",
+        "crew": "有澤重行"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "78",
+        "away": "70"
+    }
+}

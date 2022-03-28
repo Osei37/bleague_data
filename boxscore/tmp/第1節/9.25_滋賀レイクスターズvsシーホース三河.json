@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "9.25",
+        "week": "[Sun]",
+        "setsu": "第1節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2427人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "玉木彰治",
+        "crew": "田島寛治"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "73",
+        "away": "85"
+    }
+}

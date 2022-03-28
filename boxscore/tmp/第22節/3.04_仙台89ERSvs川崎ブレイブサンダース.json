@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": "[Sat]",
+        "setsu": "第22節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "2079人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "倉口勉",
+        "crew": "平原勇次"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "64",
+        "away": "76"
+    }
+}

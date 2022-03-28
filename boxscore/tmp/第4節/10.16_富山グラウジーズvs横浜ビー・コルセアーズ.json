@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.16",
+        "week": "[Sun]",
+        "setsu": "第4節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県総合体育センター",
+        "attendance": "1800人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "谷古宇孝",
+        "crew": "平澤明男"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "81"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.05",
+        "week": "[Sat]",
+        "setsu": "第7節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "709人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "薦田 侑二郎",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "76",
+        "away": "57"
+    }
+}

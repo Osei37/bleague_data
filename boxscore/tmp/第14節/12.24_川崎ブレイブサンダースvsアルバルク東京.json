@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.24",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3727人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "片寄達",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "92",
+        "away": "106"
+    }
+}

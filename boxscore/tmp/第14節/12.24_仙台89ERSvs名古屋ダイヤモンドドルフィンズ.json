@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.24",
+        "week": "[Sat]",
+        "setsu": "第14節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1776人"
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "前田喜庸",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "75"
+    }
+}

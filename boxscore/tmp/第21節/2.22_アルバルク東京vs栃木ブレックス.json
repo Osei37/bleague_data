@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.22",
+        "week": "[Wed]",
+        "setsu": "第21節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "府中市郷土の森体育館",
+        "attendance": "1515人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "緒方崇",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "76",
+        "away": "77"
+    }
+}

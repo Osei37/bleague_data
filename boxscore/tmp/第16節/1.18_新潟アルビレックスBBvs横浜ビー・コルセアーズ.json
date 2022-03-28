@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "1.18",
+        "week": "[Wed]",
+        "setsu": "第16節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1517人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "石田祐二",
+        "crew": "関口 久視"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "72"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.22",
+        "week": "[Sat]",
+        "setsu": "第5節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1067人"
+    },
+    "referee": {
+        "first": "地頭薗 剛",
+        "second": "東考生",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "89",
+        "away": "83"
+    }
+}

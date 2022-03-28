@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": "[Sun]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1988人"
+    },
+    "referee": {
+        "first": "松本隆志",
+        "second": "松本究",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "68"
+    }
+}

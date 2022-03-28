@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": "[Sun]",
+        "setsu": "第5節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中山町総合体育館",
+        "attendance": "1190人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "佐藤匠",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "62"
+    }
+}

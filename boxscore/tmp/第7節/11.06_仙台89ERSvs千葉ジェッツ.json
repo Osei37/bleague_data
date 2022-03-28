@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "11.06",
+        "week": "[Sun]",
+        "setsu": "第7節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2235人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "伊藤亮介",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "75",
+        "away": "85"
+    }
+}

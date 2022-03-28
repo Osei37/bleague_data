@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "10.07",
+        "week": "[Fri]",
+        "setsu": "第3節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2651人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "玉木彰治",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "103",
+        "away": "70"
+    }
+}

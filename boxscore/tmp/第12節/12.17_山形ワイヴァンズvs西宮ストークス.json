@@ -1,0 +1,26 @@
+{
+    "date": {
+        "season": "2016-17",
+        "month": "12.17",
+        "week": "[Sat]",
+        "setsu": "第12節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "1279人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "松岡隆博",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "62",
+        "away": "75"
+    }
+}
