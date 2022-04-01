@@ -1,5 +1,7 @@
-# crawl log
+# crawl data
 log.json
+list.json
 
 # program
 crawler.py
+rename.py
