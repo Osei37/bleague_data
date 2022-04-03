@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2817,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs大塚商会越谷アルファーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1116人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "石嶺良方",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "79"
+    }
+}

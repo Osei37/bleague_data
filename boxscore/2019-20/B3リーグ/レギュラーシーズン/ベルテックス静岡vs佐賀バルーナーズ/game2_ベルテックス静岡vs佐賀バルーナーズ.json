@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5506,
+    "date": {
+        "season": "2019-20",
+        "month": "2.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs佐賀バルーナーズ",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "御殿場市体育館",
+        "attendance": "482人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "伊藤睦哲",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "98"
+    }
+}

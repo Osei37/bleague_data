@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8428,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "303人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "大谷 英紀",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "94"
+    }
+}

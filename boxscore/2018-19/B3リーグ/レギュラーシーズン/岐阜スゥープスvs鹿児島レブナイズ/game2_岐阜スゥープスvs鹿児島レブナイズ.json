@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2783,
+    "date": {
+        "season": "2018-19",
+        "month": "11.25",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs鹿児島レブナイズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "せきしんふれ愛アリーナ",
+        "attendance": "843人"
+    },
+    "referee": {
+        "first": "鬼頭英伸",
+        "second": "内田祥平",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "76"
+    }
+}

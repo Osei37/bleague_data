@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1145,
+    "date": {
+        "season": "2016-17",
+        "month": "12.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "614人"
+    },
+    "referee": {
+        "first": "古川俊和",
+        "second": "菊地真吾",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "71",
+        "away": "82"
+    }
+}

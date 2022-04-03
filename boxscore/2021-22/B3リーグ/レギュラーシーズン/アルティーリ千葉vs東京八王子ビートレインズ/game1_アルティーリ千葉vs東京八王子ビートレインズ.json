@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7282,
+    "date": {
+        "season": "2021-22",
+        "month": "2.26",
+        "week": null,
+        "setsu": "レギュラーシーズン/アルティーリ千葉vs東京八王子ビートレインズ",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "988人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "山口 尭彰",
+        "crew": "佐田 幸一"
+    },
+    "team": {
+        "home": "アルティーリ千葉",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "51"
+    }
+}

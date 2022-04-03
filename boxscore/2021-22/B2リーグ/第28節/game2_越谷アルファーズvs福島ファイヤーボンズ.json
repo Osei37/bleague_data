@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8435,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "829人"
+    },
+    "referee": {
+        "first": "山内 正隆",
+        "second": "皆川 義紀",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2765,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs大塚商会越谷アルファーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "城西大学　坂戸キャンパス総合体育館",
+        "attendance": "531人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "小田中涼子",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "94"
+    }
+}

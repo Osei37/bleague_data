@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2917,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "875人"
+    },
+    "referee": {
+        "first": "白川直弘",
+        "second": "笠島喜与都",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "91",
+        "away": "77"
+    }
+}

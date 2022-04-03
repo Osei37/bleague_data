@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1228,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs豊田合成スコーピオンズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日部市総合体育館",
+        "attendance": "1351人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "菊地真吾",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "63"
+    }
+}

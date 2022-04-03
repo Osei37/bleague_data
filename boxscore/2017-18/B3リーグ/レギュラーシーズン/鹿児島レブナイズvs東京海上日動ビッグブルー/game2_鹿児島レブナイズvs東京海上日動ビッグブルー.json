@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1422,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs東京海上日動ビッグブルー",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "1201人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "井元誠",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "100",
+        "away": "80"
+    }
+}

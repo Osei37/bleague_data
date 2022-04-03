@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5467,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs岐阜スゥープス",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シンコースポーツ寒川アリーナ",
+        "attendance": "382人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "伊藤睦哲",
+        "crew": "京極 幸村"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "87",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7308,
+    "date": {
+        "season": "2021-22",
+        "month": "3.12",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvsアルティーリ千葉",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宮古市民総合体育館",
+        "attendance": "511人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "伊藤睦哲",
+        "crew": "武田 亜沙美"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "71",
+        "away": "81"
+    }
+}

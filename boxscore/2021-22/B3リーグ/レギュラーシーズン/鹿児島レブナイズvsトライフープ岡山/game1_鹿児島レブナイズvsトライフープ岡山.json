@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7244,
+    "date": {
+        "season": "2021-22",
+        "month": "2.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvsトライフープ岡山",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ビーラインスポーツパーク姶良体育館",
+        "attendance": "219人"
+    },
+    "referee": {
+        "first": "市川 雄介",
+        "second": "松本 究",
+        "crew": "徳丸 昂"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "87",
+        "away": "88"
+    }
+}

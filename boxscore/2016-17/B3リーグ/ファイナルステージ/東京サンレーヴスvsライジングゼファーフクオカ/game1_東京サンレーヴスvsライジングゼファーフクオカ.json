@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1262,
+    "date": {
+        "season": "2016-17",
+        "month": "4.07",
+        "week": null,
+        "setsu": "ファイナルステージ/東京サンレーヴスvsライジングゼファーフクオカ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "町田市立総合体育館",
+        "attendance": "562人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "山本邦博",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "ライジングゼファーフクオカ"
+    },
+    "score": {
+        "home": "70",
+        "away": "89"
+    }
+}

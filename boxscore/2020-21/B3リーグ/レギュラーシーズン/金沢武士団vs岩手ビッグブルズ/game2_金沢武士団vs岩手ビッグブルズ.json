@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5713,
+    "date": {
+        "season": "2020-21",
+        "month": "3.07",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs岩手ビッグブルズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "369人"
+    },
+    "referee": {
+        "first": "尾形美樹",
+        "second": "山内正隆",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "96"
+    }
+}

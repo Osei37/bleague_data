@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6989,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Dコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ　U15",
+        "away": "名古屋ダイヤモンドドルフィンズ U15"
+    },
+    "score": {
+        "home": "27",
+        "away": "32"
+    }
+}

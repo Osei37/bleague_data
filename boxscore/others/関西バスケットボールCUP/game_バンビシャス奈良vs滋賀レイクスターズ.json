@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1293,
+    "date": {
+        "season": "others",
+        "month": "9.03",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "2000人"
+    },
+    "referee": {
+        "first": "渡辺雄吉",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "10",
+        "away": "9"
+    }
+}

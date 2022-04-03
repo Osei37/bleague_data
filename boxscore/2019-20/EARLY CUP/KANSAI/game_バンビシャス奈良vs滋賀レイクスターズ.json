@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5260,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "幡丸 登志久",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "80"
+    }
+}

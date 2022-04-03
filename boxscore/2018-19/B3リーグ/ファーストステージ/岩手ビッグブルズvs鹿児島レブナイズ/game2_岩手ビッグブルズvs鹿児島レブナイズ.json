@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2725,
+    "date": {
+        "season": "2018-19",
+        "month": "9.30",
+        "week": null,
+        "setsu": "ファーストステージ/岩手ビッグブルズvs鹿児島レブナイズ",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "葛巻町社会体育館",
+        "attendance": "475人"
+    },
+    "referee": {
+        "first": "熊谷久美子",
+        "second": "中道凌平",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "86"
+    }
+}

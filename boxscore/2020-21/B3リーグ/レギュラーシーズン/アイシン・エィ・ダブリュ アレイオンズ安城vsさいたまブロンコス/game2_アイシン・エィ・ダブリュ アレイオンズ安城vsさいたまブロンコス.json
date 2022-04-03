@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5653,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vsさいたまブロンコス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "尾形美樹",
+        "second": "山本雄大",
+        "crew": "浅野慶太郎"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "89",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4071,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "高城邦弘",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "52",
+        "away": "65"
+    }
+}

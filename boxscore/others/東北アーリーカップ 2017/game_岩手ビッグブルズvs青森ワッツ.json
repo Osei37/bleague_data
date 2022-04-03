@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2675,
+    "date": {
+        "season": "others",
+        "month": "9.08",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "453人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "和嶋陽一",
+        "crew": "岩井遙河"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "70"
+    }
+}

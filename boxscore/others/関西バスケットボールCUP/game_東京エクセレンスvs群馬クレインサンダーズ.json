@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1296,
+    "date": {
+        "season": "others",
+        "month": "9.20",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "久米克弥",
+        "crew": "川端孝博"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1456,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs埼玉ブロンコス",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市緑スポーツセンター",
+        "attendance": "306人"
+    },
+    "referee": {
+        "first": "田中稔",
+        "second": "宮里両",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "52",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7055,
+    "date": {
+        "season": "2021-22",
+        "month": "10.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/横浜エクセレンスvsトライフープ岡山",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "435人"
+    },
+    "referee": {
+        "first": "内野翔太",
+        "second": "大井陽平",
+        "crew": "若林謙作"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "67",
+        "away": "85"
+    }
+}

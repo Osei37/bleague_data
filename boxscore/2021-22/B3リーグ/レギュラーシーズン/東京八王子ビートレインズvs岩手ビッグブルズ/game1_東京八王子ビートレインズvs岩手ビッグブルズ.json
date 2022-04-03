@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7128,
+    "date": {
+        "season": "2021-22",
+        "month": "12.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvs岩手ビッグブルズ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "401人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "大井 陽平",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "75"
+    }
+}

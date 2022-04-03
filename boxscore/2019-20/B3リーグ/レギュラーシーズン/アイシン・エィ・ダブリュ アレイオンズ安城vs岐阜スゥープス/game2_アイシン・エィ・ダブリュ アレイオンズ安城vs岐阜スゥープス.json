@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5498,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs岐阜スゥープス",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越前市AW-Iスポーツアリーナ",
+        "attendance": "495人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "内田祥平",
+        "crew": "田中優志"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "97",
+        "away": "60"
+    }
+}

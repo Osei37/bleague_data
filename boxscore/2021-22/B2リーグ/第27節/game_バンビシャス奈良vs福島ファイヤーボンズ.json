@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8426,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "427人"
+    },
+    "referee": {
+        "first": "佐藤 誠",
+        "second": "井出 啓太",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5299,
+    "date": {
+        "season": "2019-20",
+        "month": "10.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs豊田合成スコーピオンズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岡山学芸館高等学校",
+        "attendance": "309人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "大下俊之",
+        "crew": "大井陽平"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "74"
+    }
+}

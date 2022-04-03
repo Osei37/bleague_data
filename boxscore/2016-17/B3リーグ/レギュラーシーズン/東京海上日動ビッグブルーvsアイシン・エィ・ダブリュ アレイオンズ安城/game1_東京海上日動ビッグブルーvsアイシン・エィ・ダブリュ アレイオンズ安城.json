@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1190,
+    "date": {
+        "season": "2016-17",
+        "month": "1.21",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京海上日動ビッグブルーvsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "85人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "山本邦博",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "72",
+        "away": "84"
+    }
+}

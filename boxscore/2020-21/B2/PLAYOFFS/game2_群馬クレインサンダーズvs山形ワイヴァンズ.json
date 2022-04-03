@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6957,
+    "date": {
+        "season": "2020-21",
+        "month": "5.09",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1128人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "細田 知宏",
+        "crew": "黒岡 和哲"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "60"
+    }
+}

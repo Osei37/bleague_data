@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1301,
+    "date": {
+        "season": "others",
+        "month": "9.20",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "渡辺雄吉",
+        "second": "宇田川貴生",
+        "crew": "松本隆志"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "76",
+        "away": "65"
+    }
+}

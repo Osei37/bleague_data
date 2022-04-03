@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2887,
+    "date": {
+        "season": "2018-19",
+        "month": "2.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/大塚商会越谷アルファーズvs岩手ビッグブルズ",
+        "time": "10:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "268人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "幡丸 登志久",
+        "crew": "岩木太郎"
+    },
+    "team": {
+        "home": "大塚商会越谷アルファーズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "75"
+    }
+}

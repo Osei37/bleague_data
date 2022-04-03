@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5385,
+    "date": {
+        "season": "2019-20",
+        "month": "12.06",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvsトライフープ岡山",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1042人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "一色渉",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "75",
+        "away": "88"
+    }
+}

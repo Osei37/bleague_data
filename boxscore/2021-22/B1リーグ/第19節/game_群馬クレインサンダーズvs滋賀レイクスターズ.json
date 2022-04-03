@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7766,
+    "date": {
+        "season": "2021-22",
+        "month": "3.30",
+        "week": "[WED]",
+        "setsu": "第19節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1349人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "松本 究",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "83"
+    }
+}

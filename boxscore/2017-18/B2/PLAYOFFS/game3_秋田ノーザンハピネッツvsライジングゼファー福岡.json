@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2712,
+    "date": {
+        "season": "2017-18",
+        "month": "5.20",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "4431人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "北沢岳夫",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "12",
+        "away": "15"
+    }
+}

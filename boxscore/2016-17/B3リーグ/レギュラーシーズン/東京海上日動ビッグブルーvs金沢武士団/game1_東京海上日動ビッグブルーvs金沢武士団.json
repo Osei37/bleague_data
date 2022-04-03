@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1160,
+    "date": {
+        "season": "2016-17",
+        "month": "12.17",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京海上日動ビッグブルーvs金沢武士団",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "84人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "田中充",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "64",
+        "away": "121"
+    }
+}

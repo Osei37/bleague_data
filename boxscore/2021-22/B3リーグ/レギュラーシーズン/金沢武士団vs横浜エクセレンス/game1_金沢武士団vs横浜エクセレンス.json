@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7183,
+    "date": {
+        "season": "2021-22",
+        "month": "1.08",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs横浜エクセレンス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "野々市市民体育館",
+        "attendance": "266人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "竹田雄介",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "70",
+        "away": "109"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1263,
+    "date": {
+        "season": "2016-17",
+        "month": "4.08",
+        "week": null,
+        "setsu": "ファイナルステージ/東京八王子トレインズvs大塚商会アルファーズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "357人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "長谷川裕",
+        "crew": "佐田幸一"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "58"
+    }
+}

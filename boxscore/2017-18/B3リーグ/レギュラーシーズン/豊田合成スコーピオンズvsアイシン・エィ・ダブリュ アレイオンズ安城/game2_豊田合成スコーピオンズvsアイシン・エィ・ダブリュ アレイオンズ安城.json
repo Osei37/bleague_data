@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1376,
+    "date": {
+        "season": "2017-18",
+        "month": "11.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": "751人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "生島匡",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "70",
+        "away": "91"
+    }
+}

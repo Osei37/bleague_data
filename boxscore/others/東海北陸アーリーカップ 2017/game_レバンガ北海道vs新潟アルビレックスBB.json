@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2669,
+    "date": {
+        "season": "others",
+        "month": "9.02",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "1173人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "平澤明男",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "78",
+        "away": "84"
+    }
+}

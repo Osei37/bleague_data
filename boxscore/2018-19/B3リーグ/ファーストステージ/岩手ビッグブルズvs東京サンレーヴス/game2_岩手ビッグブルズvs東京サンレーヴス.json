@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2763,
+    "date": {
+        "season": "2018-19",
+        "month": "11.11",
+        "week": null,
+        "setsu": "ファーストステージ/岩手ビッグブルズvs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "夢アリーナたかた",
+        "attendance": "812人"
+    },
+    "referee": {
+        "first": "香野学",
+        "second": "大山賢史",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "53",
+        "away": "68"
+    }
+}

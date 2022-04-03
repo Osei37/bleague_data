@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5746,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvsベルテックス静岡",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宮古市民体育館",
+        "attendance": "512人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "富樫彰子",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "75",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7925,
+    "date": {
+        "season": "2021-22",
+        "month": "4.02",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "黒部市総合体育センター",
+        "attendance": "1151人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "眞榮喜 工",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "65"
+    }
+}

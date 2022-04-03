@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7111,
+    "date": {
+        "season": "2021-22",
+        "month": "11.28",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs長崎ヴェルカ",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富士市立富士川体育館",
+        "attendance": "428人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "岩月遼司",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "長崎ヴェルカ"
+    },
+    "score": {
+        "home": "97",
+        "away": "93"
+    }
+}

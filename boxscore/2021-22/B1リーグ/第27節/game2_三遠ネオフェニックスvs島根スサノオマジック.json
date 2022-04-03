@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7910,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "1335人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "眞榮喜 工",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "80",
+        "away": "88"
+    }
+}

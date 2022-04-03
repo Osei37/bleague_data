@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7143,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs鹿児島レブナイズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "653人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "坂井元直",
+        "crew": "細見竜太"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "89"
+    }
+}

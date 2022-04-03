@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2792,
+    "date": {
+        "season": "2018-19",
+        "month": "12.01",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs鹿児島レブナイズ",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "二戸市総合スポーツセンター",
+        "attendance": "405人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "大山賢史",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "74"
+    }
+}

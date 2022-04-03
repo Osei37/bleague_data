@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5648,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs東京八王子ビートレインズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "審判01",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "20",
+        "away": "0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4079,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "蒲健一",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "70",
+        "away": "72"
+    }
+}

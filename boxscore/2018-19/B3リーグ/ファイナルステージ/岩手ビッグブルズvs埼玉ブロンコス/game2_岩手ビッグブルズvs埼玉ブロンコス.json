@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2953,
+    "date": {
+        "season": "2018-19",
+        "month": "3.31",
+        "week": null,
+        "setsu": "ファイナルステージ/岩手ビッグブルズvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宮古市民総合体育館",
+        "attendance": "908人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "香野学",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "87",
+        "away": "79"
+    }
+}

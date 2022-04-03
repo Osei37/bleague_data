@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7045,
+    "date": {
+        "season": "2021-22",
+        "month": "10.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvsさいたまブロンコス",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "池田町総合体育館",
+        "attendance": "322人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "山内正隆",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "89",
+        "away": "77"
+    }
+}

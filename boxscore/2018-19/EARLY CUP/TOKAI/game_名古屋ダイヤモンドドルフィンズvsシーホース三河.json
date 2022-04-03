@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4086,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "小澤勤",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "78",
+        "away": "71"
+    }
+}

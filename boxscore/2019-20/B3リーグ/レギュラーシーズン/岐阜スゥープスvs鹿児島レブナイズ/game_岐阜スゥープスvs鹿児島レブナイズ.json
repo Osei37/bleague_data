@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5298,
+    "date": {
+        "season": "2019-20",
+        "month": "10.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs鹿児島レブナイズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "618人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "野々村日希",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "82"
+    }
+}

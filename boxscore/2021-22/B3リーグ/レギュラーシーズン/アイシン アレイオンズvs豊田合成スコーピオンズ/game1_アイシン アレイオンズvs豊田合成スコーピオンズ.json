@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7327,
+    "date": {
+        "season": "2021-22",
+        "month": "3.19",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン アレイオンズvs豊田合成スコーピオンズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "154人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "吉田知実",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "74"
+    }
+}

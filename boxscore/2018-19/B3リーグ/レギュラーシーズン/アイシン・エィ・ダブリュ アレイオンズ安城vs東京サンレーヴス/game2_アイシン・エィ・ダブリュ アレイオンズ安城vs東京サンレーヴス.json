@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2769,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs東京サンレーヴス",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市体育館",
+        "attendance": "169人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "市川雄介",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "72",
+        "away": "87"
+    }
+}

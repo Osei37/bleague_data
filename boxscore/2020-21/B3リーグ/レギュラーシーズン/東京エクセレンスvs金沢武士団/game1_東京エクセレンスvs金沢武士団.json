@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5748,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs金沢武士団",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "302人"
+    },
+    "referee": {
+        "first": "茂泉圭治",
+        "second": "小澤朋克",
+        "crew": "佐藤浩太"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "110",
+        "away": "92"
+    }
+}

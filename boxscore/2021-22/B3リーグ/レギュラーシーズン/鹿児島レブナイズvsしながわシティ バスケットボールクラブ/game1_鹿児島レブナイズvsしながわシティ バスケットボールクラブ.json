@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7090,
+    "date": {
+        "season": "2021-22",
+        "month": "11.19",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvsしながわシティ バスケットボールクラブ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島県総合体育センター体育館",
+        "attendance": "367人"
+    },
+    "referee": {
+        "first": "皆川 義紀",
+        "second": "西崎拓哉",
+        "crew": "徳丸昂"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "82",
+        "away": "53"
+    }
+}

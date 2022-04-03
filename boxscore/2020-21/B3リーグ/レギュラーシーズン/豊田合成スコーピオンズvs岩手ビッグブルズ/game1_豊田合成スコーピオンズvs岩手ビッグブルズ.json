@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5848,
+    "date": {
+        "season": "2020-21",
+        "month": "6.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs岩手ビッグブルズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "602人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "山内正隆",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "94"
+    }
+}

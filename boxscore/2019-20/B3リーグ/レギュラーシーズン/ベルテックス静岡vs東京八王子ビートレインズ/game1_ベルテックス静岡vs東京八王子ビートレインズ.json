@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5313,
+    "date": {
+        "season": "2019-20",
+        "month": "10.19",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs東京八王子ビートレインズ",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "1064人"
+    },
+    "referee": {
+        "first": "井出 啓太",
+        "second": "一色渉",
+        "crew": "山口尭彰"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "51",
+        "away": "78"
+    }
+}

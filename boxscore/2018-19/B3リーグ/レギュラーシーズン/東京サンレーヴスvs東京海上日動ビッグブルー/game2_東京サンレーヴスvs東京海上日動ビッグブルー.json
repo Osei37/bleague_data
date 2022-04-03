@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2825,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs東京海上日動ビッグブルー",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東村山市民スポーツセンター",
+        "attendance": "573人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "山本達也",
+        "crew": "石嶺良方"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "97",
+        "away": "73"
+    }
+}

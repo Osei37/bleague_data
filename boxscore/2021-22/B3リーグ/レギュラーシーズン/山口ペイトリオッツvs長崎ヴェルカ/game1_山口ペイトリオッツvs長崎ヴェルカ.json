@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7146,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/山口ペイトリオッツvs長崎ヴェルカ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "維新大晃アリーナ",
+        "attendance": "561人"
+    },
+    "referee": {
+        "first": "市川 雄介",
+        "second": "豊田 康平",
+        "crew": "柏原琢磨"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "長崎ヴェルカ"
+    },
+    "score": {
+        "home": "73",
+        "away": "98"
+    }
+}

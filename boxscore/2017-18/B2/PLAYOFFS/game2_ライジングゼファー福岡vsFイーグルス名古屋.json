@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2705,
+    "date": {
+        "season": "2017-18",
+        "month": "5.13",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "2208人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "加納康平",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "94",
+        "away": "72"
+    }
+}

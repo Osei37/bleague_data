@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6987,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Bコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "滋賀レイクスターズU15",
+        "away": "秋田ノーザンハピネッツU15"
+    },
+    "score": {
+        "home": "58",
+        "away": "83"
+    }
+}

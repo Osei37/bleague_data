@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7173,
+    "date": {
+        "season": "2021-22",
+        "month": "12.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs金沢武士団",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "492人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "岩城和利",
+        "crew": "吉田 知実"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "85",
+        "away": "77"
+    }
+}

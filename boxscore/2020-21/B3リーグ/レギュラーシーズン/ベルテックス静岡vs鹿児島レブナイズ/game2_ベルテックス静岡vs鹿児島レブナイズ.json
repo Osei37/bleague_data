@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5821,
+    "date": {
+        "season": "2020-21",
+        "month": "5.15",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs鹿児島レブナイズ",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富士市立富士川体育館",
+        "attendance": "361人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "内野翔太",
+        "crew": "羽場信彦"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "90"
+    }
+}

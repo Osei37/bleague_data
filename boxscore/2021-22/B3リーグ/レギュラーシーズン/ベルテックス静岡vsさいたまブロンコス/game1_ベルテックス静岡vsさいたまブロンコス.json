@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7227,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vsさいたまブロンコス",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "御殿場市体育館",
+        "attendance": "315人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "岩城和利",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "83",
+        "away": "87"
+    }
+}

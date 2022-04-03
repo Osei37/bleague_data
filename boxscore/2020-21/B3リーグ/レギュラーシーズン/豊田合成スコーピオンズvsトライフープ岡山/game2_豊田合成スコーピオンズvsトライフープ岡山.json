@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5811,
+    "date": {
+        "season": "2020-21",
+        "month": "5.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvsトライフープ岡山",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "567人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "尾形美樹",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "87",
+        "away": "81"
+    }
+}

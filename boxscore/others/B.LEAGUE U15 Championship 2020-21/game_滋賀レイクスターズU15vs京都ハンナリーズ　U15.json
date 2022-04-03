@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6997,
+    "date": {
+        "season": "others",
+        "month": "3.30",
+        "week": null,
+        "setsu": null,
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Fコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "滋賀レイクスターズU15",
+        "away": "京都ハンナリーズ　U15"
+    },
+    "score": {
+        "home": "90",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6982,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Cコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "熊本ヴォルターズU15",
+        "away": "京都ハンナリーズ　U15"
+    },
+    "score": {
+        "home": "51",
+        "away": "60"
+    }
+}

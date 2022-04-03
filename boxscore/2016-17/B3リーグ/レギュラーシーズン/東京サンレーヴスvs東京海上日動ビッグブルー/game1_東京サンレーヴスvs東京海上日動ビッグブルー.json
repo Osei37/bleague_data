@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1136,
+    "date": {
+        "season": "2016-17",
+        "month": "11.26",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs東京海上日動ビッグブルー",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "656人"
+    },
+    "referee": {
+        "first": "長尾繁徳",
+        "second": "大川修平",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "99",
+        "away": "60"
+    }
+}

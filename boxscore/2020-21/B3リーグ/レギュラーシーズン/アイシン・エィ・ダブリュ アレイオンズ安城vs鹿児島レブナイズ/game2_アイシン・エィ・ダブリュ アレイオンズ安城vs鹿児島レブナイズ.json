@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5735,
+    "date": {
+        "season": "2020-21",
+        "month": "3.21",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs鹿児島レブナイズ",
+        "time": "11:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "越前市AW-Iスポーツアリーナ",
+        "attendance": "193人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "丸山大",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "81"
+    }
+}

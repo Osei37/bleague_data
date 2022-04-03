@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1156,
+    "date": {
+        "season": "2016-17",
+        "month": "12.11",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": "441人"
+    },
+    "referee": {
+        "first": "川路宗勅",
+        "second": "山本雄大",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "79",
+        "away": "75"
+    }
+}

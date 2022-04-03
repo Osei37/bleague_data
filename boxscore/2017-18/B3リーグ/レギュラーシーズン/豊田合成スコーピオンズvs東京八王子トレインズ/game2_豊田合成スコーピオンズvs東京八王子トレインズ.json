@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1450,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs東京八王子トレインズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": "405人"
+    },
+    "referee": {
+        "first": "中井将基",
+        "second": "生島匡",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "74"
+    }
+}

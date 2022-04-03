@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5465,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": null,
+        "setsu": "レギュラーシーズン/佐賀バルーナーズvs埼玉ブロンコス",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館",
+        "attendance": "254人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "原田拓朗",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "79",
+        "away": "73"
+    }
+}

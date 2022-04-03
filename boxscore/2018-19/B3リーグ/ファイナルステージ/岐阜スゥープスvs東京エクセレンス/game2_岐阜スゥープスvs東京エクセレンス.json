@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2985,
+    "date": {
+        "season": "2018-19",
+        "month": "5.05",
+        "week": null,
+        "setsu": "ファイナルステージ/岐阜スゥープスvs東京エクセレンス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "1830人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "高野杏実",
+        "crew": "渡邉浩二"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "71",
+        "away": "87"
+    }
+}

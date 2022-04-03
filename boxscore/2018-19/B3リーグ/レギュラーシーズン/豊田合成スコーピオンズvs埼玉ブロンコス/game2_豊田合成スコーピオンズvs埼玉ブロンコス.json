@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2831,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs埼玉ブロンコス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": "443人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "山口憲昭",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "93",
+        "away": "84"
+    }
+}

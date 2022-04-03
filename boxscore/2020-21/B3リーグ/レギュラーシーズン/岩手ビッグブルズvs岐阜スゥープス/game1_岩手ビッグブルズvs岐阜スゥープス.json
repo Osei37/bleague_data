@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5676,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs岐阜スゥープス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "釜石市民体育館",
+        "attendance": "452人"
+    },
+    "referee": {
+        "first": "北沢あや子",
+        "second": "梶崇司",
+        "crew": "伊藤睦哲"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

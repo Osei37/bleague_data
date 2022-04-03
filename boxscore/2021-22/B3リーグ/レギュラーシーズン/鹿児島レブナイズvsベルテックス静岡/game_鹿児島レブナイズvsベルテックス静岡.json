@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7349,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvsベルテックス静岡",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "平和公園串良平和アリーナ",
+        "attendance": "471人"
+    },
+    "referee": {
+        "first": "橋本 恵一",
+        "second": "御手洗亮",
+        "crew": "徳丸 昂"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "55",
+        "away": "97"
+    }
+}

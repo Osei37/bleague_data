@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2723,
+    "date": {
+        "season": "2018-19",
+        "month": "9.30",
+        "week": null,
+        "setsu": "ファーストステージ/埼玉ブロンコスvs大塚商会越谷アルファーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日部市総合体育館",
+        "attendance": "733人"
+    },
+    "referee": {
+        "first": "梶崇司",
+        "second": "遠藤大輔",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "56",
+        "away": "81"
+    }
+}

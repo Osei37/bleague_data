@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1505,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs東京サンレーヴス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "1773人"
+    },
+    "referee": {
+        "first": "大川修平",
+        "second": "佐田幸一",
+        "crew": "秋葉智"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "89",
+        "away": "72"
+    }
+}

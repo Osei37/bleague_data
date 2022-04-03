@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7170,
+    "date": {
+        "season": "2021-22",
+        "month": "1.01",
+        "week": null,
+        "setsu": "レギュラーシーズン/横浜エクセレンスvsベルテックス静岡",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜武道館",
+        "attendance": "733人"
+    },
+    "referee": {
+        "first": "長谷川 裕",
+        "second": "望月 直幸",
+        "crew": "赤星 隆幸"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "88",
+        "away": "86"
+    }
+}

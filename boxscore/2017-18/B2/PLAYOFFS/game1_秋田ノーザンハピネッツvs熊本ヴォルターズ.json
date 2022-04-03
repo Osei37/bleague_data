@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2701,
+    "date": {
+        "season": "2017-18",
+        "month": "5.12",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3247人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "安西郷史",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "81"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2981,
+    "date": {
+        "season": "2018-19",
+        "month": "5.05",
+        "week": null,
+        "setsu": "ファイナルステージ/大塚商会越谷アルファーズvs埼玉ブロンコス",
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館（サブ）",
+        "attendance": "522人"
+    },
+    "referee": {
+        "first": "梶崇司",
+        "second": "嶋崎貴",
+        "crew": "富樫彰子"
+    },
+    "team": {
+        "home": "大塚商会越谷アルファーズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "90",
+        "away": "83"
+    }
+}

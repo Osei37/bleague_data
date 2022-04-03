@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7152,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs金沢武士団",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "1118人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "田中豊弘",
+        "crew": "藤田公介"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "119",
+        "away": "87"
+    }
+}

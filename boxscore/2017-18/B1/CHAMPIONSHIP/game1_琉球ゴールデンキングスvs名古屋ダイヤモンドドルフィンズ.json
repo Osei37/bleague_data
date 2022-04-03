@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2691,
+    "date": {
+        "season": "2017-18",
+        "month": "5.12",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3614人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "久保裕紀",
+        "crew": "清水幹治"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "71"
+    }
+}

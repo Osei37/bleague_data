@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2969,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": null,
+        "setsu": "ファイナルステージ/東京サンレーヴスvs岩手ビッグブルズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "小金井市総合体育館",
+        "attendance": "650人"
+    },
+    "referee": {
+        "first": "大山賢史",
+        "second": "遠藤大輔",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "71"
+    }
+}

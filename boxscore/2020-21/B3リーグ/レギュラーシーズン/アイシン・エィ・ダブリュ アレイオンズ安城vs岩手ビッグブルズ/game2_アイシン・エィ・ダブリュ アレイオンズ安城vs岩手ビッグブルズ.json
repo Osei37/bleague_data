@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5823,
+    "date": {
+        "season": "2020-21",
+        "month": "5.16",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs岩手ビッグブルズ",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "リモートゲーム",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "井出啓太",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "67"
+    }
+}

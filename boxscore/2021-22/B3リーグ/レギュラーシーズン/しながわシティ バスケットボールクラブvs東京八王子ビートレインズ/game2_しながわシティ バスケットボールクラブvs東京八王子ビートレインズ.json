@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7149,
+    "date": {
+        "season": "2021-22",
+        "month": "12.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/しながわシティ バスケットボールクラブvs東京八王子ビートレインズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浦和駒場体育館",
+        "attendance": "107人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "山崎 昭一",
+        "crew": "瓜田 真司"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "95"
+    }
+}

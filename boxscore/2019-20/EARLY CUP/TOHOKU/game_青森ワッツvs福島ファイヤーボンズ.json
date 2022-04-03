@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5232,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "中田英教",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "82"
+    }
+}

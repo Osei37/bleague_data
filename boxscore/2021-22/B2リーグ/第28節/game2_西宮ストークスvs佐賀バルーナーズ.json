@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8439,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "707人"
+    },
+    "referee": {
+        "first": "守谷 圭介",
+        "second": "那須 弘幸",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "87"
+    }
+}

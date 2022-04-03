@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7888,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "1589人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "塩谷 禎",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "71"
+    }
+}

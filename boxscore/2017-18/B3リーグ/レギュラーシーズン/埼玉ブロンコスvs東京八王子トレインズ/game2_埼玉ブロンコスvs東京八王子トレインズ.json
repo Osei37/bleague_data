@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1482,
+    "date": {
+        "season": "2017-18",
+        "month": "2.25",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs東京八王子トレインズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "2074人"
+    },
+    "referee": {
+        "first": "中井将基",
+        "second": "小澤朋克",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "50",
+        "away": "74"
+    }
+}

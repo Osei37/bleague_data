@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1532,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": null,
+        "setsu": "ファイナルステージ/埼玉ブロンコスvs鹿児島レブナイズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "さいたま市記念総合体育館",
+        "attendance": "389人"
+    },
+    "referee": {
+        "first": "大井明",
+        "second": "佐田幸一",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "91"
+    }
+}

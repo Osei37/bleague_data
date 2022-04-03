@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5726,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": null,
+        "setsu": "レギュラーシーズン/さいたまブロンコスvs東京八王子ビートレインズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "サイデン化学アリーナ",
+        "attendance": "339人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "嶋崎貴",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "75"
+    }
+}

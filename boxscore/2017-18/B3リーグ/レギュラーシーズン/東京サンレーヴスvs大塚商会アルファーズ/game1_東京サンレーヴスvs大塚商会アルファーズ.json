@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1369,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs大塚商会アルファーズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "調布市立調布中学校",
+        "attendance": "655人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "下清孝",
+        "crew": "濱雄介"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "72"
+    }
+}

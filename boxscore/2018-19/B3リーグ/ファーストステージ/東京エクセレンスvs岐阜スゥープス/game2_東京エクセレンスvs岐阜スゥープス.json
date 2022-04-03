@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2727,
+    "date": {
+        "season": "2018-19",
+        "month": "9.30",
+        "week": null,
+        "setsu": "ファーストステージ/東京エクセレンスvs岐阜スゥープス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "927人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "一色渉",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "70",
+        "away": "65"
+    }
+}

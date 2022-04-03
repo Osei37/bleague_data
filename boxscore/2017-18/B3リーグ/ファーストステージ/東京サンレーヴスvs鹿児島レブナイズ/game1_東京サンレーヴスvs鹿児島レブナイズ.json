@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1361,
+    "date": {
+        "season": "2017-18",
+        "month": "10.20",
+        "week": null,
+        "setsu": "ファーストステージ/東京サンレーヴスvs鹿児島レブナイズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区立総合スポーツセンター",
+        "attendance": "218人"
+    },
+    "referee": {
+        "first": "古川俊和",
+        "second": "白川義一",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "104"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5431,
+    "date": {
+        "season": "2019-20",
+        "month": "1.07",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs岩手ビッグブルズ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "342人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "西和馬",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "73"
+    }
+}

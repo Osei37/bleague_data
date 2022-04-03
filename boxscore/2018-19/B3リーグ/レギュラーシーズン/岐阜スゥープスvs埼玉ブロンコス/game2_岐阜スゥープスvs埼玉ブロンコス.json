@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2883,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "732人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "香野学",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "64",
+        "away": "82"
+    }
+}

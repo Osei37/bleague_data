@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5286,
+    "date": {
+        "season": "2019-20",
+        "month": "9.29",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs豊田合成スコーピオンズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "コスモスアリーナふきあげ",
+        "attendance": "711人"
+    },
+    "referee": {
+        "first": "梶崇司",
+        "second": "桑原一貴",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "80"
+    }
+}

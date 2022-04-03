@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1304,
+    "date": {
+        "season": "2016-17",
+        "month": "5.13",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "12:55 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "2873人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "堀内純",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "55"
+    }
+}

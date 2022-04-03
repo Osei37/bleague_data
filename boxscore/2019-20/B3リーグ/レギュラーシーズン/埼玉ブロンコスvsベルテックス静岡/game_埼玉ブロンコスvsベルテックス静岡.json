@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5304,
+    "date": {
+        "season": "2019-20",
+        "month": "10.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvsベルテックス静岡",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "志木市民体育館",
+        "attendance": "749人"
+    },
+    "referee": {
+        "first": "小田中涼子",
+        "second": "石田祐二",
+        "crew": "皆川義紀"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "85",
+        "away": "57"
+    }
+}

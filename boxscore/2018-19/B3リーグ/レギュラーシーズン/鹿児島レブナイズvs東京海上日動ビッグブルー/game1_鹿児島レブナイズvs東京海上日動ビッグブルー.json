@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2936,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs東京海上日動ビッグブルー",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "791人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "原田拓朗",
+        "crew": "山口憲昭"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "96",
+        "away": "90"
+    }
+}

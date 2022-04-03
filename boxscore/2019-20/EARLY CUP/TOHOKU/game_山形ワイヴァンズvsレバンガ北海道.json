@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5231,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "芳賀聡",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "68",
+        "away": "76"
+    }
+}

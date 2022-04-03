@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5696,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs東京エクセレンス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "623人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "北沢あや子",
+        "crew": "佐々木尚人"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "62",
+        "away": "78"
+    }
+}

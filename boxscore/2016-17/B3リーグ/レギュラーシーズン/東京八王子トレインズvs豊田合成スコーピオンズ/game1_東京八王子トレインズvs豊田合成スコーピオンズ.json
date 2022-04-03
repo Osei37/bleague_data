@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1174,
+    "date": {
+        "season": "2016-17",
+        "month": "1.07",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子トレインズvs豊田合成スコーピオンズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "613人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "佐田幸一",
+        "crew": "木下晋一"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "56"
+    }
+}

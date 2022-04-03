@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7278,
+    "date": {
+        "season": "2021-22",
+        "month": "2.20",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン アレイオンズvsベルテックス静岡",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "188人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "上西星太",
+        "crew": "山田 隆介"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "75",
+        "away": "79"
+    }
+}

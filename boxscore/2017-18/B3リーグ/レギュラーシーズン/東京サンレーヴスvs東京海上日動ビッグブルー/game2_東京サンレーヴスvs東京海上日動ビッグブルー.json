@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1436,
+    "date": {
+        "season": "2017-18",
+        "month": "1.14",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs東京海上日動ビッグブルー",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東村山市民スポーツセンター",
+        "attendance": "936人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "川本正治",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "72",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4087,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.07",
+        "week": null,
+        "setsu": null,
+        "time": "17:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "岩井遙河",
+        "second": "白川直弘",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "54"
+    }
+}

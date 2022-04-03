@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1094,
+    "date": {
+        "season": "2016-17",
+        "month": "10.08",
+        "week": null,
+        "setsu": "ファーストステージ/ライジングゼファーフクオカvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": "712人"
+    },
+    "referee": {
+        "first": "岩尾圭治",
+        "second": "比嘉涼太",
+        "crew": "勝原芳徳"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "100",
+        "away": "59"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1115,
+    "date": {
+        "season": "2016-17",
+        "month": "10.29",
+        "week": null,
+        "setsu": "ファーストステージ/東京サンレーヴスvs金沢武士団",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "348人"
+    },
+    "referee": {
+        "first": "浜本伸",
+        "second": "和嶋陽一",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "55",
+        "away": "88"
+    }
+}

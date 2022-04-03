@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5367,
+    "date": {
+        "season": "2019-20",
+        "month": "11.15",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs岐阜スゥープス",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "266人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "高野杏実",
+        "crew": "田中 優志"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "89",
+        "away": "78"
+    }
+}

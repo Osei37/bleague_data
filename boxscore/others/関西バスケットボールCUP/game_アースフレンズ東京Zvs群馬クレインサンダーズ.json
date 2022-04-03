@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1297,
+    "date": {
+        "season": "others",
+        "month": "9.20",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "渡辺雄吉",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "57"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1290,
+    "date": {
+        "season": "2016-17",
+        "month": "5.07",
+        "week": null,
+        "setsu": "ファイナルステージ/東京八王子トレインズvsライジングゼファーフクオカ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日野市市民の森ふれあいホール",
+        "attendance": "890人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "一色渉",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "ライジングゼファーフクオカ"
+    },
+    "score": {
+        "home": "72",
+        "away": "94"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5764,
+    "date": {
+        "season": "2020-21",
+        "month": "4.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs鹿児島レブナイズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "404人"
+    },
+    "referee": {
+        "first": "内野翔太",
+        "second": "大井陽平",
+        "crew": "佐田幸一"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "118",
+        "away": "74"
+    }
+}

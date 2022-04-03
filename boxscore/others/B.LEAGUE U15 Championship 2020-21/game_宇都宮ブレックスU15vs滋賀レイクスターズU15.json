@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6991,
+    "date": {
+        "season": "others",
+        "month": "3.30",
+        "week": null,
+        "setsu": null,
+        "time": "09:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Eコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "宇都宮ブレックスU15",
+        "away": "滋賀レイクスターズU15"
+    },
+    "score": {
+        "home": "71",
+        "away": "62"
+    }
+}

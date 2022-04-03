@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5660,
+    "date": {
+        "season": "2020-21",
+        "month": "1.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs豊田合成スコーピオンズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "553人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "竹田雄介",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "53",
+        "away": "120"
+    }
+}

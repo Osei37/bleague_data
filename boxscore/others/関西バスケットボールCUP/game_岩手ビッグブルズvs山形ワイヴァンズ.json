@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1300,
+    "date": {
+        "season": "others",
+        "month": "9.20",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "白河市総合運動公園中央体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "68"
+    }
+}

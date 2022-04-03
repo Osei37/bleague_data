@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2933,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "581人"
+    },
+    "referee": {
+        "first": "那須弘幸",
+        "second": "高野杏実",
+        "crew": "渡邉浩二"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "66",
+        "away": "80"
+    }
+}

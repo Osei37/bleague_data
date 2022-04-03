@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7303,
+    "date": {
+        "season": "2021-22",
+        "month": "3.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/しながわシティ バスケットボールクラブvs鹿児島レブナイズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "荒川総合スポーツセンター",
+        "attendance": "82人"
+    },
+    "referee": {
+        "first": "内野翔太",
+        "second": "尾形美樹",
+        "crew": "松永 航平"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "87"
+    }
+}

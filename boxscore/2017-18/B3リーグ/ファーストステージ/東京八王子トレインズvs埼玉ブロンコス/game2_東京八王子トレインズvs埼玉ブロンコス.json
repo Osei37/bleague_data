@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1358,
+    "date": {
+        "season": "2017-18",
+        "month": "10.22",
+        "week": null,
+        "setsu": "ファーストステージ/東京八王子トレインズvs埼玉ブロンコス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "1106人"
+    },
+    "referee": {
+        "first": "川本正治",
+        "second": "濱雄介",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "63",
+        "away": "83"
+    }
+}

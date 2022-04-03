@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2664,
+    "date": {
+        "season": "others",
+        "month": "9.02",
+        "week": null,
+        "setsu": null,
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": "3352人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "前花直哉",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "68"
+    }
+}

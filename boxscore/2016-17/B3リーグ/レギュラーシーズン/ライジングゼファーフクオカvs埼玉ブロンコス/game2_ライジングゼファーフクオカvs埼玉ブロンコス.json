@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1123,
+    "date": {
+        "season": "2016-17",
+        "month": "11.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/ライジングゼファーフクオカvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "1983人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "原田拓朗",
+        "crew": "皆川義紀"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "93",
+        "away": "77"
+    }
+}

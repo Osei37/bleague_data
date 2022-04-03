@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5376,
+    "date": {
+        "season": "2019-20",
+        "month": "11.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvsベルテックス静岡",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "1021人"
+    },
+    "referee": {
+        "first": "梶崇司",
+        "second": "内野 翔太",
+        "crew": "山口尭彰"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "96",
+        "away": "63"
+    }
+}

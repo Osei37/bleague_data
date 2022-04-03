@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7924,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1816人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "加川 真",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "59",
+        "away": "88"
+    }
+}

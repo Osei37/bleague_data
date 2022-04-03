@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1316,
+    "date": {
+        "season": "2016-17",
+        "month": "5.13",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "1713人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "宇地原尚彦",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "89",
+        "away": "75"
+    }
+}

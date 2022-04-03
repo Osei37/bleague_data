@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5473,
+    "date": {
+        "season": "2019-20",
+        "month": "2.01",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs東京八王子ビートレインズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": "491人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "井出 啓太",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "99",
+        "away": "95"
+    }
+}

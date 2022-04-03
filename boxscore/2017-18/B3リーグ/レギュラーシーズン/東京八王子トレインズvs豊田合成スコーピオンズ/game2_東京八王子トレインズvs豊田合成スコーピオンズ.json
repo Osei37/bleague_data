@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1400,
+    "date": {
+        "season": "2017-18",
+        "month": "12.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子トレインズvs豊田合成スコーピオンズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "893人"
+    },
+    "referee": {
+        "first": "大井明",
+        "second": "中根俊彦",
+        "crew": "秋葉智"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "71"
+    }
+}

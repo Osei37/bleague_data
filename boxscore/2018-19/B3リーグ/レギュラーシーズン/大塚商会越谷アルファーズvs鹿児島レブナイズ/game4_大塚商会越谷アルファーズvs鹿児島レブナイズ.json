@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2923,
+    "date": {
+        "season": "2018-19",
+        "month": "3.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/大塚商会越谷アルファーズvs鹿児島レブナイズ",
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "五島市中央公園市民体育館",
+        "attendance": "471人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "山口憲昭",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "大塚商会越谷アルファーズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "63"
+    }
+}

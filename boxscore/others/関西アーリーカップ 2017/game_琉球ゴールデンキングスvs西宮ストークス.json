@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2663,
+    "date": {
+        "season": "others",
+        "month": "9.02",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": "2953人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "薦田侑二郎",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "74",
+        "away": "65"
+    }
+}

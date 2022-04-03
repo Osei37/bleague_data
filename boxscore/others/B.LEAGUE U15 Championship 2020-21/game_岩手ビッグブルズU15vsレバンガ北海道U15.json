@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6984,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "15:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Cコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "岩手ビッグブルズU15",
+        "away": "レバンガ北海道U15"
+    },
+    "score": {
+        "home": "55",
+        "away": "73"
+    }
+}

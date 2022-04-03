@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1221,
+    "date": {
+        "season": "2016-17",
+        "month": "2.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/ライジングゼファーフクオカvs東京サンレーヴス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": "998人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "勝原芳徳",
+        "crew": "比嘉涼太"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "78",
+        "away": "59"
+    }
+}

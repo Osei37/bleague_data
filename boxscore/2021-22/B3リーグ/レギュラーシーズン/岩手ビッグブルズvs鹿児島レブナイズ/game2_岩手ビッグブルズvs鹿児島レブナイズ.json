@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7259,
+    "date": {
+        "season": "2021-22",
+        "month": "2.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs鹿児島レブナイズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "513人"
+    },
+    "referee": {
+        "first": "中道凌平",
+        "second": "伊藤睦哲",
+        "crew": "佐々木尚人"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "66"
+    }
+}

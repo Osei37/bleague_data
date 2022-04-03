@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2860,
+    "date": {
+        "season": "2018-19",
+        "month": "1.19",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs豊田合成スコーピオンズ",
+        "time": "12:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "碧南市臨海体育館",
+        "attendance": "461人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "池田隼人",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "60"
+    }
+}

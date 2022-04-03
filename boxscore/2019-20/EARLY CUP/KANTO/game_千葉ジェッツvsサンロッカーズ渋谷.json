@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5243,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.16",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "谷古宇孝",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "85",
+        "away": "73"
+    }
+}

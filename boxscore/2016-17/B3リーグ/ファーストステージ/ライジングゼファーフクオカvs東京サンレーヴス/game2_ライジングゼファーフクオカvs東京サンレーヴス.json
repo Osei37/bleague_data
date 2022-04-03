@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1089,
+    "date": {
+        "season": "2016-17",
+        "month": "10.01",
+        "week": null,
+        "setsu": "ファーストステージ/ライジングゼファーフクオカvs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "みづま総合体育館",
+        "attendance": "1408人"
+    },
+    "referee": {
+        "first": "大久保好純",
+        "second": "原田拓朗",
+        "crew": "甲木善徳"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "110",
+        "away": "75"
+    }
+}

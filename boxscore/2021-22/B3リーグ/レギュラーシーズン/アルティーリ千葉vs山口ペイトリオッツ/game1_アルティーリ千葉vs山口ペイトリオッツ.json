@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7127,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": null,
+        "setsu": "レギュラーシーズン/アルティーリ千葉vs山口ペイトリオッツ",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "1180人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "茂泉圭治",
+        "crew": "島袋竹志"
+    },
+    "team": {
+        "home": "アルティーリ千葉",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "94",
+        "away": "73"
+    }
+}

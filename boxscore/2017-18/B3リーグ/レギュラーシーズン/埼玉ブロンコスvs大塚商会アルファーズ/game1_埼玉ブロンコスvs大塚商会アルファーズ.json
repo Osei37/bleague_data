@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1439,
+    "date": {
+        "season": "2017-18",
+        "month": "1.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs大塚商会アルファーズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "408人"
+    },
+    "referee": {
+        "first": "大井明",
+        "second": "斉藤貴嗣",
+        "crew": "若林謙作"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "67"
+    }
+}

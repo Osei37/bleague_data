@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1367,
+    "date": {
+        "season": "2017-18",
+        "month": "10.28",
+        "week": null,
+        "setsu": "ファーストステージ/東京八王子トレインズvs大塚商会アルファーズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "立川市泉市民体育館",
+        "attendance": "437人"
+    },
+    "referee": {
+        "first": "藤代透",
+        "second": "大井明",
+        "crew": "鈴木寿之"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "64"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1235,
+    "date": {
+        "season": "2016-17",
+        "month": "2.26",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs埼玉ブロンコス",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "203人"
+    },
+    "referee": {
+        "first": "木下晋一",
+        "second": "中根俊彦",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "81",
+        "away": "73"
+    }
+}

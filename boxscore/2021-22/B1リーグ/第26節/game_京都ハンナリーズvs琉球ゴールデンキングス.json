@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7892,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "1108人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "岩木 太郎",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "64",
+        "away": "83"
+    }
+}

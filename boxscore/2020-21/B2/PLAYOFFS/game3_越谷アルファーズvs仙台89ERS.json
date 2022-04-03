@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6979,
+    "date": {
+        "season": "2020-21",
+        "month": "5.23",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウイング・ハット春日部",
+        "attendance": "661人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "大野 太裕",
+        "crew": "宇田津 浩史"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "66",
+        "away": "54"
+    }
+}

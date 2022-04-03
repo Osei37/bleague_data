@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4096,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.08",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "黒岡和哲",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "ソウル三星サンダース",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "98",
+        "away": "79"
+    }
+}

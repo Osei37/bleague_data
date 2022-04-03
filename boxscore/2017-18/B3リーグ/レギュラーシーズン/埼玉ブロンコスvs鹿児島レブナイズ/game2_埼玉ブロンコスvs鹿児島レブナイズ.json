@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1402,
+    "date": {
+        "season": "2017-18",
+        "month": "12.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs鹿児島レブナイズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "さいたま市記念総合体育館",
+        "attendance": "705人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "鈴木寿之",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "91"
+    }
+}

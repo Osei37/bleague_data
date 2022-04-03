@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2677,
+    "date": {
+        "season": "others",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "1569人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "佐藤匠",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "49"
+    }
+}

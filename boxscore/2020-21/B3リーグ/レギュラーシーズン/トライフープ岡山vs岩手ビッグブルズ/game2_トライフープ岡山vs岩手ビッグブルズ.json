@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5795,
+    "date": {
+        "season": "2020-21",
+        "month": "4.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs岩手ビッグブルズ",
+        "time": "12:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "リモートゲーム",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "皆川義紀",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "89"
+    }
+}

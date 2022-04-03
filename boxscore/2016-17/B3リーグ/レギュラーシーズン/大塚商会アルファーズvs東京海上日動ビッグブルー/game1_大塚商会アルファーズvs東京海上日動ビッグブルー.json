@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1223,
+    "date": {
+        "season": "2016-17",
+        "month": "2.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/大塚商会アルファーズvs東京海上日動ビッグブルー",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "171人"
+    },
+    "referee": {
+        "first": "小川裕之",
+        "second": "大川修平",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "117",
+        "away": "71"
+    }
+}

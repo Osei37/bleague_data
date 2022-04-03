@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7896,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオアリーナ",
+        "attendance": "1308人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "青木 俊博",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "94",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5793,
+    "date": {
+        "season": "2020-21",
+        "month": "4.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs豊田合成スコーピオンズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "リモートゲーム",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "内田祥平",
+        "crew": "羽場信彦"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "76"
+    }
+}

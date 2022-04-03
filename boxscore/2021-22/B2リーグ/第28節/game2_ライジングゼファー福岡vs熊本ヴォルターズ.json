@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8443,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1343人"
+    },
+    "referee": {
+        "first": "市川 雄介",
+        "second": "内田 祥平",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "114"
+    }
+}

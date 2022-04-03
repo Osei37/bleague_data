@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2915,
+    "date": {
+        "season": "2018-19",
+        "month": "3.02",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs岩手ビッグブルズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "493人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "遠藤大輔",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "75"
+    }
+}

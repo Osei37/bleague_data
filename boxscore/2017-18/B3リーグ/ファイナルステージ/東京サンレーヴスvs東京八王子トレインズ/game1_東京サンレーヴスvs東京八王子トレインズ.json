@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1541,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": null,
+        "setsu": "ファイナルステージ/東京サンレーヴスvs東京八王子トレインズ",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "武蔵野の森総合スポーツプラザ　サブアリーナ",
+        "attendance": "321人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "濱雄介",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "62",
+        "away": "95"
+    }
+}

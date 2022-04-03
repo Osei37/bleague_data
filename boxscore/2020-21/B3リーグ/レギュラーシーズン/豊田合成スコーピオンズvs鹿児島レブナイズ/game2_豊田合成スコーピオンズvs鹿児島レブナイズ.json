@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5675,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs鹿児島レブナイズ",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "内田祥平",
+        "second": "境圭介",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "70"
+    }
+}

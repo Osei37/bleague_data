@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5672,
+    "date": {
+        "season": "2020-21",
+        "month": "2.06",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vsトライフープ岡山",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "野々村日希",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "81",
+        "away": "55"
+    }
+}

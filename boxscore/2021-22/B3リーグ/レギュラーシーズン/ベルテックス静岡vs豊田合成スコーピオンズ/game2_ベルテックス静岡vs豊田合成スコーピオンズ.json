@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7360,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs豊田合成スコーピオンズ",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡県武道館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "山崎 昭一",
+        "crew": "岡 龍哉"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "45",
+        "away": "22"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5773,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vsさいたまブロンコス",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "802人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "内田祥平",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "94",
+        "away": "90"
+    }
+}

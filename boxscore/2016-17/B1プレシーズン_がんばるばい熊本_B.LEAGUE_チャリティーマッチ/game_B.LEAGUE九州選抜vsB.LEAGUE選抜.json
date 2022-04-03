@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1291,
+    "date": {
+        "season": "2016-17",
+        "month": "8.24",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "3000人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "平原勇次",
+        "crew": "緒方崇"
+    },
+    "team": {
+        "home": "B.LEAGUE九州選抜",
+        "away": "B.LEAGUE選抜"
+    },
+    "score": {
+        "home": "90",
+        "away": "94"
+    }
+}

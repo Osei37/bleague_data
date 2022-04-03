@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4130,
+    "date": {
+        "season": "2018-19",
+        "month": "5.05",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "3223人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "堀内純",
+        "crew": "平出剛"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5335,
+    "date": {
+        "season": "2019-20",
+        "month": "11.02",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvsトライフープ岡山",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シンコースポーツ寒川アリーナ",
+        "attendance": "418人"
+    },
+    "referee": {
+        "first": "中道凌平",
+        "second": "伊藤睦哲",
+        "crew": "大井陽平"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "86",
+        "away": "87"
+    }
+}

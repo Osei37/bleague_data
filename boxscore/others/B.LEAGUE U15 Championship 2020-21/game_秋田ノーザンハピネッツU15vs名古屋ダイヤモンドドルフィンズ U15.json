@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6999,
+    "date": {
+        "season": "others",
+        "month": "3.30",
+        "week": null,
+        "setsu": null,
+        "time": "15:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツU15",
+        "away": "名古屋ダイヤモンドドルフィンズ U15"
+    },
+    "score": {
+        "home": "57",
+        "away": "58"
+    }
+}

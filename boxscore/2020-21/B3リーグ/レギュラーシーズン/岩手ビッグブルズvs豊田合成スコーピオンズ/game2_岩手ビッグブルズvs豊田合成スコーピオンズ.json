@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5797,
+    "date": {
+        "season": "2020-21",
+        "month": "5.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs豊田合成スコーピオンズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "603人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "松岡隆博",
+        "crew": "伊藤睦哲"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "100"
+    }
+}

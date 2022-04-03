@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7140,
+    "date": {
+        "season": "2021-22",
+        "month": "12.17",
+        "week": null,
+        "setsu": "レギュラーシーズン/さいたまブロンコスvsアイシン アレイオンズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浦和駒場体育館",
+        "attendance": "274人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "遠藤 大輔",
+        "crew": "佐藤 浩太"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "81"
+    }
+}

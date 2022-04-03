@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1538,
+    "date": {
+        "season": "2017-18",
+        "month": "4.22",
+        "week": null,
+        "setsu": "ファイナルステージ/東京エクセレンスvs鹿児島レブナイズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立東板橋体育館",
+        "attendance": "683人"
+    },
+    "referee": {
+        "first": "近藤巧",
+        "second": "渡邉浩二",
+        "crew": "古川俊和"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "76"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7883,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1770人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "谷地 温",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "75",
+        "away": "69"
+    }
+}

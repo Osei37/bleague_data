@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5783,
+    "date": {
+        "season": "2020-21",
+        "month": "4.25",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs金沢武士団",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "焼津市総合体育館(焼津シーガルドーム）",
+        "attendance": "481人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "内田祥平",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "83",
+        "away": "71"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7101,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/横浜エクセレンスvs鹿児島レブナイズ",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "355人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "一色渉",
+        "crew": "望月直幸"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "65"
+    }
+}

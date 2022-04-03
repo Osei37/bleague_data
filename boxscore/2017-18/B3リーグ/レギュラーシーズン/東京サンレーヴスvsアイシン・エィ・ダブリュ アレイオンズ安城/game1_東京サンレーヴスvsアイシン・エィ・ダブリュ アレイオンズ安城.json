@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1467,
+    "date": {
+        "season": "2017-18",
+        "month": "2.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区立総合スポーツセンター",
+        "attendance": "391人"
+    },
+    "referee": {
+        "first": "藤代透",
+        "second": "大川修平",
+        "crew": "近藤巧"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "90",
+        "away": "100"
+    }
+}

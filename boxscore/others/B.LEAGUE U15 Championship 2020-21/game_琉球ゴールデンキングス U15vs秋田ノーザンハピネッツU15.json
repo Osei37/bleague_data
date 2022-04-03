@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6990,
+    "date": {
+        "season": "others",
+        "month": "3.30",
+        "week": null,
+        "setsu": null,
+        "time": "09:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス U15",
+        "away": "秋田ノーザンハピネッツU15"
+    },
+    "score": {
+        "home": "69",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1161,
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "493人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "木下晋一",
+        "crew": "宮里両"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "71",
+        "away": "89"
+    }
+}

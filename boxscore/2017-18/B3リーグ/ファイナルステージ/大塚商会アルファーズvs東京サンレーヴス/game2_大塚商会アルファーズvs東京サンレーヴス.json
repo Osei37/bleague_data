@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1516,
+    "date": {
+        "season": "2017-18",
+        "month": "3.25",
+        "week": null,
+        "setsu": "ファイナルステージ/大塚商会アルファーズvs東京サンレーヴス",
+        "time": "10:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "258人"
+    },
+    "referee": {
+        "first": "一色渉",
+        "second": "若林謙作",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "88",
+        "away": "82"
+    }
+}

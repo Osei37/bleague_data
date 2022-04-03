@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1417,
+    "date": {
+        "season": "2017-18",
+        "month": "12.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "409人"
+    },
+    "referee": {
+        "first": "大久保好純",
+        "second": "濱雄介",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "85",
+        "away": "84"
+    }
+}

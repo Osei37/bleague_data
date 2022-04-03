@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8444,
+    "date": {
+        "season": "2021-22",
+        "month": "4.02",
+        "week": "[SAT]",
+        "setsu": "第29節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "県営あづま総合体育館",
+        "attendance": "544人"
+    },
+    "referee": {
+        "first": "谷地 温",
+        "second": "茂泉 圭治",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "83",
+        "away": "52"
+    }
+}

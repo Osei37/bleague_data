@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2700,
+    "date": {
+        "season": "2017-18",
+        "month": "5.26",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜アリーナ",
+        "attendance": "12005人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "相原伸康",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "60"
+    }
+}

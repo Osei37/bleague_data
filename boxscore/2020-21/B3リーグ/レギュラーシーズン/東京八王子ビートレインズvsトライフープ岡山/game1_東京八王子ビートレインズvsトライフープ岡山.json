@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5752,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvsトライフープ岡山",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "360人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "廣瀬俊昭",
+        "crew": "望月直幸"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "72",
+        "away": "93"
+    }
+}

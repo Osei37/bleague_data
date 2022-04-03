@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7295,
+    "date": {
+        "season": "2021-22",
+        "month": "3.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvsトライフープ岡山",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "351人"
+    },
+    "referee": {
+        "first": "蒲 健一",
+        "second": "白川直弘",
+        "crew": "京極 幸村"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "95",
+        "away": "89"
+    }
+}

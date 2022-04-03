@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2815,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "618人"
+    },
+    "referee": {
+        "first": "井出 啓太",
+        "second": "大山賢史",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "87",
+        "away": "70"
+    }
+}

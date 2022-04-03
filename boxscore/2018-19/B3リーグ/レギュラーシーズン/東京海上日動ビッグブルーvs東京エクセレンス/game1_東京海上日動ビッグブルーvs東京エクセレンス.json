@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2926,
+    "date": {
+        "season": "2018-19",
+        "month": "3.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京海上日動ビッグブルーvs東京エクセレンス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "富樫彰子",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "86",
+        "away": "91"
+    }
+}

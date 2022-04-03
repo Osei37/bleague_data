@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7236,
+    "date": {
+        "season": "2021-22",
+        "month": "1.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/山口ペイトリオッツvs東京八王子ビートレインズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山口県立下関武道館",
+        "attendance": "355人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "田中豊弘",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "113"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8424,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "462人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "香野 学",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "55",
+        "away": "78"
+    }
+}

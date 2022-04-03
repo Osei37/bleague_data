@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7907,
+    "date": {
+        "season": "2021-22",
+        "month": "3.26",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2098人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "佐藤 誠",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "84",
+        "away": "87"
+    }
+}

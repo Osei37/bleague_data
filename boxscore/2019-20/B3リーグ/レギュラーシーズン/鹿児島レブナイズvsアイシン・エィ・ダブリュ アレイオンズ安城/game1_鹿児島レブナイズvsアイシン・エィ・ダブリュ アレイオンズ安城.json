@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5511,
+    "date": {
+        "season": "2019-20",
+        "month": "2.22",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "574人"
+    },
+    "referee": {
+        "first": "市川雄介",
+        "second": "伊藤彰二",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "65",
+        "away": "91"
+    }
+}

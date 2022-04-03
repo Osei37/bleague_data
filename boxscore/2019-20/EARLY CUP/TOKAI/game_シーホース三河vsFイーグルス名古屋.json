@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5248,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.15",
+        "week": null,
+        "setsu": null,
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "茅野修司",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "102",
+        "away": "91"
+    }
+}

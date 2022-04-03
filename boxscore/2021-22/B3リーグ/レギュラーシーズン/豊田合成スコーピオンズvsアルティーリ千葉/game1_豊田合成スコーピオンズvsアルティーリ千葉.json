@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7257,
+    "date": {
+        "season": "2021-22",
+        "month": "2.12",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvsアルティーリ千葉",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "370人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "野々村日希",
+        "crew": "佐藤 慎士"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "79",
+        "away": "99"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2829,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs岩手ビッグブルズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "168人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "市川雄介",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "65"
+    }
+}

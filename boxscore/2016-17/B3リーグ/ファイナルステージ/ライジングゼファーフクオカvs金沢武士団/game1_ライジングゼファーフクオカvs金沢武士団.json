@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1280,
+    "date": {
+        "season": "2016-17",
+        "month": "4.29",
+        "week": null,
+        "setsu": "ファイナルステージ/ライジングゼファーフクオカvs金沢武士団",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北九州市総合体育館",
+        "attendance": "2038人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "比嘉涼太",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "83",
+        "away": "62"
+    }
+}

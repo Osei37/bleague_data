@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2690,
+    "date": {
+        "season": "2017-18",
+        "month": "5.13",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5108人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "東祐二",
+        "crew": "倉口勉"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "22",
+        "away": "15"
+    }
+}

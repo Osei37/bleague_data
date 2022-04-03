@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2759,
+    "date": {
+        "season": "2018-19",
+        "month": "11.11",
+        "week": null,
+        "setsu": "ファーストステージ/埼玉ブロンコスvs東京エクセレンス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日部市総合体育館",
+        "attendance": "779人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "山本達也",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "84",
+        "away": "102"
+    }
+}

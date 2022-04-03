@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5461,
+    "date": {
+        "season": "2019-20",
+        "month": "1.25",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs佐賀バルーナーズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エナジーサポートアリーナ",
+        "attendance": "235人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "竹田雄介",
+        "crew": "伊藤睦哲"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "90"
+    }
+}

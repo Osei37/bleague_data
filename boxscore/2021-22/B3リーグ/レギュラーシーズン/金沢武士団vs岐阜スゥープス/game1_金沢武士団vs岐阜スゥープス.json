@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7087,
+    "date": {
+        "season": "2021-22",
+        "month": "11.20",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs岐阜スゥープス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "野々市市民体育館",
+        "attendance": "367人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "岩月遼司",
+        "crew": "井出啓太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "61",
+        "away": "76"
+    }
+}

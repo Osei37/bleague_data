@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5267,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "秋山厚志",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "89",
+        "away": "73"
+    }
+}

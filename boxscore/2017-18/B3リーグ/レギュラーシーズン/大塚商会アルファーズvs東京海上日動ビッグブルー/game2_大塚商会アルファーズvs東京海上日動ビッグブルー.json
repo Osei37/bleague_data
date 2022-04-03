@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1408,
+    "date": {
+        "season": "2017-18",
+        "month": "12.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/大塚商会アルファーズvs東京海上日動ビッグブルー",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "1023人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "遠藤大輔",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "107",
+        "away": "63"
+    }
+}

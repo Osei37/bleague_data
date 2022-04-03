@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6968,
+    "date": {
+        "season": "2020-21",
+        "month": "5.15",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "1115人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "上田 信彦",
+        "crew": "中川 行臣"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "90"
+    }
+}

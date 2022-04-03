@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5357,
+    "date": {
+        "season": "2019-20",
+        "month": "11.14",
+        "week": null,
+        "setsu": "レギュラーシーズン/佐賀バルーナーズvs岩手ビッグブルズ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "唐津市文化体育館",
+        "attendance": "384人"
+    },
+    "referee": {
+        "first": "秋山厚志",
+        "second": "川井 剛",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "75"
+    }
+}

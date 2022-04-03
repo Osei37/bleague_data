@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2962,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": null,
+        "setsu": "ファイナルステージ/埼玉ブロンコスvs東京サンレーヴス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "さいたま市記念総合体育館",
+        "attendance": "411人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "薦田侑二郎",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

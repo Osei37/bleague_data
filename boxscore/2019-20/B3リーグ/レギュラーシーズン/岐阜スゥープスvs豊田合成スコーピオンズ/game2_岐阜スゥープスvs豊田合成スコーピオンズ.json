@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5430,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs豊田合成スコーピオンズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "1543人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "内田祥平",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "81"
+    }
+}

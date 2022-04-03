@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1218,
+    "date": {
+        "season": "2016-17",
+        "month": "2.11",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs大塚商会アルファーズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "一本松総合運動公園体育館　サン・アリーナ",
+        "attendance": "735人"
+    },
+    "referee": {
+        "first": "構富士雄",
+        "second": "山本邦博",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "52"
+    }
+}

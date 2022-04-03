@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7014,
+    "date": {
+        "season": "2021-22",
+        "month": "10.08",
+        "week": null,
+        "setsu": "レギュラーシーズン/さいたまブロンコスvsベルテックス静岡",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浦和駒場体育館",
+        "attendance": "464人"
+    },
+    "referee": {
+        "first": "桑原一貴",
+        "second": "佐田幸一",
+        "crew": "佐藤浩太"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "79",
+        "away": "81"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5377,
+    "date": {
+        "season": "2019-20",
+        "month": "11.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs東京サンレーヴス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東郷町総合体育館",
+        "attendance": "175人"
+    },
+    "referee": {
+        "first": "大野哲広",
+        "second": "小島慶子",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "86",
+        "away": "70"
+    }
+}

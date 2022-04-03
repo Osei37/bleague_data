@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1199,
+    "date": {
+        "season": "2016-17",
+        "month": "1.28",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京海上日動ビッグブルーvs東京八王子トレインズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "101人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "田中充",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "95"
+    }
+}

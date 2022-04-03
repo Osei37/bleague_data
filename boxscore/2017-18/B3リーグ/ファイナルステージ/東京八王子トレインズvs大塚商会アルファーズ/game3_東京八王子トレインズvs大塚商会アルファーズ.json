@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1557,
+    "date": {
+        "season": "2017-18",
+        "month": "5.05",
+        "week": null,
+        "setsu": "ファイナルステージ/東京八王子トレインズvs大塚商会アルファーズ",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日野市市民の森ふれあいホール",
+        "attendance": "968人"
+    },
+    "referee": {
+        "first": "鈴木寿之",
+        "second": "木下晋一",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "56"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7019,
+    "date": {
+        "season": "2021-22",
+        "month": "10.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs鹿児島レブナイズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "リモートゲーム",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "茂泉圭治",
+        "second": "吉田知実",
+        "crew": "田中優志"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "101"
+    }
+}

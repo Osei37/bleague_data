@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6975,
+    "date": {
+        "season": "2020-21",
+        "month": "5.23",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1555人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "小澤 勤",
+        "crew": "久米 克弥"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "80",
+        "away": "83"
+    }
+}

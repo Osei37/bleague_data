@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1385,
+    "date": {
+        "season": "2017-18",
+        "month": "11.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子トレインズvs東京エクセレンス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "310人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "鈴木寿之",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "81",
+        "away": "53"
+    }
+}

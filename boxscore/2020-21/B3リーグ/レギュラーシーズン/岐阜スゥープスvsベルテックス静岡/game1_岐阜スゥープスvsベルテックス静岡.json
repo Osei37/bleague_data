@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5790,
+    "date": {
+        "season": "2020-21",
+        "month": "4.29",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvsベルテックス静岡",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "833人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "竹田雄介",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5771,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs東京エクセレンス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "218人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "岩月遼司",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "92",
+        "away": "78"
+    }
+}

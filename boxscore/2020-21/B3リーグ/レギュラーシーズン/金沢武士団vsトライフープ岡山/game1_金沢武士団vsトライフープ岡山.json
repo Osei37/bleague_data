@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5818,
+    "date": {
+        "season": "2020-21",
+        "month": "5.15",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vsトライフープ岡山",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾市総合市民体育館",
+        "attendance": "137人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "岩月遼司",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "87",
+        "away": "78"
+    }
+}

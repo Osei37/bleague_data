@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2737,
+    "date": {
+        "season": "2018-19",
+        "month": "10.13",
+        "week": null,
+        "setsu": "ファーストステージ/東京サンレーヴスvs東京エクセレンス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区総合スポーツセンター",
+        "attendance": "674人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "名越龍男",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "61",
+        "away": "80"
+    }
+}

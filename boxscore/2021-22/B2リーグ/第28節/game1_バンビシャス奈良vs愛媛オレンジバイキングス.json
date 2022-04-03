@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8440,
+    "date": {
+        "season": "2021-22",
+        "month": "3.26",
+        "week": "[SAT]",
+        "setsu": "第28節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "630人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "竹田 雄介",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "67",
+        "away": "86"
+    }
+}

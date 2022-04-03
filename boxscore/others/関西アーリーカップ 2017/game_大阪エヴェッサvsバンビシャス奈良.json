@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2661,
+    "date": {
+        "season": "others",
+        "month": "9.01",
+        "week": null,
+        "setsu": null,
+        "time": "19:50 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": "1570人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "小畑治",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "86",
+        "away": "61"
+    }
+}

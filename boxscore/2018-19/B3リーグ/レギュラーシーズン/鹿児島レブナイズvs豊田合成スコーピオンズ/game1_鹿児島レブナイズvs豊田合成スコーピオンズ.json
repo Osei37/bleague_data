@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2822,
+    "date": {
+        "season": "2018-19",
+        "month": "12.22",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs豊田合成スコーピオンズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "606人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "小畑治",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "99"
+    }
+}

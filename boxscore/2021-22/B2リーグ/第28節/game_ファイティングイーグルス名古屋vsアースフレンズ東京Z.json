@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8437,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "881人"
+    },
+    "referee": {
+        "first": "岩木 太郎",
+        "second": "伊藤 彰二",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "100",
+        "away": "66"
+    }
+}

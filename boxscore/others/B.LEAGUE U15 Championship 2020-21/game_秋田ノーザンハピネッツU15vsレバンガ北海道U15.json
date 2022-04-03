@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6981,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Bコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツU15",
+        "away": "レバンガ北海道U15"
+    },
+    "score": {
+        "home": "64",
+        "away": "50"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5252,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "平澤明男",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "84"
+    }
+}

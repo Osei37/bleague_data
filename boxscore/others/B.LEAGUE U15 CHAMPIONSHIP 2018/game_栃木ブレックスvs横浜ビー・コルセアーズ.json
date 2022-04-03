@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4109,
+    "date": {
+        "season": "others",
+        "month": "8.17",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "杉浦元一",
+        "second": "白川義一",
+        "crew": "塩見大介"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "55"
+    }
+}

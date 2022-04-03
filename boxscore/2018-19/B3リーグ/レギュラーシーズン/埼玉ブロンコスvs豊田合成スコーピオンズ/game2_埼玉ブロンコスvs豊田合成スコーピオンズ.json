@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2905,
+    "date": {
+        "season": "2018-19",
+        "month": "2.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs豊田合成スコーピオンズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "本庄総合公園体育館",
+        "attendance": "232人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "太田匡俊",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "103"
+    }
+}

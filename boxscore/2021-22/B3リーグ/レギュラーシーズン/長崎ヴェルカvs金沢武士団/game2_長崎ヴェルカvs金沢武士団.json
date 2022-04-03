@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7348,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/長崎ヴェルカvs金沢武士団",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "長崎県立総合体育館",
+        "attendance": "1207人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "山口憲昭",
+        "crew": "野田明男"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "119",
+        "away": "70"
+    }
+}

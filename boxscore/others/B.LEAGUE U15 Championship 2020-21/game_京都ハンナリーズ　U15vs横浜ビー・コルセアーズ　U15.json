@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6992,
+    "date": {
+        "season": "others",
+        "month": "3.30",
+        "week": null,
+        "setsu": null,
+        "time": "09:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Fコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "京都ハンナリーズ　U15",
+        "away": "横浜ビー・コルセアーズ　U15"
+    },
+    "score": {
+        "home": "53",
+        "away": "89"
+    }
+}

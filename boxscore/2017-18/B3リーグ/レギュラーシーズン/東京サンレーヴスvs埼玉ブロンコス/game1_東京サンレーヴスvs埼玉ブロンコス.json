@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1387,
+    "date": {
+        "season": "2017-18",
+        "month": "11.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs埼玉ブロンコス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "389人"
+    },
+    "referee": {
+        "first": "三谷修司",
+        "second": "斉藤貴嗣",
+        "crew": "宮里両"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "74",
+        "away": "104"
+    }
+}

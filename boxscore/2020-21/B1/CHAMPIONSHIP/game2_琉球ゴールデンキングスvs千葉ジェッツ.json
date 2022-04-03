@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6951,
+    "date": {
+        "season": "2020-21",
+        "month": "5.23",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "4070人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "大河原 則人",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "84",
+        "away": "78"
+    }
+}

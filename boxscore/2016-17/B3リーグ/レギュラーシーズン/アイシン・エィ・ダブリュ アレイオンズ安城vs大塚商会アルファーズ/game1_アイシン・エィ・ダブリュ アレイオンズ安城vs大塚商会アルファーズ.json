@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1182,
+    "date": {
+        "season": "2016-17",
+        "month": "1.14",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs大塚商会アルファーズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "66人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "中根俊彦",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "74"
+    }
+}

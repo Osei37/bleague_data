@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7906,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2565人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "宇田津 浩史",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "79"
+    }
+}

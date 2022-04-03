@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6980,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Aコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "岩手ビッグブルズU15",
+        "away": "琉球ゴールデンキングス U15"
+    },
+    "score": {
+        "home": "56",
+        "away": "75"
+    }
+}

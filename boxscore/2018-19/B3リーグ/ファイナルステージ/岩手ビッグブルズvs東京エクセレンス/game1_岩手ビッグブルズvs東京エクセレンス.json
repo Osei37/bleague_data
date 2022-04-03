@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2976,
+    "date": {
+        "season": "2018-19",
+        "month": "4.27",
+        "week": null,
+        "setsu": "ファイナルステージ/岩手ビッグブルズvs東京エクセレンス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "奥州市総合体育館（Zアリーナ）",
+        "attendance": "821人"
+    },
+    "referee": {
+        "first": "吉田剛",
+        "second": "中道凌平",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "57",
+        "away": "77"
+    }
+}

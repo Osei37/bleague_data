@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1303,
+    "date": {
+        "season": "others",
+        "month": "1.14",
+        "week": null,
+        "setsu": null,
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第一体育館",
+        "attendance": "5457人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "北沢岳夫",
+        "crew": "加藤誉樹"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "安養KGC"
+    },
+    "score": {
+        "home": "83",
+        "away": "80"
+    }
+}

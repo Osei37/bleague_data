@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5255,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.15",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "安西郷史",
+        "second": "北島寛臣",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

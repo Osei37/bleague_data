@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8455,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "845人"
+    },
+    "referee": {
+        "first": "中田 英教",
+        "second": "前花 直哉",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "73",
+        "away": "71"
+    }
+}

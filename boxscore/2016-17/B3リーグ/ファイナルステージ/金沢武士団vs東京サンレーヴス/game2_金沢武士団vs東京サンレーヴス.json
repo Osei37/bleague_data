@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1289,
+    "date": {
+        "season": "2016-17",
+        "month": "5.07",
+        "week": null,
+        "setsu": "ファイナルステージ/金沢武士団vs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1555人"
+    },
+    "referee": {
+        "first": "構富士雄",
+        "second": "山本邦博",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "93",
+        "away": "62"
+    }
+}

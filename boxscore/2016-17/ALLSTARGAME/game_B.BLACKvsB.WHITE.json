@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1302,
+    "date": {
+        "season": "2016-2017",
+        "month": "1.15",
+        "week": null,
+        "setsu": null,
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第一体育館",
+        "attendance": "9567人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "緒方崇",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "B.BLACK",
+        "away": "B.WHITE"
+    },
+    "score": {
+        "home": "117",
+        "away": "95"
+    }
+}

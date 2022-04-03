@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1294,
+    "date": {
+        "season": "others",
+        "month": "9.04",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "那須弘幸",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "76",
+        "away": "65"
+    }
+}

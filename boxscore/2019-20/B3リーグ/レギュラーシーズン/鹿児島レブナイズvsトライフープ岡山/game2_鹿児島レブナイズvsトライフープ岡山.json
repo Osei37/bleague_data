@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5276,
+    "date": {
+        "season": "2019-20",
+        "month": "9.15",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvsトライフープ岡山",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島県総合体育センター体育館",
+        "attendance": "781人"
+    },
+    "referee": {
+        "first": "原田拓朗",
+        "second": "御手洗亮",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "67",
+        "away": "78"
+    }
+}

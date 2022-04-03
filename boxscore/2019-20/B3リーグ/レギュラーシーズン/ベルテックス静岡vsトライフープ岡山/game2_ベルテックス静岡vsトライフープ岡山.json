@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5446,
+    "date": {
+        "season": "2019-20",
+        "month": "1.19",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vsトライフープ岡山",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市清水総合運動場体育館",
+        "attendance": "842人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "伊藤睦哲",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "81",
+        "away": "107"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4110,
+    "date": {
+        "season": "2018-2019",
+        "month": "1.19",
+        "week": null,
+        "setsu": null,
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "4051人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "北沢岳夫",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "B.BLACK",
+        "away": "B.WHITE"
+    },
+    "score": {
+        "home": "130",
+        "away": "142"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1350,
+    "date": {
+        "season": "2017-18",
+        "month": "10.08",
+        "week": null,
+        "setsu": "ファーストステージ/鹿児島レブナイズvs東京エクセレンス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "湧水町吉松体育館",
+        "attendance": "354人"
+    },
+    "referee": {
+        "first": "石嶺良方",
+        "second": "井元誠",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "78",
+        "away": "100"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5434,
+    "date": {
+        "season": "2019-20",
+        "month": "1.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvsベルテックス静岡",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "707人"
+    },
+    "referee": {
+        "first": "大山賢史",
+        "second": "田中充",
+        "crew": "内野翔太"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "77",
+        "away": "66"
+    }
+}

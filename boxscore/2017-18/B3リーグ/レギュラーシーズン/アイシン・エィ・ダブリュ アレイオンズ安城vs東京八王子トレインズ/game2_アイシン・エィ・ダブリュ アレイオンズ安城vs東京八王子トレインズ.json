@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1464,
+    "date": {
+        "season": "2017-18",
+        "month": "2.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs東京八王子トレインズ",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "280人"
+    },
+    "referee": {
+        "first": "生島匡",
+        "second": "中根俊彦",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "85"
+    }
+}

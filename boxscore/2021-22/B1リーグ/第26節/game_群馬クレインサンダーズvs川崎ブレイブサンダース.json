@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7884,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1519人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "大山 賢史",
+        "crew": "加藤 暁生"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "73",
+        "away": "98"
+    }
+}

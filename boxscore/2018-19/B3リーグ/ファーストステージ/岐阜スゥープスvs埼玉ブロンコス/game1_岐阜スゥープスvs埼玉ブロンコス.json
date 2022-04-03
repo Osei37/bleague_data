@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2738,
+    "date": {
+        "season": "2018-19",
+        "month": "10.13",
+        "week": null,
+        "setsu": "ファーストステージ/岐阜スゥープスvs埼玉ブロンコス",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "1055人"
+    },
+    "referee": {
+        "first": "大山直輝",
+        "second": "山本達也",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "74",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4132,
+    "date": {
+        "season": "2018-19",
+        "month": "4.27",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5011人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "有澤重行",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "73"
+    }
+}

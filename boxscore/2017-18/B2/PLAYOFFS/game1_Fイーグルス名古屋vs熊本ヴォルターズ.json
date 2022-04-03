@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2707,
+    "date": {
+        "season": "2017-18",
+        "month": "5.19",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "1004人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "堀内純",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "79"
+    }
+}

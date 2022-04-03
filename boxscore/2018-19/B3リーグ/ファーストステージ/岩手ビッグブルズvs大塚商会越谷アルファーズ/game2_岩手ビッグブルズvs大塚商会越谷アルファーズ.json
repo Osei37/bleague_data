@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2735,
+    "date": {
+        "season": "2018-19",
+        "month": "10.14",
+        "week": null,
+        "setsu": "ファーストステージ/岩手ビッグブルズvs大塚商会越谷アルファーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "743人"
+    },
+    "referee": {
+        "first": "香野学",
+        "second": "遠藤大輔",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "57",
+        "away": "79"
+    }
+}

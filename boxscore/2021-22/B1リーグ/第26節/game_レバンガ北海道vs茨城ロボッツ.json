@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7882,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1633人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "鈴木 悟",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "82",
+        "away": "94"
+    }
+}

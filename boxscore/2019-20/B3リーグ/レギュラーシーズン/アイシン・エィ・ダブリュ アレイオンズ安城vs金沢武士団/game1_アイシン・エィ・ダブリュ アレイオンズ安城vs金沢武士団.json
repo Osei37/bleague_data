@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5319,
+    "date": {
+        "season": "2019-20",
+        "month": "10.19",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs金沢武士団",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": "251人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "林大貴",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "81",
+        "away": "60"
+    }
+}

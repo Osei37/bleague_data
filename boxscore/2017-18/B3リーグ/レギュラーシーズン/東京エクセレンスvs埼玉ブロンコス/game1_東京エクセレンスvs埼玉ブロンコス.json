@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1457,
+    "date": {
+        "season": "2017-18",
+        "month": "2.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立東板橋体育館",
+        "attendance": "611人"
+    },
+    "referee": {
+        "first": "濱雄介",
+        "second": "鈴木寿之",
+        "crew": "佐田幸一"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "74",
+        "away": "79"
+    }
+}

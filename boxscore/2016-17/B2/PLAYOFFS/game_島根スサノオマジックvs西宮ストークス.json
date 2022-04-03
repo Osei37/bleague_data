@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1336,
+    "date": {
+        "season": "2016-17",
+        "month": "5.20",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "国立代々木競技場第二体育館",
+        "attendance": "1994人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "増渕泰久",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "53",
+        "away": "78"
+    }
+}

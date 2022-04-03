@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2781,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs東京エクセレンス",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "430人"
+    },
+    "referee": {
+        "first": "白川直弘",
+        "second": "山口憲昭",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "77",
+        "away": "81"
+    }
+}

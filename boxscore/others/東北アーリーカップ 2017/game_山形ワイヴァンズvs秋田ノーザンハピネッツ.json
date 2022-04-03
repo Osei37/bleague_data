@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2680,
+    "date": {
+        "season": "others",
+        "month": "9.10",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "2393人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "佐藤匠",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "54",
+        "away": "82"
+    }
+}

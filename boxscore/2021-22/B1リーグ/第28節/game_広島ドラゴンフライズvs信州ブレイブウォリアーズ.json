@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7934,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1442人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "細田 知宏",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "84"
+    }
+}

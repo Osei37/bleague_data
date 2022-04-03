@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7136,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": null,
+        "setsu": "レギュラーシーズン/しながわシティ バスケットボールクラブvs横浜エクセレンス",
+        "time": "10:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "90人"
+    },
+    "referee": {
+        "first": "谷古宇 孝",
+        "second": "中野 嗣久",
+        "crew": "赤星 隆幸"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "53",
+        "away": "62"
+    }
+}

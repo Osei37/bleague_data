@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1446,
+    "date": {
+        "season": "2017-18",
+        "month": "1.21",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs大塚商会アルファーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "885人"
+    },
+    "referee": {
+        "first": "井元誠",
+        "second": "原田拓朗",
+        "crew": "望月公平"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "80"
+    }
+}

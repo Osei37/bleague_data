@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4121,
+    "date": {
+        "season": "2018-19",
+        "month": "4.28",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "2049人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "佐藤誠",
+        "crew": "清水幹治"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "72",
+        "away": "57"
+    }
+}

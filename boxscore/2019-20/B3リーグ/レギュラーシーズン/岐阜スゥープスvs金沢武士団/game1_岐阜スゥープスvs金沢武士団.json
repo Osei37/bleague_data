@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5477,
+    "date": {
+        "season": "2019-20",
+        "month": "2.08",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs金沢武士団",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "1017人"
+    },
+    "referee": {
+        "first": "尾形美樹",
+        "second": "井出 啓太",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "81",
+        "away": "71"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5767,
+    "date": {
+        "season": "2020-21",
+        "month": "4.17",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs東京八王子ビートレインズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "556人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "北沢あや子",
+        "crew": "山本光太郎"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "76"
+    }
+}

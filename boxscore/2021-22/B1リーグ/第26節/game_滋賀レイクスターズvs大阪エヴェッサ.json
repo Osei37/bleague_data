@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7891,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "738人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "名越 龍男",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "78",
+        "away": "84"
+    }
+}

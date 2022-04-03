@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5383,
+    "date": {
+        "season": "2019-20",
+        "month": "12.06",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs岩手ビッグブルズ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "279人"
+    },
+    "referee": {
+        "first": "井出 啓太",
+        "second": "田中充",
+        "crew": "京極 幸村"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7783,
+    "date": {
+        "season": "2021-22",
+        "month": "3.30",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北ガスアリーナ札幌46",
+        "attendance": "1142人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "久保 知仁",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "91",
+        "away": "87"
+    }
+}

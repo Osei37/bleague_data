@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7164,
+    "date": {
+        "season": "2021-22",
+        "month": "12.26",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs岩手ビッグブルズ",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡県武道館",
+        "attendance": "655人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "山内正隆",
+        "crew": "田中優志"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "71"
+    }
+}

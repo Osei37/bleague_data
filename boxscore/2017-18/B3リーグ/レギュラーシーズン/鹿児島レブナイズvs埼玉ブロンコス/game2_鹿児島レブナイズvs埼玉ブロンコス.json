@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1470,
+    "date": {
+        "season": "2017-18",
+        "month": "2.11",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "1132人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "石嶺良方",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "77",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2667,
+    "date": {
+        "season": "others",
+        "month": "9.01",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "846人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "菊地真吾",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "88"
+    }
+}

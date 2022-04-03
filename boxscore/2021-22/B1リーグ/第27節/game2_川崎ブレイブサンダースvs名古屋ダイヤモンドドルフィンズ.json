@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7904,
+    "date": {
+        "season": "2021-22",
+        "month": "3.27",
+        "week": "[SUN]",
+        "setsu": "第27節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3998人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "細田 知宏",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "95"
+    }
+}

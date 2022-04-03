@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8427,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "368人"
+    },
+    "referee": {
+        "first": "和嶋 陽一",
+        "second": "前花 直哉",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "100",
+        "away": "81"
+    }
+}

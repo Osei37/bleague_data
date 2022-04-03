@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4101,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.07",
+        "week": null,
+        "setsu": null,
+        "time": "17:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "和嶋陽一",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "81"
+    }
+}

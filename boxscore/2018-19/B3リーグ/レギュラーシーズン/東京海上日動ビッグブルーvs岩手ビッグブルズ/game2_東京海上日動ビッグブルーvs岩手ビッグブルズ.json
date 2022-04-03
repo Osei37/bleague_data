@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2799,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京海上日動ビッグブルーvs岩手ビッグブルズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "95人"
+    },
+    "referee": {
+        "first": "鈴木悟",
+        "second": "北沢あや子",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "77"
+    }
+}

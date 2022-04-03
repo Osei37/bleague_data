@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5334,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/佐賀バルーナーズvs豊田合成スコーピオンズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAサンライズパーク総合体育館",
+        "attendance": "653人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "皆川義紀",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "88"
+    }
+}

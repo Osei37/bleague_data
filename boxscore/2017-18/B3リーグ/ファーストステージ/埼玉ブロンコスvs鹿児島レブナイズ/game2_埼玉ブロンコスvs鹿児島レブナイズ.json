@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1364,
+    "date": {
+        "season": "2017-18",
+        "month": "10.29",
+        "week": null,
+        "setsu": "ファーストステージ/埼玉ブロンコスvs鹿児島レブナイズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "志木市民体育館",
+        "attendance": "827人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "廣瀬俊昭",
+        "crew": "中根俊彦"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "72"
+    }
+}

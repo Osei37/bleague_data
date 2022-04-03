@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1395,
+    "date": {
+        "season": "2017-18",
+        "month": "12.02",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs東京サンレーヴス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿屋体育大学",
+        "attendance": "320人"
+    },
+    "referee": {
+        "first": "紀伊孝哉",
+        "second": "石嶺良方",
+        "crew": "川島司"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "100",
+        "away": "88"
+    }
+}

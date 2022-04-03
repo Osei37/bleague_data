@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5346,
+    "date": {
+        "season": "2019-20",
+        "month": "11.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs東京サンレーヴス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "601人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "小島慶子",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "59",
+        "away": "75"
+    }
+}

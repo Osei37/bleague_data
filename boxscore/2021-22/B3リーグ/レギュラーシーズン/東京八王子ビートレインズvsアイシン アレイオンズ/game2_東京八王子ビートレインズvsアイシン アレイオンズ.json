@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7107,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvsアイシン アレイオンズ",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "415人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "島袋竹志",
+        "crew": "赤星隆幸"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1298,
+    "date": {
+        "season": "others",
+        "month": "9.20",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "白河市総合運動公園中央体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "渡辺雄吉",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "47",
+        "away": "21"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5456,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs東京サンレーヴス",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岡山学芸館高等学校",
+        "attendance": "340人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "山本雄大",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "88",
+        "away": "87"
+    }
+}

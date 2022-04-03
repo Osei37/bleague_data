@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1292,
+    "date": {
+        "season": "others",
+        "month": "9.03",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "984人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "茅野修司",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "59",
+        "away": "53"
+    }
+}

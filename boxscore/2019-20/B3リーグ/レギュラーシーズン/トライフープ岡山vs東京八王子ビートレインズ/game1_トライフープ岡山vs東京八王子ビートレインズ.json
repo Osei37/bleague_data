@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5503,
+    "date": {
+        "season": "2019-20",
+        "month": "2.22",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs東京八王子ビートレインズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "532人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "川井 剛",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "91"
+    }
+}

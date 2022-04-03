@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5441,
+    "date": {
+        "season": "2019-20",
+        "month": "1.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/佐賀バルーナーズvsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館",
+        "attendance": "288人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "御手洗亮",
+        "crew": "川井 剛"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "81",
+        "away": "84"
+    }
+}

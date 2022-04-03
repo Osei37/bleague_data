@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1410,
+    "date": {
+        "season": "2017-18",
+        "month": "12.17",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子トレインズvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日本工学院八王子専門学校",
+        "attendance": "511人"
+    },
+    "referee": {
+        "first": "大川修平",
+        "second": "大山賢史",
+        "crew": "山本達也"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "72",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5308,
+    "date": {
+        "season": "2019-20",
+        "month": "10.12",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs佐賀バルーナーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "411人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "尾形美樹",
+        "crew": "岩月遼司"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "91"
+    }
+}

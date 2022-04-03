@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7243,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/長崎ヴェルカvs豊田合成スコーピオンズ",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諫早市中央体育館",
+        "attendance": "452人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "前田 隼大",
+        "crew": "大倉 哲也"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "111",
+        "away": "69"
+    }
+}

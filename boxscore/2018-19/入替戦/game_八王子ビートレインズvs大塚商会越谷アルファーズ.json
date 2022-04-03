@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4112,
+    "date": {
+        "season": "2018-19",
+        "month": "5.12",
+        "week": null,
+        "setsu": null,
+        "time": "11:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜アリーナ",
+        "attendance": "2057人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "堀内純",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "86"
+    }
+}

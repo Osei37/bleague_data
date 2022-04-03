@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4092,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "管祐介",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "68"
+    }
+}

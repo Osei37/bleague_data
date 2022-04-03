@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5837,
+    "date": {
+        "season": "2020-21",
+        "month": "5.30",
+        "week": null,
+        "setsu": "レギュラーシーズン/さいたまブロンコスvsベルテックス静岡",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日本薬科大学さいたまキャンパス体育館",
+        "attendance": "35人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "長谷川裕",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "54",
+        "away": "88"
+    }
+}

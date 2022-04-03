@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7354,
+    "date": {
+        "season": "2021-22",
+        "month": "4.02",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン アレイオンズvsさいたまブロンコス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "334人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "大倉 哲也",
+        "crew": "細見竜太"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "93",
+        "away": "67"
+    }
+}

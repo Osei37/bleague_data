@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7057,
+    "date": {
+        "season": "2021-22",
+        "month": "11.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/さいたまブロンコスvs長崎ヴェルカ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "深谷ビッグタートル",
+        "attendance": "589人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "山崎昭一",
+        "crew": "松永航平"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "長崎ヴェルカ"
+    },
+    "score": {
+        "home": "83",
+        "away": "106"
+    }
+}

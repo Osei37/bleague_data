@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1234,
+    "date": {
+        "season": "2016-17",
+        "month": "2.26",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子トレインズvs大塚商会アルファーズ",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "876人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "小谷将夫",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "89"
+    }
+}

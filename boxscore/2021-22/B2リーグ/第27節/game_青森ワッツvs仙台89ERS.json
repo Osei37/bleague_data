@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8423,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "239人"
+    },
+    "referee": {
+        "first": "熊谷 久美子",
+        "second": "田中 充",
+        "crew": "松岡 隆博"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "76",
+        "away": "101"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6996,
+    "date": {
+        "season": "others",
+        "month": "3.30",
+        "week": null,
+        "setsu": null,
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Eコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "レバンガ北海道U15",
+        "away": "U15島根スサノオマジック"
+    },
+    "score": {
+        "home": "55",
+        "away": "45"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1196,
+    "date": {
+        "season": "2016-17",
+        "month": "1.22",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs大塚商会アルファーズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日井市総合体育館",
+        "attendance": "905人"
+    },
+    "referee": {
+        "first": "田中真",
+        "second": "川路宗勅",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "58"
+    }
+}

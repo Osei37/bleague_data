@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2925,
+    "date": {
+        "season": "2018-19",
+        "month": "3.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs鹿児島レブナイズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日部市総合体育館",
+        "attendance": "347人"
+    },
+    "referee": {
+        "first": "小田中涼子",
+        "second": "吉田知実",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "76"
+    }
+}

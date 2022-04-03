@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7221,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン アレイオンズvsトライフープ岡山",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "碧南臨海体育館",
+        "attendance": "151人"
+    },
+    "referee": {
+        "first": "中川 行臣",
+        "second": "吉田智実",
+        "crew": "浅野慶太郎"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "99",
+        "away": "91"
+    }
+}

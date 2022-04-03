@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6961,
+    "date": {
+        "season": "2020-21",
+        "month": "5.09",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "572人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "宇田津 浩史",
+        "crew": "東 祐二"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "86"
+    }
+}

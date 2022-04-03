@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1550,
+    "date": {
+        "season": "2017-18",
+        "month": "5.03",
+        "week": null,
+        "setsu": "ファイナルステージ/東京八王子トレインズvs東京エクセレンス",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1966人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "佐田幸一",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "68",
+        "away": "78"
+    }
+}

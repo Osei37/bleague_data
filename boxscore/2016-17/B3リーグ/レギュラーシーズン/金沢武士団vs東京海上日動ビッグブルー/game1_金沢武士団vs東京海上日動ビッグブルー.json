@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1232,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs東京海上日動ビッグブルー",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "一本松総合運動公園体育館　サン・アリーナ",
+        "attendance": "812人"
+    },
+    "referee": {
+        "first": "田中真",
+        "second": "川路宗勅",
+        "crew": "山本達也"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "88",
+        "away": "46"
+    }
+}

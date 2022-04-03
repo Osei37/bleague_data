@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2653,
+    "date": {
+        "season": "others",
+        "month": "9.01",
+        "week": null,
+        "setsu": null,
+        "time": "17:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "平出剛",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "70"
+    }
+}

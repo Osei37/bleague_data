@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5407,
+    "date": {
+        "season": "2019-20",
+        "month": "12.21",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs鹿児島レブナイズ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "笠岡総合体育館",
+        "attendance": "255人"
+    },
+    "referee": {
+        "first": "豊田 康平",
+        "second": "皆川義紀",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "105",
+        "away": "104"
+    }
+}

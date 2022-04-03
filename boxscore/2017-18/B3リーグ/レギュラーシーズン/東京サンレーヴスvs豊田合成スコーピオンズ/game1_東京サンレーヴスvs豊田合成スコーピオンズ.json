@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1405,
+    "date": {
+        "season": "2017-18",
+        "month": "12.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs豊田合成スコーピオンズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "立川市泉市民体育館",
+        "attendance": "318人"
+    },
+    "referee": {
+        "first": "山崎真吾",
+        "second": "斉藤貴嗣",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "103"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2720,
+    "date": {
+        "season": "2017-18",
+        "month": "5.27",
+        "week": null,
+        "setsu": null,
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜アリーナ",
+        "attendance": "4782人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "久保裕紀",
+        "crew": "平出剛"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "85"
+    }
+}

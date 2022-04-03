@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5316,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvsトライフープ岡山",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "久慈市民体育館",
+        "attendance": "521人"
+    },
+    "referee": {
+        "first": "中道凌平",
+        "second": "伊藤睦哲",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "90",
+        "away": "83"
+    }
+}

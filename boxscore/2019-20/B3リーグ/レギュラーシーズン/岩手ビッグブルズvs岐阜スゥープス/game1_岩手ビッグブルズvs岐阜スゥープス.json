@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5447,
+    "date": {
+        "season": "2019-20",
+        "month": "1.18",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs岐阜スゥープス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "1892人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "一色渉",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "75",
+        "away": "58"
+    }
+}

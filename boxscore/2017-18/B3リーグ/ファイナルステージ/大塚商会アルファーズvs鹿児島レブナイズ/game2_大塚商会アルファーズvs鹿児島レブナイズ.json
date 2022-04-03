@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1522,
+    "date": {
+        "season": "2017-18",
+        "month": "4.01",
+        "week": null,
+        "setsu": "ファイナルステージ/大塚商会アルファーズvs鹿児島レブナイズ",
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "246人"
+    },
+    "referee": {
+        "first": "藤代透",
+        "second": "木下晋一",
+        "crew": "中根俊彦"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "58"
+    }
+}

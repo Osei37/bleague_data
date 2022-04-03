@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5403,
+    "date": {
+        "season": "2019-20",
+        "month": "12.14",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs埼玉ブロンコス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "姶良市総合運動公園体育館",
+        "attendance": "321人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "山口勝真",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

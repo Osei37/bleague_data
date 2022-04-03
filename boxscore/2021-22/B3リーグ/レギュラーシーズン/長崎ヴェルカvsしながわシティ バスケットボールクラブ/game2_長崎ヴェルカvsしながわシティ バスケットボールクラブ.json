@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7124,
+    "date": {
+        "season": "2021-22",
+        "month": "12.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/長崎ヴェルカvsしながわシティ バスケットボールクラブ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諫早市中央体育館",
+        "attendance": "974人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "山口憲昭",
+        "crew": "徳丸 昂"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "101",
+        "away": "72"
+    }
+}

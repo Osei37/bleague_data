@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7928,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1577人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "早崎 康祐",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7887,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "866人"
+    },
+    "referee": {
+        "first": "東條 輝正",
+        "second": "谷古宇 孝",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "62",
+        "away": "77"
+    }
+}

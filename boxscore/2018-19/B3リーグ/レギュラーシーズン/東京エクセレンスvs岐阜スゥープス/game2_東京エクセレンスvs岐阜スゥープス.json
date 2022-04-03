@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2789,
+    "date": {
+        "season": "2018-19",
+        "month": "12.02",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs岐阜スゥープス",
+        "time": "10:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北本市体育センター",
+        "attendance": "248人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "笠島喜与都",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "80",
+        "away": "67"
+    }
+}

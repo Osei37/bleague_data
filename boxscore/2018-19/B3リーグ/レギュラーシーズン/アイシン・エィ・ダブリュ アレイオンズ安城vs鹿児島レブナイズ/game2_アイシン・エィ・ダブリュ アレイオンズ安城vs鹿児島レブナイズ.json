@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2879,
+    "date": {
+        "season": "2018-19",
+        "month": "2.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs鹿児島レブナイズ",
+        "time": "11:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "越前市AW-Iスポーツアリーナ",
+        "attendance": "520人"
+    },
+    "referee": {
+        "first": "白川直弘",
+        "second": "茅野修司",
+        "crew": "山本達也"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "57"
+    }
+}

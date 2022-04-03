@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7154,
+    "date": {
+        "season": "2021-22",
+        "month": "12.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvs横浜エクセレンス",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "326人"
+    },
+    "referee": {
+        "first": "内野 翔太",
+        "second": "茂泉 圭治",
+        "crew": "島袋 竹志"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "89",
+        "away": "81"
+    }
+}

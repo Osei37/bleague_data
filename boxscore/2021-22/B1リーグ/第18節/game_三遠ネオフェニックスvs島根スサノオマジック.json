@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7757,
+    "date": {
+        "season": "2021-22",
+        "month": "3.30",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1277人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "伊藤 亮介",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "65",
+        "away": "91"
+    }
+}

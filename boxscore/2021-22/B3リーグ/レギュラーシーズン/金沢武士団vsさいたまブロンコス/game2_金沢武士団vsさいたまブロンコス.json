@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7316,
+    "date": {
+        "season": "2021-22",
+        "month": "3.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vsさいたまブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "201人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "内田祥平",
+        "crew": "山田 隆介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "61",
+        "away": "104"
+    }
+}

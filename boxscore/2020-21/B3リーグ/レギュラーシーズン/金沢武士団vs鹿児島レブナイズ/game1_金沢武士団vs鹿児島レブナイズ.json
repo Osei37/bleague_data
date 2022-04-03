@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5788,
+    "date": {
+        "season": "2020-21",
+        "month": "4.29",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs鹿児島レブナイズ",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "590人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "尾形美樹",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6966,
+    "date": {
+        "season": "2020-21",
+        "month": "5.08",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "小澤 勤",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "66",
+        "away": "69"
+    }
+}

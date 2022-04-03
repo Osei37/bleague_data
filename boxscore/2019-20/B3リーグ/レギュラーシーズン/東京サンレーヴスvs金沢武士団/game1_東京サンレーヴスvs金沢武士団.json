@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5291,
+    "date": {
+        "season": "2019-20",
+        "month": "10.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs金沢武士団",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区総合スポーツセンター",
+        "attendance": "956人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "山田俊",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "81",
+        "away": "60"
+    }
+}

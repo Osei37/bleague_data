@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5647,
+    "date": {
+        "season": "2020-21",
+        "month": "1.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvsベルテックス静岡",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "312人"
+    },
+    "referee": {
+        "first": "東條輝正",
+        "second": "草野伸明",
+        "crew": "白川義一"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "83",
+        "away": "85"
+    }
+}

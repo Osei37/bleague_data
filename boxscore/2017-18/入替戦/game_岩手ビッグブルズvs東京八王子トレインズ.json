@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2721,
+    "date": {
+        "season": "2017-18",
+        "month": "5.27",
+        "week": null,
+        "setsu": null,
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜アリーナ",
+        "attendance": "3434人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "阿部聖",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "55",
+        "away": "83"
+    }
+}

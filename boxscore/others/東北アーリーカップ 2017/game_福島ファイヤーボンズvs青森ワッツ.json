@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2676,
+    "date": {
+        "season": "others",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "1146人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "松岡隆博",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "83",
+        "away": "67"
+    }
+}

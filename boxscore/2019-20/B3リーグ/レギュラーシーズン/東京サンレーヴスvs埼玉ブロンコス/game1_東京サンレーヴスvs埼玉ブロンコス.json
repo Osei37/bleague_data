@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5311,
+    "date": {
+        "season": "2019-20",
+        "month": "10.21",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs埼玉ブロンコス",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "武蔵野総合体育館",
+        "attendance": "392人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "大山賢史",
+        "crew": "田中 優志"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "68",
+        "away": "63"
+    }
+}

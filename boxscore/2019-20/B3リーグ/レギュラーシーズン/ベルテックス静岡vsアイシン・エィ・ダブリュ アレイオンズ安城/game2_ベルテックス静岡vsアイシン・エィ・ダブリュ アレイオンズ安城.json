@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5278,
+    "date": {
+        "season": "2019-20",
+        "month": "9.15",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "1542人"
+    },
+    "referee": {
+        "first": "小田中涼子",
+        "second": "針生淳男",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "70",
+        "away": "60"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7897,
+    "date": {
+        "season": "2021-22",
+        "month": "3.26",
+        "week": "[SAT]",
+        "setsu": "第27節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1870人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "中田 英教",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "65"
+    }
+}

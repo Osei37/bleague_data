@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4108,
+    "date": {
+        "season": "others",
+        "month": "8.17",
+        "week": null,
+        "setsu": null,
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "本間さとみ",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "39",
+        "away": "62"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7297,
+    "date": {
+        "season": "2021-22",
+        "month": "3.05",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs金沢武士団",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岐阜メモリアルセンター　で愛ドーム",
+        "attendance": "714人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "細見竜太",
+        "crew": "大倉 哲也"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "105",
+        "away": "73"
+    }
+}

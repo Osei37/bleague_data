@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4100,
+    "date": {
+        "season": "2018-2019",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "伊藤亮介",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "62",
+        "away": "79"
+    }
+}

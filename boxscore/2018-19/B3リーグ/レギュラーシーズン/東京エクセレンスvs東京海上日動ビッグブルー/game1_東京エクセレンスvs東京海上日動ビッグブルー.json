@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2848,
+    "date": {
+        "season": "2018-19",
+        "month": "1.13",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs東京海上日動ビッグブルー",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "621人"
+    },
+    "referee": {
+        "first": "砂川卓嗣",
+        "second": "桑原一貴",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "106",
+        "away": "71"
+    }
+}

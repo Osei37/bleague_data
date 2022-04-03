@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6948,
+    "date": {
+        "season": "2020-21",
+        "month": "5.22",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2190人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "久保 裕紀",
+        "crew": "東 祐二"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "96",
+        "away": "78"
+    }
+}

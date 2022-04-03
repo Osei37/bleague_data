@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5254,
+    "date": {
+        "season": "2019-2020",
+        "month": "9.15",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザ　アオーレ長岡",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "玉木彰治",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "79"
+    }
+}

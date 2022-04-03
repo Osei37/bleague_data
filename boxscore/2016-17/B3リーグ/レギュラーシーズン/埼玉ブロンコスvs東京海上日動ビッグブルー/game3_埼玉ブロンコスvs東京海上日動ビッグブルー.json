@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1246,
+    "date": {
+        "season": "2016-17",
+        "month": "3.11",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs東京海上日動ビッグブルー",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "3083人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "田中充",
+        "crew": "佐田幸一"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "90",
+        "away": "60"
+    }
+}

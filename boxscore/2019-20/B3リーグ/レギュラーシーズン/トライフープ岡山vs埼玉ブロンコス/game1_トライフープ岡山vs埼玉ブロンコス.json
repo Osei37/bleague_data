@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5371,
+    "date": {
+        "season": "2019-20",
+        "month": "11.23",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs埼玉ブロンコス",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "みまさかアリーナ",
+        "attendance": "336人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "内田祥平",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "82",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5352,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs佐賀バルーナーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "482人"
+    },
+    "referee": {
+        "first": "管祐介",
+        "second": "大山賢史",
+        "crew": "尾形美樹"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "64"
+    }
+}

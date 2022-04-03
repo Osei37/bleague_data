@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1346,
+    "date": {
+        "season": "2017-18",
+        "month": "10.08",
+        "week": null,
+        "setsu": "ファーストステージ/埼玉ブロンコスvs大塚商会アルファーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "723人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "廣瀬俊昭",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "76"
+    }
+}

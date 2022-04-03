@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2807,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs大塚商会越谷アルファーズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "久慈市民体育館",
+        "attendance": "847人"
+    },
+    "referee": {
+        "first": "香野学",
+        "second": "中道凌平",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "87"
+    }
+}

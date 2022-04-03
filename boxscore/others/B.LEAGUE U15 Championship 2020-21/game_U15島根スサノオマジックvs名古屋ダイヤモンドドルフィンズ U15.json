@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6983,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Dコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "U15島根スサノオマジック",
+        "away": "名古屋ダイヤモンドドルフィンズ U15"
+    },
+    "score": {
+        "home": "51",
+        "away": "64"
+    }
+}

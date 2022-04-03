@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7113,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/金沢武士団vs東京八王子ビートレインズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾総合市民体育館",
+        "attendance": "226人"
+    },
+    "referee": {
+        "first": "竹田雄介",
+        "second": "野々村日希",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "51",
+        "away": "95"
+    }
+}

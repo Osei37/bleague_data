@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1281,
+    "date": {
+        "season": "2016-17",
+        "month": "4.29",
+        "week": null,
+        "setsu": "ファイナルステージ/東京サンレーヴスvs大塚商会アルファーズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "368人"
+    },
+    "referee": {
+        "first": "大川修平",
+        "second": "和嶋陽一",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1539,
+    "date": {
+        "season": "2017-18",
+        "month": "4.21",
+        "week": null,
+        "setsu": "ファイナルステージ/大塚商会アルファーズvs埼玉ブロンコス",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "171人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "名越龍男",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "92",
+        "away": "84"
+    }
+}

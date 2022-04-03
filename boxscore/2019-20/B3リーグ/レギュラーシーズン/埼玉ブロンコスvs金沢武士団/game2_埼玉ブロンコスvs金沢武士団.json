@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5328,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/埼玉ブロンコスvs金沢武士団",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "573人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "山口尭彰",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "81",
+        "away": "69"
+    }
+}

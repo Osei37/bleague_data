@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6985,
+    "date": {
+        "season": "others",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "15:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Dコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "熊本ヴォルターズU15",
+        "away": "U15島根スサノオマジック"
+    },
+    "score": {
+        "home": "42",
+        "away": "47"
+    }
+}

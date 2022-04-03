@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1166,
+    "date": {
+        "season": "2016-17",
+        "month": "12.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/アイシン・エィ・ダブリュ アレイオンズ安城vs東京八王子トレインズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市緑スポーツセンター",
+        "attendance": "350人"
+    },
+    "referee": {
+        "first": "渡邉浩二",
+        "second": "名越龍男",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7178,
+    "date": {
+        "season": "2021-22",
+        "month": "1.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/しながわシティ バスケットボールクラブvs岐阜スゥープス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "106人"
+    },
+    "referee": {
+        "first": "小田中 涼子",
+        "second": "佐藤 浩太",
+        "crew": "瓜田 真司"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "72",
+        "away": "96"
+    }
+}

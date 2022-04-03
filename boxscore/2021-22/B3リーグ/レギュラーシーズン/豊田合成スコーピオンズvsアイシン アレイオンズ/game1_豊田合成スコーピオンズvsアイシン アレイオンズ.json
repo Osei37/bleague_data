@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7115,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvsアイシン アレイオンズ",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "281人"
+    },
+    "referee": {
+        "first": "内田祥平",
+        "second": "田中優志",
+        "crew": "細見竜太"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "81"
+    }
+}

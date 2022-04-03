@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2880,
+    "date": {
+        "season": "2018-19",
+        "month": "2.02",
+        "week": null,
+        "setsu": "レギュラーシーズン/豊田合成スコーピオンズvs大塚商会越谷アルファーズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日井市総合体育館",
+        "attendance": "851人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "竹田 雄介",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "78"
+    }
+}

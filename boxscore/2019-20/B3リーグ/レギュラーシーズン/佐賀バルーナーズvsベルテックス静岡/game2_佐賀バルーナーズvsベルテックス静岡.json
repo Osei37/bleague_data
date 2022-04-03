@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5382,
+    "date": {
+        "season": "2019-20",
+        "month": "12.08",
+        "week": null,
+        "setsu": "レギュラーシーズン/佐賀バルーナーズvsベルテックス静岡",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAサンライズパーク総合体育館",
+        "attendance": "388人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "皆川義紀",
+        "crew": "川井 剛"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "97",
+        "away": "86"
+    }
+}

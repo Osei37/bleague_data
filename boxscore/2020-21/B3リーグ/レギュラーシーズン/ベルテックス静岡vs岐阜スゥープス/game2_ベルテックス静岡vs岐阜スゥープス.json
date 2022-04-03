@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5799,
+    "date": {
+        "season": "2020-21",
+        "month": "5.04",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs岐阜スゥープス",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "613人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "嶋崎貴",
+        "crew": "井出啓太"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "83",
+        "away": "78"
+    }
+}

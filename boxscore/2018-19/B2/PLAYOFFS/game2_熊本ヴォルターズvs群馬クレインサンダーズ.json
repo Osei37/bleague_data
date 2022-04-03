@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4124,
+    "date": {
+        "season": "2018-19",
+        "month": "4.28",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "4112人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "小澤勤",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "50"
+    }
+}

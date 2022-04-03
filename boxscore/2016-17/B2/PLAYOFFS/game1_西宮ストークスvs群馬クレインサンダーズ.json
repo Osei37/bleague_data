@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1307,
+    "date": {
+        "season": "2016-17",
+        "month": "5.11",
+        "week": null,
+        "setsu": "PLAYOFFS",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "950人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "阿部聖",
+        "crew": "平出 剛"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "59"
+    }
+}

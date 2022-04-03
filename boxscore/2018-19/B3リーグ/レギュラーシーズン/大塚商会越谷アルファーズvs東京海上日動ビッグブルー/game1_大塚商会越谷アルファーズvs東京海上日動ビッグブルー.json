@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2774,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/大塚商会越谷アルファーズvs東京海上日動ビッグブルー",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立南体育館",
+        "attendance": "150人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "大山賢史",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "大塚商会越谷アルファーズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "96",
+        "away": "75"
+    }
+}

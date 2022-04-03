@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2750,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": null,
+        "setsu": "ファーストステージ/鹿児島レブナイズvs東京サンレーヴス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "指宿総合体育館",
+        "attendance": "301人"
+    },
+    "referee": {
+        "first": "砂川卓嗣",
+        "second": "原田拓朗",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "76",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8425,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第27節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "438人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "茅野 修司",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "90"
+    }
+}

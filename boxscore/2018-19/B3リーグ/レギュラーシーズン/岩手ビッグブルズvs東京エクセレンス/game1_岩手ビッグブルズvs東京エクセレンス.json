@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2940,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvs東京エクセレンス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "夢アリーナたかた",
+        "attendance": "512人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "笠島喜与都",
+        "crew": "遠藤大輔"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "67",
+        "away": "76"
+    }
+}

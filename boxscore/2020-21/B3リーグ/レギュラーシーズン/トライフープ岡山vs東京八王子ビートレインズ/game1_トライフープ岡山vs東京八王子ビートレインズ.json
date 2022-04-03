@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5702,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/トライフープ岡山vs東京八王子ビートレインズ",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "津山総合体育館",
+        "attendance": "425人"
+    },
+    "referee": {
+        "first": "豊田 康平",
+        "second": "小島慶子",
+        "crew": "柏原琢磨"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "65"
+    }
+}

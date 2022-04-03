@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2852,
+    "date": {
+        "season": "2018-19",
+        "month": "1.12",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs埼玉ブロンコス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "362人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "柳田 雅人",
+        "crew": "山口憲昭"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "78",
+        "away": "85"
+    }
+}

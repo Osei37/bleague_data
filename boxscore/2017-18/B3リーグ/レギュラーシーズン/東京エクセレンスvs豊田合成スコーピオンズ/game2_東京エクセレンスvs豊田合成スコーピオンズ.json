@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1420,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs豊田合成スコーピオンズ",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立東板橋体育館",
+        "attendance": "583人"
+    },
+    "referee": {
+        "first": "中井将基",
+        "second": "一色渉",
+        "crew": "若林謙作"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "74"
+    }
+}

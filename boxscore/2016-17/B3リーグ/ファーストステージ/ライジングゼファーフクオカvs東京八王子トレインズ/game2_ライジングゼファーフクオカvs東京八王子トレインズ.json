@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1113,
+    "date": {
+        "season": "2016-17",
+        "month": "10.28",
+        "week": null,
+        "setsu": "ファーストステージ/ライジングゼファーフクオカvs東京八王子トレインズ",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "九電記念体育館",
+        "attendance": "1802人"
+    },
+    "referee": {
+        "first": "秋山厚志",
+        "second": "大久保好純",
+        "crew": "岩尾圭治"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "58"
+    }
+}

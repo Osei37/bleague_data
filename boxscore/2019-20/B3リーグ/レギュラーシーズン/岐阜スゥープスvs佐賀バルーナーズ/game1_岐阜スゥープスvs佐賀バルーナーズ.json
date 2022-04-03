@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5273,
+    "date": {
+        "season": "2019-20",
+        "month": "9.14",
+        "week": null,
+        "setsu": "レギュラーシーズン/岐阜スゥープスvs佐賀バルーナーズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "1230人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "尾形美樹",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "80"
+    }
+}

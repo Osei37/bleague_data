@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4140,
+    "date": {
+        "season": "2018-19",
+        "month": "4.29",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "19:40 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3639人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "片寄達",
+        "crew": "安西郷史"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "43"
+    }
+}

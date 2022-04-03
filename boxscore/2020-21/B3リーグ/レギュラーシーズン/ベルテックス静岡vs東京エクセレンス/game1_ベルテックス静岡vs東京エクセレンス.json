@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5830,
+    "date": {
+        "season": "2020-21",
+        "month": "5.21",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vs東京エクセレンス",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "富士市立富士川体育館",
+        "attendance": "428人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "高野 晃平",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "95",
+        "away": "107"
+    }
+}

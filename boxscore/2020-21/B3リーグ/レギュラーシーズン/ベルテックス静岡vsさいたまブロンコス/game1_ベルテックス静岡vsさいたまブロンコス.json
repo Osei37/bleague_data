@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5740,
+    "date": {
+        "season": "2020-21",
+        "month": "3.27",
+        "week": null,
+        "setsu": "レギュラーシーズン/ベルテックス静岡vsさいたまブロンコス",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "406人"
+    },
+    "referee": {
+        "first": "中田英教",
+        "second": "岩月遼司",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "83",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5817,
+    "date": {
+        "season": "2020-21",
+        "month": "5.15",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs東京八王子ビートレインズ",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "リモートゲーム",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "一色渉",
+        "crew": "尾形美樹"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "57"
+    }
+}

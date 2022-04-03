@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5287,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": null,
+        "setsu": "レギュラーシーズン/岩手ビッグブルズvsアイシン・エィ・ダブリュ アレイオンズ安城",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "3543人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "北沢あや子",
+        "crew": "京極 幸村"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "69",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6994,
+    "date": {
+        "season": "others",
+        "month": "3.30",
+        "week": null,
+        "setsu": null,
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館Eコート",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "岩手ビッグブルズU15",
+        "away": "熊本ヴォルターズU15"
+    },
+    "score": {
+        "home": "73",
+        "away": "54"
+    }
+}

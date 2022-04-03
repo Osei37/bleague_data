@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5710,
+    "date": {
+        "season": "2020-21",
+        "month": "3.06",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京エクセレンスvs岐阜スゥープス",
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "153人"
+    },
+    "referee": {
+        "first": "富樫彰子",
+        "second": "望月直幸",
+        "crew": "白川義一"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "85",
+        "away": "68"
+    }
+}

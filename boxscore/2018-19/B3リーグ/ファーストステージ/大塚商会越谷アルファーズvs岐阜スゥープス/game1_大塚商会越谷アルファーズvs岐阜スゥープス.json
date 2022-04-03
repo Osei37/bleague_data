@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2756,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": null,
+        "setsu": "ファーストステージ/大塚商会越谷アルファーズvs岐阜スゥープス",
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "285人"
+    },
+    "referee": {
+        "first": "鬼頭英伸",
+        "second": "市川雄介",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "大塚商会越谷アルファーズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "78",
+        "away": "61"
+    }
+}

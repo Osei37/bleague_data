@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1340,
+    "date": {
+        "season": "2017-18",
+        "month": "9.30",
+        "week": null,
+        "setsu": "ファーストステージ/東京エクセレンスvs埼玉ブロンコス",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "805人"
+    },
+    "referee": {
+        "first": "藤代透",
+        "second": "白川義一",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "113",
+        "away": "91"
+    }
+}

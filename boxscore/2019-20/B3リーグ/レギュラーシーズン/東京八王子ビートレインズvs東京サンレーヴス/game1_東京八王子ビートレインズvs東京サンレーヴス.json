@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5325,
+    "date": {
+        "season": "2019-20",
+        "month": "10.25",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvs東京サンレーヴス",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "625人"
+    },
+    "referee": {
+        "first": "桑原一貴",
+        "second": "尾形美樹",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "76",
+        "away": "64"
+    }
+}

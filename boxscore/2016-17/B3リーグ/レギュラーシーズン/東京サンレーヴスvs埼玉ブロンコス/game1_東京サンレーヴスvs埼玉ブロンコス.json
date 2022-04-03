@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1214,
+    "date": {
+        "season": "2016-17",
+        "month": "2.10",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京サンレーヴスvs埼玉ブロンコス",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "618人"
+    },
+    "referee": {
+        "first": "長尾繁徳",
+        "second": "古川俊和",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "72",
+        "away": "92"
+    }
+}

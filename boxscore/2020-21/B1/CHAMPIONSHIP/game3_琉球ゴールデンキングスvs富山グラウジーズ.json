@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6946,
+    "date": {
+        "season": "2020-21",
+        "month": "5.17",
+        "week": null,
+        "setsu": "CHAMPIONSHIP",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "3350人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "有澤 重行",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "77"
+    }
+}

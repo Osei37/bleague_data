@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1459,
+    "date": {
+        "season": "2017-18",
+        "month": "2.03",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs豊田合成スコーピオンズ",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "443人"
+    },
+    "referee": {
+        "first": "勝原芳徳",
+        "second": "田中稔",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "60"
+    }
+}

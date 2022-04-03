@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2944,
+    "date": {
+        "season": "2018-19",
+        "month": "3.23",
+        "week": null,
+        "setsu": "ファイナルステージ/埼玉ブロンコスvs岐阜スゥープス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "入間市市民体育館",
+        "attendance": "661人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "和嶋陽一",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "92",
+        "away": "86"
+    }
+}

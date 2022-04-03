@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7886,
+    "date": {
+        "season": "2021-22",
+        "month": "3.23",
+        "week": "[WED]",
+        "setsu": "第26節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3092人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "蒲 健一",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "75"
+    }
+}

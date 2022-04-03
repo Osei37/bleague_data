@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7314,
+    "date": {
+        "season": "2021-22",
+        "month": "3.12",
+        "week": null,
+        "setsu": "レギュラーシーズン/鹿児島レブナイズvs横浜エクセレンス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島県総合体育センター体育館",
+        "attendance": "548人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "原田拓朗",
+        "crew": "前田 隼大"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "85",
+        "away": "76"
+    }
+}

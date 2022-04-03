@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5482,
+    "date": {
+        "season": "2019-20",
+        "month": "2.08",
+        "week": null,
+        "setsu": "レギュラーシーズン/東京八王子ビートレインズvs埼玉ブロンコス",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "980人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "田中充",
+        "crew": "岩月遼司"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "89",
+        "away": "81"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1553,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": null,
+        "setsu": "ファイナルステージ/鹿児島レブナイズvs埼玉ブロンコス",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンアリーナせんだい",
+        "attendance": "226人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "紀伊孝哉",
+        "crew": "井元誠"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "91",
+        "away": "85"
+    }
+}
