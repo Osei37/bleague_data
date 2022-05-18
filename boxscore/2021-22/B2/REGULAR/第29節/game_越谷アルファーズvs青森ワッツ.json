@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8446,
+    "date": {
+        "season": "2021-22",
+        "month": "5.02",
+        "week": "[MON]",
+        "setsu": "第29節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウイング・ハット春日部",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "長谷川 裕",
+        "second": "岩城 和利",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "82",
+        "away": "87"
+    }
+}

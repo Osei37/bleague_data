@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7179,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "305人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "白川直弘",
+        "crew": "浅野慶太郎"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "長崎ヴェルカ"
+    },
+    "score": {
+        "home": "74",
+        "away": "98"
+    }
+}

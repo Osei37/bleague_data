@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2794,
+    "date": {
+        "season": "2018-19",
+        "month": "12.08",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "467人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "一色渉",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "99",
+        "away": "80"
+    }
+}

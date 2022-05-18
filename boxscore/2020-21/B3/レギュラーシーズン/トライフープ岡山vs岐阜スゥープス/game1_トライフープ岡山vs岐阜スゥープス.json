@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5644,
+    "date": {
+        "season": "2020-21",
+        "month": "1.16",
+        "week": null,
+        "setsu": null,
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "津山総合体育館",
+        "attendance": "768人"
+    },
+    "referee": {
+        "first": "豊田 康平",
+        "second": "皆川義紀",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "77",
+        "away": "80"
+    }
+}

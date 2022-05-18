@@ -1,0 +1,27 @@
+{
+    "schedule_key": 548,
+    "date": {
+        "season": "2016-17",
+        "month": "9.24",
+        "week": "[Sat]",
+        "setsu": "第01節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予市民体育館",
+        "attendance": "1451人"
+    },
+    "referee": {
+        "first": "山田豊弘",
+        "second": "太田 匡俊",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "108"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 552,
+    "date": {
+        "season": "2016-17",
+        "month": "9.25",
+        "week": "[Sun]",
+        "setsu": "第01節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1554人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "平出 剛",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "62"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5933,
+    "date": {
+        "season": "2020-21",
+        "month": "10.25",
+        "week": "[SUN]",
+        "setsu": "第05節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2024人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "蒲 健一",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "62",
+        "away": "80"
+    }
+}

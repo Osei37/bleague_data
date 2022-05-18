@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7142,
+    "date": {
+        "season": "2021-22",
+        "month": "12.17",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浦和駒場体育館",
+        "attendance": "59人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "山崎 昭一",
+        "crew": "瓜田 真司"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "97"
+    }
+}

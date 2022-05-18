@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5250,
+    "date": {
+        "season": "2018-19",
+        "month": "9.16",
+        "week": null,
+        "setsu": null,
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "早崎康祐",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "59",
+        "away": "40"
+    }
+}

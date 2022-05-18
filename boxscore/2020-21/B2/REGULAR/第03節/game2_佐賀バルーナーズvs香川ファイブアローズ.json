@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6501,
+    "date": {
+        "season": "2020-21",
+        "month": "10.18",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "唐津市文化体育館",
+        "attendance": "482人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "松本 究",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "52"
+    }
+}

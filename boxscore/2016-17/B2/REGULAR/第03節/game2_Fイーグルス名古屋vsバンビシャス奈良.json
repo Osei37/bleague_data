@@ -1,0 +1,27 @@
+{
+    "schedule_key": 592,
+    "date": {
+        "season": "2016-17",
+        "month": "10.09",
+        "week": "[Sun]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "601人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "茅野修司",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "89",
+        "away": "70"
+    }
+}

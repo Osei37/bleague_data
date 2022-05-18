@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4778,
+    "date": {
+        "season": "2019-20",
+        "month": "10.19",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "565人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "大野哲広",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "90"
+    }
+}

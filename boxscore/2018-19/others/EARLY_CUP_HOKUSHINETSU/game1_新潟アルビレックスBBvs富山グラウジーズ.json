@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4093,
+    "date": {
+        "season": "2018-19",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "竹田 雄介",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "108"
+    }
+}

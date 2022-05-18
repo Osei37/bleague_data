@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8005,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第33節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2567人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "宇田津 浩史",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "66",
+        "away": "61"
+    }
+}

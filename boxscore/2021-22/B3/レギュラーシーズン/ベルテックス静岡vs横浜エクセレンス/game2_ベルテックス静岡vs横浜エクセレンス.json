@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7388,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": null,
+        "setsu": null,
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "668人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "岩城和利",
+        "crew": "佐藤 浩太"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "81",
+        "away": "70"
+    }
+}

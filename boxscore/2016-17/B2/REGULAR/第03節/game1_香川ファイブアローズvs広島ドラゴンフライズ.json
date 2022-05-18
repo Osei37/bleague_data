@@ -1,0 +1,27 @@
+{
+    "schedule_key": 586,
+    "date": {
+        "season": "2016-17",
+        "month": "10.08",
+        "week": "[Sat]",
+        "setsu": "第03節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1080人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "那須弘幸",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "86"
+    }
+}

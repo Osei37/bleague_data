@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5918,
+    "date": {
+        "season": "2020-21",
+        "month": "10.21",
+        "week": "[WED]",
+        "setsu": "第04節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1413人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "宇田津 浩史",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "97"
+    }
+}

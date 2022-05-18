@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6571,
+    "date": {
+        "season": "2020-21",
+        "month": "11.21",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "963人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "御手洗 亮",
+        "crew": "伊藤 彰二"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "74"
+    }
+}

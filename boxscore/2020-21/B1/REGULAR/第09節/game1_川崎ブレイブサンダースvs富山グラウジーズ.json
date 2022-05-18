@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5990,
+    "date": {
+        "season": "2020-21",
+        "month": "11.14",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2424人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "小澤 勤",
+        "crew": "蒲 健一"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "78"
+    }
+}

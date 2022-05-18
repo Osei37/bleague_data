@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8049,
+    "date": {
+        "season": "2021-22",
+        "month": "5.01",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2635人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "片寄 達",
+        "crew": "谷地 温"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "81",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1477,
+    "date": {
+        "season": "2017-18",
+        "month": "2.17",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "132人"
+    },
+    "referee": {
+        "first": "望月公平",
+        "second": "山崎真吾",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "88"
+    }
+}

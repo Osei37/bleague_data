@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7378,
+    "date": {
+        "season": "2021-22",
+        "month": "4.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浦和駒場体育館",
+        "attendance": "579人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "梶崇司",
+        "crew": "若林 謙作"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "91"
+    }
+}

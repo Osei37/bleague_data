@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5983,
+    "date": {
+        "season": "2020-21",
+        "month": "11.11",
+        "week": "[WED]",
+        "setsu": "第08節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "967人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "黒岡 和哲",
+        "crew": "岩木 太郎"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "94"
+    }
+}

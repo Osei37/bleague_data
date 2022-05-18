@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3101,
+    "date": {
+        "season": "2018-19",
+        "month": "11.07",
+        "week": "[WED]",
+        "setsu": "第08節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1430人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "岩木太郎",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "78",
+        "away": "65"
+    }
+}

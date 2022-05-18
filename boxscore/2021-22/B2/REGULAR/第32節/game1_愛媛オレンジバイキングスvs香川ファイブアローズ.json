@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8494,
+    "date": {
+        "season": "2021-22",
+        "month": "4.22",
+        "week": "[FRI]",
+        "setsu": "第32節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "566人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "茅野 修司",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "106"
+    }
+}

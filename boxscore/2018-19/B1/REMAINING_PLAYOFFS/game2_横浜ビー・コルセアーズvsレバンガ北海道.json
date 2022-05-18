@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4117,
+    "date": {
+        "season": "2018-19",
+        "month": "4.27",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "2601人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "上田信彦",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "89",
+        "away": "91"
+    }
+}

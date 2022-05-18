@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5971,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "米子産業体育館",
+        "attendance": "1104人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "甲斐 清",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "81",
+        "away": "74"
+    }
+}

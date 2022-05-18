@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8163,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "701人"
+    },
+    "referee": {
+        "first": "小畑 治",
+        "second": "茅野 修司",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "64"
+    }
+}

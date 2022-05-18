@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2970,
+    "date": {
+        "season": "2018-19",
+        "month": "4.19",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "1005人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "太田匡俊",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "101",
+        "away": "63"
+    }
+}

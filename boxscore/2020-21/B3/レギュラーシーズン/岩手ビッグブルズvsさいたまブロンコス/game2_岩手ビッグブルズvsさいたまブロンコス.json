@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5805,
+    "date": {
+        "season": "2020-21",
+        "month": "5.09",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "奥州市総合体育館(Zアリーナ)",
+        "attendance": "626人"
+    },
+    "referee": {
+        "first": "熊谷久美子",
+        "second": "北沢あや子",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "83",
+        "away": "73"
+    }
+}

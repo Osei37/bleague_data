@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6537,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "524人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "大谷 英紀",
+        "crew": "小島 慶子"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "81",
+        "away": "84"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2979,
+    "date": {
+        "season": "2018-19",
+        "month": "4.28",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "862人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "大山直輝",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "90",
+        "away": "91"
+    }
+}

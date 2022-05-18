@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2999,
+    "date": {
+        "season": "2018-19",
+        "month": "10.07",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "3133人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "清水幹治",
+        "crew": "増渕泰久"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "96",
+        "away": "93"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7989,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2708人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "久米 克弥",
+        "crew": "松本 究"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "77",
+        "away": "106"
+    }
+}

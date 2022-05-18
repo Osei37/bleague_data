@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3552,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1023人"
+    },
+    "referee": {
+        "first": "谷古宇孝",
+        "second": "塩谷禎",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "108",
+        "away": "73"
+    }
+}

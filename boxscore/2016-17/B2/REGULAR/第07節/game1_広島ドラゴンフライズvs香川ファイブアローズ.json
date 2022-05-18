@@ -1,0 +1,27 @@
+{
+    "schedule_key": 649,
+    "date": {
+        "season": "2016-17",
+        "month": "11.03",
+        "week": "[Thu]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1702人"
+    },
+    "referee": {
+        "first": "中田英教",
+        "second": "茅野修司",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "59"
+    }
+}

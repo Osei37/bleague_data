@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8082,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "763人"
+    },
+    "referee": {
+        "first": "中田 英教",
+        "second": "北沢 あや子",
+        "crew": "遠藤 大輔"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "68",
+        "away": "66"
+    }
+}

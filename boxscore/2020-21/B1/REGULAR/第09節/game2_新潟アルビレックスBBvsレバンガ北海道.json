@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5995,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "リージョンプラザ上越",
+        "attendance": "982人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "丸山 大",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "76",
+        "away": "82"
+    }
+}

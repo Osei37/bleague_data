@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7946,
+    "date": {
+        "season": "2021-22",
+        "month": "4.06",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "松本 究",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "71"
+    }
+}

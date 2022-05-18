@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3093,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "1339人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "緒方崇",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "47"
+    }
+}

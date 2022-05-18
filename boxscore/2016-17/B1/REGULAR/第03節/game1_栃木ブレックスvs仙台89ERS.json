@@ -1,0 +1,27 @@
+{
+    "schedule_key": 38,
+    "date": {
+        "season": "2016-17",
+        "month": "10.08",
+        "week": "[Sat]",
+        "setsu": "第03節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2743人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "前田喜庸",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "108",
+        "away": "56"
+    }
+}

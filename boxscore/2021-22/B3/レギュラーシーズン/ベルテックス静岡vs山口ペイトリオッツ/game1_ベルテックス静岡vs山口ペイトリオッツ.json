@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7298,
+    "date": {
+        "season": "2021-22",
+        "month": "3.05",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "442人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "茂泉 圭治",
+        "crew": "小原 宏太"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "101",
+        "away": "71"
+    }
+}

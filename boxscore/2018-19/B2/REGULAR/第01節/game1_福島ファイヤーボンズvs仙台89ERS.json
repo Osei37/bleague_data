@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3528,
+    "date": {
+        "season": "2018-19",
+        "month": "9.29",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "2007人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "稲葉威",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "79",
+        "away": "72"
+    }
+}

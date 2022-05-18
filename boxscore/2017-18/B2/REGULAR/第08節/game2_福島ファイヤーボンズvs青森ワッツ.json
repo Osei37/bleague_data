@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2235,
+    "date": {
+        "season": "2017-18",
+        "month": "11.14",
+        "week": "[Tue]",
+        "setsu": "第08節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1501人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "小田中涼子",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "105",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1285,
+    "date": {
+        "season": "2016-17",
+        "month": "5.06",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "1133人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "菊地真吾",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "111",
+        "away": "83"
+    }
+}

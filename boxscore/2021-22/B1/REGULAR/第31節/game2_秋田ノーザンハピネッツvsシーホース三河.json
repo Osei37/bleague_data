@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7973,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "2443人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "佐藤 誠",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "75",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 662,
+    "date": {
+        "season": "2016-17",
+        "month": "11.06",
+        "week": "[Sun]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩手県営体育館",
+        "attendance": "1014人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "佐藤匠",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "65"
+    }
+}

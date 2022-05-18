@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1178,
+    "date": {
+        "season": "2016-17",
+        "month": "1.08",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1081人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "佐田幸一",
+        "crew": "木下晋一"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "60"
+    }
+}

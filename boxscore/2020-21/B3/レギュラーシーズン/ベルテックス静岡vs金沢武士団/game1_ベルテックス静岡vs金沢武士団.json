@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5782,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "焼津市総合体育館(焼津シーガルドーム）",
+        "attendance": "402人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "内田祥平",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "111",
+        "away": "72"
+    }
+}

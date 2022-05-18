@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5930,
+    "date": {
+        "season": "2020-21",
+        "month": "10.24",
+        "week": "[SAT]",
+        "setsu": "第05節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2142人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "内野 翔太",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "76"
+    }
+}

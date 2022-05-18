@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2846,
+    "date": {
+        "season": "2018-19",
+        "month": "1.12",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日本体育大学桜華中学校・高等学校",
+        "attendance": "191人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "加藤暁生",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "75",
+        "away": "69"
+    }
+}

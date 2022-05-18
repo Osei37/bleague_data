@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8032,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "988人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "鈴木 悟",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "87",
+        "away": "103"
+    }
+}

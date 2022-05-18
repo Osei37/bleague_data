@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7396,
+    "date": {
+        "season": "2021-22",
+        "month": "4.22",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "64人"
+    },
+    "referee": {
+        "first": "遠藤 大輔",
+        "second": "内野翔太",
+        "crew": "若林 謙作"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "93",
+        "away": "106"
+    }
+}

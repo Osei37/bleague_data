@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8078,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "6227人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "丸山 大",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "77"
+    }
+}

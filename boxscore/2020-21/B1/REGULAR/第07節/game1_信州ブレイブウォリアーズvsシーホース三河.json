@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5968,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": "1407人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "山内 正隆",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "67",
+        "away": "85"
+    }
+}

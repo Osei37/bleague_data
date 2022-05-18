@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1239,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "一宮市総合体育館",
+        "attendance": "218人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "木下晋一",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "54",
+        "away": "80"
+    }
+}

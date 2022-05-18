@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4240,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3272人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "蒲健一",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "98",
+        "away": "87"
+    }
+}

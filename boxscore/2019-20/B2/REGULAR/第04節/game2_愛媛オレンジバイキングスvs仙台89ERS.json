@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4758,
+    "date": {
+        "season": "2019-20",
+        "month": "10.12",
+        "week": "[SAT]",
+        "setsu": "第04節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1310人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "大谷英紀",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "79",
+        "away": "85"
+    }
+}

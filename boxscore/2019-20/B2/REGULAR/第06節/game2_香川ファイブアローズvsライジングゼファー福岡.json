@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4785,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "とらまるてぶくろ体育館",
+        "attendance": "448人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "渡邉浩二",
+        "crew": "大山直輝"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "73",
+        "away": "78"
+    }
+}

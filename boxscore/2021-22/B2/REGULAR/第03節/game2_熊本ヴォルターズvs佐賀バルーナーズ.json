@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8121,
+    "date": {
+        "season": "2021-22",
+        "month": "10.17",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1228人"
+    },
+    "referee": {
+        "first": "秋山 厚志",
+        "second": "飯尾 勝紀",
+        "crew": "小島 慶子"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1242,
+    "date": {
+        "season": "2016-17",
+        "month": "3.05",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1017人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "一色渉",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "97",
+        "away": "65"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7366,
+    "date": {
+        "season": "2021-22",
+        "month": "4.09",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉ポートアリーナ",
+        "attendance": "3009人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "宇田津浩史",
+        "crew": "長谷川裕"
+    },
+    "team": {
+        "home": "アルティーリ千葉",
+        "away": "長崎ヴェルカ"
+    },
+    "score": {
+        "home": "93",
+        "away": "89"
+    }
+}

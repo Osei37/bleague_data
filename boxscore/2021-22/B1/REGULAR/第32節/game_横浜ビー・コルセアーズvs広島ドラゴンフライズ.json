@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7995,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "1284人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "谷古宇 孝",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "96"
+    }
+}

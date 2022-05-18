@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8351,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": "[SAT]",
+        "setsu": "第21節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1461人"
+    },
+    "referee": {
+        "first": "佐藤 誠",
+        "second": "秋山 厚志",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "103"
+    }
+}

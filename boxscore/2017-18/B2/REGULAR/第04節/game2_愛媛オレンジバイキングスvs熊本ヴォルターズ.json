@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2184,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第04節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "743人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "茅野修司",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "70"
+    }
+}

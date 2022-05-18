@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2968,
+    "date": {
+        "season": "2018-19",
+        "month": "4.19",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "小金井市総合体育館",
+        "attendance": "385人"
+    },
+    "referee": {
+        "first": "大山賢史",
+        "second": "遠藤大輔",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "79"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1091,
+    "date": {
+        "season": "2016-17",
+        "month": "10.02",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日部市総合体育館",
+        "attendance": "739人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "笠島喜与都",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "57",
+        "away": "61"
+    }
+}

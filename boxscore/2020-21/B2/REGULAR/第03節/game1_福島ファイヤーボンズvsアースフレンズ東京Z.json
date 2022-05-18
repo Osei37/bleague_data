@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6488,
+    "date": {
+        "season": "2020-21",
+        "month": "10.19",
+        "week": "[MON]",
+        "setsu": "第03節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "621人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "香野 学",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "71",
+        "away": "68"
+    }
+}

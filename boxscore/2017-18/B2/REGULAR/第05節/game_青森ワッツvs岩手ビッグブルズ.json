@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2185,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第05節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "1016人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "松岡隆博",
+        "crew": "上田信彦"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "69"
+    }
+}

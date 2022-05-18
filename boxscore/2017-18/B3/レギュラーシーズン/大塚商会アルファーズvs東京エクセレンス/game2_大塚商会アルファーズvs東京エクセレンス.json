@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1452,
+    "date": {
+        "season": "2017-18",
+        "month": "1.28",
+        "week": null,
+        "setsu": null,
+        "time": "10:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "764人"
+    },
+    "referee": {
+        "first": "古川俊和",
+        "second": "廣瀬俊昭",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "83",
+        "away": "75"
+    }
+}

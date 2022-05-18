@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5362,
+    "date": {
+        "season": "2019-20",
+        "month": "11.17",
+        "week": null,
+        "setsu": null,
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市清水総合運動場体育館",
+        "attendance": "836人"
+    },
+    "referee": {
+        "first": "井出 啓太",
+        "second": "岩月遼司",
+        "crew": "大井陽平"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "61",
+        "away": "78"
+    }
+}

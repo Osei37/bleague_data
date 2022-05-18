@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1474,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "324人"
+    },
+    "referee": {
+        "first": "田中真",
+        "second": "古川俊和",
+        "crew": "矢田伸一"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "96"
+    }
+}

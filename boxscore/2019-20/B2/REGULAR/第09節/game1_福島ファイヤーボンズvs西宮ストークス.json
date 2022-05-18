@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4830,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島トヨタ クラウンアリーナ",
+        "attendance": "619人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "針生淳男",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "88",
+        "away": "83"
+    }
+}

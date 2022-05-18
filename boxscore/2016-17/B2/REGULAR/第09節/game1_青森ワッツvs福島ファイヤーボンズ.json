@@ -1,0 +1,27 @@
+{
+    "schedule_key": 687,
+    "date": {
+        "season": "2016-17",
+        "month": "11.26",
+        "week": "[Sat]",
+        "setsu": "第09節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "2097人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "松岡隆博",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "93"
+    }
+}

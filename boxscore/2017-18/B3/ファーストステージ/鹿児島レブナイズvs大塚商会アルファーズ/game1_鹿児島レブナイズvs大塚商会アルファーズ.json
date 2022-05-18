@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1355,
+    "date": {
+        "season": "2017-18",
+        "month": "10.14",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "いちき串木野市総合体育館",
+        "attendance": "276人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "紀伊孝哉",
+        "crew": "勝原芳徳"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "93"
+    }
+}

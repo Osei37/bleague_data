@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2856,
+    "date": {
+        "season": "2018-19",
+        "month": "1.19",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "342人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "井出 啓太",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "88"
+    }
+}

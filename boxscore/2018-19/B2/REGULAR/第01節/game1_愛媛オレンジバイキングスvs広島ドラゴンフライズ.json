@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3540,
+    "date": {
+        "season": "2018-19",
+        "month": "9.28",
+        "week": "[FRI]",
+        "setsu": "第01節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1356人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "田中豊弘",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "86"
+    }
+}

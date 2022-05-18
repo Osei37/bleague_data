@@ -1,0 +1,27 @@
+{
+    "schedule_key": 611,
+    "date": {
+        "season": "2016-17",
+        "month": "10.16",
+        "week": "[Sun]",
+        "setsu": "第04節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予三島運動公園体育館",
+        "attendance": "635人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "鬼頭 英伸",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "75"
+    }
+}

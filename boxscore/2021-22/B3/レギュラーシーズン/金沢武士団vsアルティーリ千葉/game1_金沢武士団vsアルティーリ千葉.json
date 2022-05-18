@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7408,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "461人"
+    },
+    "referee": {
+        "first": "丸山 大",
+        "second": "田中優志",
+        "crew": "上西星太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "82",
+        "away": "85"
+    }
+}

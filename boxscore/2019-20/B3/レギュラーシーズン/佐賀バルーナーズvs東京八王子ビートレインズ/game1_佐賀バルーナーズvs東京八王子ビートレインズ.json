@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5489,
+    "date": {
+        "season": "2019-20",
+        "month": "2.15",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館",
+        "attendance": "235人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "原田拓朗",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "87"
+    }
+}

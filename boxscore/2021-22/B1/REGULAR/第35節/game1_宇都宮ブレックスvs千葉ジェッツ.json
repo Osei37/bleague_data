@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8038,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3923人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "小澤 勤",
+        "crew": "鈴木 悟"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "71",
+        "away": "74"
+    }
+}

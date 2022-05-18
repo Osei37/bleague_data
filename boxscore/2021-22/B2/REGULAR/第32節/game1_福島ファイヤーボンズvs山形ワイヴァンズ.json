@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8488,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "14:45 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島トヨタクラウンアリーナ",
+        "attendance": "706人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "井出 啓太",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "81"
+    }
+}

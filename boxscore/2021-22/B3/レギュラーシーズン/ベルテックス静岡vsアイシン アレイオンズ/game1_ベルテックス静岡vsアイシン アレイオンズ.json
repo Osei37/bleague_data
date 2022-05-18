@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7059,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "558人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "望月直幸",
+        "crew": "浅野慶太郎"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "90"
+    }
+}

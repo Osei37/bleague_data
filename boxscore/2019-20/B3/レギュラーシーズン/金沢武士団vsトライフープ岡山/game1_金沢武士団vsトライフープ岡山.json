@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5475,
+    "date": {
+        "season": "2019-20",
+        "month": "1.31",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越前市AW-Iスポーツアリーナ",
+        "attendance": "515人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "竹田雄介",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "68",
+        "away": "79"
+    }
+}

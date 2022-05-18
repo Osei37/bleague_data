@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1130,
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日本工学院八王子専門学校",
+        "attendance": "462人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "富士将史",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "84",
+        "away": "59"
+    }
+}

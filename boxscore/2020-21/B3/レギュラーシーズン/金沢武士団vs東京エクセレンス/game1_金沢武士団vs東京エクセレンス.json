@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5678,
+    "date": {
+        "season": "2020-21",
+        "month": "2.13",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "志賀町総合体育館",
+        "attendance": "133人"
+    },
+    "referee": {
+        "first": "竹田雄介",
+        "second": "白川直弘",
+        "crew": "北村 仁"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "93",
+        "away": "123"
+    }
+}

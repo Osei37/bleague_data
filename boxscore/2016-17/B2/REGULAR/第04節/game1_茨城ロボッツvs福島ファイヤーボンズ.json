@@ -1,0 +1,27 @@
+{
+    "schedule_key": 598,
+    "date": {
+        "season": "2016-17",
+        "month": "10.15",
+        "week": "[Sat]",
+        "setsu": "第04節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "911人"
+    },
+    "referee": {
+        "first": "地頭薗 剛",
+        "second": "大河原 則人",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "86"
+    }
+}

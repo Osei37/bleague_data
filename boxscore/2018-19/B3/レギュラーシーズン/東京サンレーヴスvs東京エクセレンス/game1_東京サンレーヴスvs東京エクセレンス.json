@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2874,
+    "date": {
+        "season": "2018-19",
+        "month": "2.04",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "武蔵野の森総合スポーツプラザ",
+        "attendance": "368人"
+    },
+    "referee": {
+        "first": "桑原一貴",
+        "second": "笠島喜与都",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "88",
+        "away": "81"
+    }
+}

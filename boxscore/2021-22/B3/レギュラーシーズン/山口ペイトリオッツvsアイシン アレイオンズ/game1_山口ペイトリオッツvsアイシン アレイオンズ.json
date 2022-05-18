@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7286,
+    "date": {
+        "season": "2021-22",
+        "month": "2.26",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "萩市民体育館",
+        "attendance": "178人"
+    },
+    "referee": {
+        "first": "橋本 恵一",
+        "second": "大谷英紀",
+        "crew": "柏原琢磨"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "82"
+    }
+}

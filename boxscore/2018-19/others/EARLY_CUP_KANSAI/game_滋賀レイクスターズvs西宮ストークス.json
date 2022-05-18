@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4099,
+    "date": {
+        "season": "2018-19",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "飯尾勝紀",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "84",
+        "away": "68"
+    }
+}

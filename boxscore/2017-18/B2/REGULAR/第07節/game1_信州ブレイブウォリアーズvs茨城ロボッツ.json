@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2224,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第07節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松本市総合体育館",
+        "attendance": "2822人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "白川直弘",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "59",
+        "away": "73"
+    }
+}

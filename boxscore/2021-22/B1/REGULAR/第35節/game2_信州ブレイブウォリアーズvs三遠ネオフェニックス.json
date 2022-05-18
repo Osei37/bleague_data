@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8051,
+    "date": {
+        "season": "2021-22",
+        "month": "5.01",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2924人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "北沢 岳夫",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "88",
+        "away": "85"
+    }
+}

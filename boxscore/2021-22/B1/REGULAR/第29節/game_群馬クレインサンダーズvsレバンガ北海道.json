@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7938,
+    "date": {
+        "season": "2021-22",
+        "month": "4.06",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1199人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "鈴木 悟",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "95",
+        "away": "83"
+    }
+}

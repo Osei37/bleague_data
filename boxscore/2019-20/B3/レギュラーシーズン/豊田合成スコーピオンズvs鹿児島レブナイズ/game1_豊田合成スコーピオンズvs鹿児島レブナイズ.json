@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5449,
+    "date": {
+        "season": "2019-20",
+        "month": "1.18",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大治町スポーツセンター",
+        "attendance": "166人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "井出 啓太",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2839,
+    "date": {
+        "season": "2018-19",
+        "month": "1.06",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "74人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "大野哲広",
+        "crew": "北沢あや子"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "97"
+    }
+}

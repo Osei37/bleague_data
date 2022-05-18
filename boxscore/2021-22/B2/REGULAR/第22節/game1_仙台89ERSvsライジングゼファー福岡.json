@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8353,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": "[SAT]",
+        "setsu": "第22節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "1717人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "吉田 剛",
+        "crew": "嶋崎 貴"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "60"
+    }
+}

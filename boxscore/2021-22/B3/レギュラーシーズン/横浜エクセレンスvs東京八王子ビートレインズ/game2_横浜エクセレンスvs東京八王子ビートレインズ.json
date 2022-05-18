@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7374,
+    "date": {
+        "season": "2021-22",
+        "month": "4.09",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜武道館",
+        "attendance": "1235人"
+    },
+    "referee": {
+        "first": "遠藤 大輔",
+        "second": "若林 謙作",
+        "crew": "瓜田 真司"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "89"
+    }
+}

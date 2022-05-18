@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1098,
+    "date": {
+        "season": "2016-17",
+        "month": "10.09",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "立川市泉市民体育館",
+        "attendance": "1257人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "山本邦博",
+        "crew": "佐田幸一"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "79"
+    }
+}

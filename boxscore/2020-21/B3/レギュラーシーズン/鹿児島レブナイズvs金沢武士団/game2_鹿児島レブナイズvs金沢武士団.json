@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5775,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西原商会アリーナ",
+        "attendance": "1280人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "伊藤彰二",
+        "crew": "前田 隼大"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "87",
+        "away": "82"
+    }
+}

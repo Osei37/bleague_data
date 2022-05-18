@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3590,
+    "date": {
+        "season": "2018-19",
+        "month": "10.20",
+        "week": "[SAT]",
+        "setsu": "第04節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1014人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "薦田侑二郎",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "71",
+        "away": "82"
+    }
+}

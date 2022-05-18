@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7065,
+    "date": {
+        "season": "2021-22",
+        "month": "11.05",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "77人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "赤星隆幸",
+        "crew": "小原 宏太"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "60",
+        "away": "101"
+    }
+}

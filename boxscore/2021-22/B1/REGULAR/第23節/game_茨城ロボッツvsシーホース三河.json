@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7839,
+    "date": {
+        "season": "2021-22",
+        "month": "5.04",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "15:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "2109人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "久保 知仁",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "98",
+        "away": "110"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6527,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "いわき市立総合体育館",
+        "attendance": "819人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "北沢 あや子",
+        "crew": "香野 学"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "61",
+        "away": "73"
+    }
+}

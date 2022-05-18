@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8153,
+    "date": {
+        "season": "2021-22",
+        "month": "11.10",
+        "week": "[WED]",
+        "setsu": "第06節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "518人"
+    },
+    "referee": {
+        "first": "坂井 元直",
+        "second": "内田 祥平",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "89"
+    }
+}

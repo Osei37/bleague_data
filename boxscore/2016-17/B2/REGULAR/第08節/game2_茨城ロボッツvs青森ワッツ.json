@@ -1,0 +1,27 @@
+{
+    "schedule_key": 670,
+    "date": {
+        "season": "2016-17",
+        "month": "11.19",
+        "week": "[Sat]",
+        "setsu": "第08節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "つくばカピオ　サイバーダインアリーナ",
+        "attendance": "1145人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "北島寛臣",
+        "crew": "上田 信彦"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "63",
+        "away": "93"
+    }
+}

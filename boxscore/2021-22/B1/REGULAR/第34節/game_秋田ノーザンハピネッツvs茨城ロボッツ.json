@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8025,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "1845人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "北沢 岳夫",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "78",
+        "away": "84"
+    }
+}

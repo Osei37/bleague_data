@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3621,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "善通寺市民体育館",
+        "attendance": "628人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "黒岡和哲",
+        "crew": "大山直輝"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "78"
+    }
+}

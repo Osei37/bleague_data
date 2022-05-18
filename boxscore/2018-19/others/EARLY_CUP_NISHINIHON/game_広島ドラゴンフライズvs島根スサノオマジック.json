@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4103,
+    "date": {
+        "season": "2018-19",
+        "month": "9.08",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "大山直輝",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "80",
+        "away": "55"
+    }
+}

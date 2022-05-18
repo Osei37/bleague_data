@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5700,
+    "date": {
+        "season": "2020-21",
+        "month": "2.26",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "岩木太郎",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "86",
+        "away": "61"
+    }
+}

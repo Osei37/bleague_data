@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5985,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2187人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "久保 知仁",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "102",
+        "away": "58"
+    }
+}

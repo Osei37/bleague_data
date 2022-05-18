@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5704,
+    "date": {
+        "season": "2020-21",
+        "month": "2.27",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "指宿総合体育館",
+        "attendance": "259人"
+    },
+    "referee": {
+        "first": "原田拓朗",
+        "second": "和田敏文",
+        "crew": "山口憲昭"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "66",
+        "away": "100"
+    }
+}

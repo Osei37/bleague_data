@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2659,
+    "date": {
+        "season": "2017-18",
+        "month": "9.03",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "東祐二",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "73",
+        "away": "77"
+    }
+}

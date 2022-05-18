@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1179,
+    "date": {
+        "season": "2016-17",
+        "month": "1.08",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "さいたま市記念総合体育館",
+        "attendance": "554人"
+    },
+    "referee": {
+        "first": "長尾繁徳",
+        "second": "菊地真吾",
+        "crew": "浜本伸"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "96",
+        "away": "62"
+    }
+}

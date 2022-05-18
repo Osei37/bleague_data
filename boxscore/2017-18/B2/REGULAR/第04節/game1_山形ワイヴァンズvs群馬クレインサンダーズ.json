@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2171,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第04節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "天童市スポーツセンター",
+        "attendance": "1034人"
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "小田中涼子",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "75"
+    }
+}

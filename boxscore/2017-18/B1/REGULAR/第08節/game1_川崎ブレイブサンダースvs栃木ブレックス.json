@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1694,
+    "date": {
+        "season": "2017-18",
+        "month": "11.11",
+        "week": "[Sat]",
+        "setsu": "第08節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "2820人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "阿部聖",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "85",
+        "away": "86"
+    }
+}

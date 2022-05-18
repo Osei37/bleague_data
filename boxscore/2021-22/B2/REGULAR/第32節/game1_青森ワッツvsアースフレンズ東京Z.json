@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8486,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ（新青森県総合運動公園）",
+        "attendance": "595人"
+    },
+    "referee": {
+        "first": "冨士 将史",
+        "second": "嶋崎 貴",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "63",
+        "away": "88"
+    }
+}

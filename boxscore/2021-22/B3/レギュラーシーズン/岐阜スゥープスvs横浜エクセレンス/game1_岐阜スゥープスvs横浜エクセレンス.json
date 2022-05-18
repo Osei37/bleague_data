@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7213,
+    "date": {
+        "season": "2021-22",
+        "month": "1.22",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岐阜メモリアルセンター　で愛ドーム",
+        "attendance": "282人"
+    },
+    "referee": {
+        "first": "竹田雄介",
+        "second": "岩城和利",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "73",
+        "away": "63"
+    }
+}

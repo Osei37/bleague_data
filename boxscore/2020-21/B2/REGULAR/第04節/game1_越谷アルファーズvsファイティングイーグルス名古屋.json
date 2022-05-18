@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6506,
+    "date": {
+        "season": "2020-21",
+        "month": "10.24",
+        "week": "[SAT]",
+        "setsu": "第04節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "626人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "梶 崇司",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "71",
+        "away": "88"
+    }
+}

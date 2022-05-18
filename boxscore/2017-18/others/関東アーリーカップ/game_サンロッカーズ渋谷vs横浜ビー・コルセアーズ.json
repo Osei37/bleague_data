@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2655,
+    "date": {
+        "season": "2017-18",
+        "month": "9.02",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "細田知宏",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1707,
+    "date": {
+        "season": "2017-18",
+        "month": "11.12",
+        "week": "[Sun]",
+        "setsu": "第08節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "三田市駒ヶ谷運動公園体育館",
+        "attendance": "1408人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "松本究",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "70",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5244,
+    "date": {
+        "season": "2018-19",
+        "month": "9.16",
+        "week": null,
+        "setsu": null,
+        "time": "15:40 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "佐藤誠",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "82",
+        "away": "78"
+    }
+}

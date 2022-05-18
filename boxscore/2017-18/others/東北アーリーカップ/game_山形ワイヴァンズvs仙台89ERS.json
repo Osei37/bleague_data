@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2678,
+    "date": {
+        "season": "2017-18",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形市総合スポーツセンター",
+        "attendance": "2505人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "芳賀聡",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "79",
+        "away": "78"
+    }
+}

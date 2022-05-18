@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2984,
+    "date": {
+        "season": "2018-19",
+        "month": "5.04",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "1680人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "高野杏実",
+        "crew": "渡邉浩二"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "88",
+        "away": "82"
+    }
+}

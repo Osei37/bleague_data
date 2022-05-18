@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7578,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1423人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "青木 俊博",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "66",
+        "away": "85"
+    }
+}

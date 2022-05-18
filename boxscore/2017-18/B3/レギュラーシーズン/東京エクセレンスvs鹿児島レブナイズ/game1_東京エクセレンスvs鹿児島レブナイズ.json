@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1491,
+    "date": {
+        "season": "2017-18",
+        "month": "3.03",
+        "week": null,
+        "setsu": null,
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "524人"
+    },
+    "referee": {
+        "first": "廣瀬俊昭",
+        "second": "堀田幸一",
+        "crew": "若林謙作"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "72"
+    }
+}

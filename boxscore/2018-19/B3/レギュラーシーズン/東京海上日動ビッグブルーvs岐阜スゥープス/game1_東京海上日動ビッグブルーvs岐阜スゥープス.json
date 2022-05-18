@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2888,
+    "date": {
+        "season": "2018-19",
+        "month": "2.09",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "88人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "高野杏実",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "90",
+        "away": "100"
+    }
+}

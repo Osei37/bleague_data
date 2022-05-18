@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5754,
+    "date": {
+        "season": "2020-21",
+        "month": "4.03",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "609人"
+    },
+    "referee": {
+        "first": "岩月遼司",
+        "second": "羽場信彦",
+        "crew": "浅野慶太郎"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "87",
+        "away": "82"
+    }
+}

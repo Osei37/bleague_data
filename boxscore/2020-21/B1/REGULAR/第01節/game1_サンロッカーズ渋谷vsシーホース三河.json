@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5858,
+    "date": {
+        "season": "2020-21",
+        "month": "10.03",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1293人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "細田 知宏",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "78",
+        "away": "82"
+    }
+}

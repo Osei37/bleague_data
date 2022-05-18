@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6496,
+    "date": {
+        "season": "2020-21",
+        "month": "10.17",
+        "week": "[SAT]",
+        "setsu": "第03節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "641人"
+    },
+    "referee": {
+        "first": "黒岡 和哲",
+        "second": "茅野 修司",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "83",
+        "away": "80"
+    }
+}

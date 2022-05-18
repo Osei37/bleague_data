@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2147,
+    "date": {
+        "season": "2017-18",
+        "month": "10.07",
+        "week": "[Sat]",
+        "setsu": "第02節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3811人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "伊藤彰二",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "85",
+        "away": "65"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4088,
+    "date": {
+        "season": "2018-19",
+        "month": "9.07",
+        "week": null,
+        "setsu": null,
+        "time": "20:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "長谷川裕",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "88",
+        "away": "77"
+    }
+}

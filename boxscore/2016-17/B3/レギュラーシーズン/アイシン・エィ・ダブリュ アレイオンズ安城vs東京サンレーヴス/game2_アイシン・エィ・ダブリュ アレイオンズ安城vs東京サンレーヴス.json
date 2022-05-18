@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1129,
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": null,
+        "setsu": null,
+        "time": "12:50 TIP OFF"
+    },
+    "place": {
+        "stadium": "蒲郡市民体育センター",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "宮里両",
+        "second": "山本邦博",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "77",
+        "away": "95"
+    }
+}

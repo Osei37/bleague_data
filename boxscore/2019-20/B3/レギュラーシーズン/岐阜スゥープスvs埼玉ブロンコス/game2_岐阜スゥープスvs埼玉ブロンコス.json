@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5502,
+    "date": {
+        "season": "2019-20",
+        "month": "2.23",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "せきしんふれ愛アリーナ",
+        "attendance": "472人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "岩城和利",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "57",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5796,
+    "date": {
+        "season": "2020-21",
+        "month": "5.03",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "823人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "松岡隆博",
+        "crew": "伊藤睦哲"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "84"
+    }
+}

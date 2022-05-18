@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1502,
+    "date": {
+        "season": "2017-18",
+        "month": "3.11",
+        "week": null,
+        "setsu": null,
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "84人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "佐田幸一",
+        "crew": "秋葉智"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "52",
+        "away": "72"
+    }
+}

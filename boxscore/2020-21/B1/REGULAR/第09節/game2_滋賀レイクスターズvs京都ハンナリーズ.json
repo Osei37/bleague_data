@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5997,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1658人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "青木 俊博",
+        "crew": "中川 行臣"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "79"
+    }
+}

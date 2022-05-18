@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7936,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": "[SUN]",
+        "setsu": "第28節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "5216人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "青木 俊博",
+        "crew": "佐藤 誠"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "78"
+    }
+}

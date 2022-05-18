@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2827,
+    "date": {
+        "season": "2018-19",
+        "month": "12.30",
+        "week": null,
+        "setsu": null,
+        "time": "10:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "東村山市民スポーツセンター",
+        "attendance": "252人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "中道凌平",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "105",
+        "away": "81"
+    }
+}

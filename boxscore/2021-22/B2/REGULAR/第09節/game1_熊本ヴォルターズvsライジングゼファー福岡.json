@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8197,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ecowin宇土アリーナ",
+        "attendance": "738人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "前花 直哉",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "82",
+        "away": "86"
+    }
+}

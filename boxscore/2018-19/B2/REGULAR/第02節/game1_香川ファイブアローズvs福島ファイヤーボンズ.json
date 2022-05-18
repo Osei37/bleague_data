@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3558,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1205人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "大谷英紀",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "60"
+    }
+}

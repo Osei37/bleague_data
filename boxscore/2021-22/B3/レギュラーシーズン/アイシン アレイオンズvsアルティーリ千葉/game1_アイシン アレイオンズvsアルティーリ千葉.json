@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7241,
+    "date": {
+        "season": "2021-22",
+        "month": "2.05",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "リモートゲーム",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "小島慶子",
+        "second": "白川直弘",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "74",
+        "away": "66"
+    }
+}

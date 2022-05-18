@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8029,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜武道館",
+        "attendance": "1465人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "岩井 遥河",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "65",
+        "away": "86"
+    }
+}

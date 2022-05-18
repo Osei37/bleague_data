@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1554,
+    "date": {
+        "season": "2017-18",
+        "month": "5.03",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンアリーナせんだい",
+        "attendance": "605人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "紀伊孝哉",
+        "crew": "井元誠"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "78",
+        "away": "81"
+    }
+}

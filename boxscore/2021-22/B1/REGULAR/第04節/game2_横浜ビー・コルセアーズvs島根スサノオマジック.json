@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7497,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1685人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "久保 裕紀",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "89",
+        "away": "95"
+    }
+}

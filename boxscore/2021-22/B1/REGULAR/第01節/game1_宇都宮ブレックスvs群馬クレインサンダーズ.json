@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7422,
+    "date": {
+        "season": "2021-22",
+        "month": "10.01",
+        "week": "[FRI]",
+        "setsu": "第01節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2105人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "眞榮喜 工",
+        "crew": "加藤 暁生"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "75"
+    }
+}

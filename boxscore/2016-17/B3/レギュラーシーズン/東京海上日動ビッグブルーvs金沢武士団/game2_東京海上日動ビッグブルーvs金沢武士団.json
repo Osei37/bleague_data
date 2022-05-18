@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1164,
+    "date": {
+        "season": "2016-17",
+        "month": "12.18",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "805人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "田中充",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "42",
+        "away": "106"
+    }
+}

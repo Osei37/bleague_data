@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8480,
+    "date": {
+        "season": "2021-22",
+        "month": "4.16",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "神戸市立中央体育館",
+        "attendance": "1047人"
+    },
+    "referee": {
+        "first": "長谷川 裕",
+        "second": "一色 渉",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "91"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5393,
+    "date": {
+        "season": "2019-20",
+        "month": "12.14",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "1094人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "尾形美樹",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "75"
+    }
+}

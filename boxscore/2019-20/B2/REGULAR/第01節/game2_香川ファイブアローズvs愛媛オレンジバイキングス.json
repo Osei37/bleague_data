@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4706,
+    "date": {
+        "season": "2019-20",
+        "month": "9.22",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1298人"
+    },
+    "referee": {
+        "first": "早崎康祐",
+        "second": "市川雄介",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "92",
+        "away": "64"
+    }
+}

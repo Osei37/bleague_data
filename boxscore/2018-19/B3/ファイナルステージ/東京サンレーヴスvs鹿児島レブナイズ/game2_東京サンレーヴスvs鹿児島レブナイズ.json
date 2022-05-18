@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2957,
+    "date": {
+        "season": "2018-19",
+        "month": "4.07",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "158人"
+    },
+    "referee": {
+        "first": "中田英教",
+        "second": "富樫彰子",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "85"
+    }
+}

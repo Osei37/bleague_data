@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7943,
+    "date": {
+        "season": "2021-22",
+        "month": "4.06",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1486人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "谷地 温",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "84",
+        "away": "90"
+    }
+}

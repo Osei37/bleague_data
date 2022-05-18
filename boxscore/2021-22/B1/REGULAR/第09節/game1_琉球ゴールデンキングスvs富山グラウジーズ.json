@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7594,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "4168人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "塩谷 禎",
+        "crew": "加藤 暁生"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "66"
+    }
+}

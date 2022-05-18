@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4803,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2841人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "幡丸 登志久",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "83",
+        "away": "60"
+    }
+}

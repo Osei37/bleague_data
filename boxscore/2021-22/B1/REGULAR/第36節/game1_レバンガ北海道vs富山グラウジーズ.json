@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8058,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2311人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "佐藤 誠",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "93"
+    }
+}

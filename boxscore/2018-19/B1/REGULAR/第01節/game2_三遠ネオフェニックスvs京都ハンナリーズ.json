@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2997,
+    "date": {
+        "season": "2018-19",
+        "month": "10.07",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2139人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "緒方崇",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "93"
+    }
+}

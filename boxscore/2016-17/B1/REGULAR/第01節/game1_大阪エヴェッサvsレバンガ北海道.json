@@ -1,0 +1,27 @@
+{
+    "schedule_key": 10,
+    "date": {
+        "season": "2016-17",
+        "month": "9.24",
+        "week": "[Sat]",
+        "setsu": "第01節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "3328人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "有澤重行",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "64",
+        "away": "53"
+    }
+}

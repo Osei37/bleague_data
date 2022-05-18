@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1390,
+    "date": {
+        "season": "2017-18",
+        "month": "11.19",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "下呂交流会館アクティブ：温アリーナ",
+        "attendance": "534人"
+    },
+    "referee": {
+        "first": "木下晋一",
+        "second": "山本達也",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "60",
+        "away": "79"
+    }
+}

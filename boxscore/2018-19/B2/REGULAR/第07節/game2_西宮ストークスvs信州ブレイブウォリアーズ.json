@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3638,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "洲本市文化体育館",
+        "attendance": "900人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "中川行臣",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "75"
+    }
+}

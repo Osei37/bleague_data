@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7964,
+    "date": {
+        "season": "2021-22",
+        "month": "4.09",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1034人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "久保 裕紀",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "79",
+        "away": "78"
+    }
+}

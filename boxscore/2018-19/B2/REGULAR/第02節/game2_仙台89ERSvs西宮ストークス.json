@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3545,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2302人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "熊谷久美子",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "74",
+        "away": "73"
+    }
+}

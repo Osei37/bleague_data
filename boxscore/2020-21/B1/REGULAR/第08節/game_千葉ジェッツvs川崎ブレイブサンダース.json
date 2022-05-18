@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5975,
+    "date": {
+        "season": "2020-21",
+        "month": "11.11",
+        "week": "[WED]",
+        "setsu": "第08節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2171人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "石田 祐二",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "94",
+        "away": "97"
+    }
+}

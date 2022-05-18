@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7092,
+    "date": {
+        "season": "2021-22",
+        "month": "11.20",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大網白里アリーナ",
+        "attendance": "362人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "一色渉",
+        "crew": "佐藤浩太"
+    },
+    "team": {
+        "home": "アルティーリ千葉",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "92",
+        "away": "88"
+    }
+}

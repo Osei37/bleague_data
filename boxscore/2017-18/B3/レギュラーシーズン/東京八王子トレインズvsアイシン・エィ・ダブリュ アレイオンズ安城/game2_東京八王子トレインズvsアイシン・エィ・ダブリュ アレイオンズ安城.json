@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1434,
+    "date": {
+        "season": "2017-18",
+        "month": "1.14",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1755人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "田中真",
+        "crew": "白川義一"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "71",
+        "away": "73"
+    }
+}

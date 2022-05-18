@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7054,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大村市体育文化センター",
+        "attendance": "992人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "和田敏文",
+        "crew": "山口憲昭"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "61"
+    }
+}

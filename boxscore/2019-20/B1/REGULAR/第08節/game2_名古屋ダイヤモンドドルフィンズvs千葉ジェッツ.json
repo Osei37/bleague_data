@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4268,
+    "date": {
+        "season": "2019-20",
+        "month": "11.10",
+        "week": "[SUN]",
+        "setsu": "第08節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "3987人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "谷地温",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "74",
+        "away": "83"
+    }
+}

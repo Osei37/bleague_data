@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7169,
+    "date": {
+        "season": "2021-22",
+        "month": "1.04",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大網白里アリーナ",
+        "attendance": "534人"
+    },
+    "referee": {
+        "first": "一色 渉",
+        "second": "桑原一貴",
+        "crew": "中野 嗣久"
+    },
+    "team": {
+        "home": "アルティーリ千葉",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "80",
+        "away": "77"
+    }
+}

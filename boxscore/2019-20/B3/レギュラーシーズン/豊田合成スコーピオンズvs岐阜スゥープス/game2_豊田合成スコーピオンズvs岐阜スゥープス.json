@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5318,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "北名古屋市健康ドーム",
+        "attendance": "312人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "山本雄大",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "91",
+        "away": "50"
+    }
+}

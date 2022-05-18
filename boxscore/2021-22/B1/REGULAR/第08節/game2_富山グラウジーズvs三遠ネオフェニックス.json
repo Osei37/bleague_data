@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7561,
+    "date": {
+        "season": "2021-22",
+        "month": "11.14",
+        "week": "[SUN]",
+        "setsu": "第08節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2055人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "上田 信彦",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "90",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1372,
+    "date": {
+        "season": "2017-18",
+        "month": "11.05",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西之表市民体育館",
+        "attendance": "292人"
+    },
+    "referee": {
+        "first": "大久保好純",
+        "second": "石嶺良方",
+        "crew": "川島司"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "78"
+    }
+}

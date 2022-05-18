@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1151,
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "74人"
+    },
+    "referee": {
+        "first": "小谷将夫",
+        "second": "笠島喜与都",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "90"
+    }
+}

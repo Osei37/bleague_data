@@ -1,0 +1,27 @@
+{
+    "schedule_key": 153,
+    "date": {
+        "season": "2016-17",
+        "month": "11.24",
+        "week": "[Thu]",
+        "setsu": "第09節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1584人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "緒方崇",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "104",
+        "away": "78"
+    }
+}

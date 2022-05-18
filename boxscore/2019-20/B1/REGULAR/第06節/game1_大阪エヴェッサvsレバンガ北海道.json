@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4237,
+    "date": {
+        "season": "2019-20",
+        "month": "10.26",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "1998人"
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "守谷圭介",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "82",
+        "away": "77"
+    }
+}

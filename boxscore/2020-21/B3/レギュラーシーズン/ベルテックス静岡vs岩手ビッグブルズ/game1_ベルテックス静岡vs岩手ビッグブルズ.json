@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5732,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": null,
+        "setsu": null,
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "602人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "山本雄大",
+        "crew": "境圭介"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "67"
+    }
+}

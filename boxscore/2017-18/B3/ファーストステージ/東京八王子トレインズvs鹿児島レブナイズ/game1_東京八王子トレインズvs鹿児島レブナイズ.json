@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1341,
+    "date": {
+        "season": "2017-18",
+        "month": "9.29",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1048人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "廣瀬俊昭",
+        "crew": "斉藤貴嗣"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "71"
+    }
+}

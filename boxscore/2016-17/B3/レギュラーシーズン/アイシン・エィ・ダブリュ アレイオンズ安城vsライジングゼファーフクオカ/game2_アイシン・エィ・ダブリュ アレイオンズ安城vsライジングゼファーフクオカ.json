@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1211,
+    "date": {
+        "season": "2016-17",
+        "month": "2.05",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城市体育館",
+        "attendance": "613人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "宮里両",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "ライジングゼファーフクオカ"
+    },
+    "score": {
+        "home": "76",
+        "away": "108"
+    }
+}

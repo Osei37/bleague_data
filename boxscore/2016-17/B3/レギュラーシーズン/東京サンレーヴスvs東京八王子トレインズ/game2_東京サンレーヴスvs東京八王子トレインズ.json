@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1118,
+    "date": {
+        "season": "2016-17",
+        "month": "11.12",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "立川市柴崎市民体育館",
+        "attendance": "676人"
+    },
+    "referee": {
+        "first": "長尾繁徳",
+        "second": "菊地真吾",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "106"
+    }
+}

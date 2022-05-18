@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1668,
+    "date": {
+        "season": "2017-18",
+        "month": "10.28",
+        "week": "[Sat]",
+        "setsu": "第06節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "1868人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "松本究",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "87",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3026,
+    "date": {
+        "season": "2018-19",
+        "month": "10.17",
+        "week": "[WED]",
+        "setsu": "第03節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜文化体育館",
+        "attendance": "3288人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "大河原則人",
+        "crew": "石田祐二"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

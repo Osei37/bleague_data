@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5907,
+    "date": {
+        "season": "2020-21",
+        "month": "10.18",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県西部体育センター",
+        "attendance": "1263人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "和嶋 陽一",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "91",
+        "away": "57"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7272,
+    "date": {
+        "season": "2021-22",
+        "month": "2.18",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "佐世保市体育文化館",
+        "attendance": "580人"
+    },
+    "referee": {
+        "first": "市川 雄介",
+        "second": "御手洗亮",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "96",
+        "away": "92"
+    }
+}

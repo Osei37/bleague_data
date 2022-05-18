@@ -1,0 +1,27 @@
+{
+    "schedule_key": 663,
+    "date": {
+        "season": "2016-17",
+        "month": "11.06",
+        "week": "[Sun]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "天童市スポーツセンター",
+        "attendance": "1212人"
+    },
+    "referee": {
+        "first": "鬼頭 英伸",
+        "second": "三好啓太",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "90"
+    }
+}

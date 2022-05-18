@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1204,
+    "date": {
+        "season": "2016-17",
+        "month": "1.29",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1012人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "川路宗勅",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "67",
+        "away": "54"
+    }
+}

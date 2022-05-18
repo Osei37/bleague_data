@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2780,
+    "date": {
+        "season": "2018-19",
+        "month": "11.23",
+        "week": null,
+        "setsu": null,
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "202人"
+    },
+    "referee": {
+        "first": "白川直弘",
+        "second": "山口憲昭",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "80",
+        "away": "84"
+    }
+}

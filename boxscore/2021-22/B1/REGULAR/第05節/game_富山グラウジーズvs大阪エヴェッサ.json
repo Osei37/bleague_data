@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7512,
+    "date": {
+        "season": "2021-22",
+        "month": "10.27",
+        "week": "[WED]",
+        "setsu": "第05節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1165人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "谷地 温",
+        "crew": "小畑 治"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "82",
+        "away": "67"
+    }
+}

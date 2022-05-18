@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7025,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "162人"
+    },
+    "referee": {
+        "first": "尾形美樹",
+        "second": "岩城和利",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "76"
+    }
+}

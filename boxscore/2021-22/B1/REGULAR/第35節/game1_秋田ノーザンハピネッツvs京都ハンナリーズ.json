@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8036,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": "[SAT]",
+        "setsu": "第35節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "2458人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "加川 真",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "58"
+    }
+}

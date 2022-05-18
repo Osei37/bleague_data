@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2665,
+    "date": {
+        "season": "2017-18",
+        "month": "9.03",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": "2063人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "早崎康祐",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "85",
+        "away": "77"
+    }
+}

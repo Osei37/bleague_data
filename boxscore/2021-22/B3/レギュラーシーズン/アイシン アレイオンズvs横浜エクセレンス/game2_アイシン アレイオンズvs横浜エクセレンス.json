@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7306,
+    "date": {
+        "season": "2021-22",
+        "month": "11.21",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "232人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "吉田知実",
+        "crew": "山田隆介"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "76",
+        "away": "61"
+    }
+}

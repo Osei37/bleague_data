@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5814,
+    "date": {
+        "season": "2020-21",
+        "month": "5.15",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浦和駒場体育館",
+        "attendance": "440人"
+    },
+    "referee": {
+        "first": "高城邦弘",
+        "second": "富樫彰子",
+        "crew": "茂泉圭治"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "99",
+        "away": "91"
+    }
+}

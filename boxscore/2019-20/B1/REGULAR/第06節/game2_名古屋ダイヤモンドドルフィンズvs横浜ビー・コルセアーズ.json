@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4234,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2457人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "冨島健司",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "74"
+    }
+}

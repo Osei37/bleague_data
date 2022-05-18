@@ -1,0 +1,27 @@
+{
+    "schedule_key": 24,
+    "date": {
+        "season": "2016-17",
+        "month": "10.01",
+        "week": "[Sat]",
+        "setsu": "第02節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "5286人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "谷古宇孝",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "72",
+        "away": "76"
+    }
+}

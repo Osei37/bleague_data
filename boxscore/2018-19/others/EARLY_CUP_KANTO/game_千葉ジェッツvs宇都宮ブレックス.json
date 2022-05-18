@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5241,
+    "date": {
+        "season": "2018-19",
+        "month": "9.15",
+        "week": null,
+        "setsu": null,
+        "time": "15:40 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "阿部聖",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "75",
+        "away": "84"
+    }
+}

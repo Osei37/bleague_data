@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4734,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "455人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "白川一樹",
+        "crew": "吉田剛"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "85",
+        "away": "102"
+    }
+}

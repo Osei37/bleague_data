@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7406,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八王子市富士森体育館",
+        "attendance": "470人"
+    },
+    "referee": {
+        "first": "梶崇司",
+        "second": "富樫彰子",
+        "crew": "山崎 昭一"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "71"
+    }
+}

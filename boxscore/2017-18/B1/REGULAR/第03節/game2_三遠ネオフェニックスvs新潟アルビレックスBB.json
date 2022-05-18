@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1618,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第03節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2777人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "増渕泰久",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "90",
+        "away": "88"
+    }
+}

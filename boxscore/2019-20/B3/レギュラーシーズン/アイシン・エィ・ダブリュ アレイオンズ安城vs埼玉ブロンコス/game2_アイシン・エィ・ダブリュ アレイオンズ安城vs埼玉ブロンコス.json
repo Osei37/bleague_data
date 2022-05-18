@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5342,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "蒲郡市民体育館",
+        "attendance": "152人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "林大貴",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "78",
+        "away": "66"
+    }
+}

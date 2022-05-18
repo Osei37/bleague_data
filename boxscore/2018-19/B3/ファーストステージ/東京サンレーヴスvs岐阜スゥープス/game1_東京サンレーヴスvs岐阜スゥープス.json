@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2740,
+    "date": {
+        "season": "2018-19",
+        "month": "10.20",
+        "week": null,
+        "setsu": null,
+        "time": "19:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "157人"
+    },
+    "referee": {
+        "first": "菊地真吾",
+        "second": "渡邉浩二",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "91",
+        "away": "75"
+    }
+}

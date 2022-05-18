@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5728,
+    "date": {
+        "season": "2020-21",
+        "month": "3.20",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "419人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "富樫彰子",
+        "crew": "廣瀬俊昭"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "81"
+    }
+}

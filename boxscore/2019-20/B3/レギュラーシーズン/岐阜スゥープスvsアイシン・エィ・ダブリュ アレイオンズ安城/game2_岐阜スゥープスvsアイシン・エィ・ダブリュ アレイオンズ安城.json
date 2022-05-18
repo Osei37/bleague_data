@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5370,
+    "date": {
+        "season": "2019-20",
+        "month": "11.24",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "せきしんふれ愛アリーナ",
+        "attendance": "868人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "野々村日希",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "57",
+        "away": "87"
+    }
+}

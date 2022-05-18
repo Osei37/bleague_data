@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7323,
+    "date": {
+        "season": "2021-22",
+        "month": "3.19",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "604人"
+    },
+    "referee": {
+        "first": "梶崇司",
+        "second": "小澤 朋克",
+        "crew": "赤星 隆幸"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "105",
+        "away": "77"
+    }
+}

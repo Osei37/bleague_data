@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1195,
+    "date": {
+        "season": "2016-17",
+        "month": "1.22",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日部市総合体育館",
+        "attendance": "498人"
+    },
+    "referee": {
+        "first": "大川修平",
+        "second": "丸山大",
+        "crew": "中根俊彦"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "ライジングゼファーフクオカ"
+    },
+    "score": {
+        "home": "56",
+        "away": "68"
+    }
+}

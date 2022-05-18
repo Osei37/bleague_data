@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1630,
+    "date": {
+        "season": "2017-18",
+        "month": "10.22",
+        "week": "[Sun]",
+        "setsu": "第04節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4833人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "久保裕紀",
+        "crew": "平出剛"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "77",
+        "away": "70"
+    }
+}

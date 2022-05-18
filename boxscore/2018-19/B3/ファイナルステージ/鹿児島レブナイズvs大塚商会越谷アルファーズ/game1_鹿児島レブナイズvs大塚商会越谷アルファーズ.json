@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2972,
+    "date": {
+        "season": "2018-19",
+        "month": "4.20",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "指宿総合体育館",
+        "attendance": "318人"
+    },
+    "referee": {
+        "first": "原田拓朗",
+        "second": "石嶺良方",
+        "crew": "山口憲昭"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "100"
+    }
+}

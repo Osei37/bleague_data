@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7553,
+    "date": {
+        "season": "2021-22",
+        "month": "11.14",
+        "week": "[SUN]",
+        "setsu": "第08節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "2049人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "加川 真",
+        "crew": "芳賀 聡"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "94",
+        "away": "84"
+    }
+}

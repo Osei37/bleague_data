@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2233,
+    "date": {
+        "season": "2017-18",
+        "month": "11.12",
+        "week": "[Sun]",
+        "setsu": "第08節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1981人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "吉田剛",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "88",
+        "away": "83"
+    }
+}

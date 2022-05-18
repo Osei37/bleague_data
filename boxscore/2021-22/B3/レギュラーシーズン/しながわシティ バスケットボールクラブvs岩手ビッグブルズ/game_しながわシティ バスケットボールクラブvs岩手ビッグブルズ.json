@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7407,
+    "date": {
+        "season": "2021-22",
+        "month": "4.28",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区立総合スポーツセンター",
+        "attendance": "319人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "島袋 竹志",
+        "crew": "中野 嗣久"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "105"
+    }
+}

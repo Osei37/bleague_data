@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1684,
+    "date": {
+        "season": "2017-18",
+        "month": "11.03",
+        "week": "[Fri]",
+        "setsu": "第07節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝塚市立スポーツセンター",
+        "attendance": "1404人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "伊藤亮介",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "68",
+        "away": "72"
+    }
+}

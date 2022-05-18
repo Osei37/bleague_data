@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5425,
+    "date": {
+        "season": "2019-20",
+        "month": "12.28",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "下呂交流会館温アリーナ",
+        "attendance": "221人"
+    },
+    "referee": {
+        "first": "渡邉浩二",
+        "second": "山本雄大",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "87",
+        "away": "65"
+    }
+}

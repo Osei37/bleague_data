@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7253,
+    "date": {
+        "season": "2021-22",
+        "month": "2.12",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "474人"
+    },
+    "referee": {
+        "first": "細田 知宏",
+        "second": "梶崇司",
+        "crew": "佐田 幸一"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "102",
+        "away": "62"
+    }
+}

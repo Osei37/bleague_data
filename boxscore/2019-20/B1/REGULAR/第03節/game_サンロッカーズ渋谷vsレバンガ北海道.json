@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4189,
+    "date": {
+        "season": "2019-20",
+        "month": "10.16",
+        "week": "[WED]",
+        "setsu": "第03節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "墨田区総合体育館",
+        "attendance": "2111人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "清水幹治",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "83",
+        "away": "76"
+    }
+}

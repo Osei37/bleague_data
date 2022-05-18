@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7981,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2501人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "塩谷 禎",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "63",
+        "away": "89"
+    }
+}

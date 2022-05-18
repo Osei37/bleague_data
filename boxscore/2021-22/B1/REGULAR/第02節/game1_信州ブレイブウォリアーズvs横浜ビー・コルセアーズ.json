@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7450,
+    "date": {
+        "season": "2021-22",
+        "month": "10.09",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2013人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "久保 知仁",
+        "crew": "中川 行臣"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "84"
+    }
+}

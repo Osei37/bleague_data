@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1121,
+    "date": {
+        "season": "2016-17",
+        "month": "11.12",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "665人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "木下晋一",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "58"
+    }
+}

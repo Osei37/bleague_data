@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6455,
+    "date": {
+        "season": "2020-21",
+        "month": "10.03",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "名取市民体育館",
+        "attendance": "717人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "高城 邦弘",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "54"
+    }
+}

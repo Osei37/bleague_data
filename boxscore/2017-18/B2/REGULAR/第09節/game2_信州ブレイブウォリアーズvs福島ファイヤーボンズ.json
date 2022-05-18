@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2259,
+    "date": {
+        "season": "2017-18",
+        "month": "11.19",
+        "week": "[Sun]",
+        "setsu": "第09節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "865人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "菊地真吾",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "94",
+        "away": "80"
+    }
+}

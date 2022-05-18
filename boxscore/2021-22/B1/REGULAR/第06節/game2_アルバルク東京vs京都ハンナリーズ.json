@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7526,
+    "date": {
+        "season": "2021-22",
+        "month": "11.07",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1334人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "久保 知仁",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "57"
+    }
+}

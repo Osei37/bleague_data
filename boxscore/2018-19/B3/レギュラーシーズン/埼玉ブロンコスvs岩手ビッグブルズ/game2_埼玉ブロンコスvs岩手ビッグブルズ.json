@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2865,
+    "date": {
+        "season": "2018-19",
+        "month": "1.25",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "深谷ビッグタートル",
+        "attendance": "1009人"
+    },
+    "referee": {
+        "first": "井出 啓太",
+        "second": "富樫彰子",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "79"
+    }
+}

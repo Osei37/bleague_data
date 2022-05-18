@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3058,
+    "date": {
+        "season": "2018-19",
+        "month": "10.28",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "6042人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "久米克弥",
+        "crew": "宇田津浩史"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "72",
+        "away": "86"
+    }
+}

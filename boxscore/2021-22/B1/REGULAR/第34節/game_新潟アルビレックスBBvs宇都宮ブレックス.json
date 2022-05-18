@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8030,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "867人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "和嶋 陽一",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "50",
+        "away": "95"
+    }
+}

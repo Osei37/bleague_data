@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8001,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1758人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "甲斐 清",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "92",
+        "away": "81"
+    }
+}

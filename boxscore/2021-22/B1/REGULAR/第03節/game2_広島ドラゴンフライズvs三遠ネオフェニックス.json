@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7483,
+    "date": {
+        "season": "2021-22",
+        "month": "10.17",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2198人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "中川 行臣",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "84",
+        "away": "72"
+    }
+}

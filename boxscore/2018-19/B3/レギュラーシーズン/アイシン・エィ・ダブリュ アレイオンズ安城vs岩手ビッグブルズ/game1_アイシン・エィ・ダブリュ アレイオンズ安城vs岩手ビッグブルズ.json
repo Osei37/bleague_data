@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2828,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "155人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "市川雄介",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "63"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5324,
+    "date": {
+        "season": "2019-20",
+        "month": "10.26",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "御津スポーツパーク",
+        "attendance": "325人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "小島慶子",
+        "crew": "皆川義紀"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "80",
+        "away": "78"
+    }
+}

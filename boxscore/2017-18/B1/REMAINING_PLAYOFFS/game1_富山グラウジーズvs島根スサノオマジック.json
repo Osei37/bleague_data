@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2713,
+    "date": {
+        "season": "2017-18",
+        "month": "5.12",
+        "week": null,
+        "setsu": null,
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2707人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "小澤勤",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "70",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7584,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ホワイトリング",
+        "attendance": "2804人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "久米 克弥",
+        "crew": "冨島 健司"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "63",
+        "away": "72"
+    }
+}

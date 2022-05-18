@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5846,
+    "date": {
+        "season": "2020-21",
+        "month": "6.05",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "280人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "内田祥平",
+        "crew": "井出啓太"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "93",
+        "away": "101"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7211,
+    "date": {
+        "season": "2021-22",
+        "month": "1.23",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "81人"
+    },
+    "referee": {
+        "first": "田中 充",
+        "second": "島袋 竹志",
+        "crew": "山崎 昭一"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "66",
+        "away": "122"
+    }
+}

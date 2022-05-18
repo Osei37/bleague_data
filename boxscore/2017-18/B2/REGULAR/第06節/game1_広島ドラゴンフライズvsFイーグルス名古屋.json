@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2204,
+    "date": {
+        "season": "2017-18",
+        "month": "10.28",
+        "week": "[Sat]",
+        "setsu": "第06節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東広島運動公園体育館",
+        "attendance": "1374人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "柳田 雅人",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "75",
+        "away": "92"
+    }
+}

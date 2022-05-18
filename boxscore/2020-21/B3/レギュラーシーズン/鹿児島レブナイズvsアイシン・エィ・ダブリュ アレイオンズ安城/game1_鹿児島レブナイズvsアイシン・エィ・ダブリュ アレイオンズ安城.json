@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5812,
+    "date": {
+        "season": "2020-21",
+        "month": "5.08",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西原商会アリーナ",
+        "attendance": "648人"
+    },
+    "referee": {
+        "first": "原田拓朗",
+        "second": "小島慶子",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "66",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3610,
+    "date": {
+        "season": "2018-19",
+        "month": "10.28",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千代田町総合体育館",
+        "attendance": "556人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "山内正隆",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "78",
+        "away": "61"
+    }
+}

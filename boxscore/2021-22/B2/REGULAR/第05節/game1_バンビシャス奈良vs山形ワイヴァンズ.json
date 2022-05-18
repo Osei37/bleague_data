@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8140,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": "[SAT]",
+        "setsu": "第05節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "444人"
+    },
+    "referee": {
+        "first": "秋山 厚志",
+        "second": "渡邉 浩二",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1718,
+    "date": {
+        "season": "2017-18",
+        "month": "11.20",
+        "week": "[Mon]",
+        "setsu": "第09節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1688人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "冨島健司",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "64",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3613,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "609人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "菊地真吾",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "64",
+        "away": "65"
+    }
+}

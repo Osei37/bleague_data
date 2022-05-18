@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1683,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第07節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "2152人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "清水幹治",
+        "crew": "堀内純"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "65",
+        "away": "79"
+    }
+}

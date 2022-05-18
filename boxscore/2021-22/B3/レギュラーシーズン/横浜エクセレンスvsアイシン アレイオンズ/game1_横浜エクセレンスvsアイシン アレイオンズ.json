@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7086,
+    "date": {
+        "season": "2021-22",
+        "month": "3.04",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "245人"
+    },
+    "referee": {
+        "first": "長谷川 裕",
+        "second": "山本雄大",
+        "crew": "佐藤 慎士"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "86"
+    }
+}

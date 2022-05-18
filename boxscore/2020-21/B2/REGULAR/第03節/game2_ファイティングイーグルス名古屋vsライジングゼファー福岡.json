@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6495,
+    "date": {
+        "season": "2020-21",
+        "month": "10.18",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "608人"
+    },
+    "referee": {
+        "first": "中川 行臣",
+        "second": "山内 正隆",
+        "crew": "野々村 日希"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "78",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8466,
+    "date": {
+        "season": "2021-22",
+        "month": "4.09",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "874人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "和嶋 陽一",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "62",
+        "away": "75"
+    }
+}

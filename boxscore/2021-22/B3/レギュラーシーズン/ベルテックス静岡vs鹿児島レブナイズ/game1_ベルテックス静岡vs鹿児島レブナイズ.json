@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7131,
+    "date": {
+        "season": "2021-22",
+        "month": "12.11",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "595人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "白川直弘",
+        "crew": "佐藤 浩太"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "83"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6560,
+    "date": {
+        "season": "2020-21",
+        "month": "11.21",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "937人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "梶 崇司",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "92",
+        "away": "71"
+    }
+}

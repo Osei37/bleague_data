@@ -1,0 +1,27 @@
+{
+    "schedule_key": 639,
+    "date": {
+        "season": "2016-17",
+        "month": "10.29",
+        "week": "[Sat]",
+        "setsu": "第06節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東広島運動公園体育館",
+        "attendance": "893人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "前花直哉",
+        "crew": "小川 隆三"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "105",
+        "away": "72"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8034,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1934人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "宇田津 浩史",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "80"
+    }
+}

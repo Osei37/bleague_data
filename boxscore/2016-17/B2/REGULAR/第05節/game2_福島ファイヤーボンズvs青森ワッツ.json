@@ -1,0 +1,27 @@
+{
+    "schedule_key": 624,
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": "[Sun]",
+        "setsu": "第05節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "白河中央体育館",
+        "attendance": "844人"
+    },
+    "referee": {
+        "first": "加川真",
+        "second": "東條輝正",
+        "crew": "漆間 大吾"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "82",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4184,
+    "date": {
+        "season": "2019-20",
+        "month": "10.13",
+        "week": "[SUN]",
+        "setsu": "第02節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "1386人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "安西郷史",
+        "crew": "守谷圭介"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "84"
+    }
+}

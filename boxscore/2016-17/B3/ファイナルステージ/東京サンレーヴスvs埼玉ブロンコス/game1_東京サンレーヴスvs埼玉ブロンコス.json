@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1273,
+    "date": {
+        "season": "2016-17",
+        "month": "4.21",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区総合スポーツセンター",
+        "attendance": "893人"
+    },
+    "referee": {
+        "first": "長尾繁徳",
+        "second": "遠藤大輔",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "76",
+        "away": "77"
+    }
+}

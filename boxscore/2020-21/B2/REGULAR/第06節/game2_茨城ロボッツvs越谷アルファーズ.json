@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6529,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1450人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "小田中 涼子",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "92"
+    }
+}

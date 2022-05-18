@@ -1,0 +1,27 @@
+{
+    "schedule_key": 643,
+    "date": {
+        "season": "2016-17",
+        "month": "10.30",
+        "week": "[Sun]",
+        "setsu": "第06節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "下館総合体育館",
+        "attendance": "512人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "大河原 則人",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "61"
+    }
+}

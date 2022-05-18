@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4766,
+    "date": {
+        "season": "2019-20",
+        "month": "10.16",
+        "week": "[WED]",
+        "setsu": "第05節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館サブアリーナ",
+        "attendance": "394人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "茅野修司",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "92"
+    }
+}

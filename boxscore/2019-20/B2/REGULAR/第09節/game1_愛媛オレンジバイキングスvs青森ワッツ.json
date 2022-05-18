@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4840,
+    "date": {
+        "season": "2019-20",
+        "month": "11.08",
+        "week": "[FRI]",
+        "setsu": "第09節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1054人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "高野 晃平",
+        "crew": "豊田 康平"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "78"
+    }
+}

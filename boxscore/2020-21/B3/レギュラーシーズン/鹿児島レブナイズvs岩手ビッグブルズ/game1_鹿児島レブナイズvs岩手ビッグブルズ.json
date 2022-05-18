@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5832,
+    "date": {
+        "season": "2020-21",
+        "month": "5.22",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "平和公園串良平和アリーナ",
+        "attendance": "406人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "秋山厚志",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "94"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8003,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第33節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1579人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "東條 輝正",
+        "crew": "長谷川 裕"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "80",
+        "away": "68"
+    }
+}

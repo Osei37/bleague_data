@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1095,
+    "date": {
+        "season": "2016-17",
+        "month": "10.08",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾総合市民体育館",
+        "attendance": "1290人"
+    },
+    "referee": {
+        "first": "構富士雄",
+        "second": "矢田伸一",
+        "crew": "山本達也"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "67"
+    }
+}

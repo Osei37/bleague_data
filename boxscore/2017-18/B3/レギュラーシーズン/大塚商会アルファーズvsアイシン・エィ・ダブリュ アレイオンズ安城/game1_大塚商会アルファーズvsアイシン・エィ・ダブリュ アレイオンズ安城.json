@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1483,
+    "date": {
+        "season": "2017-18",
+        "month": "2.24",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "308人"
+    },
+    "referee": {
+        "first": "鈴木寿之",
+        "second": "佐田幸一",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "91",
+        "away": "97"
+    }
+}

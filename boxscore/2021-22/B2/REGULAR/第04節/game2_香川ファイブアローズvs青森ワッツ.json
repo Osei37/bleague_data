@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8133,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "善通寺市民体育館",
+        "attendance": "458人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "前花 直哉",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "78"
+    }
+}

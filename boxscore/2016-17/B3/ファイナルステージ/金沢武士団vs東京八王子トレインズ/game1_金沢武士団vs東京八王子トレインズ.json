@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1274,
+    "date": {
+        "season": "2016-17",
+        "month": "4.22",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "905人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "渡邉浩二",
+        "crew": "川路宗勅"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "60"
+    }
+}

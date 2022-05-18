@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7528,
+    "date": {
+        "season": "2021-22",
+        "month": "11.07",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1438人"
+    },
+    "referee": {
+        "first": "細田 知宏",
+        "second": "蒲 健一",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "91",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3082,
+    "date": {
+        "season": "2018-19",
+        "month": "11.02",
+        "week": "[FRI]",
+        "setsu": "第07節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2363人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "平出剛",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "53",
+        "away": "67"
+    }
+}

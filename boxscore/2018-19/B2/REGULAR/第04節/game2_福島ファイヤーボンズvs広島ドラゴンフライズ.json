@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3583,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福島市国体記念体育館",
+        "attendance": "1063人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "岩城和利",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "84"
+    }
+}

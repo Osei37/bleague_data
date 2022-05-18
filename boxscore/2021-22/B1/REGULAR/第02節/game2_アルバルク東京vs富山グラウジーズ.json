@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7447,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": "[SUN]",
+        "setsu": "第02節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1359人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "細田 知宏",
+        "crew": "守谷 圭介"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "114",
+        "away": "81"
+    }
+}

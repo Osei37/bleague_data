@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7370,
+    "date": {
+        "season": "2021-22",
+        "month": "4.09",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "俵田翁記念体育館",
+        "attendance": "369人"
+    },
+    "referee": {
+        "first": "秋山厚志",
+        "second": "前花直哉",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "57",
+        "away": "114"
+    }
+}

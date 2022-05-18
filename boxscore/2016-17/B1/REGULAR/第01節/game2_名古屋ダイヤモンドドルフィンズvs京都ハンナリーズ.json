@@ -1,0 +1,27 @@
+{
+    "schedule_key": 16,
+    "date": {
+        "season": "2016-17",
+        "month": "9.25",
+        "week": "[Sun]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "4719人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "前田喜庸",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "79"
+    }
+}

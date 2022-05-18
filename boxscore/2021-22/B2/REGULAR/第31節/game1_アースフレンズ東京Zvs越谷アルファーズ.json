@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8476,
+    "date": {
+        "season": "2021-22",
+        "month": "4.16",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "612人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "中田 英教",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "113"
+    }
+}

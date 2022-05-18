@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4273,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "2175人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "塩谷禎",
+        "crew": "橋本恵一"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "66"
+    }
+}

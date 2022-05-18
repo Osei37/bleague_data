@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2832,
+    "date": {
+        "season": "2018-19",
+        "month": "12.29",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "486人"
+    },
+    "referee": {
+        "first": "鬼頭英伸",
+        "second": "北沢あや子",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "61"
+    }
+}

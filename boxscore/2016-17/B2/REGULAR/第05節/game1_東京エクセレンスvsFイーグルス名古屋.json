@@ -1,0 +1,27 @@
+{
+    "schedule_key": 617,
+    "date": {
+        "season": "2016-17",
+        "month": "10.22",
+        "week": "[Sat]",
+        "setsu": "第05節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "655人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "鈴木悟",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "67",
+        "away": "77"
+    }
+}

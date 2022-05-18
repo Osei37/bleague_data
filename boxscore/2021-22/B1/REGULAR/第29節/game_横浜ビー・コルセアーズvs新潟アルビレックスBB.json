@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7941,
+    "date": {
+        "season": "2021-22",
+        "month": "4.06",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "トッケイセキュリティ平塚総合体育館",
+        "attendance": "734人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "佐藤 誠",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "86",
+        "away": "76"
+    }
+}

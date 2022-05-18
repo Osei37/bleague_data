@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4770,
+    "date": {
+        "season": "2019-20",
+        "month": "10.16",
+        "week": "[WED]",
+        "setsu": "第05節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "639人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "前花直哉",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "71"
+    }
+}

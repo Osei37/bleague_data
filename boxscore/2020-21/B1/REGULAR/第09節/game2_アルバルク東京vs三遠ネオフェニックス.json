@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5987,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1064人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "細田 知宏",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "88",
+        "away": "65"
+    }
+}

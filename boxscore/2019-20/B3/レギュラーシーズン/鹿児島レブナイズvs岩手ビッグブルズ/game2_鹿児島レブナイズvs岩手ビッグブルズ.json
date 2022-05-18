@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5464,
+    "date": {
+        "season": "2019-20",
+        "month": "1.26",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島県総合体育センター体育館",
+        "attendance": "614人"
+    },
+    "referee": {
+        "first": "市川雄介",
+        "second": "伊藤彰二",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "66"
+    }
+}

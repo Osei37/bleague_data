@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4695,
+    "date": {
+        "season": "2019-20",
+        "month": "9.21",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "2541人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "平澤明男",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

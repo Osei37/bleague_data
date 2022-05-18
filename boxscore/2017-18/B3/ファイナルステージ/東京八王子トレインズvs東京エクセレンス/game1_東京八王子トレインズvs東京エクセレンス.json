@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1549,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1121人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "佐田幸一",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "95",
+        "away": "75"
+    }
+}

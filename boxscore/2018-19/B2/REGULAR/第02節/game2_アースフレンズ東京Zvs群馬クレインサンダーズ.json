@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3551,
+    "date": {
+        "season": "2018-19",
+        "month": "10.06",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1487人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "岩城和利",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "81"
+    }
+}

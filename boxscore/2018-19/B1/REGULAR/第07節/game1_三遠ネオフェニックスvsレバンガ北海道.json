@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3086,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1531人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "久保知仁",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "86",
+        "away": "80"
+    }
+}

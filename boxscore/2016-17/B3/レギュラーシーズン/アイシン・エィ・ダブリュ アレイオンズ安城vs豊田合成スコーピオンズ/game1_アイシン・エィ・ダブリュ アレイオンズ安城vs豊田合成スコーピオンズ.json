@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1143,
+    "date": {
+        "season": "2016-17",
+        "month": "12.03",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "237人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "中根俊彦",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "62"
+    }
+}

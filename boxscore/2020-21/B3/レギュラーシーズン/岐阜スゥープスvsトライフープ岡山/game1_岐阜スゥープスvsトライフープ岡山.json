@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5760,
+    "date": {
+        "season": "2020-21",
+        "month": "4.10",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "513人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "境圭介",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "82",
+        "away": "95"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7393,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千葉県立館山運動公園体育館",
+        "attendance": "773人"
+    },
+    "referee": {
+        "first": "一色 渉",
+        "second": "浅野祐樹",
+        "crew": "望月 直幸"
+    },
+    "team": {
+        "home": "アルティーリ千葉",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "83",
+        "away": "96"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6510,
+    "date": {
+        "season": "2020-21",
+        "month": "10.24",
+        "week": "[SAT]",
+        "setsu": "第04節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "663人"
+    },
+    "referee": {
+        "first": "早崎 康祐",
+        "second": "大野 哲広",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "84"
+    }
+}

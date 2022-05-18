@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8095,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": "[SUN]",
+        "setsu": "第02節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "FLAT HACHINOHE",
+        "attendance": "723人"
+    },
+    "referee": {
+        "first": "芳賀 聡",
+        "second": "北沢 あや子",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "56",
+        "away": "68"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2819,
+    "date": {
+        "season": "2018-19",
+        "month": "12.23",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "69人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "池田隼人",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "63",
+        "away": "94"
+    }
+}

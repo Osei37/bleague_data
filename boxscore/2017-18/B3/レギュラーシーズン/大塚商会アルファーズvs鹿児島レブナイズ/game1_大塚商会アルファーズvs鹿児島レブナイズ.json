@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1383,
+    "date": {
+        "season": "2017-18",
+        "month": "11.11",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "106人"
+    },
+    "referee": {
+        "first": "古川俊和",
+        "second": "鈴木寿之",
+        "crew": "秋葉智"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "77"
+    }
+}

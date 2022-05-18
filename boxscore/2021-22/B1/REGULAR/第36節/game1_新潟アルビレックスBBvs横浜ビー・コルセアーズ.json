@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8066,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "1513人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "鈴木 悟",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "70",
+        "away": "76"
+    }
+}

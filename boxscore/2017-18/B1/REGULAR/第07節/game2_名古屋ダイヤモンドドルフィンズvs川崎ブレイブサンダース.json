@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1679,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第07節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛知県体育館",
+        "attendance": "1901人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "北沢岳夫",
+        "crew": "加川真"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "89",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4738,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1017人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "幡丸 登志久",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "73"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7439,
+    "date": {
+        "season": "2021-22",
+        "month": "10.03",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "12:55 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1979人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "松本 究",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "85",
+        "away": "82"
+    }
+}

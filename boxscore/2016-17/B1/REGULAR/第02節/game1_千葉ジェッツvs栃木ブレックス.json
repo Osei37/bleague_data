@@ -1,0 +1,27 @@
+{
+    "schedule_key": 22,
+    "date": {
+        "season": "2016-17",
+        "month": "10.01",
+        "week": "[Sat]",
+        "setsu": "第02節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5293人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "安西郷史",
+        "crew": "玉木彰治"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "57",
+        "away": "83"
+    }
+}

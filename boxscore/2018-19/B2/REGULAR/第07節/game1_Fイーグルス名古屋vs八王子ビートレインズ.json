@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3635,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1236人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "大谷英紀",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "八王子ビートレインズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "68"
+    }
+}

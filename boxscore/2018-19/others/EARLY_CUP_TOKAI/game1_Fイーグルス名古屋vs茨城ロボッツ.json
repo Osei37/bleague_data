@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4080,
+    "date": {
+        "season": "2018-19",
+        "month": "9.07",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "井出 啓太",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "76",
+        "away": "90"
+    }
+}

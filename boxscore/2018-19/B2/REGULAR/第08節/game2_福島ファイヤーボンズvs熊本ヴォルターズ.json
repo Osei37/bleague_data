@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3648,
+    "date": {
+        "season": "2018-19",
+        "month": "11.11",
+        "week": "[SUN]",
+        "setsu": "第08節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1158人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "平澤明男",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "84"
+    }
+}

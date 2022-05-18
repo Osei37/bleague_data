@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8015,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第33節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1240人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "佐藤 誠",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "78",
+        "away": "98"
+    }
+}

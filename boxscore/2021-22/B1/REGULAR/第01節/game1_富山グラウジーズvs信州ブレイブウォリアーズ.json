@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7430,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2154人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "宇田津 浩史",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "72"
+    }
+}

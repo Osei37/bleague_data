@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1558,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日野市市民の森ふれあいホール",
+        "attendance": "753人"
+    },
+    "referee": {
+        "first": "鈴木寿之",
+        "second": "木下晋一",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "76"
+    }
+}

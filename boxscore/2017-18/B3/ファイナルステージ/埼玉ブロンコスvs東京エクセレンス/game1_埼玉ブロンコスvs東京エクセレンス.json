@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1513,
+    "date": {
+        "season": "2017-18",
+        "month": "3.24",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "さいたまスーパーアリーナ（コミュニティアリーナ）",
+        "attendance": "3092人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "矢田伸一",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "61",
+        "away": "90"
+    }
+}

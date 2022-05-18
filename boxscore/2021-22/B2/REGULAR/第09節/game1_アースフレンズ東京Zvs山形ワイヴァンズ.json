@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8187,
+    "date": {
+        "season": "2021-22",
+        "month": "11.29",
+        "week": "[MON]",
+        "setsu": "第09節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大森スポーツセンター",
+        "attendance": "275人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "皆川 義紀",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "63"
+    }
+}

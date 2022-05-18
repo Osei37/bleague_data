@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4259,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4495人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "久保知仁",
+        "crew": "小澤勤"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "102",
+        "away": "67"
+    }
+}

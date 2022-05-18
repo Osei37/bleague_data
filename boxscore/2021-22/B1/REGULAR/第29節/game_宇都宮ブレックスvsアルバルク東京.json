@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7937,
+    "date": {
+        "season": "2021-22",
+        "month": "4.06",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2609人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "加藤 暁生",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "65",
+        "away": "77"
+    }
+}

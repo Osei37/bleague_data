@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8185,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "904人"
+    },
+    "referee": {
+        "first": "松岡 隆博",
+        "second": "山内 正隆",
+        "crew": "大山 賢史"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "88",
+        "away": "76"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1413,
+    "date": {
+        "season": "2017-18",
+        "month": "12.16",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大治町スポーツセンター",
+        "attendance": "275人"
+    },
+    "referee": {
+        "first": "川本正治",
+        "second": "望月公平",
+        "crew": "中根俊彦"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "87",
+        "away": "65"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5309,
+    "date": {
+        "season": "2019-20",
+        "month": "10.19",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館",
+        "attendance": "562人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "皆川義紀",
+        "crew": "大下俊之"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "92",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4821,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": "[SUN]",
+        "setsu": "第08節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1961人"
+    },
+    "referee": {
+        "first": "玉木彰治",
+        "second": "原田拓朗",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "89"
+    }
+}

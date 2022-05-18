@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7005,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "俵田翁記念体育館",
+        "attendance": "1213人"
+    },
+    "referee": {
+        "first": "秋山厚志",
+        "second": "西崎拓哉",
+        "crew": "深野木慧"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "92"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7162,
+    "date": {
+        "season": "2021-22",
+        "month": "12.26",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加賀市スポーツセンター",
+        "attendance": "230人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "渡邉浩二",
+        "crew": "大倉 哲也"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "57",
+        "away": "85"
+    }
+}

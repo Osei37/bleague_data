@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1441,
+    "date": {
+        "season": "2017-18",
+        "month": "1.19",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "さいたま市記念総合体育館",
+        "attendance": "204人"
+    },
+    "referee": {
+        "first": "藤代透",
+        "second": "廣瀬俊昭",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "76",
+        "away": "64"
+    }
+}

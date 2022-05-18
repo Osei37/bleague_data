@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1349,
+    "date": {
+        "season": "2017-18",
+        "month": "10.07",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "湧水町吉松体育館",
+        "attendance": "340人"
+    },
+    "referee": {
+        "first": "石嶺良方",
+        "second": "井元誠",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "84",
+        "away": "85"
+    }
+}

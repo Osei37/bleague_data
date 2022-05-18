@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7454,
+    "date": {
+        "season": "2021-22",
+        "month": "10.09",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1545人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "早崎 康祐",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "78",
+        "away": "90"
+    }
+}

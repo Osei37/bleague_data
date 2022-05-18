@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3577,
+    "date": {
+        "season": "2018-19",
+        "month": "10.14",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2118人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "前花直哉",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "78"
+    }
+}

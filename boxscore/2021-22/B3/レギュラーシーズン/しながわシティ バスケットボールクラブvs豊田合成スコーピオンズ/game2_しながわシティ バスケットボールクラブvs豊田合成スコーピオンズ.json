@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7109,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": null,
+        "setsu": null,
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "57人"
+    },
+    "referee": {
+        "first": "内野翔太",
+        "second": "佐田幸一",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "101"
+    }
+}

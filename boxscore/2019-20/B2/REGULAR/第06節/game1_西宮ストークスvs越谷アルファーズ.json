@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4782,
+    "date": {
+        "season": "2019-20",
+        "month": "10.19",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1470人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "岩木太郎",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "74"
+    }
+}

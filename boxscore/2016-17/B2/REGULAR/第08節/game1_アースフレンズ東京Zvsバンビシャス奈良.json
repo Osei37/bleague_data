@@ -1,0 +1,27 @@
+{
+    "schedule_key": 683,
+    "date": {
+        "season": "2016-17",
+        "month": "11.19",
+        "week": "[Sat]",
+        "setsu": "第08節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "片柳アリーナ（東京工科大学・日本工学院　蒲田キャンパス）",
+        "attendance": "1238人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "山内正隆",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "76",
+        "away": "74"
+    }
+}

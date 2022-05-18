@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7707,
+    "date": {
+        "season": "2021-22",
+        "month": "5.04",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "2437人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "東條 輝正",
+        "crew": "谷地 温"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "97",
+        "away": "89"
+    }
+}

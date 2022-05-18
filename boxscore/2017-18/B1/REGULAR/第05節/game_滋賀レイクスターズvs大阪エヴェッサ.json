@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1651,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第05節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1869人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "漆間大吾",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "83",
+        "away": "67"
+    }
+}

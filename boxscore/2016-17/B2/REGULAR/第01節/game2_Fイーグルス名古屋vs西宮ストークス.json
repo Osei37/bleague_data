@@ -1,0 +1,27 @@
+{
+    "schedule_key": 555,
+    "date": {
+        "season": "2016-17",
+        "month": "9.25",
+        "week": "[Sun]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1042人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "地頭薗 剛",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "50",
+        "away": "63"
+    }
+}

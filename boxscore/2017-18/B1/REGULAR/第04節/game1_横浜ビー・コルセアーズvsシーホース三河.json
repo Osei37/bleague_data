@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1633,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第04節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "3506人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "阿部聖",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "73",
+        "away": "79"
+    }
+}

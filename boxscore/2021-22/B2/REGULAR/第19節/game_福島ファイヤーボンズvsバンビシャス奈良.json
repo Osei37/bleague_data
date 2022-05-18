@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8319,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": "[SAT]",
+        "setsu": "第19節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "田村市総合体育館",
+        "attendance": "1458人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "北沢 あや子",
+        "crew": "遠藤 大輔"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "96",
+        "away": "58"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3011,
+    "date": {
+        "season": "2018-19",
+        "month": "10.13",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4815人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "安西郷史",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "80"
+    }
+}

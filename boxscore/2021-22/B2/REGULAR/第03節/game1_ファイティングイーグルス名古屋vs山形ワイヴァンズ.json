@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8116,
+    "date": {
+        "season": "2021-22",
+        "month": "10.16",
+        "week": "[SAT]",
+        "setsu": "第03節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "555人"
+    },
+    "referee": {
+        "first": "岩月 遼司",
+        "second": "冨島 健司",
+        "crew": "内田 祥平"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "58"
+    }
+}

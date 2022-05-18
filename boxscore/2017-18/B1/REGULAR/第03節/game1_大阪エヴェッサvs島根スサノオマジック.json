@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1623,
+    "date": {
+        "season": "2017-18",
+        "month": "10.14",
+        "week": "[Sat]",
+        "setsu": "第03節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "府民共済SUPERアリーナ",
+        "attendance": "1797人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "伊藤亮介",
+        "crew": "甲斐清"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "72",
+        "away": "78"
+    }
+}

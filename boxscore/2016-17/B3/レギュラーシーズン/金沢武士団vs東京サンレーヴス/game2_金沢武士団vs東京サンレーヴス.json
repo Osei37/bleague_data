@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1177,
+    "date": {
+        "season": "2016-17",
+        "month": "1.08",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "955人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "丸山大",
+        "crew": "山本達也"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "83",
+        "away": "68"
+    }
+}

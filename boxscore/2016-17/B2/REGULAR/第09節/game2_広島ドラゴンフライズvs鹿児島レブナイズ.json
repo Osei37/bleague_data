@@ -1,0 +1,27 @@
+{
+    "schedule_key": 702,
+    "date": {
+        "season": "2016-17",
+        "month": "11.27",
+        "week": "[Sun]",
+        "setsu": "第09節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "福山市緑町公園屋内競技場(ローズアリーナ)",
+        "attendance": "1307人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "橋本恵一",
+        "crew": "薦田 侑二郎"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "58"
+    }
+}

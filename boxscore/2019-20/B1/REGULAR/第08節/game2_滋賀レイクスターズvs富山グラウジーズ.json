@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4270,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2327人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "黒岡和哲",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "69"
+    }
+}

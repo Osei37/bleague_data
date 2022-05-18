@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1251,
+    "date": {
+        "season": "2016-17",
+        "month": "3.12",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "169人"
+    },
+    "referee": {
+        "first": "川路宗勅",
+        "second": "山本邦博",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "36",
+        "away": "77"
+    }
+}

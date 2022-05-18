@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7479,
+    "date": {
+        "season": "2021-22",
+        "month": "10.17",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "1308人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "眞榮喜 工",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "95"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5689,
+    "date": {
+        "season": "2020-21",
+        "month": "2.21",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "408人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "佐田幸一",
+        "crew": "島袋竹志"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "90"
+    }
+}

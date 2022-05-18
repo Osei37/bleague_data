@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7993,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1015人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "大野 太裕",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "78"
+    }
+}

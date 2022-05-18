@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5296,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "265人"
+    },
+    "referee": {
+        "first": "岩城和利",
+        "second": "内田祥平",
+        "crew": "田中 優志"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "65"
+    }
+}

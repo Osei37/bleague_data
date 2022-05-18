@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2961,
+    "date": {
+        "season": "2018-19",
+        "month": "4.07",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "下呂交流会館",
+        "attendance": "344人"
+    },
+    "referee": {
+        "first": "田中豊弘",
+        "second": "竹田 雄介",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "74"
+    }
+}

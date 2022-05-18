@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4097,
+    "date": {
+        "season": "2018-19",
+        "month": "9.08",
+        "week": null,
+        "setsu": null,
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "エディオンアリーナ大阪(大阪府立体育会館)",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "冨島健司",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "53",
+        "away": "101"
+    }
+}

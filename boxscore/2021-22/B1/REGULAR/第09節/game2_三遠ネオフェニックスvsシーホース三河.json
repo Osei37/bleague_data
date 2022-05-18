@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7587,
+    "date": {
+        "season": "2021-22",
+        "month": "12.05",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1239人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "谷古宇 孝",
+        "crew": "蒲 健一"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "73",
+        "away": "98"
+    }
+}

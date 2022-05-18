@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7994,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1995人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "小澤 勤",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "68",
+        "away": "64"
+    }
+}

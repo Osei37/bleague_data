@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4786,
+    "date": {
+        "season": "2019-20",
+        "month": "10.19",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "335人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "田中豊弘",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "80"
+    }
+}

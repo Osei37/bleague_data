@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7368,
+    "date": {
+        "season": "2021-22",
+        "month": "4.09",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越前市AW-Iスポーツアリーナ",
+        "attendance": "237人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "野々村日希",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "87",
+        "away": "80"
+    }
+}
