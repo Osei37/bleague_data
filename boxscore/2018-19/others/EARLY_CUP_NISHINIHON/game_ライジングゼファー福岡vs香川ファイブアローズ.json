@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5266,
+    "date": {
+        "season": "2018-19",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "豊田 康平",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "88"
+    }
+}

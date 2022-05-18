@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5980,
+    "date": {
+        "season": "2020-21",
+        "month": "11.11",
+        "week": "[WED]",
+        "setsu": "第08節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1345人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "高野 晃平",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "82",
+        "away": "101"
+    }
+}

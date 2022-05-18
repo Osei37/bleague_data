@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8010,
+    "date": {
+        "season": "2021-22",
+        "month": "4.24",
+        "week": "[SUN]",
+        "setsu": "第33節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4052人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "小澤 勤",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "82",
+        "away": "66"
+    }
+}

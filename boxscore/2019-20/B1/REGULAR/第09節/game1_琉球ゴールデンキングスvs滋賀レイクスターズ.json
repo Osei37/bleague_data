@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4293,
+    "date": {
+        "season": "2019-20",
+        "month": "11.16",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3266人"
+    },
+    "referee": {
+        "first": "平原勇次",
+        "second": "東條輝正",
+        "crew": "蒲健一"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "56"
+    }
+}

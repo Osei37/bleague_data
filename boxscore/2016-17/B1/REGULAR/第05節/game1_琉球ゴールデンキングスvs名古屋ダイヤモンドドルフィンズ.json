@@ -1,0 +1,27 @@
+{
+    "schedule_key": 82,
+    "date": {
+        "season": "2016-17",
+        "month": "10.22",
+        "week": "[Sat]",
+        "setsu": "第05節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3426人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "田島寛治",
+        "crew": "谷古宇孝"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "58"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1245,
+    "date": {
+        "season": "2016-17",
+        "month": "3.11",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "武蔵野総合体育館",
+        "attendance": "616人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "廣瀬渉",
+        "crew": "丸山大"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "67",
+        "away": "93"
+    }
+}

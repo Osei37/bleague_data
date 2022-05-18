@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4285,
+    "date": {
+        "season": "2019-20",
+        "month": "11.16",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "4368人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "小澤勤",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "63",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 52,
+    "date": {
+        "season": "2016-17",
+        "month": "10.09",
+        "week": "[Sun]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1682人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "谷古宇孝",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "74"
+    }
+}

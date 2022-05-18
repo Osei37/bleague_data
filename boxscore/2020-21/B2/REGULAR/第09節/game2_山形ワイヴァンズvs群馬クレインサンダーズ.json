@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6577,
+    "date": {
+        "season": "2020-21",
+        "month": "11.29",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "800人"
+    },
+    "referee": {
+        "first": "高城 邦弘",
+        "second": "松岡 隆博",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "77"
+    }
+}

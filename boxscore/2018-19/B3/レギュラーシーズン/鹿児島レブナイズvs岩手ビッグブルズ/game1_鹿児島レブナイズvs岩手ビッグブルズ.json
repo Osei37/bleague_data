@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2858,
+    "date": {
+        "season": "2018-19",
+        "month": "1.19",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "501人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "大山直輝",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "72"
+    }
+}

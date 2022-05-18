@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7340,
+    "date": {
+        "season": "2021-22",
+        "month": "3.26",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "キリンレモンスタジアム ソルトアリーナ防府",
+        "attendance": "435人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "岡井元毅",
+        "crew": "和田敏文"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "79",
+        "away": "101"
+    }
+}

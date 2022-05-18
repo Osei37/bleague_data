@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1596,
+    "date": {
+        "season": "2017-18",
+        "month": "10.10",
+        "week": "[Tue]",
+        "setsu": "第02節",
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "駒沢オリンピック公園総合運動場体育館",
+        "attendance": "1789人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "平出剛",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "95",
+        "away": "97"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1490,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "本庄総合公園体育館",
+        "attendance": "257人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "古川俊和",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1109,
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "加賀市スポーツセンター",
+        "attendance": "1002人"
+    },
+    "referee": {
+        "first": "川路宗勅",
+        "second": "丸山大",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "ライジングゼファーフクオカ"
+    },
+    "score": {
+        "home": "76",
+        "away": "64"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2668,
+    "date": {
+        "season": "2017-18",
+        "month": "9.01",
+        "week": null,
+        "setsu": null,
+        "time": "20:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "993人"
+    },
+    "referee": {
+        "first": "大倉守正",
+        "second": "丸山大",
+        "crew": "山本邦博"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "87",
+        "away": "76"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8338,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "902人"
+    },
+    "referee": {
+        "first": "松本 究",
+        "second": "名越 龍男",
+        "crew": "岩城 和利"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "98",
+        "away": "68"
+    }
+}

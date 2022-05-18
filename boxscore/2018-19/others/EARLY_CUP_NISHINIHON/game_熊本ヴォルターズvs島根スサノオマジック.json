@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5272,
+    "date": {
+        "season": "2018-19",
+        "month": "9.16",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "有澤重行",
+        "second": "相原伸康",
+        "crew": "松本究"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "68",
+        "away": "59"
+    }
+}

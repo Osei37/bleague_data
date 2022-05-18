@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8137,
+    "date": {
+        "season": "2021-22",
+        "month": "11.07",
+        "week": "[SUN]",
+        "setsu": "第05節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "田村市総合体育館",
+        "attendance": "637人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "嶋崎 貴",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "77",
+        "away": "73"
+    }
+}

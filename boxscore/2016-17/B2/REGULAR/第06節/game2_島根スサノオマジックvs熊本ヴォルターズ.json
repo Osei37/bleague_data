@@ -1,0 +1,27 @@
+{
+    "schedule_key": 646,
+    "date": {
+        "season": "2016-17",
+        "month": "10.30",
+        "week": "[Sun]",
+        "setsu": "第06節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿島総合体育館",
+        "attendance": "1230人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "東考生",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "72"
+    }
+}

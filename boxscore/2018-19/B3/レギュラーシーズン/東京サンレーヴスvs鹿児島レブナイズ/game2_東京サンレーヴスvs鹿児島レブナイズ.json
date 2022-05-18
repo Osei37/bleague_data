@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2805,
+    "date": {
+        "season": "2018-19",
+        "month": "12.14",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "243人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "北沢あや子",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "80"
+    }
+}

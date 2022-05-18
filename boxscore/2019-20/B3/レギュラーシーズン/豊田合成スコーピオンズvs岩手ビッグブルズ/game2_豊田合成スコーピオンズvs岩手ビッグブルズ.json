@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5354,
+    "date": {
+        "season": "2019-20",
+        "month": "11.10",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成健康管理センター",
+        "attendance": "319人"
+    },
+    "referee": {
+        "first": "浅野祐樹",
+        "second": "田中 優志",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "83"
+    }
+}

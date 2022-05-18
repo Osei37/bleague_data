@@ -1,0 +1,27 @@
+{
+    "schedule_key": 545,
+    "date": {
+        "season": "2016-17",
+        "month": "9.24",
+        "week": "[Sat]",
+        "setsu": "第01節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千曲市戸倉体育館",
+        "attendance": "1023人"
+    },
+    "referee": {
+        "first": "山内俊幸",
+        "second": "鬼頭 英伸",
+        "crew": "大河原 則人"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "72",
+        "away": "74"
+    }
+}

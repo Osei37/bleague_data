@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5936,
+    "date": {
+        "season": "2020-21",
+        "month": "10.24",
+        "week": "[SAT]",
+        "setsu": "第05節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "644人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "高野 晃平",
+        "crew": "渡邉 浩二"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "92",
+        "away": "86"
+    }
+}

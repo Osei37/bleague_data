@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3579,
+    "date": {
+        "season": "2018-19",
+        "month": "10.14",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "816人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "白川一樹",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "82",
+        "away": "88"
+    }
+}

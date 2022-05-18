@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2654,
+    "date": {
+        "season": "2017-18",
+        "month": "9.01",
+        "week": null,
+        "setsu": null,
+        "time": "20:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "北島寛臣",
+        "crew": "中川行臣"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "88",
+        "away": "67"
+    }
+}

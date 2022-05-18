@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7441,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "4039人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "阿部 聖",
+        "crew": "伊藤 亮介"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "82",
+        "away": "75"
+    }
+}

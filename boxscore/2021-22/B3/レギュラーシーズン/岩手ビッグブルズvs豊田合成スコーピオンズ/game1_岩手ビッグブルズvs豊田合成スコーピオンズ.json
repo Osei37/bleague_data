@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7084,
+    "date": {
+        "season": "2021-22",
+        "month": "11.20",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八幡平市総合運動公園体育館",
+        "attendance": "451人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "加川 真",
+        "crew": "笹井彪我"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "98",
+        "away": "61"
+    }
+}

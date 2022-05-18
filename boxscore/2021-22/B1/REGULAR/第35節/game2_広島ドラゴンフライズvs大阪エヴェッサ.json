@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8057,
+    "date": {
+        "season": "2021-22",
+        "month": "5.01",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2403人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "早崎 康祐",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "90",
+        "away": "59"
+    }
+}

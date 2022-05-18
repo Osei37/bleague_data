@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1100,
+    "date": {
+        "season": "2016-17",
+        "month": "10.15",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八王子学園八王子高等学校",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "審判01",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "20",
+        "away": "0"
+    }
+}

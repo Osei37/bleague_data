@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7197,
+    "date": {
+        "season": "2021-22",
+        "month": "1.15",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "698人"
+    },
+    "referee": {
+        "first": "加藤 暁生",
+        "second": "長谷川 裕",
+        "crew": "茂泉 圭治"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "95",
+        "away": "83"
+    }
+}

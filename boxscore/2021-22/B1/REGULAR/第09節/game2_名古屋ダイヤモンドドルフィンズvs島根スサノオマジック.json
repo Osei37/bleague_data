@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7589,
+    "date": {
+        "season": "2021-22",
+        "month": "12.05",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "2127人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "久保 知仁",
+        "crew": "一色 渉"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "86",
+        "away": "94"
+    }
+}

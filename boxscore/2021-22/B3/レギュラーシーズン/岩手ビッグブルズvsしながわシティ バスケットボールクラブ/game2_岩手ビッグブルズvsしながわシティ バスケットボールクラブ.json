@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7203,
+    "date": {
+        "season": "2021-22",
+        "month": "1.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "久慈市民体育館",
+        "attendance": "651人"
+    },
+    "referee": {
+        "first": "中道凌平",
+        "second": "伊藤睦哲",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "83",
+        "away": "64"
+    }
+}

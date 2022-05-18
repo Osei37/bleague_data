@@ -1,0 +1,27 @@
+{
+    "schedule_key": 583,
+    "date": {
+        "season": "2016-17",
+        "month": "10.08",
+        "week": "[Sat]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "785人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "白川 直弘",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "66",
+        "away": "83"
+    }
+}

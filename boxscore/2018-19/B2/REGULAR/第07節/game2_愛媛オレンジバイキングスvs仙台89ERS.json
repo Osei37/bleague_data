@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3640,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1626人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "黒岡和哲",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "74",
+        "away": "97"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2908,
+    "date": {
+        "season": "2018-19",
+        "month": "2.23",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "170人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "木村健太郎",
+        "crew": "浅野祐樹"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "75",
+        "away": "94"
+    }
+}

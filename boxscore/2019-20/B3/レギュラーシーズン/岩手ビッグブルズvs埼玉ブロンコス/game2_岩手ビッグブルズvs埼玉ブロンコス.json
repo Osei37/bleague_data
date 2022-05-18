@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5294,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "632人"
+    },
+    "referee": {
+        "first": "香野学",
+        "second": "伊藤睦哲",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "72",
+        "away": "68"
+    }
+}

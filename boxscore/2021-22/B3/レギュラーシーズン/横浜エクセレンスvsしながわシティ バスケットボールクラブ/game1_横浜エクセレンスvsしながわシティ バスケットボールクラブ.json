@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7337,
+    "date": {
+        "season": "2021-22",
+        "month": "3.25",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "298人"
+    },
+    "referee": {
+        "first": "小島慶子",
+        "second": "小澤 朋克",
+        "crew": "松永 航平"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "85",
+        "away": "80"
+    }
+}

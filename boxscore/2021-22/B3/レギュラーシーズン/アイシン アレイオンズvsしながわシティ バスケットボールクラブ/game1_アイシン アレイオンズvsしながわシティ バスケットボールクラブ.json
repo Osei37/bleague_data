@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7046,
+    "date": {
+        "season": "2021-22",
+        "month": "10.23",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西尾市総合体育館",
+        "attendance": "257人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "坂井元直",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "87",
+        "away": "47"
+    }
+}

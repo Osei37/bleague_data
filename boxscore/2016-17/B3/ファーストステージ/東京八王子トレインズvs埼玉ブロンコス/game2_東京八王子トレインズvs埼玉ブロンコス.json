@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1108,
+    "date": {
+        "season": "2016-17",
+        "month": "10.23",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "612人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "笠島喜与都",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "95",
+        "away": "85"
+    }
+}

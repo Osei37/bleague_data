@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3531,
+    "date": {
+        "season": "2018-19",
+        "month": "9.30",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1609人"
+    },
+    "referee": {
+        "first": "久保知仁",
+        "second": "加藤暁生",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "85",
+        "away": "62"
+    }
+}

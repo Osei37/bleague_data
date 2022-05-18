@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4717,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "604人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "田中豊弘",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "81",
+        "away": "74"
+    }
+}

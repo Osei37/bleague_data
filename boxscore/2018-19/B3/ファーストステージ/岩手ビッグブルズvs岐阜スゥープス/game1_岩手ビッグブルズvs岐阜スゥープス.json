@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2748,
+    "date": {
+        "season": "2018-19",
+        "month": "10.27",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "532人"
+    },
+    "referee": {
+        "first": "岩城和利",
+        "second": "一色渉",
+        "crew": "桑原一貴"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "74",
+        "away": "65"
+    }
+}

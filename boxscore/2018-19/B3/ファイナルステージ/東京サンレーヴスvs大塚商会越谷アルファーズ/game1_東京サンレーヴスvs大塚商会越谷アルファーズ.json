@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2950,
+    "date": {
+        "season": "2018-19",
+        "month": "3.29",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区立総合スポーツセンター",
+        "attendance": "357人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "遠藤大輔",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "77"
+    }
+}

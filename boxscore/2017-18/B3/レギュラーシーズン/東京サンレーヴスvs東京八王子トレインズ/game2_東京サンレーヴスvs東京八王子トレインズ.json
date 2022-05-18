@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1428,
+    "date": {
+        "season": "2017-18",
+        "month": "1.07",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日野市市民の森ふれあいホール",
+        "attendance": "475人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "渡邉浩二",
+        "crew": "山本達也"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京八王子トレインズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "106"
+    }
+}

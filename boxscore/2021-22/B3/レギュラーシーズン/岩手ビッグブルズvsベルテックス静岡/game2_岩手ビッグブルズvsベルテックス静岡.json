@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7371,
+    "date": {
+        "season": "2021-22",
+        "month": "4.10",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "988人"
+    },
+    "referee": {
+        "first": "中道凌平",
+        "second": "武田亜沙美",
+        "crew": "笹井 彪我"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "58",
+        "away": "77"
+    }
+}

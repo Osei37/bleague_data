@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8127,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "1034人"
+    },
+    "referee": {
+        "first": "橋本 恵一",
+        "second": "小田中 涼子",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "52",
+        "away": "79"
+    }
+}

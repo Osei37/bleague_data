@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1381,
+    "date": {
+        "season": "2017-18",
+        "month": "11.11",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "忍野中学校",
+        "attendance": "562人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "木下晋一",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "100",
+        "away": "53"
+    }
+}

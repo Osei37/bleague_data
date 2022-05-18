@@ -1,0 +1,27 @@
+{
+    "schedule_key": 556,
+    "date": {
+        "season": "2016-17",
+        "month": "9.25",
+        "week": "[Sun]",
+        "setsu": "第01節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1329人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "東考生",
+        "crew": "白川 直弘"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "59"
+    }
+}

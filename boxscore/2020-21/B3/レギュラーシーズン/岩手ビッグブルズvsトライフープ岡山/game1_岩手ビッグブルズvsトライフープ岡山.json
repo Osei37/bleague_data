@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5776,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "634人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "山田俊",
+        "crew": "古川俊和"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "64",
+        "away": "82"
+    }
+}

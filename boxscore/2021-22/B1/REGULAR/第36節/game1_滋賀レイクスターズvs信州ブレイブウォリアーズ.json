@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8072,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1532人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "松本 究",
+        "crew": "小畑 治"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "81"
+    }
+}

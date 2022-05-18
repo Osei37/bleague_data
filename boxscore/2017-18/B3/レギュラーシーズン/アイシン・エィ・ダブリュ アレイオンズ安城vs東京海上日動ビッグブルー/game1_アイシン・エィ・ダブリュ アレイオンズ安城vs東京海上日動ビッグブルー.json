@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1495,
+    "date": {
+        "season": "2017-18",
+        "month": "3.03",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "203人"
+    },
+    "referee": {
+        "first": "川本正治",
+        "second": "井元誠",
+        "crew": "勝原芳徳"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "90",
+        "away": "88"
+    }
+}

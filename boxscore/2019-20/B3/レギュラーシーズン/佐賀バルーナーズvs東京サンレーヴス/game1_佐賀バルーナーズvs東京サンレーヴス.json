@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5279,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館",
+        "attendance": "730人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "原田拓朗",
+        "crew": "川井 剛"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "82",
+        "away": "76"
+    }
+}

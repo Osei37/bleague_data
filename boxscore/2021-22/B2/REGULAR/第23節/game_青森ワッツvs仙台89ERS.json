@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8368,
+    "date": {
+        "season": "2021-22",
+        "month": "4.13",
+        "week": "[WED]",
+        "setsu": "第23節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青森県武道館",
+        "attendance": "191人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "鈴木 悟",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "77",
+        "away": "87"
+    }
+}

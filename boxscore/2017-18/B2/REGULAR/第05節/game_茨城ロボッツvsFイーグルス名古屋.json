@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2188,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第05節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1791人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "小田中涼子",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "80",
+        "away": "65"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7442,
+    "date": {
+        "season": "2021-22",
+        "month": "10.08",
+        "week": "[FRI]",
+        "setsu": "第02節",
+        "time": "19:25 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "1891人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "大河原 則人",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "77",
+        "away": "68"
+    }
+}

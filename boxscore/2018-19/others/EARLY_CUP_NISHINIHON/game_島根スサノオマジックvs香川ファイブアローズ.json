@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4102,
+    "date": {
+        "season": "2018-19",
+        "month": "9.07",
+        "week": null,
+        "setsu": null,
+        "time": "20:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "秋山厚志",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "89"
+    }
+}

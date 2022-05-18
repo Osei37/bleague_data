@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7399,
+    "date": {
+        "season": "2021-22",
+        "month": "4.24",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "2055人"
+    },
+    "referee": {
+        "first": "北沢 あや子",
+        "second": "伊藤睦哲",
+        "crew": "山田俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "長崎ヴェルカ"
+    },
+    "score": {
+        "home": "58",
+        "away": "89"
+    }
+}

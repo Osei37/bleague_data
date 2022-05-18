@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6000,
+    "date": {
+        "season": "2020-21",
+        "month": "11.14",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "エフピコアリーナふくやま",
+        "attendance": "1745人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "甲斐 清",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "54",
+        "away": "84"
+    }
+}

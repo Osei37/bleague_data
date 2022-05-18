@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5419,
+    "date": {
+        "season": "2019-20",
+        "month": "12.28",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東村山市民スポーツセンター",
+        "attendance": "268人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "大下俊之",
+        "crew": "内野翔太"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "73",
+        "away": "87"
+    }
+}

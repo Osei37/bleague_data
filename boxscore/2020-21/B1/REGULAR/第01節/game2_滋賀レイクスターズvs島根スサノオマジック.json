@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5869,
+    "date": {
+        "season": "2020-21",
+        "month": "10.04",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "645人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "岩木 太郎",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "63",
+        "away": "75"
+    }
+}

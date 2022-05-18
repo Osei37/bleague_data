@@ -1,0 +1,27 @@
+{
+    "schedule_key": 596,
+    "date": {
+        "season": "2016-17",
+        "month": "10.15",
+        "week": "[Sat]",
+        "setsu": "第04節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "スポカルイン黒石",
+        "attendance": "1409人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "平出 剛",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "78"
+    }
+}

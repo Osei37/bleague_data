@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4246,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4847人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "北沢岳夫",
+        "crew": "小畑治"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "61"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5270,
+    "date": {
+        "season": "2018-19",
+        "month": "9.15",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "伊藤彰二",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "74"
+    }
+}

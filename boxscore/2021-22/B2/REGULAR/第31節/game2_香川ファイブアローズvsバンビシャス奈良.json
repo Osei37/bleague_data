@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8483,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1204人"
+    },
+    "referee": {
+        "first": "加藤 昌樹",
+        "second": "小畑 治",
+        "crew": "大谷 英紀"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "96",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7318,
+    "date": {
+        "season": "2021-22",
+        "month": "3.13",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "甚目寺総合体育館",
+        "attendance": "177人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "井出啓太",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "81",
+        "away": "98"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2229,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "伊予市民体育館",
+        "attendance": "430人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "早崎康祐",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "93",
+        "away": "86"
+    }
+}

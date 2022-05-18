@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7362,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "長崎県立総合体育館",
+        "attendance": "1004人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "西崎 拓哉",
+        "crew": "中村達哉"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "131",
+        "away": "88"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6490,
+    "date": {
+        "season": "2020-21",
+        "month": "10.17",
+        "week": "[SAT]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日立市池の川さくらアリーナ",
+        "attendance": "909人"
+    },
+    "referee": {
+        "first": "遠藤 大輔",
+        "second": "大山 賢史",
+        "crew": "富樫 彰子"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "99",
+        "away": "76"
+    }
+}

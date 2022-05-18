@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3032,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "3179人"
+    },
+    "referee": {
+        "first": "佐藤誠",
+        "second": "針生淳男",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "73",
+        "away": "53"
+    }
+}

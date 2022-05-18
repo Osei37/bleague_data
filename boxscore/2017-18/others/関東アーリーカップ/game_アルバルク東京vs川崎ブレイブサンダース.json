@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2657,
+    "date": {
+        "season": "2017-18",
+        "month": "9.02",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "前田喜庸",
+        "second": "加納康平",
+        "crew": "冨士将史"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "63",
+        "away": "62"
+    }
+}

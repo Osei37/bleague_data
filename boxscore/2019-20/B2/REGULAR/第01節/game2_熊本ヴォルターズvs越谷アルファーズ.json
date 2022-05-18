@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4708,
+    "date": {
+        "season": "2019-20",
+        "month": "9.22",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "3697人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "御手洗亮",
+        "crew": "原田拓朗"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "73"
+    }
+}

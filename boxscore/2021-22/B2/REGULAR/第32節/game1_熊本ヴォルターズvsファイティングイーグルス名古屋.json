@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8498,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1507人"
+    },
+    "referee": {
+        "first": "中田 英教",
+        "second": "皆川 義紀",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "63",
+        "away": "78"
+    }
+}

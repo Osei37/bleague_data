@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8011,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第33節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2043人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "高城 邦弘",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "94",
+        "away": "92"
+    }
+}

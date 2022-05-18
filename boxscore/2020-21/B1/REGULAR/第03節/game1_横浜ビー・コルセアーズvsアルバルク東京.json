@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5902,
+    "date": {
+        "season": "2020-21",
+        "month": "10.17",
+        "week": "[SAT]",
+        "setsu": "第03節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1456人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "谷古宇 孝",
+        "crew": "蒲 健一"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "57",
+        "away": "83"
+    }
+}

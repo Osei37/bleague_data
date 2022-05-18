@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5769,
+    "date": {
+        "season": "2020-21",
+        "month": "4.18",
+        "week": null,
+        "setsu": null,
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "御殿場市体育館",
+        "attendance": "382人"
+    },
+    "referee": {
+        "first": "長谷川裕",
+        "second": "茂泉圭治",
+        "crew": "浅野慶太郎"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "82"
+    }
+}

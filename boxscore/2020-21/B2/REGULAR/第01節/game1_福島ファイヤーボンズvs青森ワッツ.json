@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6456,
+    "date": {
+        "season": "2020-21",
+        "month": "10.03",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "宝来屋郡山総合体育館",
+        "attendance": "1134人"
+    },
+    "referee": {
+        "first": "松岡 隆博",
+        "second": "芳賀 聡",
+        "crew": "吉田 剛"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "75",
+        "away": "71"
+    }
+}

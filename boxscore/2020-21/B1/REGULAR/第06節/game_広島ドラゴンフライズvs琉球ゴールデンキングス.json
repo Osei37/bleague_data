@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5953,
+    "date": {
+        "season": "2020-21",
+        "month": "10.28",
+        "week": "[WED]",
+        "setsu": "第06節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1691人"
+    },
+    "referee": {
+        "first": "和嶋 陽一",
+        "second": "前花 直哉",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "72",
+        "away": "74"
+    }
+}

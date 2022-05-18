@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2854,
+    "date": {
+        "season": "2018-19",
+        "month": "1.19",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "133人"
+    },
+    "referee": {
+        "first": "平澤明男",
+        "second": "西和馬",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "83",
+        "away": "97"
+    }
+}

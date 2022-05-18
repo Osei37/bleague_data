@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1360,
+    "date": {
+        "season": "2017-18",
+        "month": "10.22",
+        "week": null,
+        "setsu": null,
+        "time": "17:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "126人"
+    },
+    "referee": {
+        "first": "佐田幸一",
+        "second": "近藤巧",
+        "crew": "若林謙作"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "67",
+        "away": "74"
+    }
+}

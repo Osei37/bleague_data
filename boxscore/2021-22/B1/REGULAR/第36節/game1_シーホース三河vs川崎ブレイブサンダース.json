@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8070,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2520人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "北沢 あや子",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "59",
+        "away": "85"
+    }
+}

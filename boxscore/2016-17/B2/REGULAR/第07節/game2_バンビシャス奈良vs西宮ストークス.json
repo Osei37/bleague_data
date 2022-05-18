@@ -1,0 +1,27 @@
+{
+    "schedule_key": 666,
+    "date": {
+        "season": "2016-17",
+        "month": "11.06",
+        "week": "[Sun]",
+        "setsu": "第07節",
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1553人"
+    },
+    "referee": {
+        "first": "田島寛治",
+        "second": "那須弘幸",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "79",
+        "away": "83"
+    }
+}

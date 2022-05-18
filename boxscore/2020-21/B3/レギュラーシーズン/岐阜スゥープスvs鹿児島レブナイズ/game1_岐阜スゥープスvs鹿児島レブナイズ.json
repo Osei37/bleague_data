@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5690,
+    "date": {
+        "season": "2020-21",
+        "month": "2.20",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "582人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "岩城和利",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "101"
+    }
+}

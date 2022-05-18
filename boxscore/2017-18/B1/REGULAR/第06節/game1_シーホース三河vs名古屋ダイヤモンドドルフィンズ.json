@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1664,
+    "date": {
+        "season": "2017-18",
+        "month": "10.28",
+        "week": "[Sat]",
+        "setsu": "第06節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2447人"
+    },
+    "referee": {
+        "first": "漆間大吾",
+        "second": "伊藤亮介",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "89"
+    }
+}

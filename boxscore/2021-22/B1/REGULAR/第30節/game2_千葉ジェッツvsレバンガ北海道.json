@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7951,
+    "date": {
+        "season": "2021-22",
+        "month": "4.10",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "3819人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "北沢 岳夫",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "98",
+        "away": "77"
+    }
+}

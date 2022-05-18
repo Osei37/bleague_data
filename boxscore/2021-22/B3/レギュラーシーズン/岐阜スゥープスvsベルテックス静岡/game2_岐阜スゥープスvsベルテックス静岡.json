@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7121,
+    "date": {
+        "season": "2021-22",
+        "month": "12.05",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "757人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "大倉 哲也",
+        "crew": "上西星太"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "60",
+        "away": "80"
+    }
+}

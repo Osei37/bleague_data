@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7997,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "1152人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "谷地 温",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "89"
+    }
+}

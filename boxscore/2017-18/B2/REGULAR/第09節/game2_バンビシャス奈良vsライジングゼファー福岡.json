@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2261,
+    "date": {
+        "season": "2017-18",
+        "month": "11.19",
+        "week": "[Sun]",
+        "setsu": "第09節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "776人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "黒岡和哲",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "66",
+        "away": "75"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2164,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第03節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1410人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "伊藤彰二",
+        "crew": "前花直哉"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "76"
+    }
+}

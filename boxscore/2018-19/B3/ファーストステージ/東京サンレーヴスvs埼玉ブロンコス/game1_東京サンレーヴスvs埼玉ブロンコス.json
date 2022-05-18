@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2752,
+    "date": {
+        "season": "2018-19",
+        "month": "11.03",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "調布市立調布中学校",
+        "attendance": "314人"
+    },
+    "referee": {
+        "first": "白川直弘",
+        "second": "山口憲昭",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "92",
+        "away": "70"
+    }
+}

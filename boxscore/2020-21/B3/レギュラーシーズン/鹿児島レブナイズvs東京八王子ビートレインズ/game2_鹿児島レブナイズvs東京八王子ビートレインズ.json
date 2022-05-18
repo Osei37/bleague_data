@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5803,
+    "date": {
+        "season": "2020-21",
+        "month": "5.04",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "指宿総合体育館",
+        "attendance": "342人"
+    },
+    "referee": {
+        "first": "松本究",
+        "second": "伊藤彰二",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "80"
+    }
+}

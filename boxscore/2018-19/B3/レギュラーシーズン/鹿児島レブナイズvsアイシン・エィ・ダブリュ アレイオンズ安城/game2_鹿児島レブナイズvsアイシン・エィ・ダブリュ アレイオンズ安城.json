@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2803,
+    "date": {
+        "season": "2018-19",
+        "month": "12.09",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "サンアリーナせんだい",
+        "attendance": "361人"
+    },
+    "referee": {
+        "first": "砂川卓嗣",
+        "second": "原田拓朗",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "54",
+        "away": "75"
+    }
+}

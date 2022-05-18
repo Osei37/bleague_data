@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5269,
+    "date": {
+        "season": "2018-19",
+        "month": "9.15",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "飯塚第一体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "前花直哉",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "88"
+    }
+}

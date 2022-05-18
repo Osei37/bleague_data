@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7727,
+    "date": {
+        "season": "2021-22",
+        "month": "5.04",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "8263人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "有澤 重行",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "92",
+        "away": "84"
+    }
+}

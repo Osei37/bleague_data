@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7283,
+    "date": {
+        "season": "2021-22",
+        "month": "2.25",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "174人"
+    },
+    "referee": {
+        "first": "丸山 大",
+        "second": "田中優志",
+        "crew": "山田 隆介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "57",
+        "away": "101"
+    }
+}

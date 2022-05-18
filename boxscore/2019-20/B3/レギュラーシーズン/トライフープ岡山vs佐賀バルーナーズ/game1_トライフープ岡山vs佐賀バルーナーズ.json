@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5395,
+    "date": {
+        "season": "2019-20",
+        "month": "12.17",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "731人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "大下俊之",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "90"
+    }
+}

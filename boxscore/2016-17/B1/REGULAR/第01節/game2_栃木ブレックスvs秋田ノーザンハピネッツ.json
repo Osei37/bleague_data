@@ -1,0 +1,27 @@
+{
+    "schedule_key": 11,
+    "date": {
+        "season": "2016-17",
+        "month": "9.25",
+        "week": "[Sun]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3870人"
+    },
+    "referee": {
+        "first": "緒方崇",
+        "second": "佐藤誠",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "61",
+        "away": "59"
+    }
+}

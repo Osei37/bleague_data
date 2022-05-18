@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4081,
+    "date": {
+        "season": "2018-19",
+        "month": "9.07",
+        "week": null,
+        "setsu": null,
+        "time": "19:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "中川行臣",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "97",
+        "away": "77"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5348,
+    "date": {
+        "season": "2019-20",
+        "month": "11.10",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "みまさかアリーナ",
+        "attendance": "341人"
+    },
+    "referee": {
+        "first": "前花直哉",
+        "second": "大下俊之",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "108",
+        "away": "73"
+    }
+}

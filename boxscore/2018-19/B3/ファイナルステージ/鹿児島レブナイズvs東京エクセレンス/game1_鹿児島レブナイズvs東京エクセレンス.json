@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2966,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "417人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "高野杏実",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "79",
+        "away": "81"
+    }
+}

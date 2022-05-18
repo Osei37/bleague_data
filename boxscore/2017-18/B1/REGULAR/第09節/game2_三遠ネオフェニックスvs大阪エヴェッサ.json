@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1715,
+    "date": {
+        "season": "2017-18",
+        "month": "11.19",
+        "week": "[Sun]",
+        "setsu": "第09節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "2087人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "増渕泰久",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "68",
+        "away": "67"
+    }
+}

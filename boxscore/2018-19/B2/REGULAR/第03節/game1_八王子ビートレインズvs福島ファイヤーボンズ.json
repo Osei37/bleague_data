@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3568,
+    "date": {
+        "season": "2018-19",
+        "month": "10.12",
+        "week": "[FRI]",
+        "setsu": "第03節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "396人"
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "太田匡俊",
+        "crew": "田中充"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "81"
+    }
+}

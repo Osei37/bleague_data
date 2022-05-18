@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3653,
+    "date": {
+        "season": "2018-19",
+        "month": "11.10",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "663人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "白川直弘",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "75"
+    }
+}

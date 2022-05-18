@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1576,
+    "date": {
+        "season": "2017-18",
+        "month": "9.30",
+        "week": "[Sat]",
+        "setsu": "第01節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3897人"
+    },
+    "referee": {
+        "first": "久米克弥",
+        "second": "平出剛",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "85"
+    }
+}

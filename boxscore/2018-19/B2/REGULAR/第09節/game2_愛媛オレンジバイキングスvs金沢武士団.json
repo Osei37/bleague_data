@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3676,
+    "date": {
+        "season": "2018-19",
+        "month": "11.17",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "1312人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "前花直哉",
+        "crew": "砂川卓嗣"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "90",
+        "away": "86"
+    }
+}

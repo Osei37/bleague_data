@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8014,
+    "date": {
+        "season": "2021-22",
+        "month": "4.24",
+        "week": "[SUN]",
+        "setsu": "第33節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3740人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "久米 克弥",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "110",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5972,
+    "date": {
+        "season": "2020-21",
+        "month": "11.05",
+        "week": "[THU]",
+        "setsu": "第07節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1055人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "市川 雄介",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "74",
+        "away": "97"
+    }
+}

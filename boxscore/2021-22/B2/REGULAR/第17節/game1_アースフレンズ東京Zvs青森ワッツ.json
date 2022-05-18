@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8294,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第17節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大田区総合体育館",
+        "attendance": "306人"
+    },
+    "referee": {
+        "first": "平原 勇次",
+        "second": "遠藤 大輔",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "69",
+        "away": "68"
+    }
+}

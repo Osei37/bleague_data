@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7402,
+    "date": {
+        "season": "2021-22",
+        "month": "4.26",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜武道館",
+        "attendance": "762人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "白川直弘",
+        "crew": "佐田 幸一"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "91",
+        "away": "57"
+    }
+}

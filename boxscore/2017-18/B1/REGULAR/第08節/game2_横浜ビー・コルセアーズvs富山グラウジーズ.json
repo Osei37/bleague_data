@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1697,
+    "date": {
+        "season": "2017-18",
+        "month": "11.12",
+        "week": "[Sun]",
+        "setsu": "第08節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2706人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "佐藤誠",
+        "crew": "高城邦弘"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "78"
+    }
+}

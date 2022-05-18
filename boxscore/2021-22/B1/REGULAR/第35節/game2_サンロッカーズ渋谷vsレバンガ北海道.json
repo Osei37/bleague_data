@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8043,
+    "date": {
+        "season": "2021-22",
+        "month": "5.01",
+        "week": "[SUN]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1850人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "和嶋 陽一",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "101",
+        "away": "73"
+    }
+}

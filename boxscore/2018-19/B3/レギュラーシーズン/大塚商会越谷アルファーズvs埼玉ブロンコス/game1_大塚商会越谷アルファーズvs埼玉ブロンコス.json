@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2934,
+    "date": {
+        "season": "2018-19",
+        "month": "3.16",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館（メイン）",
+        "attendance": "618人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "富樫彰子",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "大塚商会越谷アルファーズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "93",
+        "away": "89"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4168,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3330人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "橋本恵一",
+        "crew": "眞榮喜工"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "80",
+        "away": "76"
+    }
+}

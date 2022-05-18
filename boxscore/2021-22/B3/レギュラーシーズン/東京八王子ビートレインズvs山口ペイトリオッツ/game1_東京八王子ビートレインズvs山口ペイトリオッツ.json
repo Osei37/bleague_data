@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7015,
+    "date": {
+        "season": "2021-22",
+        "month": "10.08",
+        "week": null,
+        "setsu": null,
+        "time": "18:45 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "542人"
+    },
+    "referee": {
+        "first": "加藤暁生",
+        "second": "井出啓太",
+        "crew": "山崎昭一"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "80",
+        "away": "69"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1650,
+    "date": {
+        "season": "2017-18",
+        "month": "10.25",
+        "week": "[Wed]",
+        "setsu": "第05節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "津市産業・スポーツセンター",
+        "attendance": "1611人"
+    },
+    "referee": {
+        "first": "倉口勉",
+        "second": "平原勇次",
+        "crew": "久米克弥"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "富山グラウジーズ"
+    },
+    "score": {
+        "home": "88",
+        "away": "73"
+    }
+}

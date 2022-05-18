@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1185,
+    "date": {
+        "season": "2016-17",
+        "month": "1.15",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "1009人"
+    },
+    "referee": {
+        "first": "山本邦博",
+        "second": "宮里両",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "76"
+    }
+}

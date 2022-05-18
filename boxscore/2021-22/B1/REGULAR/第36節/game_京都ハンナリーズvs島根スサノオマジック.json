@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8075,
+    "date": {
+        "season": "2021-22",
+        "month": "5.08",
+        "week": "[SUN]",
+        "setsu": "第36節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "3181人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "加藤 昌樹",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "82",
+        "away": "79"
+    }
+}

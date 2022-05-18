@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4226,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "5017人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "加川真",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "101",
+        "away": "63"
+    }
+}

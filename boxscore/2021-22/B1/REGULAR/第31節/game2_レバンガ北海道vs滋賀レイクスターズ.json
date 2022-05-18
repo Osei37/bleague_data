@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7971,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1481人"
+    },
+    "referee": {
+        "first": "大野 太裕",
+        "second": "眞榮喜 工",
+        "crew": "小澤 勤"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "73"
+    }
+}

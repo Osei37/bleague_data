@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7118,
+    "date": {
+        "season": "2021-22",
+        "month": "12.04",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西原商会アリーナ",
+        "attendance": "718人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "川島司",
+        "crew": "前田 隼大"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "84",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7532,
+    "date": {
+        "season": "2021-22",
+        "month": "11.07",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1672人"
+    },
+    "referee": {
+        "first": "北沢 岳夫",
+        "second": "和嶋 陽一",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "79",
+        "away": "67"
+    }
+}

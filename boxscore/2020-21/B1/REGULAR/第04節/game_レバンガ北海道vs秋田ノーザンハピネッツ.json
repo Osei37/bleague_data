@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5914,
+    "date": {
+        "season": "2020-21",
+        "month": "10.21",
+        "week": "[WED]",
+        "setsu": "第04節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "1290人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "鈴木 悟",
+        "crew": "中田 英教"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "104",
+        "away": "79"
+    }
+}

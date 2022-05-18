@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8155,
+    "date": {
+        "season": "2021-22",
+        "month": "11.10",
+        "week": "[WED]",
+        "setsu": "第06節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松山市総合コミュニティセンター",
+        "attendance": "330人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "前花 直哉",
+        "crew": "池田 隼人"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "68"
+    }
+}

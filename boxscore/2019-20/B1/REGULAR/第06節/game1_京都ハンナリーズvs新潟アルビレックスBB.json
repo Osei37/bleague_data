@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4235,
+    "date": {
+        "season": "2019-20",
+        "month": "10.26",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "福知山三段池公園総合体育館",
+        "attendance": "933人"
+    },
+    "referee": {
+        "first": "久保裕紀",
+        "second": "久米克弥",
+        "crew": "飯尾勝紀"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "60",
+        "away": "68"
+    }
+}

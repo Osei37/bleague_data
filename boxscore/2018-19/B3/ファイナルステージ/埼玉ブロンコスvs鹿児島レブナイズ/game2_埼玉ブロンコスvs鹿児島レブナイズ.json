@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2975,
+    "date": {
+        "season": "2018-19",
+        "month": "5.01",
+        "week": null,
+        "setsu": null,
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "深谷ビッグタートル",
+        "attendance": "896人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "桑原一貴",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "87"
+    }
+}

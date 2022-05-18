@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8020,
+    "date": {
+        "season": "2021-22",
+        "month": "4.24",
+        "week": "[SUN]",
+        "setsu": "第33節",
+        "time": "14:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "YMITアリーナ",
+        "attendance": "2187人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "守谷 圭介",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "80"
+    }
+}

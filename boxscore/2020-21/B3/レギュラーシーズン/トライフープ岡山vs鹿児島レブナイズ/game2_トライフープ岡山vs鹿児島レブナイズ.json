@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5655,
+    "date": {
+        "season": "2020-21",
+        "month": "1.24",
+        "week": null,
+        "setsu": null,
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "笠岡総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "小島慶子",
+        "second": "西和馬",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "65"
+    }
+}

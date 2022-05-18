@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2776,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "稲城市総合体育館",
+        "attendance": "350人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "一色渉",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "66"
+    }
+}

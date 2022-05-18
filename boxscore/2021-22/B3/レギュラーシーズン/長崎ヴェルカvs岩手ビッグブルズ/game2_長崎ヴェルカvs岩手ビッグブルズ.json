@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7195,
+    "date": {
+        "season": "2021-22",
+        "month": "1.09",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "長崎県立総合体育館",
+        "attendance": "1408人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "砂川卓嗣",
+        "crew": "山口憲昭"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "102",
+        "away": "65"
+    }
+}

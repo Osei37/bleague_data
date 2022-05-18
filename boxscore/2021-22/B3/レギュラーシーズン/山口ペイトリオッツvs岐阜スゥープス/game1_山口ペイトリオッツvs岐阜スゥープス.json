@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7312,
+    "date": {
+        "season": "2021-22",
+        "month": "3.12",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "俵田翁記念体育館",
+        "attendance": "428人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "豊田 康平",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "83",
+        "away": "90"
+    }
+}

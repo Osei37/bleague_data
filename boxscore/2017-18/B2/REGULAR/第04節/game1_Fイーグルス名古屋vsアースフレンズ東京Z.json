@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2179,
+    "date": {
+        "season": "2017-18",
+        "month": "10.21",
+        "week": "[Sat]",
+        "setsu": "第04節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "1884人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "山内正隆",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "68",
+        "away": "73"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7386,
+    "date": {
+        "season": "2021-22",
+        "month": "4.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "204人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "細見竜太",
+        "crew": "山田 隆介"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "101"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1248,
+    "date": {
+        "season": "2016-17",
+        "month": "3.11",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "2486人"
+    },
+    "referee": {
+        "first": "大久保好純",
+        "second": "中井将基",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "76"
+    }
+}

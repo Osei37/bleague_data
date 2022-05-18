@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8063,
+    "date": {
+        "season": "2021-22",
+        "month": "5.08",
+        "week": "[SUN]",
+        "setsu": "第36節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4369人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "塩谷 禎",
+        "crew": "熊谷 久美子"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "73",
+        "away": "71"
+    }
+}

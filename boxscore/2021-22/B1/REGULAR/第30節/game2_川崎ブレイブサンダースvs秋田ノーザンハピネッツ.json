@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7957,
+    "date": {
+        "season": "2021-22",
+        "month": "4.10",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3379人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "早崎 康祐",
+        "crew": "飯尾 勝紀"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "87"
+    }
+}

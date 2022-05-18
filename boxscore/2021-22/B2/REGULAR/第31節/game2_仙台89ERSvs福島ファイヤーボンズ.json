@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8473,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "3329人"
+    },
+    "referee": {
+        "first": "冨島 健司",
+        "second": "幡丸 登志久",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "61"
+    }
+}

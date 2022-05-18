@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2900,
+    "date": {
+        "season": "2018-19",
+        "month": "2.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": "511人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "太田匡俊",
+        "crew": "吉田知実"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "107",
+        "away": "77"
+    }
+}

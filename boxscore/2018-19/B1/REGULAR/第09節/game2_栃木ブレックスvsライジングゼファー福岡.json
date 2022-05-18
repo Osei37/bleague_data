@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3104,
+    "date": {
+        "season": "2018-19",
+        "month": "11.11",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3505人"
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "安西郷史",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "86",
+        "away": "66"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7546,
+    "date": {
+        "season": "2021-22",
+        "month": "11.10",
+        "week": "[WED]",
+        "setsu": "第07節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2366人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "小澤 勤",
+        "crew": "東條 輝正"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "82",
+        "away": "81"
+    }
+}

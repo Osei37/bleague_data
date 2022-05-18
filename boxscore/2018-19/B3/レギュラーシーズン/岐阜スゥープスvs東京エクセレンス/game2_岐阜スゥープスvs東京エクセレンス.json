@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2863,
+    "date": {
+        "season": "2018-19",
+        "month": "1.20",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡上市総合スポーツセンター",
+        "attendance": "361人"
+    },
+    "referee": {
+        "first": "小畑治",
+        "second": "鬼頭英伸",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "48",
+        "away": "78"
+    }
+}

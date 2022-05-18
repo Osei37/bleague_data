@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7081,
+    "date": {
+        "season": "2021-22",
+        "month": "11.14",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "甚目寺総合体育館",
+        "attendance": "158人"
+    },
+    "referee": {
+        "first": "渡邉浩二",
+        "second": "富樫彰子",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "83",
+        "away": "85"
+    }
+}

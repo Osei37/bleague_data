@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3055,
+    "date": {
+        "season": "2018-19",
+        "month": "10.24",
+        "week": "[WED]",
+        "setsu": "第05節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "1475人"
+    },
+    "referee": {
+        "first": "伊藤亮介",
+        "second": "久保知仁",
+        "crew": "和嶋陽一"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "84"
+    }
+}

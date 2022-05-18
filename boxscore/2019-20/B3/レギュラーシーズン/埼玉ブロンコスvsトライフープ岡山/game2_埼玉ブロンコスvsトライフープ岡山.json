@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5496,
+    "date": {
+        "season": "2019-20",
+        "month": "2.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "春日部市総合体育館",
+        "attendance": "1147人"
+    },
+    "referee": {
+        "first": "大山賢史",
+        "second": "竹田雄介",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "72",
+        "away": "90"
+    }
+}

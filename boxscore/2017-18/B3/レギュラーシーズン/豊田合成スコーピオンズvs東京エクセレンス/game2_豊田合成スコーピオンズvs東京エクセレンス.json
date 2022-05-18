@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1488,
+    "date": {
+        "season": "2017-18",
+        "month": "2.25",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "関市総合体育館",
+        "attendance": "1109人"
+    },
+    "referee": {
+        "first": "川本正治",
+        "second": "三谷修司",
+        "crew": "宮里両"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "50",
+        "away": "61"
+    }
+}

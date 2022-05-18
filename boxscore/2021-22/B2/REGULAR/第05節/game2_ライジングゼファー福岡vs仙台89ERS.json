@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8145,
+    "date": {
+        "season": "2021-22",
+        "month": "11.07",
+        "week": "[SUN]",
+        "setsu": "第05節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "久留米アリーナ",
+        "attendance": "1276人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "豊田 康平",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "84",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7067,
+    "date": {
+        "season": "2021-22",
+        "month": "11.07",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "555人"
+    },
+    "referee": {
+        "first": "岩月遼司",
+        "second": "白川直弘",
+        "crew": "大倉 哲也"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "93"
+    }
+}

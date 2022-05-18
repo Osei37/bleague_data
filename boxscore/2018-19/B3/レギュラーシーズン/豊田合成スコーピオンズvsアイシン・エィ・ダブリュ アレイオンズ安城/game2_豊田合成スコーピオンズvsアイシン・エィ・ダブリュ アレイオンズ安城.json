@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2791,
+    "date": {
+        "season": "2018-19",
+        "month": "12.02",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "一宮市総合体育館",
+        "attendance": "623人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "大野哲広",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "83",
+        "away": "73"
+    }
+}

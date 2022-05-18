@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5402,
+    "date": {
+        "season": "2019-20",
+        "month": "12.15",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "甚目寺総合体育館",
+        "attendance": "388人"
+    },
+    "referee": {
+        "first": "浅野祐樹",
+        "second": "大下俊之",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "80",
+        "away": "48"
+    }
+}

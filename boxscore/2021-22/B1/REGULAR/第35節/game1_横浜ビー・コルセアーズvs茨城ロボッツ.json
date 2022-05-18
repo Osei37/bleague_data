@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8046,
+    "date": {
+        "season": "2021-22",
+        "month": "4.29",
+        "week": "[FRI]",
+        "setsu": "第35節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜武道館",
+        "attendance": "2129人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "高城 邦弘",
+        "crew": "冨士 将史"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "91",
+        "away": "73"
+    }
+}

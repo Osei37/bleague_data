@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4832,
+    "date": {
+        "season": "2019-20",
+        "month": "11.09",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アダストリアみとアリーナ",
+        "attendance": "1882人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "長谷川裕",
+        "crew": "茅野修司"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "88"
+    }
+}

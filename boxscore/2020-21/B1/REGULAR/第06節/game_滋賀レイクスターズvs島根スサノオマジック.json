@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5951,
+    "date": {
+        "season": "2020-21",
+        "month": "10.28",
+        "week": "[WED]",
+        "setsu": "第06節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "554人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "飯尾 勝紀",
+        "crew": "渡邉 浩二"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "80",
+        "away": "82"
+    }
+}

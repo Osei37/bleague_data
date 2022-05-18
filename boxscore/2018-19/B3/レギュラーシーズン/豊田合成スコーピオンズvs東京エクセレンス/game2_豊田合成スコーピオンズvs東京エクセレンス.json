@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2811,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エナジーサポートアリーナ",
+        "attendance": "403人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "小坂井郁子",
+        "crew": "池田隼人"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "83",
+        "away": "111"
+    }
+}

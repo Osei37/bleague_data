@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7507,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "15:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "2082人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "細田 知宏",
+        "crew": "甲斐 清"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "77"
+    }
+}

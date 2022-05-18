@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5822,
+    "date": {
+        "season": "2020-21",
+        "month": "5.15",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "リモートゲーム",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "井出啓太",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "50"
+    }
+}

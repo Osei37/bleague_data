@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5633,
+    "date": {
+        "season": "2019-20",
+        "month": "1.18",
+        "week": null,
+        "setsu": null,
+        "time": "19:10 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "5073人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "相原伸康",
+        "crew": "安西郷史"
+    },
+    "team": {
+        "home": "B.BLACK",
+        "away": "B.WHITE"
+    },
+    "score": {
+        "home": "123",
+        "away": "117"
+    }
+}

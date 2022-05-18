@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2872,
+    "date": {
+        "season": "2018-19",
+        "month": "1.26",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "鹿児島アリーナ",
+        "attendance": "451人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "石嶺良方",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "80",
+        "away": "74"
+    }
+}

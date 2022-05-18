@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2890,
+    "date": {
+        "season": "2018-19",
+        "month": "2.09",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井スポーツセンター",
+        "attendance": "164人"
+    },
+    "referee": {
+        "first": "白川直弘",
+        "second": "内田祥平",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "77"
+    }
+}

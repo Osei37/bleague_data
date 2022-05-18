@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8284,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": "[SAT]",
+        "setsu": "第16節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "播磨町総合体育館",
+        "attendance": "482人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "皆川 義紀",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "62",
+        "away": "80"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1392,
+    "date": {
+        "season": "2017-18",
+        "month": "11.19",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "下呂交流会館アクティブ：温アリーナ",
+        "attendance": "442人"
+    },
+    "referee": {
+        "first": "川路宗勅",
+        "second": "渡邉浩二",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "64"
+    }
+}

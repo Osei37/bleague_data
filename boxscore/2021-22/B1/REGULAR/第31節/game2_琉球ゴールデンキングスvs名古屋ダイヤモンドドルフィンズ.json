@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7991,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "4709人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "中川 行臣",
+        "crew": "丸山 大"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "81"
+    }
+}

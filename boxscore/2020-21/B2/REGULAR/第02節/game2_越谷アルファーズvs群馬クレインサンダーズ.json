@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6477,
+    "date": {
+        "season": "2020-21",
+        "month": "10.10",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館メインアリーナ",
+        "attendance": "991人"
+    },
+    "referee": {
+        "first": "北島 寛臣",
+        "second": "長谷川 裕",
+        "crew": "内野 翔太"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "70"
+    }
+}

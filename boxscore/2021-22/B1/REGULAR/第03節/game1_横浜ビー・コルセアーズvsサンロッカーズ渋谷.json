@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7474,
+    "date": {
+        "season": "2021-22",
+        "month": "10.16",
+        "week": "[SAT]",
+        "setsu": "第03節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2018人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "佐藤 誠",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "77",
+        "away": "89"
+    }
+}

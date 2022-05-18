@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5435,
+    "date": {
+        "season": "2019-20",
+        "month": "1.04",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "602人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "山田俊",
+        "crew": "大井陽平"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

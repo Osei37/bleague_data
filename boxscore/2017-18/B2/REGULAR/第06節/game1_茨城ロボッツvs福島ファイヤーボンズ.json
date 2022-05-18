@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2198,
+    "date": {
+        "season": "2017-18",
+        "month": "10.27",
+        "week": "[Fri]",
+        "setsu": "第06節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "1283人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "太田匡俊",
+        "crew": "笠島喜与都"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "93"
+    }
+}

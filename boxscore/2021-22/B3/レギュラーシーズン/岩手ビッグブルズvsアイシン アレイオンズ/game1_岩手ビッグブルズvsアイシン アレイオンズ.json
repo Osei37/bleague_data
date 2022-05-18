@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7224,
+    "date": {
+        "season": "2021-22",
+        "month": "1.29",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "353人"
+    },
+    "referee": {
+        "first": "吉田剛",
+        "second": "武田 亜沙美",
+        "crew": "京極 幸村"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "74"
+    }
+}

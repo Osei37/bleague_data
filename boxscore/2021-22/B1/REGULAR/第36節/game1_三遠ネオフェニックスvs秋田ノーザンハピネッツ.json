@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8068,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1729人"
+    },
+    "referee": {
+        "first": "加納 康平",
+        "second": "芳賀 聡",
+        "crew": "冨島 健司"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "72",
+        "away": "88"
+    }
+}

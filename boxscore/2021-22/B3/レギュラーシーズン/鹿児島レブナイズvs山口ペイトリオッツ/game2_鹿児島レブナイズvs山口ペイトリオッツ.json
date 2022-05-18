@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7181,
+    "date": {
+        "season": "2021-22",
+        "month": "1.02",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西原商会アリーナ",
+        "attendance": "1027人"
+    },
+    "referee": {
+        "first": "原田拓朗",
+        "second": "山口憲昭",
+        "crew": "前田 隼大"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "86",
+        "away": "79"
+    }
+}

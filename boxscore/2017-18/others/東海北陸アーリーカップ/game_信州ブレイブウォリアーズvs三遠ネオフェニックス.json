@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2672,
+    "date": {
+        "season": "2017-18",
+        "month": "9.03",
+        "week": null,
+        "setsu": null,
+        "time": "12:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "997人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "石田祐二",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "64",
+        "away": "62"
+    }
+}

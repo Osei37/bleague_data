@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7992,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "CNAアリーナ☆あきた",
+        "attendance": "2046人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "北沢 岳夫",
+        "crew": "中道 凌平"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "67",
+        "away": "88"
+    }
+}

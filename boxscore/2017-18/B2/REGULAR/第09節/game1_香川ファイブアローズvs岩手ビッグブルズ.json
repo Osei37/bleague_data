@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2262,
+    "date": {
+        "season": "2017-18",
+        "month": "11.18",
+        "week": "[Sat]",
+        "setsu": "第09節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "714人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "東考生",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "64"
+    }
+}

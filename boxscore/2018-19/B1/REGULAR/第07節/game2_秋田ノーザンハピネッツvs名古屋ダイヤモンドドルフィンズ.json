@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3077,
+    "date": {
+        "season": "2018-19",
+        "month": "11.04",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2707人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "飯尾勝紀",
+        "crew": "北島寛臣"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "84"
+    }
+}

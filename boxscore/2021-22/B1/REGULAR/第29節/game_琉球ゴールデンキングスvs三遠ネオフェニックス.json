@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7947,
+    "date": {
+        "season": "2021-22",
+        "month": "4.06",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "4784人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "和嶋 陽一",
+        "crew": "名越 龍男"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "92",
+        "away": "69"
+    }
+}

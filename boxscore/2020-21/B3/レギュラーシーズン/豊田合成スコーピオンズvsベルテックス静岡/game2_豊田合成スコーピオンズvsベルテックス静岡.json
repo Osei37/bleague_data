@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5643,
+    "date": {
+        "season": "2020-21",
+        "month": "1.17",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "740人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "茅野修司",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "88",
+        "away": "85"
+    }
+}

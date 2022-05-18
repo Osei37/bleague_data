@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4789,
+    "date": {
+        "season": "2019-20",
+        "month": "10.20",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1790人"
+    },
+    "referee": {
+        "first": "守谷圭介",
+        "second": "市川雄介",
+        "crew": "山口勝真"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "86"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7424,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1465人"
+    },
+    "referee": {
+        "first": "上田 信彦",
+        "second": "小澤 勤",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "77"
+    }
+}

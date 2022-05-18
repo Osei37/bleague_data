@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3535,
+    "date": {
+        "season": "2018-19",
+        "month": "9.29",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "1819人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "丸山大",
+        "crew": "山内正隆"
+    },
+    "team": {
+        "home": "八王子ビートレインズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "75",
+        "away": "80"
+    }
+}

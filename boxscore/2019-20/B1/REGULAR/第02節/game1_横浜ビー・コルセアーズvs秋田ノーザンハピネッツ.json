@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4173,
+    "date": {
+        "season": "2019-20",
+        "month": "10.11",
+        "week": "[FRI]",
+        "setsu": "第02節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜文化体育館",
+        "attendance": "2852人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "平原勇次",
+        "crew": "鈴木悟"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "75",
+        "away": "60"
+    }
+}

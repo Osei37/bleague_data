@@ -5,3 +5,7 @@ list.json
 # program
 crawler.py
 rename.py
+change_ccode.py
+
+# settings
+settings.json

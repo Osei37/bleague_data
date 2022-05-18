@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1260,
+    "date": {
+        "season": "2016-17",
+        "month": "3.19",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "大治町スポーツセンター",
+        "attendance": "320人"
+    },
+    "referee": {
+        "first": "田中真",
+        "second": "渡邉浩二",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "54",
+        "away": "67"
+    }
+}

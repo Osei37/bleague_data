@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5692,
+    "date": {
+        "season": "2020-21",
+        "month": "2.20",
+        "week": null,
+        "setsu": null,
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "544人"
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "井出啓太",
+        "crew": "羽場信彦"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "84",
+        "away": "92"
+    }
+}

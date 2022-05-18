@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1237,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日野市市民の森ふれあいホール",
+        "attendance": "994人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "笠島喜与都",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "66"
+    }
+}

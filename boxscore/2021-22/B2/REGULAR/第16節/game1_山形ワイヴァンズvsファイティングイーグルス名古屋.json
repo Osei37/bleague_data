@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8278,
+    "date": {
+        "season": "2021-22",
+        "month": "4.29",
+        "week": "[FRI]",
+        "setsu": "第16節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "754人"
+    },
+    "referee": {
+        "first": "岩月 遼司",
+        "second": "大山 賢史",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "ファイティングイーグルス名古屋"
+    },
+    "score": {
+        "home": "69",
+        "away": "88"
+    }
+}

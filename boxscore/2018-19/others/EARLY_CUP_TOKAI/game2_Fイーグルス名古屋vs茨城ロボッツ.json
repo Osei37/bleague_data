@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5245,
+    "date": {
+        "season": "2018-19",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "遠藤大輔",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "81",
+        "away": "79"
+    }
+}

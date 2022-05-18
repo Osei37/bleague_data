@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1534,
+    "date": {
+        "season": "2017-18",
+        "month": "4.15",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "1048人"
+    },
+    "referee": {
+        "first": "川本正治",
+        "second": "山崎真吾",
+        "crew": "小澤朋克"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "67"
+    }
+}

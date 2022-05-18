@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8028,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3374人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "加納 康平",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "92",
+        "away": "77"
+    }
+}

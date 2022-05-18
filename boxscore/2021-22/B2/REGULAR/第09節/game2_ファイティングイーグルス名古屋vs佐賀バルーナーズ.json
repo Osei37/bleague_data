@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8190,
+    "date": {
+        "season": "2021-22",
+        "month": "11.28",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市千種スポーツセンター",
+        "attendance": "629人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "遠藤 大輔",
+        "crew": "桑原 一貴"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "78"
+    }
+}

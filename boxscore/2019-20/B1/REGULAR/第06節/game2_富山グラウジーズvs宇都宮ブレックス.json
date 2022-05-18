@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4232,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山県西部体育センター",
+        "attendance": "2478人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "大野太裕",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "72",
+        "away": "69"
+    }
+}

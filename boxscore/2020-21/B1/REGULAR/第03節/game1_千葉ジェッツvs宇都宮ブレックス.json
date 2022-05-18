@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5898,
+    "date": {
+        "season": "2020-21",
+        "month": "10.17",
+        "week": "[SAT]",
+        "setsu": "第03節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "2170人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "細田 知宏",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "87",
+        "away": "78"
+    }
+}

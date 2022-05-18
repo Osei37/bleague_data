@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4761,
+    "date": {
+        "season": "2019-20",
+        "month": "10.11",
+        "week": "[FRI]",
+        "setsu": "第04節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1214人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "前花直哉",
+        "crew": "伊藤彰二"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "バンビシャス奈良"
+    },
+    "score": {
+        "home": "81",
+        "away": "92"
+    }
+}

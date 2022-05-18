@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4107,
+    "date": {
+        "season": "2018-19",
+        "month": "9.09",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "加納康平",
+        "second": "橋本恵一",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "愛媛オレンジバイキングス"
+    },
+    "score": {
+        "home": "90",
+        "away": "76"
+    }
+}

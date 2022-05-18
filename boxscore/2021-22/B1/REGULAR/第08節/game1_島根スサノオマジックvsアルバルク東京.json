@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7568,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "18:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1908人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "中川 行臣",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "79",
+        "away": "66"
+    }
+}

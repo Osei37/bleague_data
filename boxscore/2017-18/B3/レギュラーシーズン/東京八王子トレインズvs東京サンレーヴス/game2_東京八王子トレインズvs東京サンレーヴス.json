@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1494,
+    "date": {
+        "season": "2017-18",
+        "month": "3.04",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "1086人"
+    },
+    "referee": {
+        "first": "大井明",
+        "second": "濱雄介",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "84",
+        "away": "55"
+    }
+}

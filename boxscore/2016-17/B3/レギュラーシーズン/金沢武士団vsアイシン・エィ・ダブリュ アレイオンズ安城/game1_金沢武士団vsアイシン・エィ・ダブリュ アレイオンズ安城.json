@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1150,
+    "date": {
+        "season": "2016-17",
+        "month": "12.10",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "1010人"
+    },
+    "referee": {
+        "first": "矢田伸一",
+        "second": "丸山大",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "105",
+        "away": "67"
+    }
+}

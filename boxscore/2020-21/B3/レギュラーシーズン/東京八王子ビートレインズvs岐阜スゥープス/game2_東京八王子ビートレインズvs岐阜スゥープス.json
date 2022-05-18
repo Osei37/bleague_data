@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5779,
+    "date": {
+        "season": "2020-21",
+        "month": "4.24",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "677人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "佐田幸一",
+        "crew": "武井晋平"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "65",
+        "away": "88"
+    }
+}

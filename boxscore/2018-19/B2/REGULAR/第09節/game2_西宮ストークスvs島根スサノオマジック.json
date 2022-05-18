@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3670,
+    "date": {
+        "season": "2018-19",
+        "month": "11.18",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "1565人"
+    },
+    "referee": {
+        "first": "甲斐清",
+        "second": "白川直弘",
+        "crew": "大山直輝"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "88",
+        "away": "85"
+    }
+}

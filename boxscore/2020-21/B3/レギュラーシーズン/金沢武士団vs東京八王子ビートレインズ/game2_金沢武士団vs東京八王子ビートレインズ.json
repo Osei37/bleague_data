@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5717,
+    "date": {
+        "season": "2020-21",
+        "month": "3.13",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "384人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "岩城和利",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "81"
+    }
+}

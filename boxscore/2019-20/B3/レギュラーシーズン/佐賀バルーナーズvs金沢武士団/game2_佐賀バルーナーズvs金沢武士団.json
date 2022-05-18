@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5418,
+    "date": {
+        "season": "2019-20",
+        "month": "12.28",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諸富文化体育館",
+        "attendance": "450人"
+    },
+    "referee": {
+        "first": "御手洗亮",
+        "second": "山口勝真",
+        "crew": "皆川義紀"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "84",
+        "away": "77"
+    }
+}

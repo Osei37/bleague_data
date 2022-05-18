@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2149,
+    "date": {
+        "season": "2017-18",
+        "month": "10.14",
+        "week": "[Sat]",
+        "setsu": "第03節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "マエダアリーナ",
+        "attendance": "1083人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "中田英教",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "96"
+    }
+}

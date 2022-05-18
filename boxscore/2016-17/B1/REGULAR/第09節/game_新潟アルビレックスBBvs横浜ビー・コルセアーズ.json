@@ -1,0 +1,27 @@
+{
+    "schedule_key": 149,
+    "date": {
+        "season": "2016-17",
+        "month": "11.23",
+        "week": "[Wed]",
+        "setsu": "第09節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "3673人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "増渕泰久",
+        "crew": "加藤誉樹"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "62"
+    }
+}

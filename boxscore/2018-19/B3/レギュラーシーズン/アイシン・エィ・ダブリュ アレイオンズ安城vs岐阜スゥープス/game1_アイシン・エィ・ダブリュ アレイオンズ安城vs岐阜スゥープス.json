@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2918,
+    "date": {
+        "season": "2018-19",
+        "month": "3.01",
+        "week": null,
+        "setsu": null,
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城市体育館",
+        "attendance": "229人"
+    },
+    "referee": {
+        "first": "太田匡俊",
+        "second": "内田祥平",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "83",
+        "away": "78"
+    }
+}

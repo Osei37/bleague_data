@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8194,
+    "date": {
+        "season": "2021-22",
+        "month": "11.28",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "837人"
+    },
+    "referee": {
+        "first": "守谷 圭介",
+        "second": "丸山 大",
+        "crew": "西 和馬"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "101",
+        "away": "66"
+    }
+}

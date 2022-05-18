@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4759,
+    "date": {
+        "season": "2019-20",
+        "month": "10.11",
+        "week": "[FRI]",
+        "setsu": "第04節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "1058人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "那須弘幸",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "80",
+        "away": "88"
+    }
+}

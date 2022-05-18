@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7969,
+    "date": {
+        "season": "2021-22",
+        "month": "4.10",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "鳥取県民体育館",
+        "attendance": "1823人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "甲斐 清",
+        "crew": "中川 行臣"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "91"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7463,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": "[SUN]",
+        "setsu": "第02節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "1604人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "甲斐 清",
+        "crew": "加藤 昌樹"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "94",
+        "away": "79"
+    }
+}

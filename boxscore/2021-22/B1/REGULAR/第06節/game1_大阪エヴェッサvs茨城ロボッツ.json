@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7537,
+    "date": {
+        "season": "2021-22",
+        "month": "11.06",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "2172人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "塩谷 禎",
+        "crew": "冨島 健司"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "90",
+        "away": "72"
+    }
+}

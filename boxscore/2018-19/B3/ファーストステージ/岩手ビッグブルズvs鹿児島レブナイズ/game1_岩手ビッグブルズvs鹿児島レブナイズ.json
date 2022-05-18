@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2724,
+    "date": {
+        "season": "2018-19",
+        "month": "9.29",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "葛巻町社会体育館",
+        "attendance": "585人"
+    },
+    "referee": {
+        "first": "熊谷久美子",
+        "second": "中道凌平",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "65"
+    }
+}

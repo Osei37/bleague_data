@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4248,
+    "date": {
+        "season": "2019-20",
+        "month": "11.03",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "2906人"
+    },
+    "referee": {
+        "first": "上田信彦",
+        "second": "高城邦弘",
+        "crew": "熊谷久美子"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "58"
+    }
+}

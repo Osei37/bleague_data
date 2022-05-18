@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1424,
+    "date": {
+        "season": "2017-18",
+        "month": "12.24",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "立川市泉市民体育館",
+        "attendance": "811人"
+    },
+    "referee": {
+        "first": "佐田幸一",
+        "second": "木下晋一",
+        "crew": "若山輝紀"
+    },
+    "team": {
+        "home": "東京八王子トレインズ",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "79"
+    }
+}

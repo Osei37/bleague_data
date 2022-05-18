@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3042,
+    "date": {
+        "season": "2018-19",
+        "month": "10.21",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "富山市総合体育館",
+        "attendance": "2075人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "緒方崇",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "富山グラウジーズ",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "64"
+    }
+}

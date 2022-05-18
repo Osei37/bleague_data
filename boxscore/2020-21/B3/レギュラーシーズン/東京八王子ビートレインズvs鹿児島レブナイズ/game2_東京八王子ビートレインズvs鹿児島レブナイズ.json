@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5839,
+    "date": {
+        "season": "2020-21",
+        "month": "5.29",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "662人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "遠藤大輔",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "77"
+    }
+}

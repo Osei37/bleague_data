@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1508,
+    "date": {
+        "season": "2017-18",
+        "month": "3.17",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "992人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "小川裕之",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "87",
+        "away": "76"
+    }
+}

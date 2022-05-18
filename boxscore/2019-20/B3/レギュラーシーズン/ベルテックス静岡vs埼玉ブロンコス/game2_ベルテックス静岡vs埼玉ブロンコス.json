@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5422,
+    "date": {
+        "season": "2019-20",
+        "month": "12.29",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡県草薙総合運動場体育館",
+        "attendance": "1084人"
+    },
+    "referee": {
+        "first": "井出 啓太",
+        "second": "野々村日希",
+        "crew": "京極 幸村"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "61",
+        "away": "70"
+    }
+}

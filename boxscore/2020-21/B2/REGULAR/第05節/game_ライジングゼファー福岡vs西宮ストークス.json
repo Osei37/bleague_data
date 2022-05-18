@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6524,
+    "date": {
+        "season": "2020-21",
+        "month": "10.28",
+        "week": "[WED]",
+        "setsu": "第05節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "福岡市民体育館",
+        "attendance": "984人"
+    },
+    "referee": {
+        "first": "有澤 重行",
+        "second": "大谷 英紀",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "79",
+        "away": "68"
+    }
+}

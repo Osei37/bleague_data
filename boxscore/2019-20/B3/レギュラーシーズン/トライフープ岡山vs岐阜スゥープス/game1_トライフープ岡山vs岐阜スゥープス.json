@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5281,
+    "date": {
+        "season": "2019-20",
+        "month": "10.05",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "2040人"
+    },
+    "referee": {
+        "first": "市川雄介",
+        "second": "豊田 康平",
+        "crew": "皆川義紀"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "82",
+        "away": "78"
+    }
+}

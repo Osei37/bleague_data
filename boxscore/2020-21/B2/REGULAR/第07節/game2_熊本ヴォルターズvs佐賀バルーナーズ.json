@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6557,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八代トヨオカ地建アリーナ",
+        "attendance": "997人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "御手洗 亮",
+        "crew": "山口 勝真"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "86",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1560,
+    "date": {
+        "season": "2017-18",
+        "month": "5.06",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "日野市市民の森ふれあいホール",
+        "attendance": "248人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "廣瀬俊昭",
+        "crew": "佐田幸一"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "98"
+    }
+}

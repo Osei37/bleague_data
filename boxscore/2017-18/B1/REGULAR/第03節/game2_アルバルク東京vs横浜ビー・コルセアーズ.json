@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1614,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第03節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "1932人"
+    },
+    "referee": {
+        "first": "関口久視",
+        "second": "佐藤誠",
+        "crew": "芳賀聡"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "57"
+    }
+}

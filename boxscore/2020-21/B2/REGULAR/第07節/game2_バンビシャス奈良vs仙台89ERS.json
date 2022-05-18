@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6555,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジェイテクトアリーナ奈良",
+        "attendance": "796人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "茅野 修司",
+        "crew": "木村 健太郎"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "78",
+        "away": "85"
+    }
+}

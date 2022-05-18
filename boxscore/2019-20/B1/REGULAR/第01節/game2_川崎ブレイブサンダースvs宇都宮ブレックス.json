@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4160,
+    "date": {
+        "season": "2019-20",
+        "month": "10.06",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "5214人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "大河原則人",
+        "crew": "漆間大吾"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "75",
+        "away": "69"
+    }
+}

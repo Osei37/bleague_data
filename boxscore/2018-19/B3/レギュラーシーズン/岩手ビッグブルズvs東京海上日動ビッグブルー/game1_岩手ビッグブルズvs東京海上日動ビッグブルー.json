@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2876,
+    "date": {
+        "season": "2018-19",
+        "month": "2.02",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "八幡平市総合運動公園体育館",
+        "attendance": "572人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "遠藤大輔",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "82",
+        "away": "70"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2254,
+    "date": {
+        "season": "2017-18",
+        "month": "11.18",
+        "week": "[Sat]",
+        "setsu": "第09節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "青柳公園市民体育館",
+        "attendance": "2142人"
+    },
+    "referee": {
+        "first": "針生淳男",
+        "second": "蒲健一",
+        "crew": "東條輝正"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "85"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2964,
+    "date": {
+        "season": "2018-19",
+        "month": "4.13",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "653人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "那須弘幸",
+        "crew": "大野哲広"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "大塚商会越谷アルファーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "93"
+    }
+}

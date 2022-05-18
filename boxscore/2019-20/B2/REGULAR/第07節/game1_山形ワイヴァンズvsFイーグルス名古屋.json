@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4790,
+    "date": {
+        "season": "2019-20",
+        "month": "10.26",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "南陽市民体育館",
+        "attendance": "1360人"
+    },
+    "referee": {
+        "first": "阿部聖",
+        "second": "吉田剛",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "63",
+        "away": "87"
+    }
+}

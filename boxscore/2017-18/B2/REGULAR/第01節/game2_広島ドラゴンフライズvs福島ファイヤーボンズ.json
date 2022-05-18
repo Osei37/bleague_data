@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2126,
+    "date": {
+        "season": "2017-18",
+        "month": "10.03",
+        "week": "[Tue]",
+        "setsu": "第01節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザホール",
+        "attendance": "1097人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "秋山厚志",
+        "crew": "太田匡俊"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "68",
+        "away": "66"
+    }
+}

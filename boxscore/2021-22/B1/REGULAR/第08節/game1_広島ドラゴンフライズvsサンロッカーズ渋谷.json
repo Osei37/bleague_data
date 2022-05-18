@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7570,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第08節",
+        "time": "13:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "エフピコアリーナふくやま",
+        "attendance": "1702人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "宇田津 浩史",
+        "crew": "甲斐 清"
+    },
+    "team": {
+        "home": "広島ドラゴンフライズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "69",
+        "away": "82"
+    }
+}

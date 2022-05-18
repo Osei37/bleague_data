@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7976,
+    "date": {
+        "season": "2021-22",
+        "month": "4.16",
+        "week": "[SAT]",
+        "setsu": "第31節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2531人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "石田 祐二",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "54"
+    }
+}

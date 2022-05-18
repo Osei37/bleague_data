@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1426,
+    "date": {
+        "season": "2017-18",
+        "month": "1.07",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "535人"
+    },
+    "referee": {
+        "first": "川路宗勅",
+        "second": "佐田幸一",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "78",
+        "away": "86"
+    }
+}

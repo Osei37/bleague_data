@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1551,
+    "date": {
+        "season": "2017-18",
+        "month": "5.02",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "武蔵野総合体育館",
+        "attendance": "318人"
+    },
+    "referee": {
+        "first": "川本正治",
+        "second": "中根俊彦",
+        "crew": "大山賢史"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "65",
+        "away": "79"
+    }
+}

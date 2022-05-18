@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7387,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "921人"
+    },
+    "referee": {
+        "first": "井出啓太",
+        "second": "浅野慶太郎",
+        "crew": "吉田智実"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "68",
+        "away": "67"
+    }
+}

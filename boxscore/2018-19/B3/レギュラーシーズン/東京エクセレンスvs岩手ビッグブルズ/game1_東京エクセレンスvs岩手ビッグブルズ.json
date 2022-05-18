@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2766,
+    "date": {
+        "season": "2018-19",
+        "month": "11.16",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "603人"
+    },
+    "referee": {
+        "first": "田中充",
+        "second": "渡邉浩二",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "85",
+        "away": "65"
+    }
+}

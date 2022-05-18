@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5720,
+    "date": {
+        "season": "2020-21",
+        "month": "3.13",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": "138人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "加藤昌樹",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "86",
+        "away": "88"
+    }
+}

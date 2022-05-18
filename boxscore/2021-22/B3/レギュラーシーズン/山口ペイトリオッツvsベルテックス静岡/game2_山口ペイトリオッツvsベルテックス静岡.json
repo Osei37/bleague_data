@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7096,
+    "date": {
+        "season": "2021-22",
+        "month": "11.21",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "キリンビバレッジ周南総合スポーツセンター",
+        "attendance": "674人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "大谷英紀",
+        "crew": "柏原琢磨"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "74",
+        "away": "90"
+    }
+}

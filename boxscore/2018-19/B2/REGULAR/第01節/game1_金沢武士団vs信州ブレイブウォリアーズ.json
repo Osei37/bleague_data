@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3536,
+    "date": {
+        "season": "2018-19",
+        "month": "9.29",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1642人"
+    },
+    "referee": {
+        "first": "蒲健一",
+        "second": "菊地真吾",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "72"
+    }
+}

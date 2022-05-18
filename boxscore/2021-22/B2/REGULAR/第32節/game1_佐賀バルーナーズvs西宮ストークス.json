@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8496,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": "[SAT]",
+        "setsu": "第32節",
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "SAGAプラザ（総合体育館）",
+        "attendance": "850人"
+    },
+    "referee": {
+        "first": "小畑 治",
+        "second": "前花 直哉",
+        "crew": "原田 拓朗"
+    },
+    "team": {
+        "home": "佐賀バルーナーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "98",
+        "away": "74"
+    }
+}

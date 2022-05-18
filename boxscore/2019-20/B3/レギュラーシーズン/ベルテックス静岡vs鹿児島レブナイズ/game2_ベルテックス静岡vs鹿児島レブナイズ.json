@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5470,
+    "date": {
+        "season": "2019-20",
+        "month": "2.02",
+        "week": null,
+        "setsu": null,
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市北部体育館",
+        "attendance": "398人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "幡丸 登志久",
+        "crew": "大井陽平"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "103",
+        "away": "86"
+    }
+}

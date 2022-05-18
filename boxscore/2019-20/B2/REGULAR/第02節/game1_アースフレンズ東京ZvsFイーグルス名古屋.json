@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4719,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "片柳アリーナ（日本工学院専門学校）",
+        "attendance": "1718人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "吉田剛",
+        "crew": "名越龍男"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "65",
+        "away": "85"
+    }
+}

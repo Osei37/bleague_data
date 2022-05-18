@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1351,
+    "date": {
+        "season": "2017-18",
+        "month": "10.14",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "児玉総合公園体育館",
+        "attendance": "207人"
+    },
+    "referee": {
+        "first": "遠藤大輔",
+        "second": "古川俊和",
+        "crew": "木下晋一"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "96",
+        "away": "99"
+    }
+}

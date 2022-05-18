@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5808,
+    "date": {
+        "season": "2020-21",
+        "month": "5.08",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "355人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "坂井元直",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "100",
+        "away": "91"
+    }
+}

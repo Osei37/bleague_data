@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7495,
+    "date": {
+        "season": "2021-22",
+        "month": "10.24",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "2360人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "久米 克弥",
+        "crew": "北島 寛臣"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "63",
+        "away": "69"
+    }
+}

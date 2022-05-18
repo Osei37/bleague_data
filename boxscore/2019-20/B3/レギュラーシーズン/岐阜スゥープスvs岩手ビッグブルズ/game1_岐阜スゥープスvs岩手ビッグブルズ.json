@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5321,
+    "date": {
+        "season": "2019-20",
+        "month": "10.26",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡上市総合スポーツセンター",
+        "attendance": "381人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "岩月遼司",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "73",
+        "away": "74"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7020,
+    "date": {
+        "season": "2021-22",
+        "month": "10.09",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "長崎県立総合体育館",
+        "attendance": "1888人"
+    },
+    "referee": {
+        "first": "飯尾勝紀",
+        "second": "前花直哉",
+        "crew": "岡井元毅"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "109",
+        "away": "66"
+    }
+}

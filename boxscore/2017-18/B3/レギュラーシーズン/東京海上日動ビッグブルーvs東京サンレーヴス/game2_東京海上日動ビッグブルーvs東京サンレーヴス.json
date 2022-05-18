@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1486,
+    "date": {
+        "season": "2017-18",
+        "month": "2.25",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "193人"
+    },
+    "referee": {
+        "first": "名越龍男",
+        "second": "若山輝紀",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "73",
+        "away": "71"
+    }
+}

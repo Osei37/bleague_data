@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1267,
+    "date": {
+        "season": "2016-17",
+        "month": "4.15",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "さいたま市記念総合体育館",
+        "attendance": "1052人"
+    },
+    "referee": {
+        "first": "菊地真吾",
+        "second": "一色渉",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "ライジングゼファーフクオカ"
+    },
+    "score": {
+        "home": "75",
+        "away": "96"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8493,
+    "date": {
+        "season": "2021-22",
+        "month": "4.24",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ロートアリーナ奈良",
+        "attendance": "1054人"
+    },
+    "referee": {
+        "first": "鈴木 悟",
+        "second": "田中 豊弘",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "ライジングゼファー福岡"
+    },
+    "score": {
+        "home": "72",
+        "away": "81"
+    }
+}

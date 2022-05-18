@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8064,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": "[SAT]",
+        "setsu": "第36節",
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "アリーナ立川立飛",
+        "attendance": "2811人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "東條 輝正",
+        "crew": "柳田 雅人"
+    },
+    "team": {
+        "home": "アルバルク東京",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "64",
+        "away": "80"
+    }
+}

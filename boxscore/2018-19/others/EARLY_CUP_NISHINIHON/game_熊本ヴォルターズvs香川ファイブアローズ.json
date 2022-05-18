@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4105,
+    "date": {
+        "season": "2018-19",
+        "month": "9.08",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "甲斐清",
+        "crew": "秋山厚志"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "73"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1503,
+    "date": {
+        "season": "2017-18",
+        "month": "3.10",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "パークアリーナ小牧",
+        "attendance": "456人"
+    },
+    "referee": {
+        "first": "川路宗勅",
+        "second": "中根俊彦",
+        "crew": "生島匡"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "79",
+        "away": "73"
+    }
+}

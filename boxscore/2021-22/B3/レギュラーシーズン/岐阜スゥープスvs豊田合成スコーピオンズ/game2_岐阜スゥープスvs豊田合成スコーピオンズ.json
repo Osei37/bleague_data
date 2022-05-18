@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7163,
+    "date": {
+        "season": "2021-22",
+        "month": "12.26",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "698人"
+    },
+    "referee": {
+        "first": "井出啓太",
+        "second": "山本雄大",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "66",
+        "away": "91"
+    }
+}

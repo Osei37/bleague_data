@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8317,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第18節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "744人"
+    },
+    "referee": {
+        "first": "御手洗 亮",
+        "second": "原田 拓朗",
+        "crew": "井出 啓太"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "92",
+        "away": "71"
+    }
+}

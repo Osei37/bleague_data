@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1240,
+    "date": {
+        "season": "2016-17",
+        "month": "3.04",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "金沢市総合体育館",
+        "attendance": "1181人"
+    },
+    "referee": {
+        "first": "長尾繁徳",
+        "second": "宮里両",
+        "crew": "中根俊彦"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "ライジングゼファーフクオカ"
+    },
+    "score": {
+        "home": "74",
+        "away": "67"
+    }
+}

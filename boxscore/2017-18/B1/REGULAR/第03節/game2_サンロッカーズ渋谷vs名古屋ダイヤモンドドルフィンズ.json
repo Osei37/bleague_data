@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1616,
+    "date": {
+        "season": "2017-18",
+        "month": "10.15",
+        "week": "[Sun]",
+        "setsu": "第03節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "1919人"
+    },
+    "referee": {
+        "first": "北沢岳夫",
+        "second": "阿部聖",
+        "crew": "上田信彦"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "77",
+        "away": "65"
+    }
+}

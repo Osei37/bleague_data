@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3112,
+    "date": {
+        "season": "2018-19",
+        "month": "11.11",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "新潟市東総合スポーツセンター",
+        "attendance": "2351人"
+    },
+    "referee": {
+        "first": "大河原則人",
+        "second": "玉木彰治",
+        "crew": "久保知仁"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "レバンガ北海道"
+    },
+    "score": {
+        "home": "82",
+        "away": "76"
+    }
+}

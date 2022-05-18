@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4283,
+    "date": {
+        "season": "2019-20",
+        "month": "11.16",
+        "week": "[SAT]",
+        "setsu": "第09節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "青山学院記念館",
+        "attendance": "2184人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "佐藤誠",
+        "crew": "塩谷禎"
+    },
+    "team": {
+        "home": "サンロッカーズ渋谷",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "68"
+    }
+}

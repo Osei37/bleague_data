@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8000,
+    "date": {
+        "season": "2021-22",
+        "month": "4.20",
+        "week": "[WED]",
+        "setsu": "第32節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "729人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "眞榮喜 工",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "81",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3001,
+    "date": {
+        "season": "2018-19",
+        "month": "10.07",
+        "week": "[SUN]",
+        "setsu": "第01節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "2480人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "玉木彰治",
+        "crew": "伊藤亮介"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "75",
+        "away": "71"
+    }
+}

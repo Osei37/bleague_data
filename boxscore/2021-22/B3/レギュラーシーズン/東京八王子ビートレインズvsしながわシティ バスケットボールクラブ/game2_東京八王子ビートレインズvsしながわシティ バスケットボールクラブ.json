@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7357,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "600人"
+    },
+    "referee": {
+        "first": "塩谷禎",
+        "second": "大井 陽平",
+        "crew": "吉田智実"
+    },
+    "team": {
+        "home": "東京八王子ビートレインズ",
+        "away": "しながわシティ バスケットボールクラブ"
+    },
+    "score": {
+        "home": "93",
+        "away": "96"
+    }
+}

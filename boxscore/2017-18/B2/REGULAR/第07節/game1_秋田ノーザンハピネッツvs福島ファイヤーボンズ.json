@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2216,
+    "date": {
+        "season": "2017-18",
+        "month": "11.04",
+        "week": "[Sat]",
+        "setsu": "第07節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2327人"
+    },
+    "referee": {
+        "first": "松岡隆博",
+        "second": "上田信彦",
+        "crew": "嶋崎貴"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "84",
+        "away": "77"
+    }
+}

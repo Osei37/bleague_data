@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8327,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第20節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "632人"
+    },
+    "referee": {
+        "first": "眞榮喜 工",
+        "second": "内野 翔太",
+        "crew": "大井 陽平"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "78",
+        "away": "81"
+    }
+}

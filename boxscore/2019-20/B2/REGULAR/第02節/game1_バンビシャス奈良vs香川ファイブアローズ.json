@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4721,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "1025人"
+    },
+    "referee": {
+        "first": "青木俊博",
+        "second": "岩城和利",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "香川ファイブアローズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "86"
+    }
+}

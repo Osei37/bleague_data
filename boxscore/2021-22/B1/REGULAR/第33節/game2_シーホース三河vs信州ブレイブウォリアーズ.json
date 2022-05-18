@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8018,
+    "date": {
+        "season": "2021-22",
+        "month": "4.24",
+        "week": "[SUN]",
+        "setsu": "第33節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1846人"
+    },
+    "referee": {
+        "first": "堀内 純",
+        "second": "早崎 康祐",
+        "crew": "大野 哲広"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "72"
+    }
+}

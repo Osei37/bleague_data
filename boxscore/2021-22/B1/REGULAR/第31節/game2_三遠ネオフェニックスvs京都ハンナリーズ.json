@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7985,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊橋市総合体育館",
+        "attendance": "1537人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "堀内 純",
+        "crew": "芳賀 聡"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "京都ハンナリーズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "58"
+    }
+}

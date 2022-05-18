@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5759,
+    "date": {
+        "season": "2020-21",
+        "month": "4.11",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "七尾市総合市民体育館",
+        "attendance": "314人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "竹田雄介",
+        "crew": "高野 直人"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "93",
+        "away": "106"
+    }
+}

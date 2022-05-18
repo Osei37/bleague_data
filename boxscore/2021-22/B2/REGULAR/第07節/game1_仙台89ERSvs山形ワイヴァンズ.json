@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8159,
+    "date": {
+        "season": "2021-22",
+        "month": "11.13",
+        "week": "[SAT]",
+        "setsu": "第07節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台（仙台市体育館）",
+        "attendance": "1664人"
+    },
+    "referee": {
+        "first": "久米 克弥",
+        "second": "内田 祥平",
+        "crew": "竹田 雄介"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "67",
+        "away": "61"
+    }
+}

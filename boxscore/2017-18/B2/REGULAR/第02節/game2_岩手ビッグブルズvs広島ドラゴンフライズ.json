@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2132,
+    "date": {
+        "season": "2017-18",
+        "month": "10.08",
+        "week": "[Sun]",
+        "setsu": "第02節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "1723人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "東條輝正",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "54",
+        "away": "93"
+    }
+}

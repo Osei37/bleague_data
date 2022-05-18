@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5413,
+    "date": {
+        "season": "2019-20",
+        "month": "12.21",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "碧南市臨海体育館",
+        "attendance": "385人"
+    },
+    "referee": {
+        "first": "坂井元直",
+        "second": "池田隼人",
+        "crew": "木村健太郎"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "74",
+        "away": "65"
+    }
+}

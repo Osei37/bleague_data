@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7410,
+    "date": {
+        "season": "2021-22",
+        "month": "4.30",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "433人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "井出啓太",
+        "crew": "佐藤 慎士"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "横浜エクセレンス"
+    },
+    "score": {
+        "home": "61",
+        "away": "86"
+    }
+}

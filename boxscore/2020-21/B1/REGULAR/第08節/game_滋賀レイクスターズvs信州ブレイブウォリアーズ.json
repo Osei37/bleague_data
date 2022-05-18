@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5982,
+    "date": {
+        "season": "2020-21",
+        "month": "11.11",
+        "week": "[WED]",
+        "setsu": "第08節",
+        "time": "19:15 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "852人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "宇田津 浩史",
+        "crew": "渡邉 浩二"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "58",
+        "away": "66"
+    }
+}

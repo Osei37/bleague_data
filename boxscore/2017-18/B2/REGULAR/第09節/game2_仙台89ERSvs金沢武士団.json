@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2251,
+    "date": {
+        "season": "2017-18",
+        "month": "11.19",
+        "week": "[Sun]",
+        "setsu": "第09節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1851人"
+    },
+    "referee": {
+        "first": "石田祐二",
+        "second": "田中充",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "87",
+        "away": "97"
+    }
+}

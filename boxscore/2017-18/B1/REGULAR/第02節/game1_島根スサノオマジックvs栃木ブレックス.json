@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1607,
+    "date": {
+        "season": "2017-18",
+        "month": "10.07",
+        "week": "[Sat]",
+        "setsu": "第02節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "3421人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "宇田津浩史",
+        "crew": "早崎康祐"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "栃木ブレックス"
+    },
+    "score": {
+        "home": "80",
+        "away": "72"
+    }
+}

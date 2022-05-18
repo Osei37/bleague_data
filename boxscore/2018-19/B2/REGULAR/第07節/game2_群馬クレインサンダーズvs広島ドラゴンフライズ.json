@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3632,
+    "date": {
+        "season": "2018-19",
+        "month": "11.04",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千代田町総合体育館",
+        "attendance": "611人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "針生淳男",
+        "crew": "大野太裕"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5504,
+    "date": {
+        "season": "2019-20",
+        "month": "2.23",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "2634人"
+    },
+    "referee": {
+        "first": "白川一樹",
+        "second": "川井 剛",
+        "crew": "林大貴"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "96",
+        "away": "88"
+    }
+}

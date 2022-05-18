@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1480,
+    "date": {
+        "season": "2017-18",
+        "month": "2.18",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": "518人"
+    },
+    "referee": {
+        "first": "大井明",
+        "second": "木下晋一",
+        "crew": "川島司"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "71",
+        "away": "82"
+    }
+}

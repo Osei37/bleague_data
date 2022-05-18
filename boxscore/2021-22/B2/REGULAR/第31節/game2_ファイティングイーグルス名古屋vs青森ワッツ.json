@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8479,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": "[SUN]",
+        "setsu": "第31節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "888人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "内田 祥平",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "100",
+        "away": "61"
+    }
+}

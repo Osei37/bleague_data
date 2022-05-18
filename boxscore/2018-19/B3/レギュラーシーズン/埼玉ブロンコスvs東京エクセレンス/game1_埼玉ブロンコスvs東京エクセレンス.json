@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2834,
+    "date": {
+        "season": "2018-19",
+        "month": "1.05",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "1815人"
+    },
+    "referee": {
+        "first": "中田英教",
+        "second": "幡丸 登志久",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "埼玉ブロンコス",
+        "away": "東京エクセレンス"
+    },
+    "score": {
+        "home": "80",
+        "away": "112"
+    }
+}

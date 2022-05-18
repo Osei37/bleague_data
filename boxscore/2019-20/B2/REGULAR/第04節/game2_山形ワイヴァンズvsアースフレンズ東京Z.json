@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4746,
+    "date": {
+        "season": "2019-20",
+        "month": "10.13",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "1703人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "吉田剛",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "55",
+        "away": "64"
+    }
+}

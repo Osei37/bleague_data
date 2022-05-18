@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1205,
+    "date": {
+        "season": "2016-17",
+        "month": "2.04",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京海上日動石神井体育館",
+        "attendance": "172人"
+    },
+    "referee": {
+        "first": "平林達哉",
+        "second": "一色渉",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京海上日動ビッグブルー",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "89",
+        "away": "83"
+    }
+}

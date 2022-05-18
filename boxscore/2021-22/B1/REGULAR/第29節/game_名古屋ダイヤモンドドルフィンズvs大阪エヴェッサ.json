@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7944,
+    "date": {
+        "season": "2021-22",
+        "month": "4.06",
+        "week": "[WED]",
+        "setsu": "第29節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ドルフィンズアリーナ",
+        "attendance": "1161人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "加藤 昌樹",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "名古屋ダイヤモンドドルフィンズ",
+        "away": "大阪エヴェッサ"
+    },
+    "score": {
+        "home": "89",
+        "away": "87"
+    }
+}

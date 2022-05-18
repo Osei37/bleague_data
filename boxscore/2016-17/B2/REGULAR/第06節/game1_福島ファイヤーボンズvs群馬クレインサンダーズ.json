@@ -1,0 +1,27 @@
+{
+    "schedule_key": 633,
+    "date": {
+        "season": "2016-17",
+        "month": "10.29",
+        "week": "[Sat]",
+        "setsu": "第06節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1105人"
+    },
+    "referee": {
+        "first": "増渕泰久",
+        "second": "上田 信彦",
+        "crew": "加納 康平"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "64",
+        "away": "70"
+    }
+}

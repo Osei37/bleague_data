@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7080,
+    "date": {
+        "season": "2021-22",
+        "month": "11.14",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城地区 希望の丘体育館",
+        "attendance": "155人"
+    },
+    "referee": {
+        "first": "岩木太郎",
+        "second": "岩城和利",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "アイシン アレイオンズ",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "78",
+        "away": "67"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 3678,
+    "date": {
+        "season": "2018-19",
+        "month": "11.19",
+        "week": "[MON]",
+        "setsu": "第09節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1403人"
+    },
+    "referee": {
+        "first": "堀内純",
+        "second": "御手洗亮",
+        "crew": "薦田侑二郎"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "Fイーグルス名古屋"
+    },
+    "score": {
+        "home": "82",
+        "away": "93"
+    }
+}

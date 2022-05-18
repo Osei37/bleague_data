@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7397,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "豊田合成記念体育館(エントリオ）",
+        "attendance": "295人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "野々村日希",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "70",
+        "away": "92"
+    }
+}

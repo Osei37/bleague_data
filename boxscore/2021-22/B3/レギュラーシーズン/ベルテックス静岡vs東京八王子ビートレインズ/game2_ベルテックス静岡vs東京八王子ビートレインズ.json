@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7010,
+    "date": {
+        "season": "2021-22",
+        "month": "10.03",
+        "week": null,
+        "setsu": null,
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "静岡市中央体育館",
+        "attendance": "602人"
+    },
+    "referee": {
+        "first": "嶋崎貴",
+        "second": "加藤昌樹",
+        "crew": "茂泉圭治"
+    },
+    "team": {
+        "home": "ベルテックス静岡",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "93",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2778,
+    "date": {
+        "season": "2018-19",
+        "month": "11.24",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "盛岡タカヤアリーナ",
+        "attendance": "764人"
+    },
+    "referee": {
+        "first": "大野太裕",
+        "second": "遠藤大輔",
+        "crew": "川熊俊"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "57",
+        "away": "66"
+    }
+}

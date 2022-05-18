@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7165,
+    "date": {
+        "season": "2021-22",
+        "month": "12.25",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "751人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "内田祥平",
+        "crew": "深野木慧"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "99",
+        "away": "68"
+    }
+}

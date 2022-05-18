@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6532,
+    "date": {
+        "season": "2020-21",
+        "month": "11.07",
+        "week": "[SAT]",
+        "setsu": "第06節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西宮市立中央体育館",
+        "attendance": "969人"
+    },
+    "referee": {
+        "first": "岩木 太郎",
+        "second": "飯尾 勝紀",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "群馬クレインサンダーズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "90"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5683,
+    "date": {
+        "season": "2020-21",
+        "month": "2.14",
+        "week": null,
+        "setsu": null,
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "1235人"
+    },
+    "referee": {
+        "first": "秋山厚志",
+        "second": "皆川義紀",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "アイシン・エィ・ダブリュ アレイオンズ安城"
+    },
+    "score": {
+        "home": "90",
+        "away": "85"
+    }
+}

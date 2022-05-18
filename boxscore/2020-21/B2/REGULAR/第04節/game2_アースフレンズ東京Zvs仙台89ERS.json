@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6509,
+    "date": {
+        "season": "2020-21",
+        "month": "10.25",
+        "week": "[SUN]",
+        "setsu": "第04節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "世田谷区立総合運動場体育館",
+        "attendance": "406人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "石田 祐二",
+        "crew": "山口 尭彰"
+    },
+    "team": {
+        "home": "アースフレンズ東京Z",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "57",
+        "away": "80"
+    }
+}

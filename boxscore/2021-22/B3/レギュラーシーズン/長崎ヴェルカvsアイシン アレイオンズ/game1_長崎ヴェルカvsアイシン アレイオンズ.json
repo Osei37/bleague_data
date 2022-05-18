@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7384,
+    "date": {
+        "season": "2021-22",
+        "month": "4.16",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "諫早市中央体育館",
+        "attendance": "929人"
+    },
+    "referee": {
+        "first": "伊藤彰二",
+        "second": "原田拓朗",
+        "crew": "岡井元毅"
+    },
+    "team": {
+        "home": "長崎ヴェルカ",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "95",
+        "away": "80"
+    }
+}

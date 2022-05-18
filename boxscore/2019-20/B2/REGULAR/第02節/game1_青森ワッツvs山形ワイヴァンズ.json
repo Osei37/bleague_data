@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4709,
+    "date": {
+        "season": "2019-20",
+        "month": "9.28",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カクヒログループスタジアム",
+        "attendance": "1509人"
+    },
+    "referee": {
+        "first": "谷地温",
+        "second": "中田英教",
+        "crew": "香野学"
+    },
+    "team": {
+        "home": "青森ワッツ",
+        "away": "山形ワイヴァンズ"
+    },
+    "score": {
+        "home": "91",
+        "away": "94"
+    }
+}

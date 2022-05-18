@@ -1,0 +1,27 @@
+{
+    "schedule_key": 677,
+    "date": {
+        "season": "2016-17",
+        "month": "11.20",
+        "week": "[Sun]",
+        "setsu": "第08節",
+        "time": "13:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "郡山総合体育館",
+        "attendance": "1075人"
+    },
+    "referee": {
+        "first": "稲葉威",
+        "second": "平出 剛",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "福島ファイヤーボンズ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "65"
+    }
+}

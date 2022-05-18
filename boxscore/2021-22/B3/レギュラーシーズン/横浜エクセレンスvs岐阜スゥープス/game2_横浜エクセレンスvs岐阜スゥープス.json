@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7009,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜武道館",
+        "attendance": "812人"
+    },
+    "referee": {
+        "first": "一色渉",
+        "second": "大井陽平",
+        "crew": "瓜田真司"
+    },
+    "team": {
+        "home": "横浜エクセレンス",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "68",
+        "away": "76"
+    }
+}

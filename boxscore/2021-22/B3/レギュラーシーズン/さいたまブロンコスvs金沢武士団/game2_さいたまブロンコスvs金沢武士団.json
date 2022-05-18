@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7105,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "浦和駒場体育館",
+        "attendance": "674人"
+    },
+    "referee": {
+        "first": "眞榮喜工",
+        "second": "中野嗣久",
+        "crew": "瓜田真司"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "107",
+        "away": "59"
+    }
+}

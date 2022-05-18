@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7335,
+    "date": {
+        "season": "2021-22",
+        "month": "3.19",
+        "week": null,
+        "setsu": null,
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "984人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "皆川義紀",
+        "crew": "細見竜太"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "87",
+        "away": "78"
+    }
+}

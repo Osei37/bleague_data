@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1227,
+    "date": {
+        "season": "2016-17",
+        "month": "2.19",
+        "week": null,
+        "setsu": null,
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "277人"
+    },
+    "referee": {
+        "first": "小川裕之",
+        "second": "大川修平",
+        "crew": "梶崇司"
+    },
+    "team": {
+        "home": "大塚商会アルファーズ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "98",
+        "away": "63"
+    }
+}

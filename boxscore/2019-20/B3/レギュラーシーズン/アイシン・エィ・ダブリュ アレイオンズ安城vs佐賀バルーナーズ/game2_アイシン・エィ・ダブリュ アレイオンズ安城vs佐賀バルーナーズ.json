@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5330,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "安城市体育館",
+        "attendance": "656人"
+    },
+    "referee": {
+        "first": "浅野祐樹",
+        "second": "田中 優志",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "63"
+    }
+}

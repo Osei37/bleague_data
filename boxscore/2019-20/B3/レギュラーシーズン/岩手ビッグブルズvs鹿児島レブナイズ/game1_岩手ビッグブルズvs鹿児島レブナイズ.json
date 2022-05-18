@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5339,
+    "date": {
+        "season": "2019-20",
+        "month": "11.02",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "滝沢総合公園体育館",
+        "attendance": "842人"
+    },
+    "referee": {
+        "first": "井出 啓太",
+        "second": "一色渉",
+        "crew": "京極 幸村"
+    },
+    "team": {
+        "home": "岩手ビッグブルズ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "82",
+        "away": "74"
+    }
+}

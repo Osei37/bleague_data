@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2902,
+    "date": {
+        "season": "2018-19",
+        "month": "2.16",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "705人"
+    },
+    "referee": {
+        "first": "宇田津浩史",
+        "second": "田中豊弘",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "70"
+    }
+}

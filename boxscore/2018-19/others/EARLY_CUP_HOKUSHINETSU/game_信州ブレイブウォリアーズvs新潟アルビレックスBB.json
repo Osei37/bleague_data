@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4091,
+    "date": {
+        "season": "2018-19",
+        "month": "9.08",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ことぶきアリーナ千曲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "竹田 雄介",
+        "second": "管祐介",
+        "crew": "白川直弘"
+    },
+    "team": {
+        "home": "信州ブレイブウォリアーズ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "74",
+        "away": "77"
+    }
+}

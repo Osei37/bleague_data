@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4793,
+    "date": {
+        "season": "2019-20",
+        "month": "10.27",
+        "week": "[SUN]",
+        "setsu": "第07節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "池の川さくらアリーナ",
+        "attendance": "1958人"
+    },
+    "referee": {
+        "first": "細田知宏",
+        "second": "丸山大",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "茨城ロボッツ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "64",
+        "away": "85"
+    }
+}

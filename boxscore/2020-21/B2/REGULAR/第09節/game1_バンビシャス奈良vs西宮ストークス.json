@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6584,
+    "date": {
+        "season": "2020-21",
+        "month": "2.11",
+        "week": "[THU]",
+        "setsu": "第09節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "722人"
+    },
+    "referee": {
+        "first": "塩谷 禎",
+        "second": "守谷 圭介",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "89",
+        "away": "92"
+    }
+}

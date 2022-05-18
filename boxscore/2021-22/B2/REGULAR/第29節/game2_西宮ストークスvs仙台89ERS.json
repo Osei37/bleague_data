@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8449,
+    "date": {
+        "season": "2021-22",
+        "month": "4.03",
+        "week": "[SUN]",
+        "setsu": "第29節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "グリーンアリーナ神戸",
+        "attendance": "1746人"
+    },
+    "referee": {
+        "first": "冨島 健司",
+        "second": "豊田 康平",
+        "crew": "幡丸 登志久"
+    },
+    "team": {
+        "home": "西宮ストークス",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "86",
+        "away": "83"
+    }
+}

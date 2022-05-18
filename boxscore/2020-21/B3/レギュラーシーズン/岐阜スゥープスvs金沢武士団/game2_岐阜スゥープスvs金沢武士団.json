@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5671,
+    "date": {
+        "season": "2020-21",
+        "month": "2.07",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "せきしんふれ愛アリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "北島寛臣",
+        "second": "岩城和利",
+        "crew": "羽場信彦"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "金沢武士団"
+    },
+    "score": {
+        "home": "89",
+        "away": "80"
+    }
+}

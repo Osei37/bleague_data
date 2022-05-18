@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1435,
+    "date": {
+        "season": "2017-18",
+        "month": "1.13",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東村山市民スポーツセンター",
+        "attendance": "897人"
+    },
+    "referee": {
+        "first": "廣瀬渉",
+        "second": "川本正治",
+        "crew": "河合拓治"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "98",
+        "away": "69"
+    }
+}

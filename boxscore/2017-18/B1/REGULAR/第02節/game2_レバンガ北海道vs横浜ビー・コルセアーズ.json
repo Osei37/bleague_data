@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1592,
+    "date": {
+        "season": "2017-18",
+        "month": "10.09",
+        "week": "[Mon]",
+        "setsu": "第02節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "北海きたえーる",
+        "attendance": "3176人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "玉木彰治",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "レバンガ北海道",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "89",
+        "away": "82"
+    }
+}

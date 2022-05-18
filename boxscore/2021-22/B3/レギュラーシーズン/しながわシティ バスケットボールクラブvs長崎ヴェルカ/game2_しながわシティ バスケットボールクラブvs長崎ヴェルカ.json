@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7332,
+    "date": {
+        "season": "2021-22",
+        "month": "3.20",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "品川区立戸越体育館",
+        "attendance": "213人"
+    },
+    "referee": {
+        "first": "竹田雄介",
+        "second": "山崎 昭一",
+        "crew": "岡 龍哉"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "長崎ヴェルカ"
+    },
+    "score": {
+        "home": "71",
+        "away": "105"
+    }
+}

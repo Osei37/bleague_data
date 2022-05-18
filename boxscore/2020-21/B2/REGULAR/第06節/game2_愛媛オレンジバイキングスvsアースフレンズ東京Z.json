@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6539,
+    "date": {
+        "season": "2020-21",
+        "month": "11.08",
+        "week": "[SUN]",
+        "setsu": "第06節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "愛媛県総合運動公園体育館",
+        "attendance": "394人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "白川 一樹",
+        "crew": "皆川 義紀"
+    },
+    "team": {
+        "home": "愛媛オレンジバイキングス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "86",
+        "away": "59"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1545,
+    "date": {
+        "season": "2017-18",
+        "month": "4.28",
+        "week": null,
+        "setsu": null,
+        "time": "18:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "板橋区立小豆沢体育館",
+        "attendance": "669人"
+    },
+    "referee": {
+        "first": "中井将基",
+        "second": "堀田幸一",
+        "crew": "浮池亮太"
+    },
+    "team": {
+        "home": "東京エクセレンス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "100",
+        "away": "82"
+    }
+}

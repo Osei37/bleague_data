@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1255,
+    "date": {
+        "season": "2016-17",
+        "month": "3.18",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "田川市総合体育館",
+        "attendance": "828人"
+    },
+    "referee": {
+        "first": "甲木善徳",
+        "second": "岩尾圭治",
+        "crew": "阿部知裕"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカ",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "102",
+        "away": "75"
+    }
+}

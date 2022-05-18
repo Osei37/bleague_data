@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8091,
+    "date": {
+        "season": "2021-22",
+        "month": "10.02",
+        "week": "[SAT]",
+        "setsu": "第01節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "照葉積水ハウスアリーナ",
+        "attendance": "962人"
+    },
+    "referee": {
+        "first": "名越 龍男",
+        "second": "茅野 修司",
+        "crew": "小島 慶子"
+    },
+    "team": {
+        "home": "ライジングゼファー福岡",
+        "away": "青森ワッツ"
+    },
+    "score": {
+        "home": "73",
+        "away": "71"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7382,
+    "date": {
+        "season": "2021-22",
+        "month": "4.16",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ジップアリーナ岡山",
+        "attendance": "902人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "豊田 康平",
+        "crew": "田中豊弘"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "80",
+        "away": "102"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5686,
+    "date": {
+        "season": "2020-21",
+        "month": "2.20",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "所沢市民体育館",
+        "attendance": "310人"
+    },
+    "referee": {
+        "first": "東條輝正",
+        "second": "北島寛臣",
+        "crew": "一色渉"
+    },
+    "team": {
+        "home": "さいたまブロンコス",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "62",
+        "away": "93"
+    }
+}

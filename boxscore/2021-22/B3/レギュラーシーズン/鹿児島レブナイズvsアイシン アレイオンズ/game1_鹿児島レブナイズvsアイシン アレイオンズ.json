@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7398,
+    "date": {
+        "season": "2021-22",
+        "month": "4.23",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "西原商会アリーナ",
+        "attendance": "1102人"
+    },
+    "referee": {
+        "first": "大谷英紀",
+        "second": "御手洗亮",
+        "crew": "和田敏文"
+    },
+    "team": {
+        "home": "鹿児島レブナイズ",
+        "away": "アイシン アレイオンズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "77"
+    }
+}

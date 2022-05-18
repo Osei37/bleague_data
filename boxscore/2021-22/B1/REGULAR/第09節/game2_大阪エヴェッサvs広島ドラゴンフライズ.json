@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7593,
+    "date": {
+        "season": "2021-22",
+        "month": "12.05",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "3287人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "細田 知宏",
+        "crew": "秋山 厚志"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "広島ドラゴンフライズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "87"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5911,
+    "date": {
+        "season": "2020-21",
+        "month": "10.18",
+        "week": "[SUN]",
+        "setsu": "第03節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "1391人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "塩谷 禎",
+        "crew": "坂井 元直"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "75",
+        "away": "89"
+    }
+}

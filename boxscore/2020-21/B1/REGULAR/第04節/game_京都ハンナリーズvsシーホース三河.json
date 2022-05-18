@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5922,
+    "date": {
+        "season": "2020-21",
+        "month": "10.21",
+        "week": "[WED]",
+        "setsu": "第04節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ハンナリーズアリーナ",
+        "attendance": "689人"
+    },
+    "referee": {
+        "first": "黒岡 和哲",
+        "second": "岩木 太郎",
+        "crew": "茅野 修司"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "82",
+        "away": "99"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8462,
+    "date": {
+        "season": "2021-22",
+        "month": "4.09",
+        "week": "[SAT]",
+        "setsu": "第30節",
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "山形県総合運動公園",
+        "attendance": "736人"
+    },
+    "referee": {
+        "first": "蒲 健一",
+        "second": "山内 正隆",
+        "crew": "加川 真"
+    },
+    "team": {
+        "home": "山形ワイヴァンズ",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "88"
+    }
+}

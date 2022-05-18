@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7249,
+    "date": {
+        "season": "2021-22",
+        "month": "2.06",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "俵田翁記念体育館",
+        "attendance": "543人"
+    },
+    "referee": {
+        "first": "柳田 雅人",
+        "second": "豊田 康平",
+        "crew": "中村達哉"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "岩手ビッグブルズ"
+    },
+    "score": {
+        "home": "63",
+        "away": "78"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7034,
+    "date": {
+        "season": "2021-22",
+        "month": "10.16",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "広島サンプラザ",
+        "attendance": "194人"
+    },
+    "referee": {
+        "first": "豊田 康平",
+        "second": "池田隼人",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "90",
+        "away": "99"
+    }
+}

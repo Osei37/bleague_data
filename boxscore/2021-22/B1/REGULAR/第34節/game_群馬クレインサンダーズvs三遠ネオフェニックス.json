@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8026,
+    "date": {
+        "season": "2021-22",
+        "month": "4.27",
+        "week": "[WED]",
+        "setsu": "第34節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "太田市運動公園市民体育館",
+        "attendance": "1421人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "谷古宇 孝",
+        "crew": "尾形 美樹"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "三遠ネオフェニックス"
+    },
+    "score": {
+        "home": "79",
+        "away": "69"
+    }
+}

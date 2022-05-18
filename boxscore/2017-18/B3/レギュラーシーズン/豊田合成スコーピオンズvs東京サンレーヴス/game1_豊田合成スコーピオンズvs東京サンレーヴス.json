@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1447,
+    "date": {
+        "season": "2017-18",
+        "month": "1.20",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "一宮市総合体育館",
+        "attendance": "332人"
+    },
+    "referee": {
+        "first": "田中真",
+        "second": "名越龍男",
+        "crew": "野々村日希"
+    },
+    "team": {
+        "home": "豊田合成スコーピオンズ",
+        "away": "東京サンレーヴス"
+    },
+    "score": {
+        "home": "79",
+        "away": "62"
+    }
+}

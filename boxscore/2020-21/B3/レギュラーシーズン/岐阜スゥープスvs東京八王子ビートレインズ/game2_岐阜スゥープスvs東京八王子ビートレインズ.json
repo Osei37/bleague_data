@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5845,
+    "date": {
+        "season": "2020-21",
+        "month": "6.06",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "932人"
+    },
+    "referee": {
+        "first": "中川行臣",
+        "second": "加藤昌樹",
+        "crew": "岩城和利"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "82"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 28,
+    "date": {
+        "season": "2016-17",
+        "month": "10.01",
+        "week": "[Sat]",
+        "setsu": "第02節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3520人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "伊藤亮介",
+        "crew": "冨島健司"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "滋賀レイクスターズ"
+    },
+    "score": {
+        "home": "59",
+        "away": "56"
+    }
+}

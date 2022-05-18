@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7071,
+    "date": {
+        "season": "2021-22",
+        "month": "11.12",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "45人"
+    },
+    "referee": {
+        "first": "東條輝正",
+        "second": "松永航平",
+        "crew": "島袋竹志"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "ベルテックス静岡"
+    },
+    "score": {
+        "home": "57",
+        "away": "82"
+    }
+}

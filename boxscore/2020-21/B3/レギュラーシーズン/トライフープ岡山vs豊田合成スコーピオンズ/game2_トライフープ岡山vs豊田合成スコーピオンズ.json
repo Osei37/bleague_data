@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5723,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": null,
+        "setsu": null,
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "津山総合体育館",
+        "attendance": "508人"
+    },
+    "referee": {
+        "first": "橋本恵一",
+        "second": "柏原琢磨",
+        "crew": "西和馬"
+    },
+    "team": {
+        "home": "トライフープ岡山",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "106",
+        "away": "91"
+    }
+}

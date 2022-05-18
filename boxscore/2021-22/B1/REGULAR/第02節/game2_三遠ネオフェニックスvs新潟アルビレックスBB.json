@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7453,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": "[SUN]",
+        "setsu": "第02節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "浜松アリーナ",
+        "attendance": "2055人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "小澤 勤",
+        "crew": "谷地 温"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "85",
+        "away": "82"
+    }
+}

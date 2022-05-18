@@ -1,0 +1,27 @@
+{
+    "schedule_key": 609,
+    "date": {
+        "season": "2016-17",
+        "month": "10.16",
+        "week": "[Sun]",
+        "setsu": "第04節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ならでんアリーナ",
+        "attendance": "947人"
+    },
+    "referee": {
+        "first": "山田豊弘",
+        "second": "山内正隆",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "バンビシャス奈良",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "71",
+        "away": "69"
+    }
+}

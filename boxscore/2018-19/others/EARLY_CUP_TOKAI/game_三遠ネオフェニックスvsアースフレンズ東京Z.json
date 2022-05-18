@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5246,
+    "date": {
+        "season": "2018-19",
+        "month": "9.14",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "黒岡和哲",
+        "second": "小畑治",
+        "crew": "高野杏実"
+    },
+    "team": {
+        "home": "三遠ネオフェニックス",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "63",
+        "away": "66"
+    }
+}

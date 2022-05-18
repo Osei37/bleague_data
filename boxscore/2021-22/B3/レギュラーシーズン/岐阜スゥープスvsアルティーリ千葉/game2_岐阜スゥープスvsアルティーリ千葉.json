@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7024,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "682人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "坂井元直",
+        "crew": "山本雄大"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "アルティーリ千葉"
+    },
+    "score": {
+        "home": "73",
+        "away": "102"
+    }
+}

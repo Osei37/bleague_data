@@ -1,0 +1,27 @@
+{
+    "schedule_key": 74,
+    "date": {
+        "season": "2016-17",
+        "month": "10.22",
+        "week": "[Sat]",
+        "setsu": "第05節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "カメイアリーナ仙台",
+        "attendance": "1871人"
+    },
+    "referee": {
+        "first": "宇田川貴生",
+        "second": "前田喜庸",
+        "crew": "阿部聖"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "66",
+        "away": "63"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2757,
+    "date": {
+        "season": "2018-19",
+        "month": "11.04",
+        "week": null,
+        "setsu": null,
+        "time": "10:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "183人"
+    },
+    "referee": {
+        "first": "鬼頭英伸",
+        "second": "市川雄介",
+        "crew": "中道凌平"
+    },
+    "team": {
+        "home": "大塚商会越谷アルファーズ",
+        "away": "岐阜スゥープス"
+    },
+    "score": {
+        "home": "82",
+        "away": "58"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5719,
+    "date": {
+        "season": "2020-21",
+        "month": "3.14",
+        "week": null,
+        "setsu": null,
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "岐阜メモリアルセンター　で愛ドーム",
+        "attendance": "961人"
+    },
+    "referee": {
+        "first": "茅野修司",
+        "second": "浅野祐樹",
+        "crew": "井出啓太"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "さいたまブロンコス"
+    },
+    "score": {
+        "home": "90",
+        "away": "64"
+    }
+}

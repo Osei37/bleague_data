@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7103,
+    "date": {
+        "season": "2021-22",
+        "month": "11.27",
+        "week": null,
+        "setsu": null,
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "631人"
+    },
+    "referee": {
+        "first": "加藤昌樹",
+        "second": "坂井元直",
+        "crew": "竹田雄介"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "山口ペイトリオッツ"
+    },
+    "score": {
+        "home": "78",
+        "away": "86"
+    }
+}

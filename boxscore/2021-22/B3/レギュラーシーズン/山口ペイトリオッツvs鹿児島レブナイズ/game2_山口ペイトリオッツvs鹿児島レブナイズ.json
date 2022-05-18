@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7390,
+    "date": {
+        "season": "2021-22",
+        "month": "4.17",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "岩国市総合体育館",
+        "attendance": "431人"
+    },
+    "referee": {
+        "first": "皆川義紀",
+        "second": "西和馬",
+        "crew": "野田明男"
+    },
+    "team": {
+        "home": "山口ペイトリオッツ",
+        "away": "鹿児島レブナイズ"
+    },
+    "score": {
+        "home": "71",
+        "away": "93"
+    }
+}

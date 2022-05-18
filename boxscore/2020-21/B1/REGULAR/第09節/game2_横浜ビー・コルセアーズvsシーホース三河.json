@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5993,
+    "date": {
+        "season": "2020-21",
+        "month": "11.15",
+        "week": "[SUN]",
+        "setsu": "第09節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜国際プール",
+        "attendance": "1368人"
+    },
+    "referee": {
+        "first": "増渕 泰久",
+        "second": "和嶋 陽一",
+        "crew": "石田 祐二"
+    },
+    "team": {
+        "home": "横浜ビー・コルセアーズ",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "84",
+        "away": "88"
+    }
+}

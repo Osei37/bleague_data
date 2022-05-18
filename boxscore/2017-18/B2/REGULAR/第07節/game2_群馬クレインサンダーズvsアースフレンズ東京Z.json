@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2221,
+    "date": {
+        "season": "2017-18",
+        "month": "11.05",
+        "week": "[Sun]",
+        "setsu": "第07節",
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "千代田町総合体育館",
+        "attendance": "1021人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "小田中涼子",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "90",
+        "away": "82"
+    }
+}

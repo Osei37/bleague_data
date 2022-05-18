@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2809,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "アイシンAW体育館",
+        "attendance": "185人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "吉田知実",
+        "crew": "内田祥平"
+    },
+    "team": {
+        "home": "アイシン・エィ・ダブリュ アレイオンズ安城",
+        "away": "埼玉ブロンコス"
+    },
+    "score": {
+        "home": "95",
+        "away": "87"
+    }
+}

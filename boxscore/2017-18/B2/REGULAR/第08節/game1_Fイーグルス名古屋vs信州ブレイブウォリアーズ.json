@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2238,
+    "date": {
+        "season": "2017-18",
+        "month": "11.11",
+        "week": "[Sat]",
+        "setsu": "第08節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "1968人"
+    },
+    "referee": {
+        "first": "冨島健司",
+        "second": "早崎康祐",
+        "crew": "坂井元直"
+    },
+    "team": {
+        "home": "Fイーグルス名古屋",
+        "away": "信州ブレイブウォリアーズ"
+    },
+    "score": {
+        "home": "69",
+        "away": "62"
+    }
+}

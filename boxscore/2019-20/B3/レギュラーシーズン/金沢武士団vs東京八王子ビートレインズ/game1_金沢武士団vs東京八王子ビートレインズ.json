@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5343,
+    "date": {
+        "season": "2019-20",
+        "month": "11.01",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "松任総合運動公園体育館",
+        "attendance": "350人"
+    },
+    "referee": {
+        "first": "山内正隆",
+        "second": "高野杏実",
+        "crew": "田中 優志"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "東京八王子ビートレインズ"
+    },
+    "score": {
+        "home": "48",
+        "away": "87"
+    }
+}

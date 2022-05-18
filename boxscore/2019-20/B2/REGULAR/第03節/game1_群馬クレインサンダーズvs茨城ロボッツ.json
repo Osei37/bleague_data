@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4731,
+    "date": {
+        "season": "2019-20",
+        "month": "10.04",
+        "week": "[FRI]",
+        "setsu": "第03節",
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ヤマト市民体育館前橋",
+        "attendance": "897人"
+    },
+    "referee": {
+        "first": "岩井 遥河",
+        "second": "那須弘幸",
+        "crew": "中田英教"
+    },
+    "team": {
+        "home": "群馬クレインサンダーズ",
+        "away": "茨城ロボッツ"
+    },
+    "score": {
+        "home": "70",
+        "away": "71"
+    }
+}

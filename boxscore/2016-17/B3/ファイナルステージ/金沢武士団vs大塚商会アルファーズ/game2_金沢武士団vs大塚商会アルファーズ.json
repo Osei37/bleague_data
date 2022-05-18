@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1271,
+    "date": {
+        "season": "2016-17",
+        "month": "4.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "いしかわ総合スポーツセンター",
+        "attendance": "2015人"
+    },
+    "referee": {
+        "first": "丸山大",
+        "second": "名越龍男",
+        "crew": "中根俊彦"
+    },
+    "team": {
+        "home": "金沢武士団",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "68"
+    }
+}

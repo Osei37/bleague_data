@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1107,
+    "date": {
+        "season": "2016-17",
+        "month": "10.22",
+        "week": null,
+        "setsu": null,
+        "time": "14:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子(サブ)",
+        "attendance": "218人"
+    },
+    "referee": {
+        "first": "木下晋一",
+        "second": "廣瀬渉",
+        "crew": "管祐介"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "大塚商会アルファーズ"
+    },
+    "score": {
+        "home": "83",
+        "away": "97"
+    }
+}

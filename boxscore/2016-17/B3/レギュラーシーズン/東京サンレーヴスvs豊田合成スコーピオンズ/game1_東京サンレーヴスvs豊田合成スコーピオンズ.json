@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1229,
+    "date": {
+        "season": "2016-17",
+        "month": "2.25",
+        "week": null,
+        "setsu": null,
+        "time": "11:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "エスフォルタアリーナ八王子（メイン）",
+        "attendance": "181人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "佐田幸一",
+        "crew": "仲地祥吾"
+    },
+    "team": {
+        "home": "東京サンレーヴス",
+        "away": "豊田合成スコーピオンズ"
+    },
+    "score": {
+        "home": "81",
+        "away": "65"
+    }
+}

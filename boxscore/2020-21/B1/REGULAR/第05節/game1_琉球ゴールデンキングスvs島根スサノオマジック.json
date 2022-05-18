@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5942,
+    "date": {
+        "season": "2020-21",
+        "month": "10.24",
+        "week": "[SAT]",
+        "setsu": "第05節",
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "1512人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "御手洗 亮",
+        "crew": "砂川 卓嗣"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "84",
+        "away": "71"
+    }
+}

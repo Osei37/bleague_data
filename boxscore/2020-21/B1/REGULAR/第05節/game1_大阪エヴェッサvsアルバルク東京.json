@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5938,
+    "date": {
+        "season": "2020-21",
+        "month": "10.24",
+        "week": "[SAT]",
+        "setsu": "第05節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": "1675人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "黒岡 和哲",
+        "crew": "浅野 祐樹"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "69",
+        "away": "97"
+    }
+}

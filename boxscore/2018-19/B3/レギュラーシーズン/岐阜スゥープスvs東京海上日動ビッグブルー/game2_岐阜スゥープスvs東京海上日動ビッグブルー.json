@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2813,
+    "date": {
+        "season": "2018-19",
+        "month": "12.16",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "OKBぎふ清流アリーナ",
+        "attendance": "819人"
+    },
+    "referee": {
+        "first": "高野 晃平",
+        "second": "名越龍男",
+        "crew": "市川雄介"
+    },
+    "team": {
+        "home": "岐阜スゥープス",
+        "away": "東京海上日動ビッグブルー"
+    },
+    "score": {
+        "home": "89",
+        "away": "87"
+    }
+}

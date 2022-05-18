@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7023,
+    "date": {
+        "season": "2021-22",
+        "month": "10.10",
+        "week": null,
+        "setsu": null,
+        "time": "14:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "中央区総合スポーツセンター",
+        "attendance": "136人"
+    },
+    "referee": {
+        "first": "和嶋陽一",
+        "second": "嶋崎貴",
+        "crew": "望月直幸"
+    },
+    "team": {
+        "home": "しながわシティ バスケットボールクラブ",
+        "away": "トライフープ岡山"
+    },
+    "score": {
+        "home": "63",
+        "away": "114"
+    }
+}

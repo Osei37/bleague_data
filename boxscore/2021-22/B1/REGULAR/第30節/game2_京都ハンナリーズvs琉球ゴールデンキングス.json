@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7967,
+    "date": {
+        "season": "2021-22",
+        "month": "4.10",
+        "week": "[SUN]",
+        "setsu": "第30節",
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "京都市体育館",
+        "attendance": "1430人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "塩谷 禎",
+        "crew": "橋本 恵一"
+    },
+    "team": {
+        "home": "京都ハンナリーズ",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "67",
+        "away": "79"
+    }
+}

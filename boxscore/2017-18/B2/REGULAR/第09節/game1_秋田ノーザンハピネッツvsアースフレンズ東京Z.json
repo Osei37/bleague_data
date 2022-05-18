@@ -1,0 +1,27 @@
+{
+    "schedule_key": 2252,
+    "date": {
+        "season": "2017-18",
+        "month": "11.18",
+        "week": "[Sat]",
+        "setsu": "第09節",
+        "time": "18:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ＣＮＡアリーナ★あきた",
+        "attendance": "2510人"
+    },
+    "referee": {
+        "first": "清水幹治",
+        "second": "長谷川裕",
+        "crew": "三好啓太"
+    },
+    "team": {
+        "home": "秋田ノーザンハピネッツ",
+        "away": "アースフレンズ東京Z"
+    },
+    "score": {
+        "home": "81",
+        "away": "68"
+    }
+}

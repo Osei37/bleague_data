@@ -1,0 +1,27 @@
+{
+    "schedule_key": 5884,
+    "date": {
+        "season": "2020-21",
+        "month": "10.10",
+        "week": "[SAT]",
+        "setsu": "第02節",
+        "time": "17:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウカルちゃんアリーナ",
+        "attendance": "568人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "塩谷 禎",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "滋賀レイクスターズ",
+        "away": "横浜ビー・コルセアーズ"
+    },
+    "score": {
+        "home": "76",
+        "away": "84"
+    }
+}

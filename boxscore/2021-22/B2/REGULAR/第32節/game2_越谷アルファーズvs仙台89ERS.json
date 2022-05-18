@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8491,
+    "date": {
+        "season": "2021-22",
+        "month": "4.24",
+        "week": "[SUN]",
+        "setsu": "第32節",
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "越谷市立総合体育館",
+        "attendance": "2865人"
+    },
+    "referee": {
+        "first": "東 祐二",
+        "second": "内田 祥平",
+        "crew": "富樫 彰子"
+    },
+    "team": {
+        "home": "越谷アルファーズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "66",
+        "away": "75"
+    }
+}

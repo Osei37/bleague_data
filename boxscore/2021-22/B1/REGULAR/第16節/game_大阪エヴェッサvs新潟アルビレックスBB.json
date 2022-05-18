@@ -1,0 +1,27 @@
+{
+    "schedule_key": 7724,
+    "date": {
+        "season": "2021-22",
+        "month": "5.04",
+        "week": "[WED]",
+        "setsu": "第16節",
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "池田市立五月山体育館",
+        "attendance": "1078人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "宇田津 浩史",
+        "crew": "岩月 遼司"
+    },
+    "team": {
+        "home": "大阪エヴェッサ",
+        "away": "新潟アルビレックスBB"
+    },
+    "score": {
+        "home": "66",
+        "away": "73"
+    }
+}
