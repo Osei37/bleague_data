@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8755,
+    "date": {
+        "season": "2021-22",
+        "month": "5.09",
+        "week": null,
+        "setsu": null,
+        "time": "19:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "ゼビオアリーナ仙台",
+        "attendance": "2075人"
+    },
+    "referee": {
+        "first": "小澤 勤",
+        "second": "早崎 康祐",
+        "crew": "和嶋 陽一"
+    },
+    "team": {
+        "home": "仙台89ERS",
+        "away": "福島ファイヤーボンズ"
+    },
+    "score": {
+        "home": "72",
+        "away": "57"
+    }
+}

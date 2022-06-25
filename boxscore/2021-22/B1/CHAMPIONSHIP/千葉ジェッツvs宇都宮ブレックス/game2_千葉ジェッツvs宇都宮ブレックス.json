@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8736,
+    "date": {
+        "season": "2021-22",
+        "month": "5.15",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "船橋アリーナ",
+        "attendance": "4530人"
+    },
+    "referee": {
+        "first": "片寄 達",
+        "second": "北沢 岳夫",
+        "crew": "伊藤 亮介"
+    },
+    "team": {
+        "home": "千葉ジェッツ",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "70",
+        "away": "77"
+    }
+}

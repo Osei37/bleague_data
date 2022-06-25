@@ -9,3 +9,10 @@ change_ccode.py
 
 # settings
 settings.json
+
+# others
+boxscore_old/
+boxscore_tmp/
+tmp/
+log_.json
+log_tmp.json

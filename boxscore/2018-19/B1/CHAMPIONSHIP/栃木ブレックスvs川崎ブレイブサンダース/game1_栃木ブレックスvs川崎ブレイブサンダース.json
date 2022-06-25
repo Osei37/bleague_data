@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4135,
+    "date": {
+        "season": "2018-19",
+        "month": "4.26",
+        "week": null,
+        "setsu": null,
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "4523人"
+    },
+    "referee": {
+        "first": "相原伸康",
+        "second": "阿部聖",
+        "crew": "青木俊博"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "川崎ブレイブサンダース"
+    },
+    "score": {
+        "home": "87",
+        "away": "57"
+    }
+}

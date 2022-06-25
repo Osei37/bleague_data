@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8744,
+    "date": {
+        "season": "2021-22",
+        "month": "5.28",
+        "week": null,
+        "setsu": null,
+        "time": "12:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "東京体育館",
+        "attendance": "6654人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "加藤 誉樹",
+        "crew": "阿部 聖"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "61",
+        "away": "80"
+    }
+}

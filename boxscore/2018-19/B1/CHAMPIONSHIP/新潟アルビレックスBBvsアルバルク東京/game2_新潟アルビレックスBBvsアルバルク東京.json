@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4142,
+    "date": {
+        "season": "2018-19",
+        "month": "4.28",
+        "week": null,
+        "setsu": null,
+        "time": "14:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "シティホールプラザアオーレ長岡",
+        "attendance": "4835人"
+    },
+    "referee": {
+        "first": "平出剛",
+        "second": "北沢岳夫",
+        "crew": "加納康平"
+    },
+    "team": {
+        "home": "新潟アルビレックスBB",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "68",
+        "away": "71"
+    }
+}

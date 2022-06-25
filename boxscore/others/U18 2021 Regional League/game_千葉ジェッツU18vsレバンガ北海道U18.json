@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8679,
+    "date": {
+        "season": "others",
+        "month": "8.08",
+        "week": null,
+        "setsu": null,
+        "time": "16:30 TIP OFF"
+    },
+    "place": {
+        "stadium": "日環アリーナ栃木メインアリーナ",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "千葉ジェッツU18",
+        "away": "レバンガ北海道U18"
+    },
+    "score": {
+        "home": "53",
+        "away": "94"
+    }
+}

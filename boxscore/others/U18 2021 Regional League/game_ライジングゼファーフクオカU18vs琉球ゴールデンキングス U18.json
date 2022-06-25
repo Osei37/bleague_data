@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8667,
+    "date": {
+        "season": "others",
+        "month": "7.07",
+        "week": null,
+        "setsu": null,
+        "time": "16:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "おおきにアリーナ舞洲",
+        "attendance": ""
+    },
+    "referee": {
+        "first": "",
+        "second": "-",
+        "crew": "-"
+    },
+    "team": {
+        "home": "ライジングゼファーフクオカU18",
+        "away": "琉球ゴールデンキングス U18"
+    },
+    "score": {
+        "home": "81",
+        "away": "73"
+    }
+}

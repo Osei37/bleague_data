@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1325,
+    "date": {
+        "season": "2016-17",
+        "month": "5.13",
+        "week": null,
+        "setsu": null,
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ウィングアリーナ刈谷",
+        "attendance": "2742人"
+    },
+    "referee": {
+        "first": "東祐二",
+        "second": "佐藤誠",
+        "crew": "細田知宏"
+    },
+    "team": {
+        "home": "シーホース三河",
+        "away": "琉球ゴールデンキングス"
+    },
+    "score": {
+        "home": "76",
+        "away": "72"
+    }
+}

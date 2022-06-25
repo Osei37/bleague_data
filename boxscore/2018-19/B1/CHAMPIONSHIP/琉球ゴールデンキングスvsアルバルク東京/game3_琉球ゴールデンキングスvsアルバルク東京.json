@@ -1,0 +1,27 @@
+{
+    "schedule_key": 4149,
+    "date": {
+        "season": "2018-19",
+        "month": "5.07",
+        "week": null,
+        "setsu": null,
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄市体育館",
+        "attendance": "3691人"
+    },
+    "referee": {
+        "first": "加藤誉樹",
+        "second": "相原伸康",
+        "crew": "大河原則人"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "60",
+        "away": "72"
+    }
+}
