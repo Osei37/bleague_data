@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1331,
+    "date": {
+        "season": "2016-17",
+        "month": "5.20",
+        "week": null,
+        "setsu": null,
+        "time": "13:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "3920人"
+    },
+    "referee": {
+        "first": "小澤勤",
+        "second": "緒方崇",
+        "crew": "地頭薗 剛"
+    },
+    "team": {
+        "home": "栃木ブレックス",
+        "away": "シーホース三河"
+    },
+    "score": {
+        "home": "83",
+        "away": "68"
+    }
+}

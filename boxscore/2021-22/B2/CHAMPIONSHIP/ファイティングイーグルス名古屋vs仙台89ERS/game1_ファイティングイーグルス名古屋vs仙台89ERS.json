@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8768,
+    "date": {
+        "season": "2021-22",
+        "month": "5.20",
+        "week": null,
+        "setsu": null,
+        "time": "18:45 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "890人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "堀内 純",
+        "crew": "久保 知仁"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "81",
+        "away": "73"
+    }
+}

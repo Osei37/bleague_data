@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8747,
+    "date": {
+        "season": "2021-22",
+        "month": "5.06",
+        "week": null,
+        "setsu": null,
+        "time": "18:45 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市枇杷島スポーツセンター",
+        "attendance": "681人"
+    },
+    "referee": {
+        "first": "伊藤 亮介",
+        "second": "高城 邦弘",
+        "crew": "高野 晃平"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "越谷アルファーズ"
+    },
+    "score": {
+        "home": "113",
+        "away": "63"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "schedule_key": 1330,
+    "date": {
+        "season": "2016-17",
+        "month": "5.20",
+        "week": null,
+        "setsu": null,
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4608人"
+    },
+    "referee": {
+        "first": "片寄達",
+        "second": "東祐二",
+        "crew": "平原勇次"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "26",
+        "away": "18"
+    }
+}

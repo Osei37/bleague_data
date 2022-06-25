@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6935,
+    "date": {
+        "season": "2020-21",
+        "month": "5.14",
+        "week": null,
+        "setsu": null,
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "ブレックスアリーナ宇都宮",
+        "attendance": "2201人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "加納 康平",
+        "crew": "早崎 康祐"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "サンロッカーズ渋谷"
+    },
+    "score": {
+        "home": "92",
+        "away": "84"
+    }
+}

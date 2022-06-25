@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8731,
+    "date": {
+        "season": "2021-22",
+        "month": "5.16",
+        "week": null,
+        "setsu": null,
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "松江市総合体育館",
+        "attendance": "3307人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "東 祐二",
+        "crew": "青木 俊博"
+    },
+    "team": {
+        "home": "島根スサノオマジック",
+        "away": "アルバルク東京"
+    },
+    "score": {
+        "home": "80",
+        "away": "62"
+    }
+}

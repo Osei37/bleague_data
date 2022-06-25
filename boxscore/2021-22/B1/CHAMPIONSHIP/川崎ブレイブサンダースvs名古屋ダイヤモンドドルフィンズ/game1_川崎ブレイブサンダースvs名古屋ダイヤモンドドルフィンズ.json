@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8732,
+    "date": {
+        "season": "2021-22",
+        "month": "5.14",
+        "week": null,
+        "setsu": null,
+        "time": "18:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "3759人"
+    },
+    "referee": {
+        "first": "加藤 誉樹",
+        "second": "久保 裕紀",
+        "crew": "佐藤 誠"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "名古屋ダイヤモンドドルフィンズ"
+    },
+    "score": {
+        "home": "97",
+        "away": "71"
+    }
+}

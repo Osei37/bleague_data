@@ -1,0 +1,27 @@
+{
+    "schedule_key": 6953,
+    "date": {
+        "season": "2020-21",
+        "month": "5.29",
+        "week": null,
+        "setsu": null,
+        "time": "15:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "横浜アリーナ",
+        "attendance": "4678人"
+    },
+    "referee": {
+        "first": "漆間 大吾",
+        "second": "加藤 誉樹",
+        "crew": "阿部 聖"
+    },
+    "team": {
+        "home": "宇都宮ブレックス",
+        "away": "千葉ジェッツ"
+    },
+    "score": {
+        "home": "65",
+        "away": "85"
+    }
+}

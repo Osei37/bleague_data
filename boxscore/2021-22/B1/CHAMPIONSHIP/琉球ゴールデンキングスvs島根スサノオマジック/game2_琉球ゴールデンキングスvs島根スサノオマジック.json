@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8739,
+    "date": {
+        "season": "2021-22",
+        "month": "5.22",
+        "week": null,
+        "setsu": null,
+        "time": "19:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "8309人"
+    },
+    "referee": {
+        "first": "久保 裕紀",
+        "second": "有澤 重行",
+        "crew": "小澤 勤"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "島根スサノオマジック"
+    },
+    "score": {
+        "home": "72",
+        "away": "70"
+    }
+}

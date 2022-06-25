@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8742,
+    "date": {
+        "season": "2021-22",
+        "month": "5.22",
+        "week": null,
+        "setsu": null,
+        "time": "16:05 TIP OFF"
+    },
+    "place": {
+        "stadium": "川崎市とどろきアリーナ",
+        "attendance": "4969人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "平原 勇次",
+        "crew": "大野 太裕"
+    },
+    "team": {
+        "home": "川崎ブレイブサンダース",
+        "away": "宇都宮ブレックス"
+    },
+    "score": {
+        "home": "73",
+        "away": "77"
+    }
+}
