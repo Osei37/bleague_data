@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8726,
+    "date": {
+        "season": "2021-22",
+        "month": "5.13",
+        "week": null,
+        "setsu": null,
+        "time": "19:35 TIP OFF"
+    },
+    "place": {
+        "stadium": "沖縄アリーナ",
+        "attendance": "5680人"
+    },
+    "referee": {
+        "first": "平出 剛",
+        "second": "堀内 純",
+        "crew": "細田 知宏"
+    },
+    "team": {
+        "home": "琉球ゴールデンキングス",
+        "away": "秋田ノーザンハピネッツ"
+    },
+    "score": {
+        "home": "74",
+        "away": "60"
+    }
+}

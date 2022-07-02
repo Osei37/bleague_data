@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8763,
+    "date": {
+        "season": "2021-22",
+        "month": "5.14",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市香川総合体育館",
+        "attendance": "1277人"
+    },
+    "referee": {
+        "first": "大河原 則人",
+        "second": "上田 信彦",
+        "crew": "眞榮喜 工"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "仙台89ERS"
+    },
+    "score": {
+        "home": "75",
+        "away": "65"
+    }
+}

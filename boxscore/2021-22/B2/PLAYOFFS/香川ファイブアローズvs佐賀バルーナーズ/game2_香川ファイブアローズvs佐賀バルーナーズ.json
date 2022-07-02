@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8757,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": null,
+        "setsu": null,
+        "time": "13:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "高松市総合体育館",
+        "attendance": "1230人"
+    },
+    "referee": {
+        "first": "青木 俊博",
+        "second": "中川 行臣",
+        "crew": "市川 雄介"
+    },
+    "team": {
+        "home": "香川ファイブアローズ",
+        "away": "佐賀バルーナーズ"
+    },
+    "score": {
+        "home": "105",
+        "away": "94"
+    }
+}
