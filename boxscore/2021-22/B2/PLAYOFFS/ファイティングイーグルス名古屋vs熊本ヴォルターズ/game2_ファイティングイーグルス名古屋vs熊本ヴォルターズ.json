@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8760,
+    "date": {
+        "season": "2021-22",
+        "month": "5.14",
+        "week": null,
+        "setsu": null,
+        "time": "15:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "名古屋市中村スポーツセンター",
+        "attendance": "1206人"
+    },
+    "referee": {
+        "first": "阿部 聖",
+        "second": "加納 康平",
+        "crew": "小澤 勤"
+    },
+    "team": {
+        "home": "ファイティングイーグルス名古屋",
+        "away": "熊本ヴォルターズ"
+    },
+    "score": {
+        "home": "79",
+        "away": "64"
+    }
+}

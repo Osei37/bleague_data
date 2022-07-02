@@ -1,0 +1,27 @@
+{
+    "schedule_key": 8750,
+    "date": {
+        "season": "2021-22",
+        "month": "5.07",
+        "week": null,
+        "setsu": null,
+        "time": "17:00 TIP OFF"
+    },
+    "place": {
+        "stadium": "熊本県立総合体育館",
+        "attendance": "1217人"
+    },
+    "referee": {
+        "first": "宇田津 浩史",
+        "second": "細田 知宏",
+        "crew": "岩井 遥河"
+    },
+    "team": {
+        "home": "熊本ヴォルターズ",
+        "away": "西宮ストークス"
+    },
+    "score": {
+        "home": "85",
+        "away": "77"
+    }
+}

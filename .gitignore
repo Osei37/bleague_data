@@ -10,6 +10,10 @@ change_ccode.py
 # settings
 settings.json
 
+# DB
+csv2db.py
+team_id.json
+
 # others
 boxscore_old/
 boxscore_tmp/
